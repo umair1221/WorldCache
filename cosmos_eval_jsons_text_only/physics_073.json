@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_073",
+  "prompt": "A high-definition video captures the playful interaction between two polar bears in a snowy enclosure. The background features a snow-covered ground and a blue wall with a hexagonal pattern, indicating a controlled habitat. One polar bear stands on a small snowy platform, while the other is partially submerged in water. The bear on land appears to be observing or gently interacting with the other bear, which is playfully splashing and moving around in the water. As the sequence progresses, the bear in the water becomes more active, creating splashes and ripples in the water. The bear on land remains mostly stationary, occasionally shifting its stance slightly. The overall atmosphere suggests a moment of playful behavior typical of these animals in a controlled environment. By the final frame, the bear in the water continues to move around, raising its front paws and splashing the water, while the bear on land maintains its position on the snowy platform, observing the playful movements of its companion."
+}

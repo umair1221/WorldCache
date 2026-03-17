@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_036",
+  "prompt": "A dynamic padel match unfolds on a vibrant green artificial turf court, enclosed by a high green mesh fence, with a backdrop of trees and buildings under a clear sky. Two players are engaged in the game; one, wearing a gray hoodie and blue shorts, is positioned at the baseline, preparing to return the ball. The other player, dressed in a blue shirt and black shorts, stands near the net, holding a paddle and anticipating the next move. The ball is in mid-air, heading towards the player in the gray hoodie, who is in the process of swinging his racket to make contact. As the sequence progresses, the player in the gray hoodie completes his swing, following through with the racket extended behind him. The opponent remains stationary near the net, observing the play. The scene concludes with the player in the gray hoodie finishing his movement, while the opponent continues to stand alert, ready for the next shot. A medium shot captures the action from a slightly elevated perspective, emphasizing the players' movements and the vibrant court setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_036.jpg"
+}

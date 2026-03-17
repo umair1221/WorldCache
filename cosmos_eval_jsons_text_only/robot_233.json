@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_233",
+  "prompt": "A high-definition video captures the meticulous operation of a CNC machine in a well-lit workshop. The machine, with its sleek metallic frame and vertical column, is shown in action as it precisely drills into a piece of wood placed on a flat surface. The gantry, providing linear movement, ensures the drill bit maintains a steady path across the wood. The wood, marked with a rectangular cutout, evidences the progress of the machining process. The surrounding area is filled with various tools and equipment, indicating a dedicated milling environment. The camera remains stationary, offering a clear view of the CNC machine and the wood as the drill bit continues its steady motion, completing the cutting task. The lighting highlights the precision of the machine and the smooth texture of the wood."
+}

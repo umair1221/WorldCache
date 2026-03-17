@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_d6a0750d-3ae4-44b0-b8f3-1e3c5928d825",
+  "prompt": "The video showcases a series of chocolate bars arranged on a clean, white surface. The sequence begins with a close-up, high-angle shot that pans right, revealing multiple rows of neatly aligned chocolate bars. The camera starts with a single chocolate bar prominently displayed in the foreground, with its glossy, dark brown surface and uniform square segments clearly visible. As the camera moves, another row of similar bars appears to the right, with one end of each bar extending diagonally across the frame. The background features a blurred second row of chocolate bars, adding depth to the composition.  The camera continues to pan and then zoom in, focusing on the intricate details of the main chocolate bar. The embossed lettering on the top of the bar becomes the central focus, highlighting the artisanal craftsmanship. The lighting is soft and diffused, coming from an overhead source, which enhances the reflective quality of the chocolate's surface. The white background contrasts beautifully with the rich brown tones of the chocolate, emphasizing its smooth and polished texture. The camera movement is deliberate and steady, ensuring that the viewer can appreciate the meticulous design and quality of the chocolate bars.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_d6a0750d-3ae4-44b0-b8f3-1e3c5928d825.jpg"
+}

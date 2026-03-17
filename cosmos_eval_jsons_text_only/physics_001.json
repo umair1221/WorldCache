@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_001",
+  "prompt": "A minimalist indoor setting features a plain white wall as the backdrop. Centered on a wooden table is an open black fabric box with a textured pattern, standing upright. Suspended above the box by an orange grabber is a yellow rubber ducky, initially at rest. The scene remains static for several frames, building anticipation. The ducky is then released, falling freely towards the box. The ducky eventually lands inside the box, creating a satisfying conclusion to the sequence. A medium shot captures the entire action from a slightly elevated perspective."
+}

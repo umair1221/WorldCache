@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_4730f45b-1833-4f29-ac60-86fae649985c",
+  "prompt": "A rustic outdoor cooking scene unfolds under natural daylight, with a black cast-iron frying pan placed directly on a bed of glowing embers and white ashes. The pan contains a bubbling, red, puree-like liquid with partially submerged ingredients, creating a rich and inviting atmosphere. A hand clad in a frayed sleeve holds a large cleaver, skillfully stirring and flipping the contents of the pan with quick, controlled movements. The background showcases a mix of soft natural lighting and the warm glow from the flames, with leaves of various shades of brown scattered on the ground to the right and green vegetation to the left. Vertical tree trunks stand out against the foliage, adding depth to the scene. The camera captures a high-angle, full shot of the skillet, providing an immersive view of the cooking process amidst the serene forest setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_4730f45b-1833-4f29-ac60-86fae649985c.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_148",
+  "prompt": "A group of young people runs and skateboards through a dimly lit indoor corridor, their movements fluid and energetic. The walls are plain and show signs of wear, with some discoloration and minor damage. The floor is a smooth, polished surface, reflecting the overhead fluorescent lights that cast a cool, somewhat harsh glow. The ceiling is low, with a simple, rectangular light fixture illuminating the space. In the foreground, a person in a purple jacket and denim shorts is running, their legs moving quickly and their body leaning forward. Behind them, another individual in a white hoodie and pink shorts is also running, her hair bouncing with each step. Further back, a skateboarder in a blue shirt and black pants is crouched low on their board, gently weaving in and out. They run past a person standing still with their back to the wall. The camera follows from behind, capturing the fluid motion and the blurred background as the group moves deeper into the tunnel. The scene conveys a sense of urgency and energy, with the group navigating the space with ease and coordination. As the video progresses, the group continues their dynamic movement through the corridor, maintaining their pace and direction. The final frame shows the group still running and skateboarding, with the same individuals in the same positions, emphasizing the continuous and unbroken flow of their activity.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_148.jpg"
+}

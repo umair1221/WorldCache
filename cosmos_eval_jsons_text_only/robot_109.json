@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_109",
+  "prompt": "The video opens with a first-person view of a robot standing in a narrow hallway or corridor, likely within a laboratory or industrial setting. The walls are painted white, and the floor is tiled. A prominent feature in the scene is a black electrical outlet or control panel mounted on the wall, accompanied by a red and white instructional poster above. The robot, in white and black parts, has both hands extended forward, each holding a tool or device. The left hand is positioned lower, while the right moves upwards, approaching the electrical outlet. The robot's shadow is cast on the wall in front of it, indicating a light source from behind. As the sequence progresses, the right hand reaches out further, aligning the tool with the outlet, suggesting an intention to plug in or interact with the electrical outlet. By the final frame, the right hand is positioned directly over the outlet, poised to act. The hand then presses a component over the panel and moves back to its resting position.  A medium shot from a slightly elevated perspective captures the robot's interaction with the electrical outlet. The scene emphasizes the precision and deliberate movements of the robot's hand, highlighting the intricate details of the tools and the outlet. The background remains consistent, with the instructional poster and the tiled floor providing context to the setting."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_2812731-hd_1920_1080_30fps",
+  "prompt": "A serene coastal scene unfolds at dusk, where the sky transitions from soft pink to deep blue, marking the end of the day. In the foreground, a small, weathered rowboat gently sways on the water, tethered by a rope to the rocky shore. The boat's dark hull contrasts with the lighter interior, and it appears slightly worn, hinting at years of use. To the right, a larger, sturdy fishing vessel is docked on the rocks, its robust structure standing out against the tranquil waters. In the background, faint silhouettes of distant hills and scattered lights suggest the presence of a town or village, adding depth and tranquility to the scene. The overall atmosphere is peaceful and quiet, with no significant actions or changes occurring among the objects. The rowboat remains stationary, swaying slightly with the gentle waves, while the larger vessel on the shore stays still. The scene maintains its serene and tranquil state throughout the video, with no new objects appearing or actions taking place."
+}

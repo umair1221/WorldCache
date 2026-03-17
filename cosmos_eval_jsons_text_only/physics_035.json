@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_035",
+  "prompt": "The video begins with a static shot of a small white lampshade with a textured, speckled finish, resting on a light wood surface, likely a table or desk. The lampshade is positioned centrally in the frame, serving as a static reference point. In the background, a blurred yellow couch or cushion adds depth to the scene. To the left of the lampshade, a black cylindrical object, possibly a lamp base or another piece of furniture, is partially visible. The lighting is soft and even, suggesting an indoor setting with ambient light. As the video progresses, a grey tennis ball rolls out of the black tube on the left side of the frame and moves smoothly across the wooden surface towards the right. The lampshade remains stationary throughout the video, emphasizing its stillness against the dynamic motion of the tennis ball. By the final frame, the tennis ball has rolled off the edge of the frame, leaving the lampshade and the rest of the scene unchanged."
+}

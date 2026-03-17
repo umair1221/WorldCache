@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3105317-hd_1920_1080_24fps",
+  "prompt": "A close-up shot captures a tree branch adorned with autumn leaves in vibrant hues of orange, yellow, and hints of red. The leaves, attached to slender branches that extend outward, create a textured and layered composition. The background is softly blurred, featuring more foliage in muted greens and yellows, which enhances the focus on the vividly colored leaves in the foreground. The leaves gently sway in the breeze, their edges fluttering slightly, indicating a light wind. The camera remains steady throughout, capturing the subtle movements of the leaves as they maintain their colorful display. The scene concludes with the same tranquil image of the swaying leaves, emphasizing the serene beauty of the autumn landscape."
+}

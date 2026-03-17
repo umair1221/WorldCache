@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_016",
+  "prompt": "A static shot captures a wooden table against a plain white background. At the center of the table stands a bright yellow rubber duck, facing forward with its beak pointing straight ahead. Flanking the rubber duck are two rows of alternating black and white dominoes, neatly aligned in a straight line. To the right of the rightmost row of dominoes, a black circular object with a protruding stick is visible, attached to a rotating platform spinning clockwise. As the video progresses, the rotating platform's stick strikes the first domino block, initiating a domino effect. The dominoes fall sequentially in a chain reaction, with the rubber duck remaining stationary amidst the falling dominoes. The video concludes with all the right set of dominoes knocked over, leaving the rubber duck undisturbed in the center of the fallen dominoes.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_016.jpg"
+}

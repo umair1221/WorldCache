@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_083",
+  "prompt": "A live NBA game between the Golden State Warriors (GS) and the San Antonio Spurs (SA) is captured on ESPN, set in a bustling arena filled with enthusiastic fans. The scoreboard shows GS trailing SA 11-17 in the first quarter with 4:03 remaining. A technical foul has been called on Steve Kerr, the Warriors' head coach. The San Antonio Spurs logo is prominently displayed at center court, where players from both teams are strategically positioned. A player in a gray jersey dribbles the ball while being closely guarded by a player in a blue jersey, attempting to navigate past him. Other players from both teams are positioned around the perimeter, ready to react. The video highlights the dynamic movement of the players as they engage in the game, with the scoreboard updating slightly to reflect the Spurs' lead. The camera captures the intensity of the moment, focusing on the interaction between the two key players and the surrounding action on the court."
+}

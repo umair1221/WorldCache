@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_189",
+  "prompt": "A wide shot of an outdoor ice skating rink set against a backdrop of snow-covered mountains under a bright blue sky. The rink is surrounded by leafless trees and string lights strung between poles. In the distance, an area filled with parked vehicles is visible. A few individuals are seen slowly moving near the left side of the rink, dressed warmly, possibly preparing to skate or taking a momentary pause. As the video progresses, a person wearing a helmet, skating shoes, and casual clothing enters the frame from the right, gliding smoothly across the ice. They move from right to left, maintaining a relaxed posture and steady pace. The skater's shadow stretches across the ice, appearing taller than the skater and indicating the sun's position. The scene remains the same throughout, with the skater continuing their leisurely glide until they exit the frame towards the left. The final frame captures the rink empty except for the few individuals who remain almost stationary and a new person skating in from the left side, with the parking lot and mountains still prominently featured in the background.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_189.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_125",
+  "prompt": "The video opens with a view of a controlled, indoor environment, likely a laboratory or workshop, featuring a metallic conveyor belt system. At the center of the frame is a rectangular gray container with a mesh-like texture, positioned on the conveyor belt. To the right, there is a flat orange surface holding several small metallic objects. Two robotic arms, each equipped with grippers, are positioned symmetrically on either side of the container, ready for operation. The left robotic arm remains stationary throughout the video. The robotic arm on the right extends its gripper, picks up one of the metallic objects from the rectangular structure, and moves it towards the container. The gripper places the object inside the container, securing it in place. The robotic arm then retracts, completing the action. The final frame shows the container now containing the metallic object, while the other robotic arm remains in its initial position, ready for further tasks.  A medium shot captures the precise and methodical movements of the robotic arms within a clean, industrial setting. The metallic conveyor belt and the structured environment emphasize the precision and efficiency of the automated process.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_125.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_169",
+  "prompt": "The video opens with a close-up view of an ice cube placed on top of a clear glass. The ice cube is initially intact, sitting atop the rim of the glass. The glass is transparent, with a smooth, polished surface that reflects light, and it appears to be made of a thick material, possibly glass or crystal. The ice cube itself is irregularly shaped, with a rough, textured surface that reflects light, giving it a slightly translucent quality. The background is consistently dark, which helps to emphasize the clarity and transparency of both the ice and the glass. The lighting is focused on the ice cube and the glass, casting soft shadows and highlighting the contrast between the bright, melting ice and the dark surroundings. As time progresses, the ice begins to melt from its edges, gradually spreading inward. The edges become rounded, and the texture of the ice changes, losing its sharpness. By the end of the sequence, most of the ice has melted, leaving behind a small, irregularly shaped piece at the center of the glass. The background remains consistently dark, and the lighting continues to highlight the texture of the ice and the smooth surface of the glass, maintaining a visually striking contrast throughout the video."
+}

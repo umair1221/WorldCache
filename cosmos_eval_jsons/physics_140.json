@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_140",
+  "prompt": "A close-up view of a ceramic mug filled with a steaming beverage, likely coffee or tea, set against a stark black background. The mug is positioned slightly off-center, with its handle pointing towards the right side of the frame. The steam rises gracefully from the mug, swirling gently upwards and to the side, creating a dynamic and visually appealing effect. The lighting is focused on the mug, highlighting its smooth surface and the contrast between the white ceramic and the dark background. The steam's movement is fluid and continuous, suggesting the warmth and freshness of the drink. The overall atmosphere is one of tranquility and comfort, evoking a sense of warmth and relaxation. The video maintains a consistent angle throughout, emphasizing the simplicity and elegance of the scene. The scene remains static, with no changes in the position or appearance of the mug or the steam, ensuring the viewer's focus remains entirely on the mug and the steam.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_140.jpg"
+}

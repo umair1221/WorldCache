@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_222",
+  "prompt": "The video opens with a woman with curly red hair, dressed in a white blouse and a brown apron, diligently working on a blank canvas placed on a wooden easel within an art studio. The studio is cluttered with various art supplies and completed paintings displayed on shelves and hanging on the walls. The woman's hand moves methodically across the canvas, suggesting she is in the process of sketching using a black drawing utensil. The camera captures her focused expression as she leans slightly forward, her concentration evident. The background reveals a busy yet creative space filled with artistic tools and finished artworks, adding depth to the scene. By the final frame, the woman raises her hands in the air, fingers splayed, as if expressing a moment of realization or inspiration. The video maintains a steady, intimate perspective, emphasizing the artist's dedication and the vibrant atmosphere of the studio."
+}

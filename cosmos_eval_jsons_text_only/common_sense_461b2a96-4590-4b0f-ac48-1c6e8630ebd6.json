@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_461b2a96-4590-4b0f-ac48-1c6e8630ebd6",
+  "prompt": "The video captures a sequence of hand movements as a person works with dough on a smooth, light-colored, marbled countertop. The scene begins with an overhead view of the workspace, where pre-cut dough pieces are scattered, including some arranged in a neat grid and others loosely placed. A wooden rolling pin and a pastry scraper rest nearby, slightly dusted with flour. The camera then transitions to a closer view of the hands, which enter the frame from the top right side. The person uses their left thumb to press a beige dough piece into a green dough segment, combining the two. The right hand closes around the dough, pressing it firmly, while the left hand supports it from below. The person continues to shape the dough, rotating and rolling it to form a smooth, rounded ball. The fingers move efficiently, adjusting the dough as it is gently rolled and pressed to achieve a uniform shape. Shadows from the person\u2019s hands and tools are visible on the countertop, adding depth to the scene. The background showcases the natural veining of the marbled surface, giving the workspace a clean, polished look. The lighting is soft and even, highlighting the smooth texture of the dough and the subtle flour dusting on the tools and countertop. The camera remains static, emphasizing the hands and their precise movements throughout the process."
+}

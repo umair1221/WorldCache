@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_130",
+  "prompt": "The video opens with a first-person perspective, showcasing a pair of white and black robotic hands and a partially visible body with wheels positioned over a flat concrete floor in an indoor workspace. The setting includes white walls and multiple metal tables with a grid-like structure, one of which holds a black box. A person dressed in casual attire is seen bending down and then standing up, remaining in the same position throughout the sequence. On the floor, two small circular bowls, one green and one white, are placed; the green bowl is near the left wheel of the robot, while the white bowl is farther away.  As the video progresses, the person in the background bends down near the table, possibly to pick something up, but then stands back up. Meanwhile, the robotic arms move toward the floor, and the arm on the left of the frame picks up the green bowl. By the final frame, the person has stood up, and the scene retains its initial layout with minimal changes, except for the green bowl, which is now securely held in the left side robotic arm. The background remains consistent, with the metal tables and the black box still in place.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_130.jpg"
+}

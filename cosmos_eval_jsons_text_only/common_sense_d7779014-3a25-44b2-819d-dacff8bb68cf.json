@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_d7779014-3a25-44b2-819d-dacff8bb68cf",
+  "prompt": "A close-up shot captures a vibrant and appetizing meal served in a white bowl, set against a patterned gray surface. The focal point is the dish, which consists of three distinct components: a bed of chopped leafy greens on the left, a hearty stew in the center, and a scoop of mashed avocado on top. The stew is rich and colorful, containing chunks of orange carrots, green celery, and small, light-colored beans, all melded together in a thick, red-brown sauce. The leafy greens are a mix of darker and lighter hues of green, providing a fresh contrast to the stew. The mashed avocado, bright yellowish-green and creamy, sits atop the stew, adding a smooth texture to the dish. The camera angle is slightly elevated, offering a clear view of the textures and colors of the food. The lighting highlights the details, casting subtle shadows on the lower right side of the bowl and reflecting brightly on the top edge. The background remains out of focus, emphasizing the stationary dish and the random camera movements that capture the intricate details of the meal."
+}

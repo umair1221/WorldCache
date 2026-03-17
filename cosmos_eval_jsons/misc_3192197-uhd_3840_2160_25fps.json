@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3192197-uhd_3840_2160_25fps",
+  "prompt": "A wide-angle shot captures a volcanic eruption, showcasing a large plume of ash and smoke continuously rising from the summit of a volcano. The volcano's steep slopes are partially covered with green vegetation, while other areas reveal bare rock. The ash cloud expands as it ascends, partially obscuring the upper part of the mountain. The surrounding landscape features a mix of trees and open land, indicating a rural setting. The sky is overcast, adding to the dramatic and tense atmosphere of the scene. The camera remains stationary throughout the video, focusing on the steady and continuous eruption, with the ash cloud gradually spreading higher into the sky. By the final frame, the ash cloud has expanded further, dominating the upper portion of the volcano and continuing to rise, maintaining the same intensity and scale as at the beginning.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_3192197-uhd_3840_2160_25fps.jpg"
+}

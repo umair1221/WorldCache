@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_15410300-1cb3-47b5-a005-0cb4a909ea27",
+  "prompt": "A man treks through a picturesque mountainous landscape, walking along a gravel path that runs parallel to a flowing river. He is dressed in a dark green long-sleeve top and bright blue pants, carrying a large black backpack with a red rope tucked under the top flap. A long blue object with a metallic-looking pointed top is strapped in the center of the backpack, and two cylindrical brown, black, and white objects, resembling walking poles, are secured on the sides. The man, with short brown hair and sunglasses perched on his head, walks forward casually, occasionally glancing to his left as he progresses. The path meanders gently, leading toward distant snow-capped peaks under a clear blue sky dotted with fluffy white clouds. Lush greenery and scattered trees line the path, while the flowing river on the right is lower than the trail, with a short, steep, rocky bank visible. Bright natural lighting illuminates the scene, highlighting the man and the stunning surroundings. The camera follows the individual from behind, capturing both his movement and the breathtaking natural splendor. This scene is captured in a medium shot at eye level, emphasizing the serene and adventurous atmosphere.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_15410300-1cb3-47b5-a005-0cb4a909ea27.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_075",
+  "prompt": "The video opens with a scene set on a clean, white table in a modern indoor space, likely a kitchen or dining area. The table holds various items: a clear glass jar filled with oats, a white bowl containing a spoon, a bottle, a kettle, and a small bowl with what appears to be fruit pieces. In the background, there is a brown couch with two cushions. Two robotic arms, one on each side of the table, are positioned near the white bowl with a spoon. The robotic arm on the right moves down to grasp the spoon while the left one remains in its position. By the final frame, the robotic arm is successfully holding the spoon. A medium shot captures the robotic arms interacting with the bowl and spoon, emphasizing their precision and coordination.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_075.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_087",
+  "prompt": "A dynamic medium shot captures the first quarter of a basketball game between Iran and Japan, with 8:43 remaining on the clock. The polished wooden court features a blue center circle and white markings for free throw lines and key areas. Players from both teams are actively engaged, with Iran in black uniforms and Japan in white jerseys with red accents. The scoreboard shows Iran leading Japan 2-4. Advertisements for brands like Nike, molten, TCL, and Tissot line the sidelines and backboard area, adding to the commercial atmosphere. Spectators fill the tiered stands, creating a lively backdrop.  In the foreground, a player in a white jersey dribbles the ball while being closely guarded by a player in a black uniform. The player in white attempts to maneuver past his defender but is met with resistance. Other players position themselves strategically, preparing for potential rebounds or passes. The scoreboard updates slightly, reflecting the ongoing action and the changing dynamics of the game. The camera angle provides a clear view of the players' movements and the intensity of the competition, capturing the essence of the match.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_087.jpg"
+}

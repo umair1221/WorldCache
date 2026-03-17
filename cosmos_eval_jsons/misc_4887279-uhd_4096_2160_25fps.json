@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4887279-uhd_4096_2160_25fps",
+  "prompt": "A close-up shot captures a field of vibrant purple lupine flowers swaying gently in the breeze. The foreground is filled with delicate blooms, their slender stems and small, clustered flowers creating a textured carpet of color. The background features a blurred expanse of similar flowers extending towards a distant horizon, where a line of trees stands against a bright blue sky dotted with fluffy white clouds. The scene is serene and picturesque, emphasizing the natural beauty and tranquility of the setting. The camera slowly pans across the field, capturing the gentle movement of the flowers and the expansive, peaceful landscape. The video maintains a consistent, tranquil ambiance throughout, with no significant actions or new objects introduced.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_4887279-uhd_4096_2160_25fps.jpg"
+}

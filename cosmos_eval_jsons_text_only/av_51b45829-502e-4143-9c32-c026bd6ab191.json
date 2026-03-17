@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_51b45829-502e-4143-9c32-c026bd6ab191",
+  "prompt": "A nighttime scene viewed from the top of a vehicle captures the hood of the car in the foreground. The road ahead is illuminated by streetlights, casting a soft glow over the asphalt. The ego vehicle comes to a stop next to a white RV, which goes off the screen. Across the road, beyond the road median, a red car is seen driving away into the distance. A one-way sign is visible under the ego vehicle's headlights. The surroundings include trees and other houses, suggesting a suburban neighborhood. The sky is dark, indicating it is late at night, and the overall atmosphere is quiet and calm. As the video progresses, the scene remains largely static, with no significant changes in the environment. The white RV on the right side of the ego vehicle remains stationary, and the red car continues to drive away into the distance. The streetlights continue to illuminate the road, and the trees and houses in the background remain unchanged. The overall scene maintains its tranquil nighttime setting without any notable movements or new objects entering the frame. The ego vehicle carefully makes a right turn at the t-intersection, and by the final frame, the scene is consistent with the initial one, depicting the same quiet suburban street under the night sky."
+}

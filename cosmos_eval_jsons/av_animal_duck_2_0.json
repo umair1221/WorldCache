@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_animal_duck_2_0",
+  "prompt": "The video begins with a wide-angle view from inside a vehicle, capturing a parking lot scene. The foreground shows part of the dashboard, indicating the camera is mounted within the car. In the center of the exit area of the parking lot, a group of approximately 15 geese gather together, slowly moving from right to left. The area is bordered by trees and shrubs, with a mix of greenery and paved surfaces. Several cars are parked along the road, including a white sedan near the center and a black SUV further back. To the left, there's a yellow road sign. In the background, there are buildings. The sky is overcast, casting a soft light over the entire scene. The ego vehicle is slowly moving forward to wait for the geese to pass. The video captures the serene interaction between the geese and the urban environment, emphasizing the gentle movement of the birds against the backdrop of a typical parking lot setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_animal_duck_2_0.jpg"
+}

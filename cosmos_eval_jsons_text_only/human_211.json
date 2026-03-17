@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_211",
+  "prompt": "A medium shot captures a man dressed as Santa Claus, complete with a red suit, white trim, and a Santa hat, dancing joyfully in a warmly lit living room. The room features a window with white shutters in the background, and two Christmas trees are prominently displayed: one adorned with silver and gold ornaments, and the other decorated with colorful baubles and yellow lights. The man, wearing large black headphones, moves rhythmically, his hands gesturing expressively. His facial expressions shift, with his eyes closed and eyebrows scrunched up, conveying a sense of playful enjoyment. The video has a cozy, festive atmosphere, enhanced by the soft lighting and the cheerful decorations."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_147",
+  "prompt": "A muscular man in a gym setting practices boxing. He is shirtless, wearing black shorts and black boxing gloves with a red logo on them, positioned near a row of black punching bags labeled \"FIGHTBRO.\" The gym has a modern design with white floors, gray walls, and large windows allowing ample natural light. A photograph can be seen stuck to the window, and one of the punching bags behind the wall is moving back and forth. The man starts by standing still, then raises his right leg to perform a high kick aimed at one of the bags. After landing the kick, he returns to a standing position, kicks the bag with his left leg, and begins throwing a series of punches towards another bag. His movements are deliberate and controlled, showcasing his training and focus. The camera remains stationary throughout the video. The scene concludes with the punching bag striking him behind his head after he throws a spinning elbow strike at it, demonstrating his dedication and skill in boxing."
+}

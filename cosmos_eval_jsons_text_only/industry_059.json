@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_059",
+  "prompt": "A static shot captures an oil pumpjack in action within a fenced area, set against a backdrop of dense greenery and a partly cloudy sky. The pumpjack, painted in yellow, blue, red, and black, moves rhythmically up and down, its mechanism clearly visible. To the left of the pumpjack, a small structure, possibly for control equipment or storage, stands near a red fire extinguisher mounted on the fence, highlighting safety measures. The ground around the pumpjack is covered with gravel, typical of industrial settings. The surrounding environment includes tall trees and bushes, suggesting a rural or semi-rural location. Sunlight filters through the clouds, casting soft shadows across the scene. The video maintains a consistent focus on the pumpjack's steady operation, with no significant changes in its position or speed, and the surrounding environment remains static throughout."
+}

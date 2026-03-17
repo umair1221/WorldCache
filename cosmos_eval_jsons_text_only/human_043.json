@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_043",
+  "prompt": "A close-up view captures a person's hands engaged in a culinary task at a wooden countertop. Dressed in a white shirt, the individual is seen squeezing a white cloth over a small white bowl positioned centrally in the frame. The background reveals a stovetop with a frying pan containing cooked corn kernels, and a wooden spoon rests on the stovetop, indicating prior cooking activity. The person's hands work methodically, applying pressure to the cloth to extract a thin, viscous liquid that drips into the bowl below. The liquid appears to be a clear or light-colored substance, possibly oil or broth. The scene progresses smoothly, focusing on the meticulous process of extracting the liquid, with the bowl gradually filling up. By the final frame, the bowl contains a noticeable amount of the extracted liquid, while the person continues to squeeze the cloth, ensuring no residue is left behind. The overall environment suggests a home kitchen setting, emphasizing the hands-on nature of the cooking process."
+}

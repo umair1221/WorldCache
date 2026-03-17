@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_153",
+  "prompt": "A cinematic medium shot captures an indoor ice skating rink with a spacious, well-lit environment characterized by high ceilings with exposed wooden beams and large windows allowing ample natural light. The rink's surface is smooth and partially reflective, bordered by a low barrier separating it from the spectator area. The walls are a neutral gray, and the overall ambiance is calm and quiet. In the center of the frame, a person dressed in a light gray long-sleeve shirt and dark pants is seen in a crouched position and head slightly bowed, with their right hand placed slightly above the icy surface and their left hand holding their right foot, suggesting preparation for skating. Throughout the video, the individual maintains this posture while rotating in a counterclockwise direction with their rotational speed gradually decreasing, indicating a moment of focus and readiness. By the end frame, the scene remains static, with no new objects introduced, and the person continues their activity and slightly moves their right hand without any significant change in the surrounding environment."
+}

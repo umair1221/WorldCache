@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_056",
+  "prompt": "A close-up shot captures two hands holding a small, round, beige-colored ceramic bowl and a clear glass bottle with a textured, ribbed design near its neck. The bowl, slightly worn with visible imperfections, is rotated to reveal its interior and the texture of the clay. The hands are positioned above a rectangular, dark brown container placed on a light gray circular plate. The background shows a blurred hint of greenery, suggesting an outdoor setting. The hands carefully adjust their grip, rotating the bowl to showcase its details. The scene progresses as the hands place the bottle into the container, ensuring it fits snugly. The final frame captures the bottle securely nestled inside the container, with the hands no longer visible, indicating the completion of the action."
+}

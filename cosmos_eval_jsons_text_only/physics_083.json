@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_083",
+  "prompt": "A close-up view of a clear glass bottle filled with a liquid, likely water, is captured in a stationary shot. Inside the bottle, a white, crystalline structure is forming, resembling ice or frost, growing taller and denser over time. The background features a dark setting with soft, out-of-focus lights, possibly from string lights, adding a subtle glow to the scene. The overall atmosphere is one of slow, methodical change, highlighting the natural process of crystal formation within the liquid. The camera remains fixed, allowing viewers to observe the gradual transformation of the liquid into a solid, intricate crystalline structure. The final frame showcases the bottle with a significantly larger and more complex crystalline formation, indicating the completion of the solidification process."
+}

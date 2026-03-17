@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_e5329229-e235-4098-b343-3efe74926d8b",
+  "prompt": "A film crew is captured in action during a behind-the-scenes moment, focusing on a director positioned behind a large professional camera mounted on a tripod. The director, wearing a dark hoodie, a gray flat cap, and glasses, is actively engaged in the scene. His left hand is raised, scratching at his cap before lowering it to his face and adjusting his glasses with his left index finger. He then points with his finger, extending his arm over the camera to gesture towards something off-screen. As he speaks, the camera pans left to maintain focus on his hand. After pulling his hand back, his head turns slightly upward, glancing towards the top center of the frame. The director's movements are deliberate and purposeful.  The setting appears to be a dimly lit studio with neutral-colored walls and diffused lighting from multiple sources, creating a soft ambiance. The background is slightly blurred, revealing indistinct shapes of small equipment, shelves, and other items. To the right, another individual dressed in casual attire, including a jacket and jeans, stands with their arms crossed, observing the scene. A third person, partially visible, stands behind the director, their arms resting casually in front of them. The overall atmosphere suggests a focused and professional environment, capturing the essence of a film production in progress.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_e5329229-e235-4098-b343-3efe74926d8b.jpg"
+}

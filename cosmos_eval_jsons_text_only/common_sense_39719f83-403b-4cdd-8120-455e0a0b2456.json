@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_39719f83-403b-4cdd-8120-455e0a0b2456",
+  "prompt": "A semi-trailer truck navigates a scenic road, captured in a wide shot from eye level as it tracks the vehicle throughout the video. The red cab and blue and gray trailer, prominently labeled with a company name, move along a left curve on a paved asphalt two-lane road. The road is bordered by safety barriers on the right, featuring concrete barriers topped with metallic railings. Small orange and white objects are mounted periodically on these barriers. The left lane has a solid white edge line, with a wide shoulder and two rows of broken lane lines, and minimal right shoulder. Dense green forestry lines the roadside, with tall evergreen trees casting dappled shadows. In the distance, a partially snow-covered mountainside is visible under a vibrant blue sky filled with voluminous, textured clouds. The scene is illuminated by bright natural light filtering through the trees on the right, creating deep shadows on the road-facing side of the trees. The camera follows the truck closely, advancing on the curved path in a push-in effect from the left lane."
+}

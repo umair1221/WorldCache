@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_215",
+  "prompt": "The video opens with a scene set against a dark backdrop dotted with small green lights, creating a starry effect. Two individuals are engaged in a boxing training session. The person on the left, sporting long dreadlocks and dressed in a black shirt, is wearing black and yellow boxing gloves with a red band on both hands. The individual on the right, also in a black shirt, is equipped with pink boxing gloves and is actively practicing punches towards the mitt. The person with dreadlocks adjusts their stance slightly while maintaining focus on the mitt, ensuring the training continues smoothly. The video progresses with the individual in pink gloves throwing a series of punches, demonstrating various techniques and movements. The person on the left will occasionally punch with their left hand, while the person wearing pink gloves will duck the attack. The scene concludes with the individual in pink gloves continuing to practice, while the person with dreadlocks remains attentive, ready to guide or adjust the training as needed. A medium shot captures the dynamic interaction between the two individuals, emphasizing their focused expressions and fluid movements.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_215.jpg"
+}

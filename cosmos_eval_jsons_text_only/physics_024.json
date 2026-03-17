@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_024",
+  "prompt": "A static shot of a colorful ceramic teapot placed on a rotating display that rotates clockwise. The teapot has a vibrant blue body adorned with pink flowers and green leaves, a red handle, and a red spout. Its lid is yellow with a small, black and white design resembling a face. The teapot is positioned on a black circular base, which is mounted on a wooden surface, likely a table, against a plain light gray background. As the video progresses, the teapot starts to rotate clockwise, gradually revealing different angles of its intricate design. The teapot's vibrant colors and floral patterns become more prominent as it spins, highlighting the craftsmanship and artistic details. By the final frame, the teapot continues to rotate, showcasing its full design from multiple perspectives, with the background remaining consistent throughout the video."
+}

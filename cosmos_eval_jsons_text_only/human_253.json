@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_253",
+  "prompt": "A dynamic action sequence in a gymnasium setting, capturing a woman playing badminton. The scene unfolds on a red court marked with white lines, typical of a badminton playing area. The ceiling features exposed red metal beams and fluorescent lighting fixtures, creating a bright and industrial atmosphere. The walls are a muted gray, and there are no visible windows, indicating an enclosed space. The woman is dressed in athletic attire, including a navy blue sports top with purple accents and a matching skirt, paired with red sneakers. She holds a badminton racket in her right hand, poised to strike, while her left arm is slightly extended for balance. The sequence begins with her in a ready stance, preparing to hit the shuttlecock. She then raises her right arm, with racket above her head, executing a powerful overhead smash. Her body shifts dynamically, showcasing agility and precision. After completing the shot, she lowers her racket and appears to be observing the trajectory of the shuttlecock, possibly anticipating the next move in the game. The final frame captures her in mid-action, having just completed her overhead smash, with her racket lowered and her gaze directed towards the shuttlecock's flight path."
+}

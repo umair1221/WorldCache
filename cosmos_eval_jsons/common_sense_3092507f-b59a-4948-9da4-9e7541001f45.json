@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_3092507f-b59a-4948-9da4-9e7541001f45",
+  "prompt": "The video captures a lively music performance on a dimly lit stage, featuring a singer accompanied by a band. The backdrop is a vibrant, digitally rendered display of a stylized beachside building with a pink sky and a large heart-shaped sign reading \"MONICA.\" A tall, reddish-tube man figure stands prominently on the left side of the screen. The singer, with light blonde hair styled in pigtails, wears a colorful, patterned top and accessorizes with multiple earrings, a black spike collar, and a bracelet. She holds a black wireless microphone in her right hand and gestures expressively with her left hand while singing. The guitarist, positioned to her left, wears a short-sleeved black shirt and has short, brown hair with visible earrings. The drummer, located behind the singer, sports a dark, short-sleeved shirt and long, dark pants. As the camera pans right, following the singer who walks backward toward the right, she turns to face the camera, continuing to sing and gesture. Her long painted nails and glittery eye makeup add to her dynamic presence. The camera then zooms out, revealing a keyboard player bopping their head and playing with both hands. A second tube man figure appears on the right side of the screen, and another band member, playing a green guitar, comes into view. The scene is energetic, with the singer's movements and expressions capturing the essence of the performance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_3092507f-b59a-4948-9da4-9e7541001f45.jpg"
+}

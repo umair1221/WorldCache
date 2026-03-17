@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_234",
+  "prompt": "A gritty, realistic video capturing a man practicing boxing in a dimly lit gym. The man, wearing a black sleeveless shirt, red shorts, and a red bandana, stands inside a boxing ring, his fists raised in a defensive stance. The background features a yellow punching bag hanging from the ceiling and a dark, industrial-style ceiling with visible beams and lights. The man begins by raising his fists, then transitions into a series of punches, alternating between jabs and uppercuts. His movements are fluid and precise, showcasing his focus and skill. As the sequence progresses, he continues to practice his punches, maintaining a steady rhythm and demonstrating various offensive maneuvers. By the final frame, the man remains engaged in his boxing routine, highlighting his technique and determination within the ring."
+}

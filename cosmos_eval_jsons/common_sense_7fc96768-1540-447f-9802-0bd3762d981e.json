@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_7fc96768-1540-447f-9802-0bd3762d981e",
+  "prompt": "A man walks down a cobblestone street at night, carrying large, white rectangular boards under one arm and a portable stereo in the other. The video begins with an eye-level, wide shot of the man entering the middle of the street from the left, dressed in a long, dark coat, pants, and a gray boombox in his left hand, which glints in the streetlights. The setting is an urban street illuminated by overhead street lamps casting a warm glow. Buildings on the left side of the street feature colorful brick facades in pastel pink, bright blue, and light yellow, adorned with doors and windows. These buildings are lined with various potted plants and silver trash bins. A bare tree stands with fairy lights wrapped around it, extending up to a black metal balcony. The street stretches into the background for another block, with street lamp globes lining both sides and dead ends in a white and tan building with softly lit windows. Several parked cars are visible on the cross streets, and a red vehicle passes from right to left. As the frame pans right, the man turns toward the camera and continues to walk, making steady progress toward the viewer. The man's posture is upright, and he appears focused on his path. On the right side of the street, another building displays more plants tucked into an alcove, including a small potted bush covered in a string of red, green, and yellow lights.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_7fc96768-1540-447f-9802-0bd3762d981e.jpg"
+}

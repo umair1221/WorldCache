@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_2430262-uhd_3840_2160_25fps",
+  "prompt": "The video opens in a grassy area, likely a park or natural reserve, with short green grass and patches of bare soil and scattered leaves. Two Barbary macaques are the central focus, with one macaque positioned on top of the other in a grooming posture. The macaque on top has its back arched and head lowered, indicating it is the one receiving the grooming. The macaque beneath it is on all fours, leaning forward to reach the other's back. Both macaques have brown fur with lighter underbellies, and their tails are visible. The macaque on top then shifts its position, sitting upright while continuing to groom the other, which also transitions from a kneeling position to sitting upright. The macaques' actions are gentle and deliberate, showcasing a typical social behavior within their species. By the final frame, both macaques are seated side by side, with the macaque on the left appearing to groom the macaque on the right, who is now facing forward. The overall scene remains calm and focused on the interaction between the two animals.  A medium shot captures the intimate moment, emphasizing the natural and relaxed movements of the macaques. The background features a blurred outdoor setting with hints of greenery and scattered leaves, adding depth to the scene. The video has a naturalistic style, capturing the authentic behavior of these animals in their habitat."
+}

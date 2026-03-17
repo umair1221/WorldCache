@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_6394054-uhd_4096_2048_24fps",
+  "prompt": "A serene video showcases a majestic waterfall cascading down a rocky cliff, framed by tall trees covered in vibrant green moss. The waterfall flows steadily, creating a misty spray at the base, while the surrounding forest is dense with evergreen trees, their dark silhouettes contrasting against the lighter tones of the moss and the grayish-white mist. The scene is tranquil, with the waterfall serving as the focal point amidst the lush, verdant surroundings. The camera pans slowly from left to right, capturing the dynamic movement of the water and the stillness of the trees. The mist rises gently, adding a mystical quality to the scene. The final frame captures the same peaceful scene, with the waterfall continuing its steady descent and the forest standing still, preserving the tranquil and untouched beauty of the landscape.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_6394054-uhd_4096_2048_24fps.jpg"
+}

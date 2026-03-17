@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_028",
+  "prompt": "A video set in a spacious indoor studio with a high ceiling featuring exposed metal beams and bright fluorescent lighting. The walls are painted white with orange accents around a large window that allows natural light to flood the room. The floor is covered with light-colored tiles. At the center of the room, a person dressed in black attire is seen performing a series of rhythmic movements, possibly dancing or practicing a choreographed routine. They shift their weight from one foot to the other, occasionally raising their arms and gesturing expressively. The individual appears focused and engaged in their activity. To the left of the person, two tripods are set up, each supporting a camera, indicating that the performance is being recorded. A small black speaker is mounted on the wall to the right, and a decorative lantern hangs nearby, adding a touch of aesthetic detail to the otherwise functional space. The room also features a low bench with orange and white stripes, positioned against the wall near the window, which provides a seating area or resting spot. The overall scene remains consistent throughout the video, with the person continuing their movements in the same location, maintaining the same level of engagement and focus.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_028.jpg"
+}

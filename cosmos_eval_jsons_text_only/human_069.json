@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_069",
+  "prompt": "The video opens with two individuals seated on a couch in a well-lit, cozy living room adorned with string lights and festive decorations, including a large silver balloon and yellow star-shaped ornaments. The person on the left, sporting vibrant blue hair and a blue polo shirt, holds a blue and white balloon animal shaped like a syringe. The individual on the right, dressed in a white t-shirt with a colorful floral pattern, is holding an orange and black balloon animal resembling a stylized bird or dragon. The person on the right playfully lifts the balloon animal above their head and places it onto the head of the person on the left, causing them to react with surprise and amusement. The person on the left adjusts the balloon animal on their head while still holding their own balloon, maintaining a light-hearted and playful interaction. The scene concludes with both individuals sitting comfortably on the couch, the person on the left still holding the blue and white balloon animal and the person on the right looking at them with a smile. A medium shot captures the playful moment from a slightly elevated perspective."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_050",
+  "prompt": "The video opens with a close-up shot of a person's hands as they meticulously use a fork to create small indentations on the surface of freshly baked chocolate cookies placed on a baking tray lined with parchment paper. The cookies are uniformly round and dark brown, indicating they have been baked to perfection. The person's hands are steady and precise, pressing the fork gently into the center of each cookie to ensure even spacing. The individual is wearing a silver ring on their left ring finger, which is clearly visible as they work. The background shows a wooden countertop, suggesting a home kitchen environment. The lighting is warm and natural, enhancing the glossy texture of the cookies. As the person finishes creating the indentations, they lift the tray, revealing the neatly arranged cookies. The camera follows the movement as the person carries the tray away from the camera, likely towards an oven or another part of the kitchen for cooling or further preparation. The final frame captures the person walking away from the camera, holding the tray, with the kitchen setting blurred in the background, indicating a transition to another activity."
+}

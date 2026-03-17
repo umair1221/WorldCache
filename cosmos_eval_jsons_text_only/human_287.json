@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_287",
+  "prompt": "The video opens with a close-up shot of a person dressed in a dark-colored traditional Japanese kimono with wide sleeves and a white turtleneck sweater underneath. They are holding a bow with a black and white grip, and an arrow with a yellow fletching is nocked and ready to be released. The setting appears to be indoors, with wooden pallets visible in the background and a window allowing natural light to filter through. The person begins by holding the bowstring taut with both hands, positioning the arrow at the ready. As the sequence progresses, they smoothly draw the bow back, extending their arm upwards while maintaining a steady grip on the bow. The arrow remains securely nocked throughout this motion, poised for release. By the final frame, the person has fully drawn the bow, their arm extended high above their head, with the arrow aimed and ready to be released."
+}

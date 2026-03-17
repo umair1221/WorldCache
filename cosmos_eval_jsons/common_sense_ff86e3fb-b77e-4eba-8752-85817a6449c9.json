@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_ff86e3fb-b77e-4eba-8752-85817a6449c9",
+  "prompt": "A close-up shot with a top-down view captures a measuring cup on a black, scratched surface covered with white flour. The measuring cup, large and partially filled with a creamy substance, has a silver handle resting inside, with its top on the side and the front dipped in the ingredients. The surface is scattered with flour in uneven patches, creating a textured appearance. To the right of the measuring cup, a silver cup with a handle extends out of the frame, and flour dust is visible around, inside, and on the edge of both containers. Two pieces of cloth are partially in view: one is a plain white, scrunched up, and the other is black with white striped patterns. On the right, an open transparent jar contains a coarse, beige substance similar to the inside of the measuring cup. The rectangular edge of a flat item is partially visible on the right lower side of the shot. The scene is well-lit with ambient lighting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_ff86e3fb-b77e-4eba-8752-85817a6449c9.jpg"
+}

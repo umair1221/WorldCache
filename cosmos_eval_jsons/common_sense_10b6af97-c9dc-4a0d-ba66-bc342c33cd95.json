@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_10b6af97-c9dc-4a0d-ba66-bc342c33cd95",
+  "prompt": "A wide-shot bird's-eye view captures a serene riverside town during golden hour. The river, wide and calm, flows gently between lush green banks dotted with trees and bushes. Two prominent pink rectangular metal columns with diagonal steel cables stand out on the left bank, partially submerged in the water. The riverbanks feature well-maintained grassy areas with occasional scorched patches, and small water bodies are scattered along the right bank, including a U-shaped earth dam wall. A moderately large vessel navigates downstream, leaving a trail of ripples in its wake.  As the camera slowly zooms in, the focus shifts to the expansive town below. The architecture is a mix of light-colored, low-rise residential and multipurpose buildings, with a notable gothic structure featuring a prominent tower standing out. The settlement follows a nucleated pattern, with paths leading from the dammed water body to the town. A forested median strip with tall, clustered trees stretches diagonally across the frame, separating the river from the town. In the distance, the town extends towards a faint horizon under a bronze-blue sky adorned with wispy clouds.  The camera pans left, capturing the expanse of the town and its architectural details, before coming to a stop. The overall scene is tranquil, with the gentle flow of the river and the soft lighting creating a peaceful ambiance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_10b6af97-c9dc-4a0d-ba66-bc342c33cd95.jpg"
+}

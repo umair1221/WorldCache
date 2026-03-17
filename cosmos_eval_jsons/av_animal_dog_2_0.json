@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_animal_dog_2_0",
+  "prompt": "A dashcam captures a serene drive through a suburban area on a partly cloudy day. The road stretches ahead, bordered by lush green grass and tall evergreen trees, with deciduous trees providing shade along the way. Houses are visible on the left, nestled among the trees. The road surface shows signs of wear, with visible cracks and patches. A dog walks ahead, positioned slightly off-center in the middle of the road. The ego vehicle maintains a steady pace, keeping a safe distance from the dog. The sky is partly cloudy, allowing dappled sunlight to filter through. A wide-angle shot from within the vehicle.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_animal_dog_2_0.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_accident_2_0",
+  "prompt": "The video begins with a view from inside a vehicle driving on a snowy highway. The road is covered in a layer of snow, with tire tracks visible, indicating recent traffic. In front of the vehicle, a large truck is traveling in the same direction, its rear lights glowing red against the overcast sky. The surrounding landscape features a mix of snow-covered ground and patches of greenery, including trees and shrubs. The hills in the background are also dusted with snow, creating a serene winter scene. The sky is gray and cloudy, contributing to the overall muted and cold atmosphere. As the video progresses, the truck ahead begins to slow down and eventually veers off the main road onto the shoulder due to the slippery road, kicking up a cloud of snow and debris. The truck's movement is gradual, and it appears to be struggling slightly due to the slippery conditions. The vehicle from which the footage is being recorded continues to drive forward cautiously, maintaining a safe distance behind the truck. By the final frame, the truck has come to a stop on the shoulder, surrounded by a cloud of snow and debris.  A medium shot from a slightly elevated perspective captures the snowy highway and the truck's cautious maneuvering."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_c30321f3-28cb-4e7d-bada-c55bfa63e376",
+  "prompt": "A medium shot of a person slicing cooked meat outdoors, captured from a slightly high angle with the camera gradually zooming out. The person's hands, clad in blue sleeves rolled up, are positioned in the left foreground as they skillfully slice the food pieces on a rustic wooden cutting board. The meat has a golden-brown charred exterior, with each precise slice revealing a juicy light interior. The person uses a large, sharp kitchen knife with a black handle and an engraved silver blade with a circle design in the corner. They hold the knife in their right hand while stabilizing the meat with their left. The first chunk of meat is cut into six nearly even slices and shifted slightly with the knife to the right side of the cutting board to make room for the second chunk as they pull it to the center with the left fingers and place the knife over it. Another piece of an irregular-shaped chunk of meat remains on the left side of the board. The background showcases lush pale green vegetation and a thick layer of moss covering the ground, with natural lighting brightly illuminating the scene. Tall trees with branches bearing leaves are visible at the top of the frame. In the top left corner, an open campfire surrounded by dark, irregular rocks and gray ashes emits bright orange flames. Heaped structures covered in pale green moss are visible close to the fireplace.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_c30321f3-28cb-4e7d-bada-c55bfa63e376.jpg"
+}

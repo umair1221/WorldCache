@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_067",
+  "prompt": "In a cozy kitchen setting, two individuals are engaged in preparing a dish involving a nori sheet and mashed avocado. One person, wearing a white shirt with \"vegan\" printed on it, holds a plate of chopped vegetables, including red bell peppers, purple onions, green bell peppers, and leafy greens. The other person, dressed in a black and white graphic t-shirt, uses a fork to spread mashed avocado evenly across the nori sheet placed on a white plate. The countertop features an open avocado half, a lemon cut into wedges, and a container of what appears to be a green substance, likely herbs or spices. The kitchen background includes various items such as a coffee maker, a bag labeled \"Whole Foods,\" and other typical kitchen appliances. The person spreading the avocado continues their task, ensuring the avocado is distributed uniformly over the nori. The person holding the plate of vegetables occasionally reaches for the avocado half, indicating they may be planning to add more ingredients to the preparation. The scene remains focused on the food preparation process, with no significant changes in the environment or introduction of new objects. By the final frame, the person on the right has completed spreading the avocado, while the person on the left continues to hold the plate of vegetables, ready to incorporate them into the dish.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_067.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_124",
+  "prompt": "A dimly lit soccer field at night, illuminated by a focused light source that creates a lens flare effect in the upper right corner, sets the stage for a solitary moment of anticipation. The foreground prominently features a standard black-and-white soccer ball resting on the artificial turf, which appears to be a well-maintained green surface. In the background, the darkness suggests an enclosed space, possibly a stadium or indoor facility, with no visible spectators or additional players. The scene is quiet and solitary, emphasizing the anticipation of an upcoming action.  As the video progresses, a young individual wearing a white shirt, dark shorts, and white socks enters the frame from the left side. They approach the soccer ball, extending their right leg forward in preparation for kicking. The person runs towards the ball, making contact with it, and sends it flying through the air with force. The player's body continues to move forward after the kick, indicating a powerful and deliberate motion. The final frame captures the ball in mid-air, having been kicked, while the player's legs are extended behind them, suggesting a follow-through motion. The scene concludes with the ball in flight, highlighting the dynamic action of the kick."
+}

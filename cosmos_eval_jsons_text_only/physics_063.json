@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_063",
+  "prompt": "A video opens with a static shot of a yellow mug placed on a rotating turntable, set against a plain wall backdrop. The turntable is illuminated by a spotlight from below, casting a bright light that highlights the mug's glossy finish and vibrant yellow color. The mug, positioned centrally with its handle pointing to the left, begins to rotate clockwise, causing the spotlight to maintain focus on it. As the mug spins, its shadow elongates and distorts on the wall behind, adding a dynamic visual element. The video concludes with the mug still spinning on the turntable, its shadow continuing to elongate, creating a mesmerizing effect."
+}

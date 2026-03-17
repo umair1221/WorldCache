@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_094",
+  "prompt": "The video opens with a close-up shot of a person sewing fabric using a sewing machine, focusing on the needle and presser foot area. A pair of hands with black nail polish is seen guiding a piece of white fabric under the needle. The sewing machine is a standard model with a metallic needle and presser foot, and the fabric is being stitched along a straight line. The background is blurred, drawing attention to the sewing process. A small metallic plate with three holes is visible near the needle, likely part of the machine's presser foot assembly. The fabric remains taut between the fingers, ensuring precise alignment for the sewing process. As the video progresses, the hands continue to guide the fabric smoothly through the machine. The needle moves rhythmically up and down, stitching the fabric steadily. The fabric remains taut between the fingers, maintaining consistent tension throughout the sewing process. No new objects appear in the video; the focus remains on the ongoing sewing activity. By the final frame, the hands have completed another section of the fabric, and the needle has finished its rhythmic motion. The fabric is now slightly longer than at the beginning, indicating progress in the sewing task. The hands adjust their grip slightly to ensure the fabric continues to feed correctly into the machine. The overall scene remains focused on the meticulous and steady sewing process."
+}

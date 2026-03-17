@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_023",
+  "prompt": "A minimalist video begins with a static shot of a simple setup on a flat surface, likely a table, against a plain white wall. Two large, beige pillows are positioned side by side at the bottom of the frame, serving as the primary objects of interest. Above these pillows, two grabber tools hang from the top edge of the frame; one is blue and black, while the other is red and black. Suspended from these tools are a brown tennis ball and an orange block, respectively. The scene is minimalistic, with no additional elements or distractions, focusing entirely on the interaction between the grabber tools and the objects they hold. As the video progresses, the grabber tools release their grip on the brown tennis ball and the orange block. The ball and block fall freely towards the pillows below. The ball lands softly on the left pillow, while the block comes to rest on the right pillow. Both objects settle onto the pillows, completing their descent from the initial suspended position. A close-up shot captures the moment of impact and the objects' final resting positions.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_023.jpg"
+}

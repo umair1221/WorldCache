@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_6ef57b52-3c45-4488-9121-0fae85bc4e48",
+  "prompt": "A nighttime urban street scene viewed from inside a car, likely through a dashboard camera, captures a wide, well-marked road stretching straight ahead under the dark sky. Streetlights line both sides of the street, casting a soft glow over the asphalt. A blue SUV drives past on the right side, its taillights glowing red as it moves away from the viewer. The vehicle continues to drive further down the street, gradually becoming smaller in the distance. Red traffic lights are visible at the intersection ahead. The ego vehicle makes two consecutive lane changes to the right while continuing to move forward. Surrounding the street are buildings with illuminated signs, including one that reads \"NOW OPEN,\" indicating a new business. Palm trees and other greenery are visible along the sidewalk, adding to the urban setting. The overall atmosphere is calm and quiet, typical of a late-night cityscape. As the video progresses, the SUV continues to move away, and the scene remains largely unchanged, maintaining the same elements and lighting conditions throughout the sequence.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_6ef57b52-3c45-4488-9121-0fae85bc4e48.jpg"
+}

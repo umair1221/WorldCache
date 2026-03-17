@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_043",
+  "prompt": "The video showcases a toy kitchen sink setup, likely designed for children's play. The mint green sink features two compartments: the larger one contains a pink plate, a half of a toy lemon, and a red toy fruit, while the smaller compartment holds another half of a toy lemon. Above the sink, a yellow dish rack holds various toy utensils, including knives, forks, and spoons, along with a small pink cup. To the left of the sink, a black robotic arm is positioned, seemingly ready to interact with the toys. The robotic arm hovers above the sink, preparing to grasp the purple toy eggplant. As the video progresses, the robotic arm descends and picks up the purple toy eggplant, lifting it up and placing it on the pink plate inside the sink. The background includes a white countertop and a glimpse of a black appliance, possibly a coffee maker, on the left side. The scene is set in a brightly lit room, emphasizing the playful and colorful nature of the toy setup. A medium shot captures the robotic arm's interaction with the toy eggplant."
+}

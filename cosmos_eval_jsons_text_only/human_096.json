@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_096",
+  "prompt": "A dynamic basketball game unfolds in a well-lit indoor arena, filled with spectators seated in red and white stadium seats. The polished wooden court prominently displays the \"USA Basketball\" logo at its center. The scoreboard shows Brazil leading 6-2 against the USA Men's National Team in the first quarter with 15:40 remaining. A player in a yellow jersey dribbles the ball, closely guarded by an opponent in a white jersey. As the player in yellow advances, he showcases agility and skill, dribbling past the defender and moving towards the basket. Other players from both teams position themselves strategically, ready for potential passes or defensive plays. The camera follows the player in yellow, capturing his swift movements and the intensity of the game. The overall atmosphere is electric, reflecting the competitive spirit of the match."
+}

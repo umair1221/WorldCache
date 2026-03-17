@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_121",
+  "prompt": "The video opens in a spacious, industrial-like environment, possibly a warehouse or factory, characterized by a polished concrete floor and scattered pieces of equipment and machinery in the background. Bright natural light reflects off the floor, creating a sense of openness. In the foreground, a person dressed in a black outfit stands in front of a robotic arm positioned over a white rectangular box containing dark objects. The individual, wearing white shoes, moves towards the box, preparing to interact with it. As the video progresses, the robotic arm extends its claw-like end towards the box, grasping and lifting an object before placing it inside the box. Another person enters from the left, walking past the first individual and heading further into the space. The robotic arm then retracts back to its original position. The individual in front of the robotic arm approaches the robotic arm once more, and by the final frame, the robotic arm returns to its initial position.  A medium shot captures the interaction between the person and the robotic arm, emphasizing the precision and coordination involved in the process. The background remains consistent, with the industrial setting providing a stark contrast to the focused activity in the foreground."
+}

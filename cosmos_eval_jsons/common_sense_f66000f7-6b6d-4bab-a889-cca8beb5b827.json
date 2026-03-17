@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_f66000f7-6b6d-4bab-a889-cca8beb5b827",
+  "prompt": "In a slow-motion sequence, a woman's silhouette stands out against a dramatic sky filled with dark gray clouds and vibrant orange hues. The video opens with a medium shot from a low angle, capturing the woman from behind as she raises her arms triumphantly. The camera remains stationary initially but then shifts to a pedestal-down motion, following her as she slowly lowers her hands and turns to her right. Her dark, backless swimwear and flowing hair are revealed as she continues to rotate, with strands catching the soft, dim light. The scene concludes with her body facing the right side of the frame, her head slightly tilted toward the camera, and her arms hanging loosely by her sides. The setting is outdoors under very dim lighting, with silhouettes of mountains appearing at the bottom of the frame as the camera moves. The sky transitions from dark gray clouds at the top to vibrant orange hues in the middle, with a splash of light yellow near the mountains. Scattered clouds with orange edges are visible in the center, while dark gray clouds dominate the right side, and a clearer sky with light gray clouds and subtle hints of yellow is seen on the left.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_f66000f7-6b6d-4bab-a889-cca8beb5b827.jpg"
+}

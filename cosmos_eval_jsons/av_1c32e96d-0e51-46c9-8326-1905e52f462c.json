@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_1c32e96d-0e51-46c9-8326-1905e52f462c",
+  "prompt": "The video begins with a view from inside a vehicle, positioned at an intersection in a suburban residential area. The car's dashboard is visible at the bottom of the video frame, indicating the camera is mounted on the windshield. The road ahead is marked with a \"STOP\" sign painted directly onto the asphalt, suggesting a mandatory stop for vehicles approaching this point. The surroundings are lush with greenery; trees and bushes line both sides of the street, and a variety of houses can be seen in the background. One house on the left has a white exterior with a dark roof and a garage with a few cars parked on its driveway, while another larger house with a beige facade and a brown chimney is situated further back. The sky above is partly cloudy, allowing patches of blue to peek through, contributing to the serene atmosphere of the neighborhood. As the video progresses, the vehicle continues its journey down the road, approaching an intersection with the red octagonal \"STOP\" sign situated on the pavement. The ego vehicle maintains a steady pace, and the surrounding environment remains unchanged, with the same houses, trees visible, and a silver pickup truck also approaching the intersection from the opposite direction. Both the ego vehicle and the pickup truck come to a complete stop at the \"STOP\" sign line, and after briefly pausing, the silver pickup truck proceeds to move forward, continuing down the road by the final frame.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_1c32e96d-0e51-46c9-8326-1905e52f462c.jpg"
+}

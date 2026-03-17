@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_011",
+  "prompt": "A large yellow and silver tanker truck is shown in a medium shot, positioned on the side of a rural road during a road maintenance operation. The truck is actively spraying a liquid onto the asphalt, creating a visible mist or vapor that spreads across the paved road. The truck moves forward steadily, with the liquid application continuing throughout the sequence. In the background, another piece of construction equipment, possibly a bulldozer, is seen moving further down the road, indicating an ongoing project. The surrounding environment includes a gravel shoulder and dense green trees, suggesting a forested area. The sky is overcast, contributing to the muted lighting of the scene. The final frame captures the tanker truck still in motion, with the liquid application process continuing, and the mist or vapor persisting on the road surface.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_011.jpg"
+}

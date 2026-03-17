@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_076",
+  "prompt": "A close-up shot captures a person using a chainsaw to cut through a moss-covered tree trunk in a wooded area. The chainsaw, labeled \"16\" 40cm,\" is actively slicing through the wood, sending sawdust and small particles flying into the air. The tree trunk is thick and partially covered with vibrant green moss, indicating it has been lying on the ground for some time. The person operating the chainsaw is wearing a green glove on their left hand, gripping the handle firmly. The background suggests an outdoor setting, likely a forested area, with blurred trees and foliage visible, hinting at a natural environment. The chainsaw blade continues its rhythmic motion, cutting deeper into the mossy log in the forest. The moss on the tree trunk remains intact but is being gradually cut away by the chainsaw. The person's hands remain steady throughout the process, ensuring precise control over the cutting action. By the final frame, the chainsaw has made significant progress in cutting through the tree trunk, with more sawdust and debris scattered around the area. The moss on the cutting line of the trunk is visibly reduced, showing the ongoing cutting activity."
+}

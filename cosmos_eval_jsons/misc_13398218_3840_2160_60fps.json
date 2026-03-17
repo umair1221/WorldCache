@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_13398218_3840_2160_60fps",
+  "prompt": "The video opens with a wide shot of a snow-covered urban street, likely in a city known for its winter weather. Snow blankets the sidewalks and road, creating a thick layer that obscures the pavement beneath. The street is flanked by tall buildings, one of which prominently displays the word \"CANADA\" on its facade. A traffic light on the left side of the frame shows a green signal, indicating that vehicles can proceed. A no-parking sign is affixed to the same pole, suggesting restrictions during the snowstorm. Bare trees line the sidewalk, their branches laden with snow. A few individuals can be seen walking on the left side of the street, bundled up against the cold weather. The atmosphere is quiet and serene, with the falling snow adding to the wintry ambiance.  As the video progresses, the snow continues to fall steadily, accumulating more on the ground and buildings. Pedestrians continue to walk on the left side of the street, moving slowly due to the slippery conditions. The traffic light remains consistently green, and a white sedan car moves slowly into the scene along the road. The scene maintains its tranquil and wintry feel throughout the duration of the video, with the snowflakes gently swirling around the urban landscape.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_13398218_3840_2160_60fps.jpg"
+}

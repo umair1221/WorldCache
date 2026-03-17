@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_027",
+  "prompt": "The video opens with a person dressed in full protective gear, including a hooded coverall, gloves, and a respirator mask, painting a wall inside a room that appears to be under renovation with a spray gun. The room is well-lit by natural light streaming through a large window, which offers a foggy view outside. The ceiling is covered with plastic sheeting to prevent paint splatters, and a radiator is visible near the window. The wall being painted features a geometric pattern made up of triangular shapes, some of which are already painted white while others remain unpainted. The individual is using a spray gun to apply paint, moving it horizontally across the wall to ensure even coverage. As the video progresses, the person continues their methodical work, gradually filling in the unpainted sections beside the pattern. By the final frame, the person has moved further along the wall, making steady progress in their task, with the spray gun still in motion, applying paint to the remaining areas of the geometric design.  A medium shot captures the person from a slightly elevated perspective, emphasizing their focused movements and the detailed geometric pattern they are painting. The natural light from the window highlights the contrast between the painted and unpainted sections, creating a dynamic visual effect. The overall atmosphere suggests a professional and meticulous approach to the renovation project.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_027.jpg"
+}

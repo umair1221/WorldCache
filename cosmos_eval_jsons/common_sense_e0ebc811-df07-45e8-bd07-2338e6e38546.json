@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_e0ebc811-df07-45e8-bd07-2338e6e38546",
+  "prompt": "A public gathering unfolds in a spacious indoor venue, where a man with a goatee, dressed in a light-blue short-sleeved shirt and dark shorts, stands between two dark-colored sofas, addressing an audience. He holds a microphone in his right hand and gestures with his left, occasionally touching the shoulder of a woman seated on the larger sofa beside him. The woman, adorned in a colorful, floral-patterned gown and a hot pink headwrap, listens attentively. The scene is set against a large screen displaying a vibrant airplane logo and the text \"4R-EXR,\" which changes throughout the event. The camera captures the scene in a wide shot at eye level, with slight random movements, focusing primarily on the man as he speaks and gestures. The audience, a diverse group of people in various attire, stands facing the speaker, with some looking at their handheld devices. Above, viewers on an upper level lean over a glass railing, observing the event. The venue's architecture features white walls and floors, with embedded ceiling lights and brighter illumination from the upper level.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_e0ebc811-df07-45e8-bd07-2338e6e38546.jpg"
+}

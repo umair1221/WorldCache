@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_034",
+  "prompt": "The video begins with a static shot of a wooden cutting board placed on a platform, set against a backdrop of dark tiles. On the cutting board, there is a green plastic cutting board, a yellow potato, and an orange bowl. A black robotic arm is positioned above the cutting board, indicating its potential use for manipulation. As the video progresses, the robotic arm descends and grasps the potato, lifting it off the cutting board. The potato is then moved towards the orange bowl, where it is released, causing the potato to fall into the bowl. The final frame shows the potato now inside the bowl, with the robotic arm having completed its task.  A medium shot captures the entire setup, emphasizing the precision and control of the robotic arm. The background features a clean, industrial setting with a white box and a tiled wall, adding to the technical and modern atmosphere. The lighting is bright, highlighting the vibrant colors of the objects and the smooth movements of the robotic arm."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_e6a8a634-6dae-4298-b6aa-ccd56e1799f5",
+  "prompt": "A sleek white Audi sports car is captured driving through a dimly lit underground parking garage. The car, with its low-profile and wide rear design, glides smoothly past two large concrete pillars. The glossy white exterior reflects the ambient light, accentuating its sporty lines. The rectangular rear lights glow a striking red, and a black rear spoiler adds to its aggressive stance. The license plate, bordered in black, displays a combination of letters and numbers in white text. The rear bumper features two black exhaust outlets, and the side panels include large black air intakes. The black wheels reflect the faint light, adding to the car's polished appearance.  As the car moves forward, it passes between the pillars, turning left and then continuing straight. The camera follows the car in a wide shot, panning to the left to keep the vehicle centered. The angle remains at ground level, focusing on the rear and left side of the car. The taillights glow more prominently towards the end of the clip, and the car slows down while moving forward. The parking garage has an industrial feel, with exposed concrete beams and pipes on the ceiling and plain, dark walls in the background. The lighting is soft and diffused, casting faint shadows around the structural elements."
+}

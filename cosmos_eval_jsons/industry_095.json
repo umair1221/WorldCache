@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_095",
+  "prompt": "The video opens with a close-up shot of a professional kitchen setting, focusing on a person adding flour into a dough-mixing machine labeled 'ARK.' The mixer is actively blending a creamy, pale yellow mixture inside a stainless steel bowl. A gloved hand is seen holding a metal scoop filled with a white powdery substance, likely flour, and is in the process of pouring it into the bowl. The flour begins to mix with the existing batter, creating a swirling motion as the whisk attachment continues to stir. The background reveals a clean, tiled floor, indicating a professional or commercial kitchen environment. The lighting is bright, emphasizing the metallic surfaces and the smooth texture of the mixture. Throughout the sequence, the mixer maintains its steady operation while the flour is gradually incorporated into the batter, achieving a more uniform consistency. By the final frame, the mixture appears smoother and more cohesive, with the flour fully integrated into the batter.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_095.jpg"
+}

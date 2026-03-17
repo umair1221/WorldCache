@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_0553f23c-c4fe-4326-8bd2-40dd69d1452c",
+  "prompt": "The video opens with a view from inside a car, looking out through its windshield at a bustling urban street scene. The focal point is a large, ornate red and gold gate archway, adorned with intricate designs and Chinese characters, marking the entrance to what appears to be a Chinatown district. The gate is flanked by modern buildings; on the left, a multi-story office building with large windows, and on the right, storefronts, including a \"Food Market\" sign. Several cars are parked along both sides of the street, with a mix of sedans and SUVs visible. The street itself is relatively busy with traffic, including a silver SUV that is prominently positioned in the foreground, facing the opposite direction of the ego vehicle.  As the video progresses, the silver SUV begins to move forward on the opposite lane, slowly exiting the frame to the left, revealing more of the street and the surrounding buildings. The sky above is partly cloudy, allowing patches of sunlight to filter through, casting a soft light over the scene. The traffic continues to flow smoothly, with other vehicles, including a blue sedan and a gray minivan, maintaining their positions throughout the video. The scene remains vibrant and dynamic, reflecting the constant activity typical of a busy urban area. A medium shot from a slightly elevated perspective captures the bustling street and the iconic gate archway.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_0553f23c-c4fe-4326-8bd2-40dd69d1452c.jpg"
+}

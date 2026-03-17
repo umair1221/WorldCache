@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_154",
+  "prompt": "The video captures a scene set in a laboratory or workshop environment, characterized by a cluttered yet organized workspace filled with various pieces of equipment and furniture. The main focus is on two robotic arms with gripper tooltips positioned over a black tray with a grid-like pattern, which rests on a white perforated base. A prominent yellow mustard bottle is placed on the black tray. To the right of the tray, there are a few small objects, including a green and white cylindrical item. To the left, a red box contains a canister, and further back, blue plates are visible.  The background showcases multiple workstations equipped with computers, chairs, and additional robotic arms, indicating a collaborative workspace. A person dressed in dark clothing walks across the room, adding a dynamic element to the otherwise static scene. Initially, the right robotic arm hovers next to the yellow mustard bottle on the black tray. It then lifts the bottle, moving it away from the tray and placing it back onto the white base. The final frame shows the robotic arm retracting after placing the bottle on the white base, leaving the tray and surrounding objects undisturbed. The robotic arm remains visible and intact throughout the video, avoiding any singularities and exhibiting smooth, controlled movements without abrupt or jerky motions."
+}

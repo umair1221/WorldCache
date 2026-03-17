@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_171",
+  "prompt": "A young girl stands in a spacious, sunlit room with large windows casting geometric shadows on the concrete floor. She is dressed in a red martial arts uniform with black pants and a blue belt, holding padded training gloves. The video captures her performing a series of controlled martial arts movements, including high kicks and punches, executed with precision and fluidity. Her transitions between techniques are smooth and deliberate, showcasing her focus and control. The final frame shows her in a dynamic pose, with one leg raised mid-kick and her arms positioned for balance and potential striking. The background features a minimalist, industrial setting with a plain white wall and scattered debris, emphasizing the intensity of her practice. A medium shot with a slight upward angle."
+}

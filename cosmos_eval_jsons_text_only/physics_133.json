@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_133",
+  "prompt": "A close-up view captures the milling machine in action within a workshop setting. The milling head, with its rotating drill bit, precisely carves into a metallic workpiece held securely in a vise. Thin, yellowish metal shavings accumulate around the workpiece's surface, emphasizing the meticulous nature of the milling process. The background reveals parts of the workshop, including another machine and various tools, indicating a well-equipped space for metalworking. The lighting is steady, highlighting the precision and detail of the milling activity. The camera remains stationary, maintaining a consistent angle focused on the intricate metalworking process."
+}

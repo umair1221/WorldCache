@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_2436028-uhd_3840_2160_25fps",
+  "prompt": "A close-up view captures two grasshoppers resting on a curved wooden branch, set against a softly blurred naturalistic background with hints of green foliage. The grasshoppers, facing forward, showcase intricate patterns and vibrant colors, with earthy tones of brown, yellow, and black, accented by distinct markings that blend seamlessly with the wood and the greenery behind. The warm lighting highlights the texture of their exoskeletons and the wooden surface. The grasshopper on the left is slightly more active, shifting its legs and antennae, while the others remain mostly stationary. The scene maintains a serene and natural ambiance throughout the video, with no new objects or significant changes in the environment or the grasshoppers' positions. By the end, the video continues to depict the three grasshoppers on the wooden branch under the same warm lighting and naturalistic background."
+}

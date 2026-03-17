@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_174",
+  "prompt": "The video opens with a scene set in a clean, industrial kitchen or food processing facility, characterized by white tiled walls and a modern, organized layout. A person wearing a white coat with a logo printed on the back is positioned to the left of a large, complex robot with red robotic arms. The machine features a metallic structure with a conveyor belt system and a hopper filled with what appears to be chocolate pieces. To the left, a stainless steel cabinet holds a blue cloth, suggesting storage or preparation areas. On the right, control panels and a digital display are mounted on the wall, indicating automation and monitoring capabilities. The red robotic arms move down, pick up the chocolate pieces, rotate, and place them onto a conveyor belt. The overall scene conveys a controlled and methodical environment focused on precision and efficiency. A medium shot captures the interaction between the worker and the automated machinery."
+}

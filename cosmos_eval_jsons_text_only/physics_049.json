@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_049",
+  "prompt": "A static shot captures a black balloon attached to a fixed electric air pump hose, positioned on a wooden table against a plain wall. The balloon, initially deflated and resting on a green square object, begins to inflate as the air pump operates. The balloon gradually expands, becoming more rounded and significantly larger by the final frame, demonstrating the application of fluid dynamics principles. The scene is set against a neutral backdrop, emphasizing the balloon's transformation."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4259460-uhd_3840_2160_25fps",
+  "prompt": "A panoramic video of a serene desert landscape, showcasing towering rock formations under a clear blue sky. The foreground features two massive cliffs, their surfaces marked by erosion and weathering, displaying layers of sedimentary rock in warm tones of beige and brown. The left cliff has a rugged texture with visible cracks and crevices, while the right cliff appears smoother but still bears the marks of time and wind. A narrow, sunlit passage between the cliffs leads into the distance, revealing a vast expanse of rocky terrain. Additional rocky outcrops dot the horizon, enhancing the sense of depth and scale. The scene is devoid of any human activity or movement, capturing the tranquil and untouched beauty of the desert environment. The camera maintains a steady forward motion, gradually revealing more of the expansive desert landscape and the intricate details of the rock formations. The final frame continues this serene depiction, maintaining the same majestic desert vista without any new objects or actions occurring."
+}

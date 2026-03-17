@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_28b7cf08-cfb8-41e4-8b1b-d669aa69e632",
+  "prompt": "The video opens with a nighttime scene captured from inside a vehicle, likely through a dashboard camera, providing a first-person perspective. The road ahead has three lanes, with clear lane markings and a mix of left-turn and right-turn indicators. The scene is dimly lit by the car's headlights and scattered streetlights, creating a moody and atmospheric setting. A semi-truck is visible in the distance, its lights glowing faintly against the dark sky. To the right, a pedestrian crossing sign is visible, and a building or structure with a lit sign suggests a gas station or convenience store. The environment feels quiet and somewhat eerie due to the darkness and limited visibility.  As the video progresses, the car continues its journey along the highway, with additional vehicles occasionally appearing and disappearing into the headlights' reach. The streetlights continue to cast their glow, reflecting off the road surface, enhancing the sense of movement and depth. By the final frame, the car approaches an intersection, where traffic lights are visible, and the road markings become clearer, indicating the direction of travel. The overall scene conveys a sense of solitude and anticipation as the vehicle navigates the quiet, dimly lit road."
+}

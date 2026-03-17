@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_132",
+  "prompt": "The video opens with a wide shot of an outdoor recreational area during autumn, featuring a paved surface and a series of small cones in green and blue arranged in a pattern across the scene. The ground is scattered with fallen leaves, adding to the seasonal ambiance. In the background, a line of evergreen trees displays a mix of green and yellow foliage, creating a picturesque autumnal backdrop. A wooden structure, possibly a gazebo or pavilion, is situated near the center-left, partially shaded by the trees. The sky is clear and bright, casting distinct shadows on the ground.  A person dressed in dark clothing and light-colored pants is seen walking or skating towards the right side of the frame, arms outstretched for balance. As the video progresses, this individual continues their movement, gradually moving further into the frame until they are closer to the center-right. The cones remain stationary, and the background remains unchanged, maintaining the serene and organized atmosphere of the park. The camera follows the person's movement, shifting slightly to keep them centered as they approach the middle of the frame. The overall scene captures the tranquility of the park during autumn, with the person's dynamic movement contrasting against the static elements of the cones and the background.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_132.jpg"
+}

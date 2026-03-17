@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_9735bc8d-57d4-443c-b398-b4687d09ffc1",
+  "prompt": "An adult man stands on a podium, holding a bouquet wrapped in a yellow wrapper with flowers in shades of white, orange, and yellow, along with green foliage. He is dressed in a white judo gi adorned with the Chinese flag on the upper left chest side, a red symbol on his left shoulder, and a circular logo with a green symbol and text on his right shoulder. A red lanyard hangs around his neck, with a large golden medal partially obscured by the bouquet. The man maintains an upright posture, nodding slightly and shifting his gaze from slightly upward to straight ahead. The camera zooms in with a medium shot, capturing the man from the waist up, while remaining at eye level throughout the sequence. The background features a maroon backdrop with evenly spaced white rounded rectangles displaying various logos, including \"SOCAR,\" \"TODINI,\" \"Taishan,\" and \"France Bleu.\" The lighting is even, ensuring all elements in the frame are clearly visible. The upper right corner displays two overlayed logos: one with a red \"O\" inside a white rectangle and another with a blue, red, and green spiral design."
+}

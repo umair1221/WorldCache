@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_228",
+  "prompt": "The video showcases a modern industrial setting, likely a factory floor dedicated to automated manufacturing. The scene is dominated by a series of robotic arms, each equipped with specialized tools and connected by intricate networks of cables and pipes. The environment is brightly lit with overhead fluorescent lights, emphasizing the clean and organized nature of the workspace. The video does not show any natural source of light at any point, and there are no camera movements throughout the video. The robotic arms move rhythmically, demonstrating a seamless and efficient automated process. As the video progresses, the robotic arms are engaged in precise tasks such as picking up and placing components. The video shows more than six robotic arms moving in unison, showcasing their synchronized and efficient operation. There is no manual intervention at any point. The overall scene conveys a sense of advanced technology and streamlined manufacturing operations. By the final frame, all the robotic arms continue to function actively, maintaining the same steady rhythm and the setting of the video remains the same.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_228.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_073",
+  "prompt": "A close-up shot captures a person's hands holding a white ramekin filled with a creamy, frothy mixture, likely a dessert or baked item. The individual, dressed in a red shirt and a black apron, is in a kitchen setting. The background is blurred, showing a countertop and some greenery, possibly potted plants. The person gently rotates the ramekin, examining its contents. They then place the ramekin on a black tray alongside another similar ramekin. The person lifts the tray and walks towards an oven, opening it and carefully placing the tray inside, closing the oven door behind them. The final frame shows the person standing near the oven, having completed the task of placing the tray inside.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_073.jpg"
+}

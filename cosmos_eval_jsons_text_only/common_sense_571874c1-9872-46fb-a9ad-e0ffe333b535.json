@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_571874c1-9872-46fb-a9ad-e0ffe333b535",
+  "prompt": "A medium shot of a commercial dough preparation process in a professional kitchen. A person wearing a plaid gray apron and white gloves is partially visible from the waist down on the left, operating a dough-rolling machine with an orange safety guard. The machine, wide and flat, sits prominently in the foreground. The individual uses their left hand to hold the gray crank handle on the side of the machine, while their right hand adjusts the dough. The dough, an elongated oval, slides out from the machine onto the flat white surface below the orange guard. The person then lifts the dough, gaining momentum with a swooping tilt to the right, and rotates it 90 degrees clockwise so that the wide edge faces the camera. They sprinkle a white powder on the dough with their right hand, which returns to the frame, while their left hand remains on the crank. In the background, an industrial green mixer rotates around a large silver bowl, and a black-framed window with bright light pouring in is visible in the upper right corner. A metal box with a red switch labeled \"ON\" and \"OFF\" is situated next to the crank. The setting is brightly lit with a mix of natural and artificial light, reflecting off the top of the machine."
+}

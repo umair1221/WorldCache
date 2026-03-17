@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_033",
+  "prompt": "A brightly lit miniature kitchen setup, likely part of a toy or playset, is showcased in this video. The scene features a white speckled countertop with four black coil burners on a stove. A silver pot sits on one burner, containing a green object resembling a toy vegetable. To the left of the stove, a blue bowl and a white and red sponge are placed, while on the right, a stainless steel sink holds a purple and white striped object, an orange carrot, and a green cabbage wrapped in plastic. The robotic arm, entering from the left side of the frame, begins manipulating the green object inside the silver pot. It lifts the green object out of the pot and places it on the stove, demonstrating smooth and deliberate movements. The background includes wooden cabinets and various kitchen utensils, adding to the realistic toy kitchen ambiance. A medium shot captures the robotic arm's interaction with the green object."
+}

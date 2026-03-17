@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_098",
+  "prompt": "A close-up shot captures a person's hands meticulously sealing a cardboard box with a yellow tape dispenser in a well-lit indoor environment. The individual, wearing a wristwatch on their left wrist and a bracelet on their right wrist, holds the dispenser in their right hand, applying tape to the edge of the box. Their left hand supports the box, ensuring stability as they work. The box is positioned on a flat surface, with a white cloth partially visible in the background, suggesting a clean and organized setting. The lighting highlights the details of the hands and the tape dispenser, emphasizing the precision of the task. As the video progresses, the person continues to apply tape along the box's edge from their left, moving the dispenser steadily from one end to the other, gradually covering more of the box's edge. The transparent, light-colored tape stretches tautly across the surface, creating a secure closure. The person's movements remain deliberate and focused, conveying a sense of completion and satisfaction with the task at hand."
+}

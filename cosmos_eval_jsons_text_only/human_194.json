@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_194",
+  "prompt": "A dynamic soccer training session unfolds on a vibrant green field under a clear blue sky. The central figure, a player in a blue sports uniform with white socks and cleats, is captured mid-action, bending forward with hands on knees, likely performing a stretch or warm-up exercise. Surrounding this focal point, several other players in similar blue uniforms are scattered across the field, some standing still while others move subtly, contributing to the lively yet organized atmosphere. The background showcases a stadium with tiered seating, a prominent tall light pole, and a few trees lining the perimeter, adding depth to the scene. The video maintains a consistent and steady pace, emphasizing the continuous nature of the training session with minimal changes in the players' positions and actions."
+}

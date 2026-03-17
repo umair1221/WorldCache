@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_016",
+  "prompt": "The video begins with a close-up view inside a dishwasher, filled with clean dishes. The top rack contains a variety of items: several white ceramic mugs, a green mug, and multiple clear glass tumblers. The scene is well-lit, highlighting the cleanliness and organization of the dishes. A robotic arm, positioned above the top rack, is seen gripping the body of the mug, not the handle. It slowly lifts the mug, rotating it slightly to ensure a secure grip, before beginning to move it out of the rack. The camera follows the mug's movement, capturing the smooth motion as it is lifted and rotated. By the end of the sequence, the green mug is partially out of the frame, having been successfully removed by the robotic arm. The background remains consistent, showcasing the organized arrangement of other dishes in the dishwasher.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_016.jpg"
+}

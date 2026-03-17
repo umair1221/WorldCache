@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_be5defe3-53da-41d3-933c-ee03b44bcaf7",
+  "prompt": "The video opens from inside a vehicle on a crowded city street, positioned behind a line of cars on a busy urban street. The scene is set during the evening, as indicated by the dimming light and the illuminated storefronts. Cars parked on the right include a silver sedan and a white SUV. The buildings flanking the street are multi-story, with shops and restaurants visible, some adorned with signs and decorative lights. Trees line the sidewalks, adding greenery to the urban environment. The overall atmosphere suggests a lively city area, possibly a commercial district, with a mix of residential and business establishments.  As the video progresses, the camera remains stationary, capturing the slow-moving traffic ahead. The vehicles, including sedans and a bus, have their rear lights glowing red due to the congestion. The surrounding environment remains unchanged, with no significant actions or new objects appearing throughout the sequence. By the final frame, the scene remains consistent with the initial setup, showing the same vehicles and urban backdrop, with the traffic congestion persisting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_be5defe3-53da-41d3-933c-ee03b44bcaf7.jpg"
+}

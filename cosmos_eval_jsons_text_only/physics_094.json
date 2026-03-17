@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_094",
+  "prompt": "A close-up view captures the hydraulic press in action within an industrial setting, emphasizing the mechanical process of compressing metal sheets. The press, a large, cylindrical metallic component, descends steadily onto a flat surface marked with yellow and black caution stripes, highlighting the hazardous nature of the operation. The surface beneath the press holds a stack of metal sheets, which begin to deform as the press applies increasing pressure. The camera remains stationary, focusing on the interaction between the press and the metal sheets, capturing the gradual bending and eventual breaking apart of the sheets. Debris from the broken sheets scatters around the base as the press continues its descent, showcasing the dynamic and destructive force of the hydraulic press in a controlled industrial environment."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_052",
+  "prompt": "A static shot captures a wooden table with a shallow dish containing light blue liquid positioned centrally. Above the dish, a grabber tool with an orange handle and metallic gripping mechanism holds a piece of white paper towel. The scene is minimalistic, set against a plain light gray wall. The grabber tool releases the paper towel, which falls onto the liquid, partially submerging and soaking it. The paper towel stretches and ripples the surface, creating gentle waves and disturbances. The final frame shows the paper towel resting on the dish, with the liquid around it displaying minor ripples from the impact.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_052.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_582541ff-6b89-499a-9ccc-a1eb7995adb8",
+  "prompt": "A serene landscape showcases a black car driving on a dirt road. The scene opens with an eye-level, wide shot of lush foliage and an undisturbed pathway. On the left, neatly trimmed, short hedges and a tree are visible, while on the right, tall grasses flank the road. The tall grasses on the right side of the road are lush and towering. The sunlight filters through the leaves, casting a dappled pattern on the road. The camera pans right as a large, sleek black SUV enters the frame from the center, moving smoothly down the road. Initially, it is partly obscured by the greenery on the left before becoming fully visible. The car's modern design and shiny exterior stand out, with distinctive vertical LED lights at the front, creating a stark contrast against the natural background. Its wheels and rim have a gray metallic finish, and its bumper is made up of five horizontally lined metallic plates with a white number plate underneath. Sunlight reflects off the smooth body of the car. As the clip ends, the camera slightly adjusts to the left as the car makes a left turn and the dust is kicked up subtly. An angled view of the car's front and left side fills two-thirds of the frame at the end. This outdoor natural setting is well-lit, with the juxtaposition of the modern vehicle within the rustic setting providing a magnificent view.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_582541ff-6b89-499a-9ccc-a1eb7995adb8.jpg"
+}

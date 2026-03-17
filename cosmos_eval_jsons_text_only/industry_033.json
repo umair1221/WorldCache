@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_033",
+  "prompt": "The video begins with a close-up shot of an automated machine in a warehouse or factory setting, characterized by its red and black color scheme and metallic components. The machine is positioned above a conveyor belt composed of numerous cylindrical rollers, which are evenly spaced and designed to smoothly transport items. The background is blurred, revealing stacks of cardboard boxes and bright, even lighting. As the video progresses, the machine's arm moves upward and downward, gripping the rectangular cardboard box that has been conveyed onto the roller conveyor. The camera remains stationary, focusing on the machine's precise movements. By the final frame, one cardboard box has been successfully moved by the machine to the next area, while the machine continues to move the second cardboard box."
+}

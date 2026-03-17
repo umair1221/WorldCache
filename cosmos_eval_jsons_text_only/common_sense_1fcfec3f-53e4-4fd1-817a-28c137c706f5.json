@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_1fcfec3f-53e4-4fd1-817a-28c137c706f5",
+  "prompt": "A dark blue Mercedes-Benz G-Class SUV navigates a steep, dusty hillside in a slow-motion video. The vehicle, with its front lights illuminated, creates a trail of dust as it descends the uneven dirt path. The camera, positioned at eye level, captures the SUV from a wide shot, focusing on its steady descent along the narrow, worn-out track. The SUV's front grille and headlights reflect the diffused white light from the cloudy sky. The surrounding environment includes green grass and scattered stones, with a flat gravel road at the bottom of the slope. To the right, a brown wall and leafy green trees are visible in the background. Three wooden signs stand nearby but lack any text or symbols. The SUV continues its journey down the hill until it reaches the flat gravel surface at the base."
+}

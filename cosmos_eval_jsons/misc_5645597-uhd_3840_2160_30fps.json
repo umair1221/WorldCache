@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_5645597-uhd_3840_2160_30fps",
+  "prompt": "A close-up of a spider at the center of its intricate web, which glistens under the light. The spider, with its dark body and lighter legs, is positioned symmetrically within the web, which radiates outward in a circular pattern. The background is a soft, out-of-focus blend of green hues, suggesting a natural outdoor setting, likely a garden or forest. The spider moves slowly from the bottom to the top of the web, with its legs slightly extended, and appears to be observing its surroundings. The camera angle shifts slightly, capturing the spider's slow ascent and the delicate strands of the web. The background continues to provide a serene, natural backdrop, enhancing the tranquil and detailed view of the spider and its web. By the final frame, the scene remains unchanged, maintaining the focus on the spider and its web against the blurred greenery.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_5645597-uhd_3840_2160_30fps.jpg"
+}

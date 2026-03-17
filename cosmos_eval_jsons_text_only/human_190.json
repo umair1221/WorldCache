@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_190",
+  "prompt": "The video opens in a well-lit gym with a high ceiling and exposed beams, featuring red padded walls adorned with circular logos. Various pieces of fitness equipment, including kettlebells, barbells, and resistance bands, are neatly arranged around the space. A muscular individual, shirtless and wearing black shorts and sneakers, is positioned in front of a white box in the center of the frame. He holds a green kettlebell with both hands, preparing for a lift. The gym's atmosphere is active, with other individuals engaged in their workouts in the background. The individual bends his knees slightly, maintaining balance, before lifting the kettlebell upwards in a controlled motion. As he raises the kettlebell, he extends his arms fully overhead, completing the lift with the kettlebell held above his head. The final frame captures this moment, showing the individual standing upright with the kettlebell securely held above his head, demonstrating strength and control throughout the exercise.  A medium shot of a dynamic action sequence, emphasizing the individual's form and the gym's energetic environment."
+}

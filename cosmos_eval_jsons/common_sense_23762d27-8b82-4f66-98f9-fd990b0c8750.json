@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_23762d27-8b82-4f66-98f9-fd990b0c8750",
+  "prompt": "A man is fishing, standing by a body of water with a serene backdrop of large, smooth rocks and lush greenery. He is wearing a light blue, long-sleeved shirt with the sleeves rolled up to his elbows, and a dark blue baseball cap adorned with a vibrant logo and black sunglasses. His body is angled to the side as he speaks with a slight smile, nodding his head twice—first to the left and then slightly to the right while shrugging slightly during the second nod. Near the end, he briefly removes his right hand from the fishing rod, making an open-handed gesture, before turning his head back to the water. The scene is well-lit with the sun casting a warm glow over the man and his surroundings. The video is captured with a medium shot at eye level, showcasing the man's casual yet focused demeanor amidst the tranquil setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_23762d27-8b82-4f66-98f9-fd990b0c8750.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_110",
+  "prompt": "The video opens with a static shot of a cozy corner of a living space, characterized by soft beige walls and a light brown carpet. A small, round, white side table sits in the foreground, holding a clear plastic container with a white stuffed toy inside. To the right, a gray sofa is adorned with three cushions: two white and one dark green, with a potted plant featuring broad green leaves placed beside it. The warm, subdued lighting creates a serene ambiance. Two robotic arms are partially visible. As the video progresses, the camera angle lowers, revealing more of the robot's body as it slightly bends down and gently picks up a white cloth or bag from the sofa. The stuffed toy in the container and the potted plant remain undisturbed throughout the sequence. By the final frame, the robot's arms continue to hold the cloth or bag, and the setting maintains its tranquil and orderly appearance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_110.jpg"
+}

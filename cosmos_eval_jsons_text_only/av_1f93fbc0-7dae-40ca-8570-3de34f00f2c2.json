@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_1f93fbc0-7dae-40ca-8570-3de34f00f2c2",
+  "prompt": "A nighttime urban street scene viewed from inside a vehicle, likely through a dashboard camera, captures the journey through a well-lit roundabout. The road is marked with yield line markers, a \"YIELD\" sign, and chevron lines, guiding the viewer's perspective. Several cars are present, some moving in the same direction as the viewer's perspective, while others are seen further ahead, indicating light traffic flow. Palm trees line the sides of the road, adding to the urban landscape. In the background, there are buildings and signs, suggesting a commercial area. The sky is dark, emphasizing the nighttime setting. The vehicle maintains a steady pace, navigating through the intersection marked by the \"YIELD\" sign. Other vehicles can be seen moving in various directions, with headlights and taillights creating streaks of light against the dark backdrop. The palm trees and surrounding buildings remain static, contributing to the calm yet dynamic atmosphere of the scene. The video concludes with the car approaching the \"YIELD\" sign."
+}

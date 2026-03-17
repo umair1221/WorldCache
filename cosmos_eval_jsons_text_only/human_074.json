@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_074",
+  "prompt": "The video begins with a person lying on their stomach on a carpeted floor, dressed in a dark blue tracksuit and black sneakers with white soles. They are wearing a festive red Santa hat with white trim. The background features a large glass door with a black frame, partially reflecting the interior, and a circular sign with red and white colors is visible on the left side of the frame. The person then transitions into a series of push-ups, starting from a plank position with hands and feet planted firmly on the ground. They lower their body towards the floor, keeping it straight and parallel to the ground, and then push back up to the starting position, maintaining a steady rhythm. The video concludes with the person still engaged in the push-up motion, demonstrating a continuous and focused workout routine.  A medium shot captures the person's dynamic movement, emphasizing their form and the rhythmic nature of the exercise. The background provides context with the reflective glass door and the festive Santa hat adding a playful element to the scene."
+}

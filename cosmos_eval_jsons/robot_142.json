@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_142",
+  "prompt": "The video opens with a scene set on a wooden table in a cozy living room, featuring a green sofa adorned with various colorful cushions, including one with a cartoon character design. On the table, a small wooden game board with yellow edges is positioned centrally. The game board has several black, red, and green pegs arranged in a grid pattern. A white robotic arm with black joints is extended towards the game board from the left side of the frame, while another robotic arm with a hammer-like attachment is extended from the right side. The hammer is poised above the game board, suggesting an impending action. The video captures the robotic arm with the hammer-like attachment as it positions itself directly above the game board, lowering the hammer slightly, preparing to strike one of the red pegs. The hammer moves closer to the peg, then moves away slightly, and then moves closer to the peg again. The peg remains in position without any movement. By the final frame, the robotic arm with the hammer-like attachment is still near the red peg. The scene remains static, with no further movement observed.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_142.jpg"
+}

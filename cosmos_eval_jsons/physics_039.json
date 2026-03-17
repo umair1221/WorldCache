@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_039",
+  "prompt": "A static shot captures a wooden tabletop where a powerful magnet stands upright on the left, with a purple strip of tape extending from its side. Adjacent to it, a black rotating platform is positioned, also adorned with a purple strip of tape. The platform is connected by a wire, indicating it is powered and capable of rotation. A small white plastic domino block is placed on the rotating platform, initially at rest. As the video progresses, the black rotating platform begins to spin clockwise, causing the white domino block to rotate and move towards the magnet. By the final frame, the white domino block has rotated significantly. The scene is set against a plain, neutral background, emphasizing the interaction between the moving platform and the stationary magnet.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_039.jpg"
+}

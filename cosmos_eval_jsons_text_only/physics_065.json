@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_065",
+  "prompt": "A static shot captures a large, glossy black balloon resting on a smooth, light brown wooden table. To the right, a small, round, black platform holds a pinkish-orange object taped to its surface. A lit matchstick, extending from this object, rotates clockwise on the platform. As the matchstick approaches the balloon, it ignites it, causing the balloon to expand rapidly and burst. The balloon's remnants scatter across the table, and the matchstick continues to rotate, now extinguished, leaving behind a trail of smoke. The final scene shows the table with the remnants of the balloon and the extinguished matchstick, with the platform still rotating slowly."
+}

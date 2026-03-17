@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_119",
+  "prompt": "The video opens with a first-person perspective from a camera mounted on a robotic arm, providing a high-angle view of a modern, open-plan interior space, likely a lounge or break area within an office building. The focal point is a round wooden table with a light finish, surrounded by matching chairs with curved backrests. On the table, there is a small potted plant with green foliage, a cup, and a smartphone. The background features additional round tables and chairs, along with a counter area to the left, all set against a backdrop of light-colored flooring and walls. As the video progresses, the robotic arm, equipped with black gloves, picks up the cup with its right arm and moves it slightly. The camera maintains a steady high-angle perspective throughout, capturing the smooth motion of the robotic arm as it interacts with the cup. The scene remains static otherwise, with no significant changes in the arrangement of objects or the environment."
+}

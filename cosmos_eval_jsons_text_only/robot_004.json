@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_004",
+  "prompt": "The video begins with a close-up shot of an open red toolbox drawer, which is cluttered with various tools and items. Inside the drawer, there are several mechanical tools, including pliers, screwdrivers, and a wrench set, along with some office supplies like markers and pens. The drawer is well-lit, highlighting the metallic sheen of the tools and the vibrant red of the toolbox. As the video progresses, a robotic arm enters the frame from the right side. The arm moves deliberately towards the center of the drawer, where it grasps a tool, likely a retractable utility knife, and begins to lift it from the center of the drawer and places it to the left of the drawer. The robotic arm's movements are smooth and precise, showcasing its advanced capabilities. The background remains static, focusing attention on the interaction between the robotic arm and the tools within the drawer."
+}

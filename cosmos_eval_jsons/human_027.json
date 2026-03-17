@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_027",
+  "prompt": "The video opens in a spacious, well-lit dance studio with orange and white walls and a high ceiling featuring exposed metal beams and fluorescent lights. The floor is tiled, and a large window on the left side allows natural light to illuminate the room. Two tripod-mounted cameras are positioned on either side of the dancer, capturing the performance. The dancer, dressed in black, begins their routine by stepping forward with their right foot, then shifting their weight to their left foot while extending their right arm outward. This sequence repeats as they move rhythmically across the floor, maintaining a steady pace and fluid motion. The dancer's movements are expressive, with occasional bends and sways of their hips. The scene remains static, focusing solely on the dancer's performance without any changes in the environment or introduction of new objects. By the final frame, the dancer continues their routine, seamlessly transitioning through their choreographed steps, showcasing their skill and grace.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_027.jpg"
+}

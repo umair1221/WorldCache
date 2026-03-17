@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_228",
+  "prompt": "A modern kitchen with light wooden paneling and dark brown countertops serves as the backdrop for this video. A woman stands near the counter, dressed casually in a light blue button-up shirt over a white t-shirt and blue jeans, with curly blonde hair and glasses. She holds a white mug in her right hand and gestures expressively with her left hand as she speaks, indicating an engaged conversation. On the counter in front of her lies an open silver laptop with a visible Apple logo, accompanied by a takeout container with a pair of chopsticks resting inside. To the left of the laptop, a small green plant in a clear glass vase adds a touch of greenery. Behind her, a black range hood hangs above the stove, and various kitchen utensils are neatly arranged on the wall. The woman appears relaxed and animated, occasionally sipping from the mug and continuing her expressive gestures. As the video progresses, the woman maintains her position near the counter, continuing her animated conversation. Her gestures remain expressive, and she frequently sips from the mug, suggesting a casual and comfortable interaction. The setting remains consistent throughout, with no significant changes to the objects or background elements. The final frame captures the woman still engaged in her conversation, holding the mug and gesturing with her left hand, maintaining the same relaxed and conversational tone established at the beginning."
+}

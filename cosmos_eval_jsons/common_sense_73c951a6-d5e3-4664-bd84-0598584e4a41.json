@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_73c951a6-d5e3-4664-bd84-0598584e4a41",
+  "prompt": "A person is captured walking through a vast and expansive desert landscape, filmed from a low-angle tracking shot that follows their steady ascent up a large, gently sloping sand dune. The individual, seen from behind, wears a striped gray hoodie with the hood up and dark blue denim shorts, complemented by blue sports shoes with white socks. They carry a water bottle in their left hand, and only part of their right arm from the elbow up is visible. The heavy wind ripples their clothing as they walk, emphasizing the dynamic movement against the serene backdrop. The walking pace is unhurried yet determined, highlighting the vastness and tranquility of the desert setting. The camera maintains focus on the subject, slightly shifting to the right to reveal a distant mountain in the background. As the individual ascends the slope, the camera tilts up slightly, capturing the upward motion. The sand dunes dominate the scenery, stretching out endlessly with gentle slopes and a slightly rippled texture. Sparse vegetation is visible on some dune slopes on the right, adding subtle detail to the otherwise barren landscape. The diffused white lighting from the overcast sky enhances the sense of depth and scale, creating a peaceful yet adventurous atmosphere.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_73c951a6-d5e3-4664-bd84-0598584e4a41.jpg"
+}

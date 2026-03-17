@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_268d7fd7-89d0-42f4-9998-df116eea1bd8",
+  "prompt": "In a softly lit room with a pale beige wall, a woman stands in front of a mirror, performing a meticulous cleansing routine. The camera captures the scene in an over-the-shoulder shot at eye level, subtly moving to keep the focus on her actions and interactions with the mirror. Positioned slightly to the left of the frame, the woman\u2019s reflection is visible in the mirror to the right. Her long, dark brown hair is neatly styled and cascades over her shoulders. She is dressed in a black lace-patterned top layered under a dark cloak-like garment with a blue trim, and a white lanyard hangs around her neck.  The woman begins by talking while looking down and picking up a tissue in her left hand to wipe the left side of her face near the temple, glancing into the mirror. She continues speaking as she inspects the tissue, then switches it to her right hand to wipe the right side of her face and her chin. Her movements are deliberate and methodical, and she pauses briefly to examine the tissue after each action. Next, she wipes her lips in a quick motion while speaking, picks up a new tissue, and wipes her lips again a few times, inspecting it closely. Throughout the sequence, her expression remains focused and calm, with periodic glances at herself in the mirror as she continues her routine. The background is softly lit, creating a neutral and slightly warm ambiance."
+}

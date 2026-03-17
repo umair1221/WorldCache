@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_605fd5b2-0dd9-4909-b110-066c57254f0a",
+  "prompt": "A cinematic video captures a solitary individual standing on a grassy hilltop under a dramatic sky filled with layers of clouds. The person, positioned centrally on a narrow, upright trapezoidal pedestal, is shown in a low-angle wide shot, emphasizing their isolation and the expansive nature around them. The camera initially faces the front of their body from a diagonal view on their left side, then moves in a continuous arc shot, showcasing various cloud formations in the sky. The sun, initially midway in the sky, becomes visible as the camera faces the person straight on, creating a radiant glow. As the video progresses, the sun moves behind the individual, and towards the end, it disappears from the frame. The final shot shows the person slightly off-center, viewed from a diagonal angle behind them on their right side. The lighting is high-contrast, with the bright sunlight filtering through the clouds creating a radiant glow while the central figure remains silhouetted in shadow. The individual is wearing pants and a cap, with their elbows bent and hands positioned in front of their body, though further details about their appearance and posture are obscured. The sky displays a range of colors, from deep blue higher above the horizon to a bright white near the sun.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_605fd5b2-0dd9-4909-b110-066c57254f0a.jpg"
+}

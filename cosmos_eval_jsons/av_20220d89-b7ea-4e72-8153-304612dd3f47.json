@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_20220d89-b7ea-4e72-8153-304612dd3f47",
+  "prompt": "A first-person perspective video shot from inside a vehicle, capturing a parking lot on a sunny day. The dashboard camera provides a view of several cars parked in designated spaces, bordered by low walls and surrounded by residential-style houses with varied roof colors and designs. Utility poles with crisscrossing wires are visible above the lot, and greenery from trees and bushes adds contrast to the urban setting. The sun is high in the sky, casting distinct shadows, indicating midday. As the vehicle moves slowly, the camera captures the slow passage past the parked cars, emphasizing the quiet, everyday atmosphere of the neighborhood.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_20220d89-b7ea-4e72-8153-304612dd3f47.jpg"
+}

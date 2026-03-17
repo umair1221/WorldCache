@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_064",
+  "prompt": "A close-up view captures a skilled craftsman's gloved hands as they operate a plasma cutter in an industrial workshop. The workshop's backdrop features exposed brick walls and scattered tools, emphasizing a functional and utilitarian space. The plasma cutter emits a bright, focused flame, producing a cascade of sparks that scatter outward, illuminating the immediate area with a warm, golden glow. The metal sheet being cut is part of a larger construction, possibly a framework or structural component. The camera maintains a close-up view throughout, showcasing the precision and intensity of the cutting process as the torch moves steadily along the sheet, ensuring a consistent cut. The sparks continue to fly, highlighting the dynamic and focused nature of the task."
+}

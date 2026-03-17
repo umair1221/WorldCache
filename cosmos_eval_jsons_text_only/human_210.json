@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_210",
+  "prompt": "A video showcasing three individuals practicing yoga in a bright, modern indoor space that resembles a yoga studio or fitness center. The room features white brick walls, a tall cylindrical floor lamp with a light shade, and a shelf holding various exercise equipment, including stability balls in different sizes and colors. The individuals are positioned side by side, wearing casual athletic attire suitable for yoga or stretching exercises. The person on the left wears a sleeveless white top and gray pants, the person in the middle dons a white t-shirt and gray sweatpants, while the individual on the right is dressed in a gray short-sleeved t-shirt and black pants. The individuals standing on the mats begin with their arms at their sides, then gradually extend them outward and upward in a synchronized manner, indicating they are following a guided yoga sequence. The background remains static, with no new objects appearing, and the lighting continues to illuminate the scene evenly throughout the frames. By the final frame, the individual on the right has raised their arms fully above their head, and the person in the middle has not fully raised their arms above their head, while both maintain a steady and balanced posture. A medium shot captures the synchronized movements of the participants."
+}

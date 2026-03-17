@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_401b58f7-bcaf-4f43-8e1a-83e3be7582f4",
+  "prompt": "A man harvests a vegetable in a rural garden setting. Dressed in black pants and a dark blue, long-sleeved shirt with sleeves rolled up to his elbows, he bends over to uproot a green onion or leek from a large raised black planter box. The camera captures this action from a medium shot at ground level, positioned just a few inches below his knees, and slightly angled diagonally to frame him as he reaches over. His right foot is forward, with his left hand resting on his right knee, as he grabs the vegetable's stalk. He shakes it left and right to dislodge the soil, then shakes it more vigorously to remove excess dirt from the roots. Standing up straight, he transfers the vegetable from his right to left hand. The backdrop includes a small greenhouse structure made of transparent plastic on the left and a cluster of leafless trees on the right. A green hill is visible in the distance between these elements. The scene is bathed in natural daylight, creating a serene and productive atmosphere.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_401b58f7-bcaf-4f43-8e1a-83e3be7582f4.jpg"
+}

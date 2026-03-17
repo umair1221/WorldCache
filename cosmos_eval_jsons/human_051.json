@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_051",
+  "prompt": "A close-up shot captures a hand holding a clump of dark, crumbly soil and dried plant material above a white rectangular container. The hand, positioned near a green plant with broad leaves, slowly tilts, allowing the soil and debris to pour into the container. The plant, already partially planted, sways gently in the breeze. The background is softly blurred, hinting at an outdoor setting with natural light. As the hand finishes pouring, the container becomes visibly fuller, with the soil and plant material settling in place. The scene conveys a sense of careful gardening, with the hand moving deliberately and the plant swaying slightly in the breeze.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_051.jpg"
+}

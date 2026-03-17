@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_051",
+  "prompt": "The video captures an industrial loading dock scene under clear daylight, showcasing a green Senebogen excavator actively engaged in material handling. The excavator's arm extends over a transfer station docked at a canal, transferring a load of sand or granular material into its hopper. Dust and debris are visibly stirred up, emphasizing the dynamic nature of the operation. The station is situated within a canal bordered by a concrete embankment and a rocky shoreline. A parked vehicle is visible near the canal's edge, adding context to the industrial setting. The overall environment suggests a port or industrial zone dedicated to material transportation and processing, where excavator operations are synchronized with crane systems. A high-angle shot provides a comprehensive view of the activity, highlighting the interaction between the excavator and the transfer station.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_051.jpg"
+}

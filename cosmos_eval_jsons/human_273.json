@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_273",
+  "prompt": "The video opens with a high-angle view of an outdoor basketball court, characterized by a vibrant red surface marked with crisp white lines. A standard basketball hoop with a transparent backboard and a metal rim stands prominently on the left side of the frame. The court is bordered by a neatly trimmed grassy area and a paved walkway behind the basketball hoop. A person dressed in athletic wear and neon green sneakers is seen dribbling the ball near the center of the court. They approach the hoop, execute a jump shot, and the ball is released in the basket. The camera follows the trajectory of the ball as it arcs through the air, landing on the court below and bouncing slightly under the hoop. The person walks away from the hoop, leaving the ball behind. The final frame shows the empty basketball court, with the hoop and the ball bouncing.  A dynamic aerial shot captures the action, emphasizing the player's movement and the vibrant colors of the court. The scene transitions smoothly, highlighting the player's skillful execution of the shot and the serene outdoor setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_273.jpg"
+}

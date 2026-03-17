@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_086",
+  "prompt": "The video captures a dynamic moment during a basketball game between the New Orleans Pelicans and the Cleveland Cavaliers at the Quicken Loans Arena. The scoreboard shows New Orleans leading 12-10 in the first quarter with 4:27 remaining. The court prominently displays the Cavaliers' logo, and players from both teams are strategically positioned. The New Orleans players wear red jerseys, while the Cleveland players are in white. The arena is filled with enthusiastic spectators, adding to the vibrant atmosphere.  In the sequence, a Cleveland player in a white jersey dribbles the ball, attempting to maneuver past two opposing players in red jerseys. The player in white makes a swift move towards the basket, but is closely guarded by the defenders. The action intensifies as the player in white approaches the basket, with the clock showing 4:21 remaining in the first quarter. The game remains competitive, with players from both teams actively vying for control and scoring opportunities."
+}

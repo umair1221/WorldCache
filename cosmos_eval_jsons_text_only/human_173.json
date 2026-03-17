@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_173",
+  "prompt": "The video opens in a spacious, sunlit studio with large windows allowing natural light to flood the wooden floor. The walls feature a mix of exposed red brick and white-painted surfaces, creating a modern yet rustic setting. In the center of the room, two practitioners, one dressed in a white uniform with a black belt, stand facing another dressed in a black uniform. A group of seated children beside them are attentively observing the demonstration. The practitioners begin by standing upright before greeting each other. As the video progresses, they engage in a martial arts demonstration, with the practitioner in black executing high kicks and punches while the practitioner in white defends. The camera captures their movements from various angles, emphasizing their fluid and dynamic actions. By the final frame, both practitioners are upright, while the children remain seated, focused on the instruction. The background includes a fire extinguisher mounted on the wall and a curtain partially drawn to the side, adding to the studio's ambiance."
+}

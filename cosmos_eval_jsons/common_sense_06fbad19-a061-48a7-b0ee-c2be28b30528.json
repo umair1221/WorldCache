@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_06fbad19-a061-48a7-b0ee-c2be28b30528",
+  "prompt": "A sleek, modern monorail train glides through a lush, forested landscape. The scene opens with an eye-level long shot, capturing the train's light-gray exterior adorned with green stripes as it moves steadily from right to left. Supported by sturdy pillars, the monorail infrastructure features parallel metallic beams with a smooth underside. The train approaches a dark rectangular tunnel seamlessly integrated into the hillside. Inside the train, passengers can be seen through the windows, with a handicap sign sticker and a stylized \"M\" sticker visible on the first and last coaches. The train's backside displays three large glass panels, with rain wipers installed and a white sticker featuring a cartoon character holding a rainbow over its head. Inside the operator's room, a person in a white shirt is seen standing. The train's headlights are located at the very bottom of the backside.  The camera pans slightly left for the first half of the clip, then tilts down for the rest, focusing on the side view of the train as it travels past. Below the train, a winding two-lane road snakes through the scene, marked by light orange lines and flanked by safety railings. The backdrop is a vibrant green forest under a bright, clear sky, enhancing the train's smooth journey and intricate details.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_06fbad19-a061-48a7-b0ee-c2be28b30528.jpg"
+}

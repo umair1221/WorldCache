@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_162",
+  "prompt": "The video opens with two men engaged in a judo practice session inside a well-lit gymnasium-like area. The setting features large windows allowing natural light to illuminate the space, creating a bright and open atmosphere. The floor is covered with a yellow and red mat. Both men are dressed in white judo uniforms, known as gi, with black belts indicating their rank. One man extends his arm forward, palm facing outward, while the other grasps it firmly, demonstrating a judo technique. The background includes a basketball hoop mounted on the wall and a railing that separates the area from an upper level, suggesting a multi-purpose sports facility.  As the sequence progresses, the man holding the arm begins to apply pressure, causing the other man whose arm is extended to bend slightly backward. The man holding the arm then shifts his grip and body position, attempting to control and maneuver the opponent's arm and torso. The interaction involves precise movements and controlled force, showcasing the techniques and skills involved in judo. By the final frame, the man holding the arm has successfully maneuvered the opponent, and both of them are now bent, with the man holding the arm maintaining a firm grip and control over the opponent's arm and torso. The scene concludes with both men in a dynamic stance, highlighting the fluidity and precision of their judo practice."
+}

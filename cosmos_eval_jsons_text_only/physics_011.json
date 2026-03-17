@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_011",
+  "prompt": "A static shot captures a light-colored wooden coffee table in a cozy living room, with a vibrant yellow couch in the background. On the table, a tennis ball, a smaller red ball, and a black pipe are positioned on the left side. The scene is well-lit, emphasizing the indoor setting. As the video progresses, an orange ball rolls out of the black pipe and smoothly glides across the table towards the right. The orange ball continues its journey until it exits the frame on the right. The tennis ball and the smaller red ball remain stationary throughout the video. By the final frame, the orange ball has completely left the table, leaving only the tennis ball and the smaller red ball in their original positions."
+}

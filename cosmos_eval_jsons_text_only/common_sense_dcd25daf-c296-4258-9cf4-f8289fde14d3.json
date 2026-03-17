@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_dcd25daf-c296-4258-9cf4-f8289fde14d3",
+  "prompt": "A wide shot captures a boat deck on a narrow body of water, facing a metal lock gate surrounded by stone walls of a canal. The water is in constant motion, creating white foam as it flows towards the boat. The stone walls are dark, with patches of grass growing out of them. The ground is covered with green grass, and trees of various shapes line both sides of the canal. The sky is cloudy, casting natural light over the scene.  The boat's deck is white, adorned with a cross-shaped structure and two flags: the French tricolor flag and another flag with a white background, featuring a red circle and a blue swallow-tail shape. On the left side of the frame, an elderly woman in a purple top, sunglasses, a red scarf, and dark gray pants stands near the mooring post, holding the rope attached to the boat. Stone stairs with metal railings lead up to the lock gate, which is divided into two flanks. On top of the lock gate, a person is standing on the right flank, while another slowly moves forward on the left flank. A white car is parked next to a green tree beside the stairs, with a short green fence separating it from the vehicle. Behind the car, a house with beige walls and a tiled roof is visible. The entire scene is captured in a wide shot with random camera movements at eye level."
+}

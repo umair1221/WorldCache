@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_147",
+  "prompt": "The video opens with a shot of a simple, modern indoor environment, characterized by a plain beige wall and a light brown wooden table. On the table, there is a circular object resembling a cake or disc with a colorful design, placed centrally. To its right, two smaller cylindrical items are visible\u2014one green and the other red with a dark top. The floor is a clean, light-colored surface, and part of a chair leg is visible in the bottom left corner. In the background, a doorway and a small potted plant can also be seen. As the video progresses, the perspective shifts slightly downward, revealing a pair of wheels and grippers. A robotic arm enters the frame from the right, reaching out with its left gripper towards the red cylindrical object. The robot lifts the object and places it to the left of the larger circular object. The other smaller cylindrical objects remain stationary throughout the sequence. By the final frame, the red cylindrical object has been moved onto the table, and the gripper returns to the side of the robot. The scene remains largely unchanged."
+}

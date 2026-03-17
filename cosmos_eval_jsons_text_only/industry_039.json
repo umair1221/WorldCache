@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_039",
+  "prompt": "A close-up shot captures a person's gloved hand, clad in yellow gloves with red trim, gripping a steel pipe. The individual is using a hacksaw to cut through the pipe, which is part of a larger mechanical setup. The background is slightly blurred, suggesting an outdoor construction site or industrial area, with hints of red and white structures and machinery in the distance. The focus remains tightly on the hand and the tool, emphasizing the rhythmic back-and-forth sawing motion. The hand applies consistent pressure, ensuring a steady and precise cut. The scene maintains a tight focus on the detailed manual task, with no significant changes in the environment or additional objects appearing."
+}

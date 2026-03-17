@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_188",
+  "prompt": "The video opens with a winter scene at a ski resort, showcasing a skier dressed in winter gear gliding down a snow-covered slope under a bright, clear blue sky. The sun is positioned directly in front of the camera, casting a radiant glow over the scene. In the background, a chairlift system with multiple empty seats is suspended by cables, stretching across the sky. The skier approaches the camera, changes direction abruptly, slowing down and stopping. This action creates a cloud of snow that approaches the camera, gradually obscuring the view with snowflakes and spray filling the air. As the cloud clears, the skier stands upright, holding ski poles, and appears ready to continue their descent. The final frame captures the skier silhouetted against the bright sunlight, with the remnants of the snow cloud obscuring the camera frame on the right side."
+}

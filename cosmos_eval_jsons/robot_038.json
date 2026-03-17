@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_038",
+  "prompt": "The video begins with a close-up shot of a wooden surface in a modern kitchen setting. The surface holds several objects: an orange glass bowl, an orange plastic lid, a green ball-shaped fruit, and a yellow potato. The background features a tiled backsplash with dark tiles, and some cables or wires are visible behind it. A robotic arm enters the frame from above, moving towards the yellow potato. It then grasps the yellow potato and lifts it up, showcasing its smooth, round shape and vibrant color. The potato is then moved towards the orange bowl, where it is released, causing the potato to gently fall into the bowl. The final frame shows the potato now comfortably nestled inside the bowl, with the robotic arm having completed its task. The scene captures the precision and efficiency of the robotic arm in handling everyday kitchen items.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_038.jpg"
+}

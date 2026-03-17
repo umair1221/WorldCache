@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_080",
+  "prompt": "The video opens with a view of a tabletop setup where two robotic arms are positioned at opposite ends. The table is adorned with a patterned cloth featuring floral designs. A tissue box, a red marker, a white marker, and a small red object resembling a cap or lid are placed on the table. In the background, a shopping cart and part of an office chair are visible, suggesting the setting is likely a workspace or demonstration area. Shadows of the robotic arms are visible on the table surface, cast due to the lighting in the environment. One of the robotic arms begins to move, extending its claw-like hand towards the red marker, indicating an attempt to grasp it. The robotic arm to the left of the frame first moves and picks up the small red cap-like object. Then, the robotic arm to the right of the frame picks up the red marker and fits it into the cap held by the other arm. After this, the left robotic arm releases its grip on the red object. The right robotic arm then lifts the assembled marker and places it into a box on the table.  A medium shot captures the robotic arms' precise movements, highlighting their dexterity and coordination. The background remains static, emphasizing the focus on the robotic arms' actions. The lighting is bright, casting clear shadows that enhance the visibility of the robotic arms' movements and the objects they interact with.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_080.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_118",
+  "prompt": "The video opens with a first-person perspective from a camera mounted on a robot inside a modern conference room. The scene is set with neutral beige walls and a long, dark rectangular table at the center, surrounded by several gray office chairs with wheels. The floor is light wood, creating a clean and professional atmosphere. A large black screen or board is mounted on the wall, and the lighting is uneven. Another robot is seen on the opposite side of the table, partially obscured by the table and chair. The video captures the robot with the camera moving one chair toward the table with its one arm, and this action is repeated by another robot interacting with a chair. The robot with the camera successfully positions its chair near the table, while the second robot remains in physical contact with the chair. The rest of the setting remains unchanged, including the uneven lighting and the camera angle.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_118.jpg"
+}

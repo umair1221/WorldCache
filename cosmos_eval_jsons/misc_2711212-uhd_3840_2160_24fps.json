@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_2711212-uhd_3840_2160_24fps",
+  "prompt": "The video opens with an aerial shot of a tranquil lake surrounded by lush, verdant hills. A white motorboat, carrying a group of people, glides across the dark blue waters at a steady pace, leaving a trail of white foam in its wake. To the right, a red inflatable tube with two individuals onboard is towed along, adding a playful element to the scene. The sun casts a warm glow over the water, creating a shimmering effect. As the motorboat accelerates, the wake becomes more pronounced, enhancing the dynamic feel of the video. The two riders on the inflatable tube maintain their balance, clearly enjoying the ride. The serene backdrop of forested hills and a clear blue sky remains constant, providing a picturesque setting. The video concludes with the motorboat and the inflatable tube continuing their journey, the wake spreading out behind them, encapsulating the joy and tranquility of a day spent on the water.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_2711212-uhd_3840_2160_24fps.jpg"
+}

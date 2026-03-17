@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_197",
+  "prompt": "The video opens with a serene park setting, featuring multiple ping-pong tables scattered across a paved area next to lush greenery and trees. In the foreground, a player wearing a patterned shirt and dark pants is actively engaged in a game of table tennis, holding a paddle and preparing to serve. The scene is lively yet peaceful, with other individuals visible in the background, also playing ping-pong, adding to the communal atmosphere. The park includes a stone staircase leading up to a higher level, partially obscured by the foliage. As the video progresses, the player in the patterned shirt serves the ball, which is captured mid-air heading towards the opponent. The opponent, dressed in a yellow t-shirt, responds with a swift hit, continuing the rally. The background remains consistent, with the park's tranquil environment and ongoing games providing a backdrop to the focused interaction between the two players. By the final frame, the player in the patterned shirt is seen following through with their swing, maintaining a poised stance, while the opponent in the yellow shirt is in the process of returning the ball, indicating an ongoing and dynamic exchange typical of a competitive game of table tennis. The video ends with the man in the patterned shirt preparing to hit the ball back to the opponent, with the ping pong ball changing position throughout the video."
+}

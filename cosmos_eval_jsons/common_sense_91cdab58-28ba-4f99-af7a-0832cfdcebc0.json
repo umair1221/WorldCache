@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_91cdab58-28ba-4f99-af7a-0832cfdcebc0",
+  "prompt": "A majestic hawk perches on a metallic platform, its white underbelly contrasting sharply with its dark brown wings and back. The bird's yellowish eyes and streaks of brown between its white breast and head feathers are prominently displayed. Clutched firmly in its talons is the tail of a fish, which it occasionally pecks at. Throughout the clip, the hawk remains mostly stationary, occasionally adjusting its head from right to left. The backdrop features a large body of brown, wind-streaked water, with dense green vegetation lining the opposite shore. The platform, smaller than the bird, is adorned with rivets and a metal pipe is visible in the bottom left corner. Trees separate the bird from the water, adding depth to the scene. The camera captures the bird in its natural environment with gentle movements, focusing on the hawk as it enjoys its meal. Sunlight bathes the scene, casting natural shadows on the vegetation and a soft glow on the bird's feathers.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_91cdab58-28ba-4f99-af7a-0832cfdcebc0.jpg"
+}

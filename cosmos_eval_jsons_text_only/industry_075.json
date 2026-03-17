@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_075",
+  "prompt": "The video opens with a close-up of a freshly cut tree trunk, revealing its rough, uneven surface with visible wood fibers and patches of green moss or lichen. The bark is light-colored, and the texture appears slightly rough, indicating recent cutting. The setting is near a forested area or a logging site, with diffused sunlight illuminating the scene. As the video progresses, a chainsaw labeled \"Oregon Pro-Am .325\" enters the frame from the right side. The chainsaw moves horizontally across the surface of the tree trunk, cutting through it. The blade spins rapidly, creating a shower of sawdust and small wood chips that scatter around the area. The chainsaw's motor hums loudly, adding to the dynamic atmosphere of the scene. The chainsaw continues to slice through the trunk, gradually revealing more of the freshly cut surface. By the final frame, the chainsaw has made significant progress, with a noticeable portion of the tree trunk already cut away. Sawdust and wood chips continue to fly, emphasizing the ongoing cutting process. The scene remains focused on the interaction between the chainsaw and the tree trunk, highlighting the mechanical force and the transformation of the wood."
+}

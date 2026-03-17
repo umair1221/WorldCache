@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_139",
+  "prompt": "A serene and inviting scene centers around a steaming cup of coffee. The cup, a simple yet elegant white ceramic mug, sits prominently on a rustic burlap surface. Surrounding the mug is a generous pile of roasted coffee beans, their rich brown hues contrasting beautifully with the white of the mug and the earthy tones of the burlap. Steam rises gently from the cup, indicating that the coffee is freshly brewed and piping hot. The background is a deep, dark black, which serves to highlight the warm colors of the coffee beans and the steam. The overall atmosphere is one of warmth and comfort, evoking a sense of relaxation and enjoyment. The camera remains stationary, focusing on the cup and its surroundings, emphasizing the sensory experience of the coffee. The scene remains consistent throughout the video, with the steam continuing to rise gently from the cup, maintaining the tranquil and comforting ambiance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_139.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_018",
+  "prompt": "A medium shot captures the dynamic movement of tangerines rolling down a metallic roller conveyor machine in a clean, organized industrial setting. The conveyor belt, part of a larger processing facility, is elevated and features a series of tangerines moving steadily from a higher level onto it. A blue motor on the left indicates the machine's mechanical operation. The tangerines, bright orange and glossy, continue their journey along the belt, some falling off into a collection area below. A person wearing a green shirt is partially visible on the right, actively handling and inspecting the fruit, possibly sorting them. The background includes stacks of red plastic crates, reinforcing the commercial or agricultural processing environment. The scene concludes with the roller conveyor machine still in motion, with a steady stream of tangerines moving through the processing area.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_018.jpg"
+}

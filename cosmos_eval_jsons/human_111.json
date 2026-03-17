@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_111",
+  "prompt": "A man seated in a small, weathered blue wooden boat paddles gently on calm, reflective water. He wears a striped shirt and a red turban, and his posture suggests he is focused on navigating the boat. The boat is simple, with a few wooden planks visible inside, and it appears to be made for small-scale fishing or transportation. In the background, several brightly colored boats are anchored, hinting at a bustling harbor or fishing village. The water is still, mirroring the boats and the clear blue sky above, which is unobstructed by clouds. As the video progresses, the man continues to paddle steadily, maintaining the boat's course. The water around the boat creates gentle ripples, and the reflections on the surface add a sense of tranquility to the scene. The video concludes with the man still paddling, the boat moving slowly across the water, and the colorful boats in the distance remaining a constant backdrop.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_111.jpg"
+}

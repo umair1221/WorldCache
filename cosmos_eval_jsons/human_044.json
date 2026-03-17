@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_044",
+  "prompt": "In a woodworking scene, a person wearing a red shirt is using a band saw to cut a light-colored wooden board with a pre-drawn curved outline. The individual carefully guides the wood, ensuring precise alignment with the saw's path. The board is placed on a dark wooden workbench, and sawdust is visible, indicating active cutting. The person adjusts the wood's position, rotating it slightly to follow the marked curves, and continues to hold the wood steady to complete the cut. The video captures the meticulous process of shaping the wood, emphasizing the precision and care involved in the task. A close-up shot from a slightly elevated perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_044.jpg"
+}

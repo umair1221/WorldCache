@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_203",
+  "prompt": "A man on a sandy beach, shirtless and wearing gray shorts, performs a kettlebell exercise. Positioned near the shoreline, he bends over, lifting a blue kettlebell from the sand, showcasing his muscular physique and focused demeanor. The vast, calm turquoise ocean stretches out to the horizon under a clear blue sky, with a single seagull flying nearby, adding a dynamic element to the tranquil scene. The man transitions into an overhead press, raising the kettlebell above his head before lowering it back down to his shoulder level. The final frame captures him recovering from a lunge position, holding the kettlebell in front of him, indicating a continuation of his workout routine amidst the picturesque beach setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_203.jpg"
+}

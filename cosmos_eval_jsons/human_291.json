@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_291",
+  "prompt": "The video opens with a man standing in an open courtyard, facing away from the camera. He is dressed in a patterned short-sleeved shirt and light-colored shorts, holding a cricket bat in his right hand, which is angled slightly upwards. In front of him, there is a small stack of rocks. The background features weathered stone walls with arched doorways, adding a sense of history and grandeur to the setting. The ground is uneven and covered with dirt, with some scattered debris visible around the area. Another person, dressed in dark clothing, stands partially in the frame to the right, near the edge of the courtyard. Throughout the video, the man remains stationary, maintaining his grip on the bat and his stance. The stack of rocks in front of him stays undisturbed, and no new objects appear in the scene. The environment and the other individual in the background also remain unchanged. By the end of the video, the man gets in a position to hit the red ball that moves towards him by the end of the frame, but does not successfully hit the ball.  A medium shot of a man preparing to hit a cricket ball in an ancient courtyard.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_291.jpg"
+}

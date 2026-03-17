@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_94caa98b-1999-42f0-bafd-a5729c2fea25",
+  "prompt": "A medium shot from inside a vehicle captures the scene of a sunlit outdoor parking lot filled with various cars, including sedans and SUVs, parked neatly in rows beneath the shade of large, leafy trees. The background showcases a mix of modern and older-style buildings, indicating a commercial or institutional setting. The sky is clear and bright, casting distinct shadows on the ground. The video begins with the vehicle's dashboard in the foreground, and as it reverses, the camera remains steady, focusing on the process of finding a parking spot. The camera angle shifts slightly to capture the movement of the vehicle as it maneuvers into the designated space."
+}

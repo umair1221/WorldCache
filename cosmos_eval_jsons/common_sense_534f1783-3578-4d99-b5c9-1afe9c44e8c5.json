@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_534f1783-3578-4d99-b5c9-1afe9c44e8c5",
+  "prompt": "A documentary-style video captures the backs of two individuals walking through an urban alleyway. The camera starts with an over-the-shoulder shot at eye level, focusing on the man and woman standing facing away from the camera. The man, ahead, is dressed in a red shirt, beige shorts, and a gray backpack with a beige cap hanging off it. His posture is upright, with his head slightly tilted to the right and his left hand initially in front of him before dropping to the side. Behind him, the woman, with light hair and dark roots, is wearing a black sleeveless top with intricate lace patterns and blue pants with a white geometric design. She holds a black camera to her face, filming the man. As they begin to walk, the camera tracks behind them, maintaining a steady shot. The alleyway is well-lit with natural light, flanked by tall buildings. The left side features older, weathered walls with visible vents and a short door, while the right side showcases newer, smoother buildings with barred windows and external staircases. The concrete floor of the alley has two parallel yellow lines painted along the left side. A brown SUV is parked near the entrance of a gray building on the right. Additional buildings with blue and white exteriors, air conditioning units, and external staircases are visible in the background. The scene conveys a sense of movement and exploration within an urban setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_534f1783-3578-4d99-b5c9-1afe9c44e8c5.jpg"
+}

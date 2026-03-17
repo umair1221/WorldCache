@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_031",
+  "prompt": "A wide shot captures the vast, undulating sand dune under a clear blue sky, highlighting the textured, golden-orange surface of the desert. The scene is tranquil and expansive, emphasizing the isolation and beauty of the desert environment. A person dressed in a white shirt, dark pants, and a headscarf enters the frame from the right, walking up the steep slope of the dune. Their shadow is prominently cast on the sand, stretching long and straight due to the bright sunlight. As they ascend, they kick up small clouds of sand with each step, leaving a trail behind them. The individual bends forward slightly, using their hands for balance, and continues to climb higher, gradually disappearing further up the dune. By the final frame, the person has ascended significantly, leaving a distinct path of disturbed sand behind them, while the vast expanse of the desert stretches out beneath the clear blue sky.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_031.jpg"
+}

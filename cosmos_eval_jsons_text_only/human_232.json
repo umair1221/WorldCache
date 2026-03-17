@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_232",
+  "prompt": "A woman stands on the left side of the video, facing the right side of the frame in a well-lit kitchen, preparing food at a wooden countertop. She wears a yellow, green, and white plaid jacket over an orange button-up top. The countertop is arranged with various items: a bowl of blueberries, an avocado next to a halved avocado, a pink mug, a black mug, a slice of bread, and a white kettle. Behind her and to her left are several potted plants, including one hanging from the wall. The woman is focused on slicing the skin off an avocado above the cutting board. She uses her right hand to hold the knife and her left hand to hold the avocado. As she slices one part of the avocado's skin off, she places the skin on the cutting board. The camera captures the woman at eye level, emphasizing her concentrated expression and the natural movement of her hands. The scene remains consistent throughout the video, highlighting the serene and organized kitchen environment."
+}

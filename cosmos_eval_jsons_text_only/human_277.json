@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_277",
+  "prompt": "A gritty, realistic depiction of a muscular African-American boxer in a dedicated training session within a sparsely furnished gym. The scene is set against a stark white wall and a red ceiling beam, with four red punching bags hanging from black metal brackets. Two of the bags are labeled \"Olympic Fight\" in white lettering. Two wooden gymnastics ladders are mounted on the wall to the right of the punching bags. The boxer, shirtless and wearing black boxing gloves and dark shorts, practices his punches with fluid and deliberate movements, showcasing his intense focus and dedication. The subdued lighting enhances the raw energy of the training session, capturing the boxer's rhythmic and determined actions as he maintains a consistent posture throughout the workout. A medium shot from a slightly elevated perspective."
+}

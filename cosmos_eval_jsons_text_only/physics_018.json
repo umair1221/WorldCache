@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_018",
+  "prompt": "The video opens with a static shot of a light-colored wooden tabletop, smooth and polished with horizontal wood grain patterns. Two black pipes lie horizontally at the far left and right edges of the table, serving as launch points for the balls. In the background, a yellow couch provides a contrasting backdrop. The lighting is even and bright, highlighting the details of the tabletop and the pipes. As the video progresses, a grey tennis ball rolls out from the left pipe and moves towards the center of the table. Simultaneously, a brown tennis ball emerges from the right pipe and heads towards the center. The two balls collide and pass each other, continuing to roll in opposite directions. The grey ball rolls to the right, while the brown ball rolls to the left. Eventually, both balls exit the frame. The final frame shows the tabletop empty again, with the two black pipes still in place, and the yellow couch in the background. The scene returns to its initial state, with no further action occurring."
+}

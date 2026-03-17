@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_226",
+  "prompt": "A medium shot captures a woman with curly hair, wearing a blue patterned top, standing in a well-lit kitchen with light wooden walls and cabinetry. She holds a yellow mixing bowl in her left hand and a whisk in her right. The window behind her, framed in wood, reveals a sunny snowy outdoor scene, adding a serene backdrop. On the counter to her left, a woven basket holds dried herbs or grains, while a wooden cutting board rests against the wall behind her. A small potted plant is placed on the counter to her right. The woman first looks out the window, then shifts her gaze downward and begins stirring the contents of the bowl with the whisk. She remains focused on the task as she mixes the ingredients, her movements deliberate and purposeful. The final frame shows her still whisking, with her attention fixed on the bowl.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_226.jpg"
+}

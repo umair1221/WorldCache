@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_035",
+  "prompt": "A medium shot of a man in a well-lit gym practicing leg exercises against a large, black punching bag labeled \"FIGHT BAG.\" The gym features white walls with black metal racks and various fitness equipment in the background, including a pull-up bar and weightlifting platforms. The man, dressed in a dark gray t-shirt and black shorts, is seen performing a series of controlled leg kicks with his right leg extended forward, while his left hand, wrapped in black boxing tape, firmly grips the punching bag. His body remains bent slightly forward, indicating focus and control during the exercise. The scene remains consistent throughout the video, with no significant changes in the environment or the introduction of new objects. The final frame captures the man continuing his leg exercise, maintaining the same posture and intensity as he did in the initial frame."
+}

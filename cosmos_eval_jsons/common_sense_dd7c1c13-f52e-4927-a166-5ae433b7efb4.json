@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_dd7c1c13-f52e-4927-a166-5ae433b7efb4",
+  "prompt": "In a grand, opulent venue, two men in formal attire stand on an elevated platform, pouring champagne into a towering pyramid of stacked glasses. The platform is adorned with a black and gold-patterned cloth, and behind it, a live band performs, featuring a grand white piano and musicians in elegant attire. The man on the left wears a classic black suit and tie, while the man on the right is dressed in a tailored dark uniform with gold buttons and insignia. The champagne glasses are arranged in a cascading pyramid formation, with the champagne flowing from the top glass down to fill each layer below. The mid-ground and background reveal a large, circular upper balcony filled with formally dressed onlookers, and additional decorative lighting illuminates the space. The camera begins with a medium, eye-level shot of the men before slowly zooming out to capture the entire scene, transitioning to a wide shot at a low angle.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_dd7c1c13-f52e-4927-a166-5ae433b7efb4.jpg"
+}

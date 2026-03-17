@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_041",
+  "prompt": "In a playful toy kitchen setting, a robotic arm interacts with various miniature kitchen items. The scene centers around a toy stove with four burners and an oven below. On the stove, colorful toy vegetables including a green squash, an orange carrot, a yellow bell pepper, and a purple onion are arranged. A toy pot sits on one burner, accompanied by a toy lid placed nearby. To the right of the stove, a sink holds a toy pumpkin and a green plate. The robotic arm, positioned above the stove, lifts the lid from the pot, moves it upwards, and places it back onto the pot with smooth, controlled precision. The background features wooden cabinets and a countertop, enhancing the realistic toy kitchen ambiance. A medium shot captures the robotic arm's interaction from a slightly elevated perspective."
+}

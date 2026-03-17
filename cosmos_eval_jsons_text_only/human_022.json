@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_022",
+  "prompt": "A dynamic video sequence set in a spacious indoor basketball court with a polished wooden floor marked for play. Large windows line the walls, allowing natural light to flood the space, and the ceiling features recessed lighting. A basketball hoop is mounted on the right side of the frame, with a net hanging from it. The backboard is partially visible, and the surrounding area includes padded walls and storage units. In the center of the court, a person dressed in a blue long-sleeve shirt and dark pants is holding a basketball, preparing to shoot. They take a few steps forward, raise their arm, and release the ball towards the hoop. The ball arcs through the air, heading towards the net. After the shot, the individual watches the ball's trajectory, then retrieves the ball and prepares for another attempt, repeating the process of dribbling, shooting, and observing the outcome. By the final frame, the person is seen walking away from the hoop, holding the basketball, and looking down at it, seemingly reflecting on their previous shot.  A medium shot captures the person's movements, emphasizing their actions and the surrounding environment. The camera remains stationary, focusing on the individual's interaction with the basketball and the hoop."
+}

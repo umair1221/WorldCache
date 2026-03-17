@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_063",
+  "prompt": "The video opens in a modern kitchen with light wooden cabinets and a stainless steel microwave. A whiteboard on the wall behind the subjects reads \"Guava Juice!\" along with additional text that appears to be instructions for a challenge involving chocolate and a cake. Two individuals, both wearing white t-shirts, stand side by side. The person on the left, sporting a blue baseball cap, gestures with their hands, possibly explaining or reacting to the situation. The person on the right, whose hair is adorned with colorful candy pieces, appears to be in a state of surprise or discomfort, with frosting or a similar substance on their face and shirt. Throughout the sequence, the person on the right touches their face and chest, indicating a reaction to the challenge. The scene concludes with both individuals still in the kitchen, maintaining their positions and continuing their interaction, with the person on the right still showing signs of surprise or discomfort. A medium shot captures the dynamic expressions and movements of the two individuals."
+}

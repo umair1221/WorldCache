@@ -138,138 +138,11 @@ class Video2WorldModelRectifiedFlow(Text2WorldModelRectifiedFlow):
 
         return net_output_B_C_T_H_W
 
-    def _prepare_xt_for_condition(
-        self,
-        noise: torch.Tensor,
-        xt_B_C_T_H_W: torch.Tensor,
-        timesteps_B_T: torch.Tensor,
-        condition: Text2WorldCondition,
-    ):
-        """
-        Prepares the xt tensor and timesteps for a single condition (cond or uncond).
-        Returns (prepared_xt, prepared_timesteps, condition_video_mask_or_None).
-        This extracts the shared logic from denoise() so it can be reused for batching.
-        """
-        condition_video_mask = None
-        if condition.is_video:
-            condition_state_in_B_C_T_H_W = condition.gt_frames.type_as(xt_B_C_T_H_W)
-            if not condition.use_video_condition:
-                condition_state_in_B_C_T_H_W = condition_state_in_B_C_T_H_W * 0
-
-            _, C, _, _, _ = xt_B_C_T_H_W.shape
-            condition_video_mask = condition.condition_video_input_mask_B_C_T_H_W.repeat(1, C, 1, 1, 1).type_as(
-                xt_B_C_T_H_W
-            )
-            xt_B_C_T_H_W = condition_state_in_B_C_T_H_W * condition_video_mask + xt_B_C_T_H_W * (
-                1 - condition_video_mask
-            )
-
-            if self.config.conditional_frame_timestep >= 0:
-                condition_video_mask_B_1_T_1_1 = condition_video_mask.mean(dim=[1, 3, 4], keepdim=True)
-                timestep_cond_B_1_T_1_1 = (
-                    torch.ones_like(condition_video_mask_B_1_T_1_1) * self.config.conditional_frame_timestep
-                )
-                timesteps_B_1_T_1_1 = timestep_cond_B_1_T_1_1 * condition_video_mask_B_1_T_1_1 + timesteps_B_T * (
-                    1 - condition_video_mask_B_1_T_1_1
-                )
-                timesteps_B_T = timesteps_B_1_T_1_1.squeeze()
-                timesteps_B_T = (
-                    timesteps_B_T.unsqueeze(0) if timesteps_B_T.ndim == 1 else timesteps_B_T
-                )
-
-        return xt_B_C_T_H_W, timesteps_B_T, condition_video_mask
-
-    def _postprocess_output(
-        self,
-        noise: torch.Tensor,
-        net_output: torch.Tensor,
-        condition: Text2WorldCondition,
-        condition_video_mask: torch.Tensor,
-    ):
-        """
-        Applies GT frame velocity replacement on the network output if needed.
-        """
-        if condition.is_video and self.config.denoise_replace_gt_frames:
-            gt_frames_x0 = condition.gt_frames.type_as(net_output)
-            gt_frames_velocity = noise - gt_frames_x0
-            net_output = gt_frames_velocity * condition_video_mask + net_output * (
-                1 - condition_video_mask
-            )
-        return net_output
-
-    @staticmethod
-    def _cat_conditions(cond_a: Text2WorldCondition, cond_b: Text2WorldCondition):
-        """
-        Concatenates two condition dataclass instances along the batch dimension.
-        Tensors are torch.cat'd along dim=0. Non-tensor fields (e.g., data_type, bools)
-        are taken from cond_a (they must match between cond and uncond).
-        """
-        kwargs = {}
-        for f in dataclass_fields(cond_a):
-            val_a = getattr(cond_a, f.name)
-            val_b = getattr(cond_b, f.name)
-            if isinstance(val_a, torch.Tensor) and isinstance(val_b, torch.Tensor):
-                kwargs[f.name] = torch.cat([val_a, val_b], dim=0)
-            else:
-                # For non-tensor fields (DataType, bool, None, etc.), use cond_a's value
-                kwargs[f.name] = val_a
-        return type(cond_a)(**kwargs)
-
-    def denoise_batched(
-        self,
-        noise: torch.Tensor,
-        xt_B_C_T_H_W: torch.Tensor,
-        timesteps_B_T: torch.Tensor,
-        condition: Text2WorldCondition,
-        uncondition: Text2WorldCondition,
-    ):
-        """
-        Batched CFG denoise: prepares both cond/uncond xt tensors, concatenates along
-        batch dim (B=2), runs self.net() once, then splits the output.
-
-        Returns:
-            (cond_v, uncond_v): Tuple of velocity predictions, each with original batch size.
-        """
-        # Prepare xt for both conditions independently
-        xt_cond, ts_cond, mask_cond = self._prepare_xt_for_condition(
-            noise, xt_B_C_T_H_W.clone(), timesteps_B_T.clone(), condition
-        )
-        xt_uncond, ts_uncond, mask_uncond = self._prepare_xt_for_condition(
-            noise, xt_B_C_T_H_W.clone(), timesteps_B_T.clone(), uncondition
-        )
-
-        # Concatenate inputs along batch dim
-        xt_batched = torch.cat([xt_cond, xt_uncond], dim=0)
-        ts_batched = torch.cat([ts_cond, ts_uncond], dim=0)
-
-        # Concatenate condition dicts along batch dim
-        batched_condition = self._cat_conditions(condition, uncondition)
-
-        # Single forward pass with B=2
-        net_output = self.net(
-            x_B_C_T_H_W=xt_batched.to(**self.tensor_kwargs),
-            timesteps_B_T=ts_batched,
-            **batched_condition.to_dict(),
-        ).float()
-
-        # Split output back
-        B_orig = xt_B_C_T_H_W.shape[0]
-        cond_output, uncond_output = net_output[:B_orig], net_output[B_orig:]
-
-        # Postprocess (GT frame velocity replacement)
-        noise_cond = noise
-        noise_uncond = noise
-        cond_v = self._postprocess_output(noise_cond, cond_output, condition, mask_cond)
-        uncond_v = self._postprocess_output(noise_uncond, uncond_output, uncondition, mask_uncond)
-
-        return cond_v, uncond_v
-
     def get_velocity_fn_from_batch(
         self,
         data_batch: Dict,
         guidance: float = 1.5,
         is_negative_prompt: bool = False,
-        parallel_cfg: bool = False,
     ) -> Callable:
         """
         Generates a callable function `velocity_fn` based on the provided data batch and guidance factor.
@@ -278,15 +151,10 @@ class Video2WorldModelRectifiedFlow(Text2WorldModelRectifiedFlow):
         - data_batch (Dict): A batch of data used for conditioning.
         - guidance (float, optional): Guidance scale. Defaults to 1.5.
         - is_negative_prompt (bool): use negative prompt t5 in uncondition if true
-        - parallel_cfg (bool): If True, batch cond+uncond into a single forward pass (B=2).
 
         Returns:
         - Callable: A function `velocity_fn(noise_x, sigma)` that returns velocity prediction.
         """
-        # Auto-detect parallel_cfg from model attribute if not explicitly passed
-        if not parallel_cfg:
-            parallel_cfg = getattr(self.net, 'worldcache_parallel_cfg', False) or getattr(self, '_worldcache_parallel_cfg', False)
-
         if NUM_CONDITIONAL_FRAMES_KEY in data_batch:
             num_conditional_frames = data_batch[NUM_CONDITIONAL_FRAMES_KEY]
         else:
@@ -331,17 +199,11 @@ class Video2WorldModelRectifiedFlow(Text2WorldModelRectifiedFlow):
                 "parallel_state is not initialized, context parallel should be turned off."
             )
 
-        if parallel_cfg:
-            def velocity_fn(noise: torch.Tensor, noise_x: torch.Tensor, timestep: torch.Tensor) -> torch.Tensor:
-                cond_v, uncond_v = self.denoise_batched(noise, noise_x, timestep, condition, uncondition)
-                velocity_pred = cond_v + guidance * (cond_v - uncond_v)
-                return velocity_pred
-        else:
-            def velocity_fn(noise: torch.Tensor, noise_x: torch.Tensor, timestep: torch.Tensor) -> torch.Tensor:
-                cond_v = self.denoise(noise, noise_x, timestep, condition)
-                uncond_v = self.denoise(noise, noise_x, timestep, uncondition)
-                velocity_pred = cond_v + guidance * (cond_v - uncond_v)
-                return velocity_pred
+        def velocity_fn(noise: torch.Tensor, noise_x: torch.Tensor, timestep: torch.Tensor) -> torch.Tensor:
+            cond_v = self.denoise(noise, noise_x, timestep, condition)
+            uncond_v = self.denoise(noise, noise_x, timestep, uncondition)
+            velocity_pred = cond_v + guidance * (cond_v - uncond_v)
+            return velocity_pred
 
         return velocity_fn
 

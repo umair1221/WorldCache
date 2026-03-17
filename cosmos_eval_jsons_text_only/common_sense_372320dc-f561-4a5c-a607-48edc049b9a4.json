@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_372320dc-f561-4a5c-a607-48edc049b9a4",
+  "prompt": "A wide shot at eye level captures the cozy interior of a room with a rustic charm. The ceiling is adorned with large wooden beams, and the walls are painted a warm beige. The floor is a uniform light brown, complemented by dark brown baseboards. On the left side of the room, a set of dark wooden shelves stands tall, housing an American football ball at its top center. Below the shelves, there are cabinets, and to their right, a granite countertop with a stainless steel sink and undercabinet lighting. Dark wooden cabinets line the wall above the countertop, and a closed wooden door is situated to its right. Pool cues hang neatly on a wall rack nearby.  In front of the shelves, an L-shaped plush gray couch invites relaxation, adorned with colorful cushions in red, yellow, and striped patterns. A square coffee table with a glass top sits in front of the couch, holding a remote control. The scene transitions smoothly as the camera pans right, revealing a separate room with wooden walls and a sliding wooden door that is open. Inside, a pool table made of polished wood is positioned, with balls arranged for play and an overhead light fixture illuminating its surface. Further in, a bathroom with an open door is visible, showcasing a white toilet. The entire setting is bathed in warm, inviting lighting, creating a comfortable and homely atmosphere."
+}

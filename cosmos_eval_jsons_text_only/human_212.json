@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_212",
+  "prompt": "In a well-lit gym, a woman with red hair performs a kettlebell exercise. She is dressed in a grey and neon yellow ombre colored sleeveless top and black leggings, positioned in a plank stance on a black mat with a kettlebell in her right hand. The gym is equipped with various fitness equipment, including a large orange and white tire, black plates, and barbells in the background. The woman begins by holding the kettlebell close to her body, then smoothly lifts it upward in a controlled motion, extending her arm fully before lowering it back down. Her posture remains steady in a plank position throughout the entire video, showcasing her focus and determination. The scene captures the dynamic movement and intensity of her workout, emphasizing her strength and control."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_178",
+  "prompt": "A close-up shot captures several blue plastic pots lined up in a straight row on an assembly line within a factory setting, each containing dark soil and small green seedlings. The scene is illuminated by bright, diffused light filtering through large windows in the background, indicating a controlled industrial agricultural facility. Two mechanical arms with suction cups are positioned above the pots, ready to interact with the plants. The arms methodically move; they first hover above the plants, then descend to gently lift one of the seedlings from its pot. The seedling is carefully held by the suction cups before being transferred to another pot below, where it is gently placed into the soil. This process continues as the arms systematically move along the row of pots, ensuring each seedling is handled with precision and care. By the final frame, the mechanical arms have completed their task, leaving the seedlings securely planted in their respective pots, ready for growth.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_178.jpg"
+}

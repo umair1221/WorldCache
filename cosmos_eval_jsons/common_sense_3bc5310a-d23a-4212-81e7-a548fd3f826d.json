@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_3bc5310a-d23a-4212-81e7-a548fd3f826d",
+  "prompt": "A point-of-view video captures a hand meticulously shading a house on a white sheet of paper. The hand, holding a dark slate blue pencil, begins shading a square on the roof of a house drawn at an angle. The roof is divided into a grid of 25 squares, with alternating squares being filled in to create a checkerboard effect. The hand moves steadily from the upper left corner to the right, then down to the next row, ensuring each square is shaded uniformly. The house, drawn with bold black lines, features two arched windows on the left sections, with the bottom window slightly larger than the top. Simple plants are depicted to the left of the house. As the hand completes the shading, it reveals a walkway leading to the bottom right section, which includes a door and a balcony-like structure with two horizontal lines and spaced vertical lines. The lighting highlights the intricate details of the hand's movements and the texture of the paper. A static shot focuses on the drawing process, emphasizing the precision and methodical nature of the shading.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_3bc5310a-d23a-4212-81e7-a548fd3f826d.jpg"
+}

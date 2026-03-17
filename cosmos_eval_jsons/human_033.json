@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_033",
+  "prompt": "A tennis player stands on a clay court, preparing to serve. Dressed in a light-colored, patterned shirt and gray shorts, the player is positioned near the baseline with a tennis racket in hand. The court is enclosed by a chain-link fence, and beyond it, a parking lot with several cars and a few trees is visible. Tall buildings rise in the background, suggesting an urban environment. The sun casts long shadows across the court, indicating it’s either early morning or late afternoon. The player bounces the ball on the ground with his racket, then tosses it into the air and swings forward to serve. After completing the serve, he stands ready, watching the trajectory of the ball, and then prepares for another serve, repeating the process of bouncing the ball and serving again. By the final frame, the player is once more in the middle of his serve motion, having just completed another powerful overhead swing.  A medium shot captures the player from behind, emphasizing his focused stance and the dynamic motion of his serve. The urban backdrop adds depth to the scene, contrasting the intensity of the sport with the surrounding cityscape.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_033.jpg"
+}

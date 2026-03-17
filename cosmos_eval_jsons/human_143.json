@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_143",
+  "prompt": "A skier glides down a wide, snow-covered slope under a bright, sunny sky, maintaining a steady pace. The skier, dressed in a blue jacket and carrying a red backpack, is positioned slightly off-center in the frame, moving right to left and vice-versa. They use ski poles for balance and control as they navigate the terrain. The snow appears fresh and powdery, with tracks from previous skiers visible in the distance. In the background, a range of snow-capped mountains stretches across the horizon, adding depth and grandeur to the scene. The sun is high in the sky, casting sharp shadows and highlighting the contours of the landscape. As the skier continues their descent, they make smooth, deliberate turns, kicking up small snow clouds with each movement. Other skiers are visible down the slope behind each other. One of them enters the frame while the other two are skiing. The camera remains steady, following the skier's path as they move further down, with the vast, snowy expanse and distant mountains remaining constant in the background.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_143.jpg"
+}

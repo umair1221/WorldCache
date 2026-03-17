@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_021",
+  "prompt": "A high-definition video of an automotive assembly line within an exhibition area, showcasing a partially assembled car body with its doors open, revealing the interior framework. The focal point is a stationary car on the assembly line, with two prominent yellow robotic arms actively engaged in the assembly process. The right robotic arm, equipped with a welding tool, moves along the cowel panel, performing a welding operation, while the left robotic arm, holding another tool, adjusts its position, preparing for its next task. The polished floor reflects the precision and coordination of the robotic arms' movements. The background features informational signage and a clean, organized setting, emphasizing the seamless integration of technology and craftsmanship in modern automotive production. A medium shot capturing the robotic arms' precise and synchronized actions."
+}

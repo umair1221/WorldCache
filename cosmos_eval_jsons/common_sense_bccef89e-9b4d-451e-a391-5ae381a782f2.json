@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_bccef89e-9b4d-451e-a391-5ae381a782f2",
+  "prompt": "A top-down point-of-view shot captures a pair of hands holding a gold Samsung smartphone horizontally. The hands, with neatly trimmed short fingernails, rest on a textured dark wood surface. The smartphone screen displays a stock market graph with green and red bars, accompanied by numerical data at the top and right side. The top left corner features an unclear logo and name, while the bottom shows indistinct numbers. An indiscernible green, red, yellow, and white object is visible in the top left corner. The video is shot in a well-lit area, with artificial light casting shadows of the hands and phone on the gray textured wooden surface. Initially, the left hand holds the phone steady, revealing a silver watch on the wrist. The right hand enters the frame from the bottom left, performing a pinch-out gesture on the screen, causing it to zoom in. The hand then pinches the screen twice, resulting in a further zoom-out. After removing the hand, the person waves before swiping the screen to the left. The hand hovers in the air, making additional hand gestures, and the video concludes. The setting is well-lit, casting distinct shadows on the surface below.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_bccef89e-9b4d-451e-a391-5ae381a782f2.jpg"
+}

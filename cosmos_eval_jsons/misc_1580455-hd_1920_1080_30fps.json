@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_1580455-hd_1920_1080_30fps",
+  "prompt": "A serene autumnal video opens with a paved road winding through a dense forest, its surface adorned with a blanket of fallen leaves in shades of yellow, orange, and green. The trees lining the road are heavily laden with foliage, their leaves creating a canopy overhead that filters the soft, diffused light of an overcast day. The road stretches forward, inviting the viewer deeper into the tranquil woodland, where the gentle rustling of leaves and the occasional breeze add to the peaceful ambiance. As the video progresses, the leaves continue to fall, slowly accumulating on the road, enhancing the sense of quiet beauty. The scene remains largely unchanged, maintaining its picturesque quality, with the road and forest bathed in the gentle light of late afternoon.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_1580455-hd_1920_1080_30fps.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_71b7b01a-7fab-4cae-a780-8c58c3a37ae1",
+  "prompt": "A point-of-view video shot from inside a vehicle stopped at an all-way stop sign in a suburban neighborhood on a clear, sunny day. The intersection is marked by an all-way stop sign on the right, accompanied by a \"two-way traffic\" sign and a \"do not enter\" sign. Across the street, a two-story house with a light-colored facade and dark roof stands out, surrounded by a white picket fence. Parked cars line both sides of the street, including a silver sedan and a black SUV. Utility poles and overhead power lines stretch across the scene. The road is quiet, with minimal traffic, and the environment is calm and residential. As the video progresses, the ego vehicle makes a right turn at the intersection, revealing a new street view with different parked cars and houses visible in the updated scene."
+}

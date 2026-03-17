@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_cc90f226-5312-4e0f-959a-39cd4eb4d90d",
+  "prompt": "The video begins with a view from inside a vehicle, likely captured by a dashboard camera, showing a wide, open road ahead under an overcast sky. The road is marked with white directional arrows indicating left or straight-right turns. Two lines of orange traffic cones are placed along the center of the road, suggesting some form of construction or roadwork. Within the area enclosed by the traffic cones, an arrow board displays flashing arrows pointing left and right to guide traffic around the detour. On either side of the road, there are grassy areas with small trees and shrubs. In the background, modern buildings, possibly part of an urban or suburban area, are visible, with a pedestrian bridge crossing above the road. The overall atmosphere is calm and quiet, with no other vehicles or pedestrians in sight.  As the video progresses, the car changes lanes to the left and continues along the road marked with directional arrows and lined with traffic cones. The camera angle shifts slightly to show the car moving further down the road, passing more traffic cones and approaching the pedestrian bridge, which remains visible above the road. The scene maintains a steady pace, emphasizing the calm and orderly nature of the roadwork and traffic guidance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_cc90f226-5312-4e0f-959a-39cd4eb4d90d.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_ac3f70b6-f5dc-4ef4-a390-2ae273dd3dbe",
+  "prompt": "A man is engaged in climbing up a rocky path, wearing a blue helmet with a camera attached to it. He is on an ascent, gripping a rock with his right hand for support as he climbs past it. The camera captures a wide shot from an eye-level perspective, showcasing the surrounding landscape. He wears a vibrant orange t-shirt and carries a large, yellow backpack with green straps strapped securely over his shoulders and chest. Glancing into the camera on his left, he speaks while the camera shifts to a low angle. He then turns his gaze upward before turning back to the camera, smiling and highlighting the scenic backdrop. With his right index finger, he gestures toward the mountain before facing the camera again, his smile reflecting his enthusiasm. The lighting is vibrant, showcasing the sunlit peaks and casting shadows across the stony terrain. The scene unfolds against a stunning backdrop of a rugged, rocky mountain range, with a streak of snow nestled between the jagged peaks, coming into view toward the end of the video. The mountain landscape is characterized by sheer cliffs, jagged rocks, and a clear blue sky speckled with a few fluffy clouds. The camera movement is tracking the man, capturing various angles of his journey.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_ac3f70b6-f5dc-4ef4-a390-2ae273dd3dbe.jpg"
+}

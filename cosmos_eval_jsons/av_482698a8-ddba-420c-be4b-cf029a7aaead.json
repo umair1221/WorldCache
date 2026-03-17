@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_482698a8-ddba-420c-be4b-cf029a7aaead",
+  "prompt": "A point-of-view video captured from inside a vehicle stopped at a quiet intersection during the day. The hood of the car, equipped with a blue camera or sensor, dominates the foreground. The intersection is marked by faded white pedestrian crossing lines and multiple lanes, with traffic lights hanging overhead. The right traffic light displays red for two lanes, while another red light is visible across the road. A diamond-shaped lane closure sign with orange and white cones is positioned on the right side. Surrounding the intersection are tall evergreen trees, some fully leafed and others bare, indicating a transitional season. In the background, a brick building resembling a school or institutional structure stands alongside a smaller, modern building with a flat roof. The sky is partly cloudy, with patches of blue visible. The car remains stationary, offering a steady view of the serene surroundings, with no other vehicles or pedestrians in sight. The video maintains a consistent perspective, capturing the tranquil atmosphere of the scene without any abrupt changes in camera angle.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_482698a8-ddba-420c-be4b-cf029a7aaead.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_020",
+  "prompt": "A minimalist setup is captured in a static shot: a black plastic crate sits on a wooden table against a plain white background. An orange inflatable basketball, marked with black lines, hangs above the crate, initially at rest. The scene is well-lit, emphasizing the objects' details. As the video progresses, the basketball is released and falls towards the crate. Upon impact, it bounces slightly within the crate, settling into one of the open spaces created by the grid-like structure. The video concludes with the basketball contained within the crate, no longer suspended above it."
+}

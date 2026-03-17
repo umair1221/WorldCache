@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_187",
+  "prompt": "A close-up shot captures a person's lower legs and feet as they stand on a skateboard on a wet, reflective pavement. The individual is wearing white socks with purple stripes at the top and brown Vans sneakers with white laces. The skateboard has green wheels and a dark grip tape on its surface. The wet ground reflects trees and possibly a sidewalk edge, adding a serene ambiance to the scene. As the video progresses, the skateboard moves straight ahead without major turns. The person uses their back foot to push the board, increasing its speed. The wet pavement continues to reflect the environment, maintaining the stillness and calmness of the scene. By the final frame, the person's feet are back on the skateboard, not yet firmly placed, and the wet, reflective ground reflects the calm surroundings.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_187.jpg"
+}

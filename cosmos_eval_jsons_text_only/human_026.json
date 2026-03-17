@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_026",
+  "prompt": "A video captures a dynamic dance rehearsal in a spacious indoor studio with a high ceiling and exposed metal beams. Bright fluorescent lights illuminate the room, casting a warm glow over the white-tiled floor. The walls are painted white with orange accents around a large window that lets in natural light. In the center of the room, a person dressed in black attire performs a series of rhythmic movements, possibly dancing or practicing a choreographed routine. They shift their weight from one foot to the other, occasionally raising their arms and gesturing expressively, appearing focused and engaged. Two tripods with cameras are set up to the left, capturing the performance, while a small black speaker is mounted on the wall to the right. A decorative lantern adds a touch of aesthetic detail. The room also features a low bench with orange and white stripes, positioned against the wall near the window, providing a seating area or resting spot. The overall scene remains consistent, with the person continuing their movements in the same location, maintaining the same level of engagement and focus."
+}

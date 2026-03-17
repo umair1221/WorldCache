@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3196505-sd_960_540_30fps",
+  "prompt": "A serene video captures two young elephants in a dry, reddish-brown landscape, likely a savanna or a dry riverbed. The ground is covered with loose dirt, and a fallen tree trunk lies horizontally in the background, adding to the natural setting. The two elephants are partially submerged in a small puddle of water, their bodies glistening with mud. The standing elephant, positioned on the left, uses its trunk to gently interact with the lying elephant on the right, which is stretched out on its side. The standing elephant's trunk moves slowly, touching and nuzzling the lying elephant, indicating a playful and affectionate behavior. The lying elephant remains mostly still, occasionally shifting slightly, and appears relaxed and comfortable in the mud. The overall atmosphere is peaceful, highlighting the bond and playful nature of these young elephants in their natural habitat. A medium shot from a slightly elevated perspective captures the interaction between the two elephants.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_3196505-sd_960_540_30fps.jpg"
+}

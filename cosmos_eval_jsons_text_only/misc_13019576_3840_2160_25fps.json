@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_13019576_3840_2160_25fps",
+  "prompt": "A surfer rides a large, powerful wave under an overcast sky, showcasing a vibrant blue-green hue that curls over itself with white foam forming at its crest. The surfer, wearing dark shorts, is positioned mid-ride, leaning forward with knees bent for balance. Their surfboard cuts through the water, leaving a trail of white spray behind them. In the background, another person can be seen paddling on a surfboard, partially submerged in the calm ocean waters. As the sequence progresses, the surfer maintains his position on the wave, gradually shifting his weight to navigate the curve. He extends one arm outward for balance while the other hand remains near the board's edge. The wave continues to build, with the surfer skillfully maneuvering to ride along the face of the wave, demonstrating control and agility. The second individual in the background remains stationary, paddling gently, observing the surfer's performance. By the final frame, the surfer is seen riding the wave with confidence, arms outstretched for balance, as the wave curls overhead, creating a dramatic and dynamic scene."
+}

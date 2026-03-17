@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_170",
+  "prompt": "The video opens with a serene and visually appealing arrangement of colorful gemstone candles placed on a wooden surface. These candles, some lit and casting a warm, flickering glow, are nestled in a white bowl adorned with blue floral patterns. The bowl is surrounded by various items, including a box labeled \"Thank You,\" a bundle of sage tied with twine, and several small, round wax seals with intricate designs. The background features a vibrant, abstract painting with swirling colors of red, orange, and yellow, adding depth and visual interest to the scene. The camera maintains a steady, fixed angle throughout the video, ensuring that the focus remains on the calming and artistic composition of the candles and related items. The scene remains static, with no movement or changes in the objects' positions, emphasizing the peaceful and aesthetically pleasing arrangement.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_170.jpg"
+}

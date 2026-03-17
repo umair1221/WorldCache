@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_297",
+  "prompt": "The video opens with a serene rural scene under a bright blue sky. A paved path meanders through a lush green field where two cows graze peacefully. In the distance, a traditional white windmill with black blades stands amidst a line of leafy trees, adding a rustic charm to the landscape. A flag flutters near the windmill, indicating the presence of wind. The camera angle is positioned at eye level, capturing the tranquil setting. To the left, a small tree with sparse foliage is visible near the edge of the field. As the video progresses, a person wearing a helmet and dark clothing rides a bicycle along the path, moving away from the camera. Shortly after, another cyclist, dressed in light-colored clothing and also wearing a helmet, enters the scene from the left, riding alongside the first cyclist. Both cyclists are in continuous motion, maintaining a steady pace. The camera angle remains the same throughout the video, and in the final frame, the two cows remain undisturbed, grazing calmly in the grassy area. The windmill and surrounding trees stand still, contributing to the peaceful ambiance of the countryside.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_297.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_081",
+  "prompt": "The video opens with a close-up shot of a conveyor system within an industrial setting, likely a factory or warehouse. The foreground is dominated by a series of metallic rollers, part of the conveyor mechanism, arranged in parallel rows. These rollers are shiny and reflective, suggesting they are made of polished metal, such as stainless steel. The background is slightly blurred, revealing more of the industrial environment, including shelves, boxes, and various pieces of machinery, all bathed in artificial lighting that casts a neutral tone over the scene. As the video progresses, a stack of cardboard sheets enters the frame from the right, moving steadily across the rollers. The stack is tightly bound and appears uniform in size and thickness. The cardboard sheets continue their journey across the conveyor, eventually exiting the frame on the left side. By the final frame, the sheets are almost outside the frame, with mostly only the metallic rollers remaining in view, emphasizing the mechanical and repetitive nature of the industrial process.  A close-up shot of the conveyor system, focusing on the metallic rollers and the steady movement of the cardboard sheets."
+}

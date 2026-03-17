@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_082",
+  "prompt": "The video opens with a wide shot of a volleyball match at the London 2012 Olympics, taking place in a large indoor stadium packed with spectators. The court is a vibrant orange with clear white boundary lines, and the net divides the two teams, Brazil and the USA, distinguished by their dark and light uniforms respectively. The scoreboard above the court displays the current score: Brazil (BRA) leading 1-2 against the USA (USA) with a score of 4-2. Players from both teams are strategically positioned, ready for the next play. The USA team, in white, is seen preparing to serve, while the Brazilian team, in dark uniforms, stands in formation, anticipating the serve. As the serve is made, the USA team executes a powerful spike, sending the ball flying over the net. The Brazilian team dives and leaps in an attempt to block or retrieve the ball, showcasing the competitive nature of the match. The crowd watches intently, adding to the charged atmosphere of the game. By the final frame, the ball is in play, with players from both teams actively engaged in the rally, demonstrating the dynamic and fast-paced nature of the sport."
+}

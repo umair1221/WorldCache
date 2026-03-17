@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_395527b9-a6c7-429e-b5b8-d73b5f61f0e8",
+  "prompt": "The video opens with a view from inside a car, positioned at an intersection in a residential neighborhood during the late afternoon or early evening. The sky is clear, and the lighting suggests a calm, serene atmosphere. The street is lined with parked cars on both sides, including a mix of sedans and SUVs. On the left side of the street, multi-story buildings with large windows and balconies, painted in muted tones like gray and beige, stand tall. Trees with full canopies line the right side of the street, partially obscuring the view of the sidewalk and some parked cars. A woman in a blue dress is seen running across the street from the left side towards the center, heading toward a stationary sedan stopped ahead for a pickup, with its rear hazard lights flashing. The cars on the street remain stationary, indicating that traffic has come to a halt for pedestrians and for the pickup maneuver. As she reaches the sedan, the ego vehicle briefly crosses into the opposite lane to overtake the stationary vehicle. By the final frame, the woman has reached the sedan.  A medium shot from the perspective of the car's dashboard, capturing the intersection and the surrounding environment."
+}

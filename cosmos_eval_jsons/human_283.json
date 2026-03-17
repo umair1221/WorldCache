@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_283",
+  "prompt": "A wide shot captures a spacious gymnasium with large windows adorned with blinds, allowing soft natural light to filter through. The gym's walls are painted white with a pale yellow and blue trim, and the floor is covered with a polished wooden surface. A digital scoreboard in the center of the room displays \"2-3\" in red, indicating the current score of the fencing match. The gym is equipped with various pieces of furniture, including two long benches along the wall and a few small objects placed on a shelf. Two fencers, dressed in traditional white fencing uniforms and protective masks, are positioned facing each other, their foils held towards each other. The fencer on the left extends his foil upward, then brings it down while jumping, attempting a strike. Simultaneously, the fencer on the right lunges forward, extending his foil forward. The gym's environment remains consistent throughout the sequence, with no significant changes in the setting. By the final frame, the fencers return to their starting stances and readiness, with the scoreboard still showing \"2-3\".",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_283.jpg"
+}

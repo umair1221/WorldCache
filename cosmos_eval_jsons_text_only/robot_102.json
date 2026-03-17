@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_102",
+  "prompt": "The video opens with a scene set at a wooden table near a window overlooking the ocean. The table is cluttered with various items: a black desk lamp with an adjustable arm, a clear plastic container holding green and white objects, a purple beanie, a colorful patterned cloth, a small yellow object, a white card with a black arrow pointing upwards, another white card, and a white cylindrical object. A robotic arm wearing a yellow and brown patterned glove on its right hand is positioned at the table. The robotic arm extends its gloved hand, briefly hovering over the table, and then lifts the small yellow object and moves it closer to the clear plastic container, placing it inside. The action is smooth and deliberate, suggesting a task involving organizing or sorting the items on the table. By the final frame, the small yellow object is securely placed inside the container, completing the action while the left robotic arm remains motionless. The background features a serene view of the ocean through the window, adding a tranquil ambiance to the scene. A medium shot captures the robotic arm's precise movements."
+}

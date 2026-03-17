@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_78aaf8d1-d0aa-4d49-9232-cc5fc14def62",
+  "prompt": "A video captures the interior of a modern transportation carriage with large panoramic windows and a sleek design. A woman with long dark hair, dressed in a red and pink striped sweater, is seated at a wooden table enjoying a meal. The table holds a bowl of food, a paper cup, and a drink bottle. The seating is upholstered in brown leather, and a wall-mounted light fixture with warm lighting illuminates the space. Shelves with framed photos adorn the right side of the carriage. Outside the large windows, an urban landscape with rail tracks, buildings, and a tree is visible, with motion blur indicating the train's movement. Additional glass panels above the windows allow natural light to flood the carriage. In the opening scene, the woman is eating, with a bowl in front of her and a utensil in hand. As the train passes by, she notices a silver train with green and orange stripes and turns her gaze outside the window. She dips the spoon into the bowl, then looks at the passing train and slightly moves her body in an up-and-down motion. As the train exits view, she slows down. The scene features random camera movement, creating an unsteady effect, and is shot at eye level, capturing the natural perspective of someone seated at the table."
+}

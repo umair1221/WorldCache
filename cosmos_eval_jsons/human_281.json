@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_281",
+  "prompt": "The video opens with a man walking towards a metal railing that runs parallel to a brick wall, set against the backdrop of a large building with red brick and gray stone accents. The building features arched windows and a staircase leading up to it. The railing is supported by the brick wall, which is adorned with some graffiti. The ground below the railing is paved, and there are green bushes near the bottom right corner of the frame. The sky is clear and blue. As the sequence progresses, the man approaches the railing and engages in a dynamic movement. He climbs onto the railing, then lowers himself to hang from it. While hanging, he places his feet against the wall for support and jumps down onto a gray surface in front of the wall. After briefly landing, he jumps back toward the wall, grabbing the railing again. The camera captures his fluid motion, emphasizing the urban setting and the architectural details of the building. In the final frame, the man is seen holding onto the railing after jumping back, highlighting his interaction with the urban environment and the building's architectural elements.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_281.jpg"
+}

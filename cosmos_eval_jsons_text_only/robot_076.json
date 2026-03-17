@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_076",
+  "prompt": "The video opens with a view of a laboratory-like setting, featuring a clean, gray floor and a white table surface. On the table, a dark blue bowl is positioned on the left side, facing a robotic arm equipped with a gripper on its end. To the right of the bowl, there is a plate with four distinct objects that resemble fruits or vegetables, each in different colors: yellow, green, red, and pink. In the background, a partially visible robotic device with a white body and black components is seen, along with some cables and equipment, suggesting a controlled environment for robotics or automation research. The robotic arm begins to move slightly, indicating the start of an action, and the gripper appears to be preparing to grasp one of the objects on the plate. The movement is subtle but deliberate, hinting at a precise operation typical of robotic tasks such as sorting or picking up objects. The right robotic arm gripper picks up a green item from the plate and places it in the bowl on the left. By the final frame, the right robotic arm gripper returns to its position.  A medium shot captures the robotic arm's precise movements, highlighting the controlled environment and the meticulous nature of the task. The background, with its clean lines and technical equipment, adds to the sense of a high-tech, research-oriented setting."
+}

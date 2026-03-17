@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_053",
+  "prompt": "The video opens with a static shot of a yellow rubber ducky placed in the center of an empty black baking pan on a wooden table. In the background, a woven basket holds a red beverage dispenser with a blue spout. The scene is set against a plain white wall, creating a simple backdrop that emphasizes the objects in the foreground. As the video progresses, the red liquid from the dispenser begins to pour onto the ducky, spreading outwards and forming a puddle beneath it. The liquid continues to flow, gradually covering more of the pan's surface while the ducky remains stationary in the center. By the final frame, the ducky is surrounded by a significant amount of red liquid, which has spread out into a noticeable puddle, altering the initial state of the scene. A medium shot with a slight upward angle captures the entire setup."
+}

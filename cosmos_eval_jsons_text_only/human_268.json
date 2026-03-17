@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_268",
+  "prompt": "The video begins with a close-up view of a person's legs as they run on a treadmill in a well-lit gym. The individual is wearing maroon shorts and blue running shoes with black accents. The treadmill belt is black with yellow side edges, and the brand name \"Ergo\" is visible on it. The gym floor is a glossy blue, reflecting some of the lights, and various exercise equipment such as ellipticals and weight machines are visible in the background. A potted plant near the window adds a touch of greenery to the scene. Large windows allow natural light to brighten the space. As the video progresses, the camera angle shifts slightly upward, revealing more of the person's torso and face. The individual continues to run steadily, with earphones in, indicating they might be listening to music or an audio guide. The gym setting remains consistent, with the same exercise equipment and natural light from the window providing a backdrop to the activity."
+}

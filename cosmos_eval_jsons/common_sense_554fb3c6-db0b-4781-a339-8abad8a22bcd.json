@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_554fb3c6-db0b-4781-a339-8abad8a22bcd",
+  "prompt": "In an outdoor setting, a golden brown cocker spaniel lies on the grass, its mouth open as it watches a group of blue and orange-tinted bubbles floating in from the top-left corner of the frame. The dog's long, floppy ears hang down along the sides of its head, initially turned to the left. As the bubbles drift away, the dog turns its head to face forward, shaking its ears slightly. It remains seated on its belly, its stomach moving rhythmically with its breathing. The camera captures a medium shot, showing most of the dog's body but not its full forelegs. The angle is slightly high, maintaining eye level with the dog, and includes random, jittery movements that add a dynamic feel to the scene. The background is softly blurred, with the trunks of trees visible in the distance. Beyond the trees, the ground is brightly lit, but closer to the dog, the grass is interspersed with patches of brown dirt, and the lighting creates a mix of sunlit and shaded areas. The depth-of-field effect keeps the focus sharply on the dog, while the background remains out of focus.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_554fb3c6-db0b-4781-a339-8abad8a22bcd.jpg"
+}

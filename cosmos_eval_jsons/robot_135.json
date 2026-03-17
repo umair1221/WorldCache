@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_135",
+  "prompt": "The video opens with a scene set in a cluttered workspace or laboratory, characterized by a light-colored desk filled with various items, including cables, boxes, and a potted plant. A person, dressed in a white shirt and dark pants, stands at the desk. The desk surface features a blue tape marking on its left side. In front of the person, there is a white tray, a bowl, and a small white object resembling a cup or container. The individual begins by placing the white tray on the desk, followed by positioning the bowl in front of the robotic arms on the table. The robotic arm on the right then picks up the small white object and places it into the bowl. The movements of the robotic arm are precise and deliberate. Subsequently, the person reaches into the bowl and retrieves the white object. In the final frame, the individual on the left places the white object onto the table, while the blue tape marking remains undisturbed. The setting suggests a controlled environment, possibly for testing or assembling robotic components. A medium shot captures the interaction between the person and the robotic arm.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_135.jpg"
+}

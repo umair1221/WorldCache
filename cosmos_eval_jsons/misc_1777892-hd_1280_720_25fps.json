@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_1777892-hd_1280_720_25fps",
+  "prompt": "A serene autumnal scene unfolds, featuring a large tree with vibrant red maple leaves dominating the foreground. The tree's thick, textured trunk and sprawling branches create a dense canopy, with the leaves rustling softly in the breeze. The camera captures the intricate details of the tree's bark and the delicate movement of the leaves. In the background, a traditional Japanese pagoda with multiple tiered roofs and dark tiled surfaces is partially visible through the foliage. The pagoda's structure is static, blending harmoniously with the natural surroundings. The sky above is a pale blue, suggesting a calm, clear day. The camera pans slowly across the scene, capturing the gentle sway of the tree and the subtle motion of the leaves. The pagoda remains stationary, and the sky retains its tranquil appearance. The video concludes with a close-up of the tree, emphasizing the rich colors and textures of the autumn foliage.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_1777892-hd_1280_720_25fps.jpg"
+}

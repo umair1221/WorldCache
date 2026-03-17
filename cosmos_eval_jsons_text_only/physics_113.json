@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_113",
+  "prompt": "The video opens with a small, colorful pi\u00f1ata situated outdoors on a dark, possibly wet surface. The pi\u00f1ata is adorned with vibrant yellow and pink ribbons and a striped candle on top, which is already alight, emitting bright orange and yellow flames. The pi\u00f1ata itself appears to be made of a translucent material, allowing some internal details to be visible. It has a layered design with alternating bands of pink and white, and small decorative elements like pom-poms and additional ribbons are scattered around its base. The background features a snowy landscape with bare trees and a hint of greenery, suggesting a winter setting. The overall scene is static, with the focus entirely on the burning pi\u00f1ata against the stark contrast of the snowy backdrop.  As the video progresses, the flames begin to engulf the top portion of the pi\u00f1ata, growing larger and more intense. The ribbons and candle, initially intact, start to melt and char due to the heat. The flames continue to dance and flicker, casting dynamic shadows on the snow-covered ground, emphasizing the contrast between the vibrant colors of the pi\u00f1ata and the muted tones of the wintry landscape. By the final frame, the pi\u00f1ata is significantly consumed by the flames, with only remnants of its structure remaining, while the flames continue to dance and flicker, casting dynamic shadows on the surrounding snow."
+}

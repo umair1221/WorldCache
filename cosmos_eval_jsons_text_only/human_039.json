@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_039",
+  "prompt": "The video opens with a close-up shot of a hand holding a handful of dried star anise pods over a green plastic bucket. The hand, belonging to an adult, is positioned in the foreground, with the star anise pods clearly visible due to their dark brown, star-shaped appearance. The background is slightly out of focus, suggesting an indoor setting, possibly a kitchen or a workshop, indicated by the presence of a brown paper bag partially visible in the lower right corner. The lighting is warm, highlighting the texture and color of the star anise. As the video progresses, the hand moves the star anise pods closer to the green bucket, and the pods begin to fall into it. The hand then withdraws, leaving the bucket filled with the star anise pods. The camera remains stationary throughout, maintaining a consistent focus on the action of transferring the pods from the hand to the bucket. By the final frame, the bucket is visibly filled with the star anise pods, while the hand is no longer in view, indicating the completion of the action."
+}

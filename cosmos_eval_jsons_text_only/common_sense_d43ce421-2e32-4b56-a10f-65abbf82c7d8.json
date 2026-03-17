@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_d43ce421-2e32-4b56-a10f-65abbf82c7d8",
+  "prompt": "A young woman sits in a cozy restaurant, engaging with the camera as she enjoys a meal. She is centered in the frame, wearing a vibrant neon pink and black color block windbreaker over an orange shirt, complemented by dangly earrings, a necklace, silver rings, and long, neon pink and yellow nails. Her dark hair cascades over her shoulders, adding to her lively appearance. She is positioned at a booth with a light table and a red cushioned bench, surrounded by various dining items.  The table in front of her holds a white teapot, a small paper tray with red sauce, a round metal steamer filled with dumplings and a white spoon, and a tan plate with black chopsticks. She initially holds a yellow bun in her right hand, taking bites and gesturing with her left hand as she speaks. Her movements are fluid and expressive, with her head occasionally tilting to the side as she takes a bite. The background reveals metallic shelving stocked with plates and paper products, and a transparent panel above the booth reflects the warm, artificial lighting, which casts a yellowish hue across the scene. The overall ambiance is casual and inviting, capturing the essence of a relaxed dining experience."
+}

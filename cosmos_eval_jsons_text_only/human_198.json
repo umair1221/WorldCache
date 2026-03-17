@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_198",
+  "prompt": "A wide shot captures a lively skate park on a sunny day, with a large concrete bowl at its center and another adjacent bowl. The park is enclosed by a chain-link fence, beyond which palm trees and distant urban buildings suggest a coastal cityscape. Several people are scattered around, some seated on benches, others standing or walking, all enjoying the day. In the foreground, a skilled scooter rider, dressed in a dark jacket over a blue shirt, light-colored pants, and a cap, approaches the edge of the bowl. They rotate the scooter to change direction, gaining speed, and begin to navigate the curved surface, leaning into the turns with precision. The rider's movements are fluid and controlled, showcasing their expertise. As the video progresses, the rider continues to ride along the bowl's edge, maintaining balance and momentum. By the final frame, the rider continues the same action in a different direction, still within the bowl, with the park's lively atmosphere continuing in the background."
+}

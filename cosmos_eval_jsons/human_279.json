@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_279",
+  "prompt": "The video opens with a fencer standing in an indoor training facility, dressed in a white fencing uniform with a red logo on the chest, and long, light brown hair tied back in a ponytail. The fencer is holding a fencing sword with both hands; one hand gripping the hilt firmly while the other holds the tip of the blade. The background consists of a dark, industrial-looking wall with visible signs of wear and tear, including patches of peeling paint. A black metal rack with horizontal bars is positioned to the left, and a wooden board with holes is mounted on the wall behind the fencer. The lighting is natural, suggesting it might be coming from a window off-camera. As the sequence progresses, the fencer begins to lower the sword slowly from a vertical position above their head down towards their side. The fencer's posture remains upright and focused, indicating a controlled and deliberate movement. The sword continues its descent until it is nearly parallel to the ground, with the fencer's gaze following the motion of the blade. The overall scene remains consistent, with no significant changes in the environment or the appearance of the objects. The fencer's uniform and the background elements remain static.  A medium shot captures the fencer from a slightly elevated perspective, emphasizing their focused expression and the dynamic movement of the sword.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_279.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_14989515-hd_1920_1080_30fps",
+  "prompt": "A rally car speeds along a dusty, reddish-brown dirt road, surrounded by a rugged, mountainous landscape. The terrain is uneven, with sparse vegetation consisting of bushes and small trees scattered along the roadside. The car, painted in bright orange and white with visible sponsorship decals, is captured mid-turn, kicking up a substantial cloud of brown dust that billows into the air. As the car accelerates, the dust cloud grows larger and more turbulent, eventually enveloping much of the vehicle and partially obscuring the view of the surrounding hills and distant mountains. The scene captures the intensity and speed of the rally, highlighting the challenging conditions of the course and the skill required to navigate such terrain. A dynamic medium shot from a slightly elevated perspective, emphasizing the car's motion and the dramatic dust cloud.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_14989515-hd_1920_1080_30fps.jpg"
+}

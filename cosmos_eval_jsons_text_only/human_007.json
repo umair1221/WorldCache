@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_007",
+  "prompt": "The video opens with a serene park scene during autumn, characterized by a mix of green and yellow foliage on the trees lining a wide, paved pathway. A small wooden structure, possibly a kiosk or information booth, is situated near one of the trees, adding a quaint charm to the setting. Several people are scattered across the park, some walking leisurely while others appear to be engaged in conversation or enjoying the surroundings. In the foreground, a man in a blue jacket and white pants is seen walking towards the camera, holding something to his ear, perhaps a phone or a device. He is followed by a woman in a blue coat and black pants, also walking purposefully. Further back, a group of people, including children, is gathered near the wooden structure, seemingly interacting or observing something of interest. The park is bustling with activity, with individuals dressed in jackets indicating cooler weather. As the video progresses, the man in the blue jacket continues walking away from the camera, while the woman in the blue coat moves further down the path. The group near the wooden structure remains stationary for a moment before the video concludes, capturing the tranquil yet lively essence of a day spent outdoors in a park."
+}

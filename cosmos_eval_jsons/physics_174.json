@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_174",
+  "prompt": "A close-up view of a large, faceted diamond mounted on a metal prong setting. The diamond is securely held by four prongs, visible at the top of the frame, and is positioned against a plain, neutral gray background. The diamond itself is cut with intricate facets, reflecting light in a dazzling array of colors, including hues of blue, green, and yellow, which shimmer across its surface. The lighting is bright and focused, accentuating the diamond's clarity and the detailed craftsmanship of its setting. The camera slowly pans around the diamond, capturing its facets and the way light reflects off its surface from various angles. As the camera moves, it provides a detailed view of the diamond's brilliance and the way it catches the light. The video ends with the diamond still in focus, highlighting its beauty and the craftsmanship of the setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_174.jpg"
+}

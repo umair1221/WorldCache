@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_082",
+  "prompt": "The video opens with a scene set in a bustling lumber processing facility, where a mechanical arm equipped with a claw-like mechanism is positioned over a conveyor belt system. The conveyor belt consists of multiple parallel metal rollers, designed to transport logs efficiently. In the foreground, several logs are already cut into sections, resting on the conveyor belt, showcasing the progression of the processing stage. The background reveals a stack of larger, unprocessed logs, indicating the initial stage of the operation. The mechanical arm, painted yellow, lowers slightly, passing one and gripping another log from the stack above. This log is then lifted by a metal fork and begins to move between the rollers. The log's movement is smooth and continuous, reflecting the automated nature of the process. The scene concludes with the log continuing its journey along the conveyor belt, while the mechanical arm readies itself for the next log, maintaining the rhythm of the facility's operations.  A medium shot captures the mechanical arm in action, emphasizing the precision and efficiency of the machinery. The background, filled with stacks of logs and industrial equipment, adds depth to the setting, highlighting the scale of the operation. The video showcases the seamless integration of technology and manual labor in modern lumber processing."
+}

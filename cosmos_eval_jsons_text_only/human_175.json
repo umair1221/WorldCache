@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_175",
+  "prompt": "The video opens with a winter scene at a ski resort, showcasing a snowboarder in a vibrant yellow jacket and black pants gliding down a snow-covered slope. The background features a ski lift system with cables transporting skiers and snowboarders uphill. The slope is marked with colorful poles, guiding the path for the snowboarder. Other individuals can be seen in the distance, either skiing or standing. The snowboarder maintains a steady pace, their body leaning slightly forward as they navigate the slope. As the video progresses, the snowboarder continues their descent, passing by poles, with the ski lift and distant figures remaining prominent in the background. The final frame captures the snowboarder further down the slope, still moving smoothly and confidently, with the expansive snowy landscape and ski resort infrastructure continuing to dominate the view."
+}

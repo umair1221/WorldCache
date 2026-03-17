@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_395dbade-ec75-456a-9644-491be543c892",
+  "prompt": "A woman is seated indoors on a chair with a brown frame and a green backrest, holding white pieces of paper in her hands. She gazes down at the papers with a sad expression, blinking 13 times throughout the sequence. The camera steadily pushes in, focusing on her face and capturing a medium shot at eye level. The woman is wearing makeup, including pale red lipstick and eyeshadow, and is dressed in a white top with a simple design. She accessorizes with large, gold, metallic, puffed, heart-shaped earrings. Her long brown hair is parted in the middle and falls in soft waves over her shoulders. The scene is set during the day, with natural light filtering through a window in the background, featuring sheer curtains and a gold-colored curtain draped over it. To the left of the woman, there is a yellow transparent vase on a horizontal surface, containing tall flower cuttings. To the right, a white cylindrical pillar stands next to the wall, with a metallic object with black lines visible behind it. A wooden rectangle divides the blue wall in the background. The logo in the upper left-hand corner of the frame features a round blue sphere partially enveloped by a silver crescent-like shape.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_395dbade-ec75-456a-9644-491be543c892.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_021",
+  "prompt": "The video opens in a spacious indoor basketball court with a high ceiling featuring a grid-like pattern of lights. The court is marked with standard basketball lines, including the free-throw line and the three-point line. On the left side of the frame, a row of black lockers is visible against the wall, with two individuals seated nearby; one wears a yellow top and dark pants, while the other is dressed in darker clothing. A basketball hoop is mounted on the wall above the lockers. In the center-right of the frame, a person dressed in black is holding a basketball and appears to be preparing to shoot. They take a few steps forward, bend slightly, and bring their arm back to throw the ball. The ball is released into the air, heading towards the hoop. The person in the yellow top remains seated by the lockers, watching the action. The final frame shows the person in black having completed their shot, standing upright and observing the trajectory of the ball.  A dynamic medium shot captures the basketball player mid-action, emphasizing their movement and focus. The background includes the high ceiling with its distinctive lighting pattern, the basketball hoop, and the lockers, creating a sense of depth and context within the gymnasium. The camera follows the player's motion, providing a clear view of their preparation and execution of the shot."
+}

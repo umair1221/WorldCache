@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_5328bf35-c01f-4786-a765-736d494a965f",
+  "prompt": "A man explores an outdoor historical site with stone walls, capturing himself with a handheld camera. He stands in the center of the frame, wearing a dark blue jacket over a green T-shirt and brown sunglasses with a white logo on the top right corner of the right lens and on the right arm. A dark blue strap crosses his right shoulder, with a white logo and letters on a dark section. The man is partially turned to the right, facing the camera, and begins walking while turning his head back to the left and speaking. He then turns to the camera, looks down, and starts moving forward and upward. He continues talking briefly before opening his mouth, shifting his gaze back and forth at the path and then back at the camera as he walks. The camera follows his movements closely, revealing a curving grass path bordered by a rustic old white stone wall to the right, with several holes where pieces of stone are missing. The stone balustrade on the left is more weathered, with a yellower and browner hue, and ends at a small tower-like structure with a brown roof visible in the top center area. The background is bright and sunny with clear skies, and distant hills and tall green trees can be seen beyond the structure's walls. The ambiance is lively and dynamic, with the man's natural movements adding to the sense of exploration and discovery.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_5328bf35-c01f-4786-a765-736d494a965f.jpg"
+}

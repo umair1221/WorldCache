@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_097",
+  "prompt": "A medium shot captures a factory setting where an automated cardboard processing machine operates efficiently. The machine, equipped with a control panel displaying \"1000\" and \"100,\" features multiple cylindrical rollers, including some orange ones, which are part of the processing mechanism. A large sheet of cardboard is being fed into the machine via a conveyor belt supported by metal tracks, moving smoothly and continuously. The operator's hand occasionally enters the frame, making minor adjustments to ensure proper alignment. The background reveals additional industrial equipment and stacks of cardboard, reinforcing the setting as a production area. The machine maintains a steady operation throughout the sequence, with the cardboard gradually moving through the rollers."
+}

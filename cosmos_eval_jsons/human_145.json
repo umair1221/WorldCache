@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_145",
+  "prompt": "The video opens with a blurred view of a weightlifting area within a gym, characterized by metal racks and weight plates hanging in the background. The ceiling features exposed beams and a single overhead light fixture, creating a functional and industrial atmosphere. A man, dressed in a sleeveless shirt, is seen lifting a barbell from the ground. His movements are deliberate and controlled as he raises the barbell to shoulder height, holding it steady with both hands. Then he lifts it up above his head. The barbell, loaded with weights, remains stationary above his head as he maintains this position, showcasing his strength and determination. The camera pans upward to capture the man's lift, emphasizing his focused expression and the industrial setting. A fan can be seen turning in the upper right quadrant of the video. The final frame captures the man in mid-lift, his eyes reflecting focus and effort, with the gym's industrial setting remaining consistent throughout the sequence.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_145.jpg"
+}

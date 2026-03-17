@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_042",
+  "prompt": "The video opens with a close-up of a car's front bumper, partially covered with yellow protective tape, indicating areas to be masked off during painting. The bumper is elevated on a stand within a clean, organized paint booth, characterized by white walls and a controlled environment ideal for automotive repair and airbrushing. A person dressed in a camouflage-patterned jacket and wearing a respirator mask is seen holding a spray gun connected to a hose. They are carefully airbrushing the exposed sections of the car bumper, moving the spray gun smoothly and deliberately to ensure even coverage. The individual's posture and the steady motion of the spray gun highlight their skill and precision. As the video progresses, the camera angle shifts slightly, providing a broader view of the person and the car bumper. The protective tape remains visible, clearly delineating the painted and unpainted areas. The person continues their methodical painting, maintaining a consistent pace and ensuring thorough coverage. The final frames show the bumper nearing completion, with the newly painted sections blending seamlessly into the existing blue color, demonstrating the effectiveness of the airbrushing technique. The overall scene conveys a sense of professionalism and attention to detail, characteristic of automotive restoration or customization work.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_042.jpg"
+}

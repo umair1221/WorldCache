@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_109",
+  "prompt": "A dynamic padel match unfolds on a vibrant green artificial turf court, enclosed by a tall black metal fence and marked by vivid blue walls. The scene is set against an overcast sky, with lush greenery visible beyond the fence, suggesting a secluded outdoor location. A young man, dressed in a black short-sleeved shirt, black shorts with white stripes, and black athletic shoes, stands near the center of the court, holding a red padel racket in his right hand. He faces the blue wall, preparing to receive an incoming yellow padel ball. As the ball approaches, he swings his racket with precision, hitting it back towards the wall. His movements are fluid and controlled, demonstrating his focus and skill. The final frame captures the man mid-swing, having just made contact with the ball, which is now in motion, heading back towards the opposite side of the court."
+}

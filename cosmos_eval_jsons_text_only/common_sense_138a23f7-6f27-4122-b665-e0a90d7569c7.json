@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_138a23f7-6f27-4122-b665-e0a90d7569c7",
+  "prompt": "A scenic road journey unfolds through a mountainous landscape shrouded in low-hanging clouds. The camera, positioned outside the back right window of a blue vehicle, captures a wide shot at eye level, panning left to reveal a rugged terrain of grey and brown mountains. A reflective body of water lies beneath an imposing mountaintop, partially obscured by fluffy gray clouds. Two dirt roads are present; one in the midground on the right, disappearing behind an incline near the center, and another on a leveled portion of an incline, sloping upward to the left and downward to the right. A series of nine cylindrical objects with dark stripes line up along the side of the road furthest from the camera. A white car is visible near the body of water, appearing small in the distance. The camera follows the road in a tracking motion, highlighting the bright, white highlights on the tops of the clouds against the vivid blue sky. The scene is bathed in diffused sunlight, casting a warm glow over the dirt browns and stone grays of the landscape."
+}

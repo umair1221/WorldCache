@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_22406425-dcc9-4b21-a622-992d5866d39a",
+  "prompt": "In a brightly lit kitchen, two young men stand side by side, showcasing a baking tray filled with freshly baked cookies. The man on the left, sporting a white, wrinkled short-sleeve shirt and blue eyes, stands casually with his arms resting on a surface out of view. His blonde hair frames his face as he smiles warmly at the camera. The man on the right, dressed in a black chef's coat with a yellow \"sorted\" patch, actively engages with the camera, holding the tray with his left hand. He gestures with his right middle finger, pointing to the cookies, while speaking animatedly. The camera captures this interaction from a medium shot at eye level, occasionally shifting slightly to follow their movements. The man on the right then picks up a fork and begins to point to the cookies in a circular motion, emphasizing their arrangement. Both men eventually look directly at the camera, with the man on the right lifting the tray higher and leaning closer, as if to highlight the cookies' texture and appearance. The background features a vibrant red refrigerator on the left and open white shelves on the right, adorned with jars, a festive red Santa hat, and shiny red and yellow ornaments, adding a cheerful holiday touch to the scene. The room is evenly lit, creating a warm and inviting atmosphere.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_22406425-dcc9-4b21-a622-992d5866d39a.jpg"
+}

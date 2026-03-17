@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_164",
+  "prompt": "A nighttime scene on a football field, illuminated by artificial lights casting a cool blue tone over the area. The main subject, a person wearing a dark long-sleeved athletic shirt and a black face mask, stands holding an American football. Their curly hair is visible above the mask, and they are adorned with a necklace. The background features the silhouettes of trees and the faint outlines of stadium bleachers to the left, indicating the setting is a sports venue. The individual remains mostly stationary, occasionally shifting their gaze slightly but maintaining a composed demeanor. The football is held securely in both hands, and there are no significant changes in their posture or the environment. The scene concludes with the individual keeping the football down using their right hand, with the same serene and focused atmosphere persisting until the end of the video. A medium shot captures the subject from a slightly elevated perspective, emphasizing their composed stance and the details of their attire against the backdrop of the dimly lit field."
+}

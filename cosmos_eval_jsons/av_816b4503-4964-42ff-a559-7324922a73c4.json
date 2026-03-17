@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_816b4503-4964-42ff-a559-7324922a73c4",
+  "prompt": "The video opens with a view from inside a vehicle, looking out through the windshield onto a suburban street under a bright, clear blue sky. The sun is high in the sky, casting a glare that slightly distorts the edges of the frame. The road is lined with lush green trees on both sides, and a tall, dark-colored fence runs parallel to the street on the right. A utility pole with power lines stretches across the scene, with a length of the wire coiled and hung from the pole. In front of the camera, a silver pickup truck is parked, its rear facing the viewer. A car passes by the ego vehicle, moving in the direction of the ego vehicle's motion. The ego vehicle slowly reverses to create sufficient space between itself and the white pickup in front. The truck remains stationary throughout the sequence, while the leaves of the trees to the right of the truck sway gently throughout the video. The video maintains a consistent perspective without abrupt changes in camera angle, capturing the serene suburban atmosphere under the bright sunlight.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_816b4503-4964-42ff-a559-7324922a73c4.jpg"
+}

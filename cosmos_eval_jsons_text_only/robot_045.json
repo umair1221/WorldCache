@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_045",
+  "prompt": "The video opens with a scene set on a polished wooden table. On the left side of the table, a small, shiny silver pot rests on a yellow cloth napkin, accompanied by a small blue object that resembles a spoon. To the bottom right, a plush toy resembling a rabbit with orange fur and blue paws is positioned. A robotic arm with black components and cables is seen above the table. The robotic arm approaches the plush toy rabbit, extending its claw-like end towards it. It gently grasps the toy rabbit, lifting it slightly off the table. The robotic arm then carries the toy rabbit away from its original position and places it at the center of the table. Finally, the robotic arm moves away from the toy rabbit. The background features a blue wall and a wooden shelf, adding a modern and clean aesthetic to the setting. A medium shot captures the entire action."
+}

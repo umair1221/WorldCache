@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_275",
+  "prompt": "A documentary-style video captures a group of five individuals jogging along a concrete barrier adjacent to a body of water, likely a river or sea, under an overcast sky. The concrete barrier is marked with some graffiti on its left side, and a metal railing runs along its edge, separating it from the water. The group consists of four men and one woman, all dressed in casual athletic attire suitable for running. The man on the far left wears a black hoodie and black pants, while the second man from the left sports a white hoodie and black pants. The third individual, also male, is clad in a beige jacket and black shorts. The fourth person, another man, is dressed in a similar light gray hoodie paired with black shorts. The woman on the far right wears a black long-sleeve top and white pants. They maintain a steady pace, their arms swinging rhythmically as they run. The background features a cloudy sky and the distant horizon, with the water reflecting the muted tones of the sky. The scene remains consistent throughout the video, with no significant changes in the actions or appearance of the individuals or the environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_275.jpg"
+}

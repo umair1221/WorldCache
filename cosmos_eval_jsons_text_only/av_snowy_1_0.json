@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_snowy_1_0",
+  "prompt": "A point-of-view video shot from inside a vehicle driving down a snow-covered urban street during a heavy snowfall. The windshield is speckled with snowflakes, and the road ahead is lined with various commercial establishments, including a prominent McDonald's sign on the left side. To the right, a large billboard displays the word \"SOLNIX\" in bold letters. Further down the road, a multi-story building is visible, partially obscured by the falling snow. The sky is overcast, casting a gray hue over the entire scene. As the vehicle moves forward, the snow continues to fall steadily, accumulating on the windshield and the road. The road ahead has been driven over by vehicles, leaving clear tire tracks, and appears very muddy and slushy. The video concludes with the vehicle still traveling down the snow-laden street, the snowflakes still actively falling, and the urban landscape enveloped in a blanket of white."
+}

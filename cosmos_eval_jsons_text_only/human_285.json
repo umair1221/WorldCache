@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_285",
+  "prompt": "The video opens in an indoor gymnastics facility, showcasing various gymnastic equipment such as uneven bars and a pommel horse in the background. The floor is covered with colorful mats in blue, red, and yellow, arranged for different exercises. A woman dressed in black athletic wear is seen jumping on a trampoline. She begins by jumping with her arms raised above her head and her legs straight, then leaps into the air, executing a front flip and landing back on her feet. After completing the flip, she brings her knees up to her chest and her hands to her knees. She then straightens out again, landing her feet on the trampoline once more. The final frame captures her standing upright on the trampoline with her arms to her sides. The setting is well-lit, with a clean and professional atmosphere, emphasizing the dynamic and energetic movements of the gymnast."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3009091-uhd_3840_2160_30fps",
+  "prompt": "A tortoiseshell cat stands alert on a brick-paved patio, surrounded by a natural setting that includes large rocks and lush greenery. The cat, with its distinctive black and orange striped coat, stands with its ears perked up and its tail slightly raised, exuding a sense of curiosity and attentiveness. To the left, a terracotta pot holds a succulent plant, adding a touch of earthy color to the scene. The background features ferns and other plants, creating a serene and natural atmosphere. Throughout the video, the cat remains mostly stationary, occasionally shifting its gaze and head slightly but without any significant movement. The overall scene remains consistent, with the cat continuing to stand on the patio, maintaining its alert posture amidst the tranquil backdrop."
+}

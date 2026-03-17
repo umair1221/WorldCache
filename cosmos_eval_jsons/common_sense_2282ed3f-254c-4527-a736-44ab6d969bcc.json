@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_2282ed3f-254c-4527-a736-44ab6d969bcc",
+  "prompt": "A computer-generated video of a Lufthansa Boeing 747 smoothly moving forward on a wet runway. The aircraft, a four-engine widebody jet with a sleek white and blue exterior, features two rows of windows along its side and prominent branding on its fuselage and tail. The landing gear includes main legs with multiple-axle bogies. The plane moves forward at a consistent speed, captured from a front-left angle, showcasing its elegant design and massive scale. The camera performs an arc shot, rotating clockwise from a top-down perspective, focusing on the nose of the airplane as it points towards 12 o'clock. The camera movement initially accelerates, then decelerates back to its original speed, creating a dynamic effect. The scene is set against an overcast sky, with snow visible on the ground near the runway. The runway is marked with yellow lines and white lines, and small vertical structures line its outer edges. The background features several structures on the horizon, adding depth to the scene. The overall color palette is muted, dominated by neutral gray and white tones, enhancing the serene atmosphere. The absence of dynamic activity emphasizes the plane's presence, making it the focal point of the video.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_2282ed3f-254c-4527-a736-44ab6d969bcc.jpg"
+}

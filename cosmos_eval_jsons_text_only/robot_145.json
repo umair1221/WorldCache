@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_145",
+  "prompt": "The video opens with a top-down view of a modern kitchen countertop, featuring a sleek Samsung microwave oven placed on a light wooden shelf. Below the microwave, a black tray is neatly arranged with various items, including packets of sugar, creamer, and other condiments, alongside a set of chopsticks. To the right of the tray, a red soda can sits on the counter. The robotic unit, dressed in gray clothing with black vertical stripes on its arms, is seen opening a drawer beneath the microwave with its right arm, placing a brown object inside, and then closing the drawer. Its right arm then moves to grab the red soda can placed on the counter. By the final frame, the drawer is fully closed, and the robotic unit has grabbed the red soda can. The scene remains consistent throughout the video, with no changes in the microwave and the black tray, and no significant changes in lighting or additional objects entering the frame. A medium shot from a top-down perspective."
+}

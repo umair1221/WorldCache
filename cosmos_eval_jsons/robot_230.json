@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_230",
+  "prompt": "A high-angle view captures a large industrial cheese-making vat, filled with a pale yellow liquid, likely milk or curd, situated within a clean, tiled factory environment. The vat is made of stainless steel, reflecting the overhead lighting, and features a control panel with various buttons and indicators on its side. A metal frame with a lever mechanism is attached to the top of the vat, suggesting it is used for stirring or manipulating the contents. Several blue hoses with red valves are connected to the vat, indicating the presence of water or other substances being added or removed during the cheese-making process. The floor beneath the vat is tiled in a light brown color, consistent with typical industrial flooring. The video showcases the mechanical stirring mechanism within the cheese-making vat, which initially positions itself vertically in the center of the vat and then begins to rotate slowly, causing the pale yellow liquid inside to swirl gently. The stirrer's movement is steady and continuous, ensuring thorough mixing of the contents. The entire process is automated, with no human intervention with the control panel. By the end of the video, the scene remains largely unchanged, with the vat continuing to stir the pale yellow liquid and the camera angle being the same throughout. The mechanical stirrer is still rotating, maintaining the swirling motion of the contents, and the surrounding environment, including the tiled floor and the control panel, remains static.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_230.jpg"
+}

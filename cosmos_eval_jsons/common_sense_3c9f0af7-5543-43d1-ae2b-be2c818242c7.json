@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_3c9f0af7-5543-43d1-ae2b-be2c818242c7",
+  "prompt": "In a casual indoor setting illuminated by natural light streaming through an open window, a man presents a towering food and drink creation on a wooden table. The focal point is a large glass filled with a burnt orange-colored beverage, serving as the base for a stacked arrangement of food items. Atop the glass sits a long bun, supporting a central stack of burgers and a piece of pickle perched on top. Thin skewers hold additional food items, including a ring-shaped food and golden-brown fried pieces. The man, wearing a black t-shirt and an army green cap, places the creation on the table with a wide grin, revealing a black and green tattoo on his arm. The camera, initially at eye level in a medium shot, pans left to focus on the food item as the man steps away. In the background, a young man in a dark gray sweater and a woman in a light gray sweater with a navy blue cuff design react with amusement; the man grins widely, while the woman places her hand on her chest and laughs dramatically. The table also holds three more glasses: one with a dark beverage, another with an orange drink and ice, and the final one containing a small, transparent liquid. The backdrop features a minimalist black-and-white wallpaper of trees framed in black, adding a serene touch to the lively scene.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_3c9f0af7-5543-43d1-ae2b-be2c818242c7.jpg"
+}

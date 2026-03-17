@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_295",
+  "prompt": "A medium shot captures a swimmer in an indoor pool, wearing a white swim cap and goggles, and a red swimsuit, preparing to begin their stroke. The swimmer is positioned in the water, with lane dividers featuring alternating orange and white stripes visible in the foreground. Three other swimmers are present in adjacent lanes, and the background includes a section of red lockers and a gray wall. The swimmer's reflection can be faintly seen on the locker doors. The swimmer begins their stroke, propelling themselves forward through the water with coordinated arm movements and leg kicks. Water splashes around them as they move, maintaining a streamlined body position. The scene is captured from a slightly elevated perspective, emphasizing the swimmer's focused expression and the dynamic motion of the water.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_295.jpg"
+}

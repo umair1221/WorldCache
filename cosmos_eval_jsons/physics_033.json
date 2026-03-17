@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_033",
+  "prompt": "A close-up shot captures a tennis ball with a smiley face drawn on it, placed centrally on a rotating black platform. The platform is situated on a wooden table with a light brown finish, and the background is a plain off-white wall. The tennis ball, initially stationary, begins to rotate clockwise as the platform spins. The smiley face on the ball remains visible but changes orientation as the ball rotates. By the final frame, the ball has completed part of a rotation, with the smiley face now facing a different direction compared to its initial position. The lighting remains consistent, highlighting the tennis ball and the platform against the neutral background.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_033.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_034",
+  "prompt": "A static shot captures a light-colored wooden table against a yellow wall. On the table, a simple ramp made of brown cardboard is propped up by a blue block, creating an incline. To the left of the frame, a black pipe lies horizontally on the table. In the following frames, a yellow tennis ball rolls out of the black pipe and moves smoothly across the table towards the ramp. The ball's trajectory is continuous, indicating its motion as it approaches the ramp. By the final frame, the tennis ball has rolled up and passed the ramp, disappearing from view, suggesting it is out of frame. A top-down perspective emphasizes the smooth motion and the interaction between the ball, the pipe, and the ramp."
+}

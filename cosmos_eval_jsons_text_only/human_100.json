@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_100",
+  "prompt": "A serene outdoor scene unfolds in a forested area during late autumn, with a mix of green and yellowing leaves adorning the trees. The ground is covered with fallen leaves and patches of dirt, creating a natural and slightly rustic backdrop. A person dressed warmly in a red jacket, black pants, and a red and white patterned hat is actively using an outdoor exercise machine. The machine consists of a blue frame with beige components, including a platform where the individual stands and handles they grip with both hands. The person is performing a series of movements, pulling the handles back and forth in a rhythmic fashion, likely engaging in a form of upper body exercise. The surrounding trees are tall and dense, with varying shades of green and yellow, and the sky above is overcast, casting a soft, diffused light over the entire scene. The person maintains a consistent posture and motion, focusing intently on their workout, and continues their exercise routine throughout the video, emphasizing dedication to fitness amidst the tranquil forest setting. A medium shot captures the individual from a slightly elevated perspective, highlighting their focused and rhythmic movements."
+}

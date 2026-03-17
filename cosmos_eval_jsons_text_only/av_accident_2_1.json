@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_accident_2_1",
+  "prompt": "The video opens with a nighttime urban street scene viewed from inside a car, likely through a dashboard camera. The road is wet, reflecting the streetlights and traffic lights, suggesting recent rain. A white truck is driving in the wrong direction, heading towards a red traffic light. On the left side, another vehicle is waiting at the same red traffic light. The surrounding area includes buildings with illuminated windows, indicating residential or commercial use. Streetlights line both sides of the road, casting a yellowish glow over the scene. The crosswalk markings are clearly visible on the road surface. Traffic lights are visible on both sides of the street. As the video progresses, the white truck runs the red light and crashes into the vehicle waiting at the intersection. By the end of the video, the traffic light turns green, and the truck and the other vehicle end up facing each other as a result of the collision. The camera remains stationary throughout, capturing the entire sequence from a fixed position inside the car."
+}

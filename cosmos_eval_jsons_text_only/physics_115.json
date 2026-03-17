@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_115",
+  "prompt": "The video opens with a serene and cozy scene set on a wooden porch, enveloped by lush greenery. The porch is furnished with a rustic wooden table and an elegant black leather armchair, adorned with a patterned throw pillow and a soft blanket, suggesting a comfortable spot for relaxation. On the table, two lit candles cast a warm glow, accompanied by an open book and a cup, indicating a peaceful reading session. A decorative hanging wind chime adds a touch of charm to the setting. The background reveals a misty forest with tall evergreen trees, creating a tranquil atmosphere. The camera remains stationary throughout the sequence, allowing viewers to fully absorb the tranquil ambiance and the natural beauty surrounding the porch. As the video progresses, the wind chime continues to sway gently in the breeze, enhancing the soothing soundscape. The misty forest remains unchanged, with the tall evergreen trees standing still, maintaining the overall sense of peace and tranquility. The scene concludes with the same serene and cozy setting, emphasizing the calming and inviting atmosphere of the porch."
+}

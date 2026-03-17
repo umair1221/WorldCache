@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_046",
+  "prompt": "A close-up view captures a person's hand vigorously stirring a thick, white substance inside a large white bucket. The hand, holding a wooden spatula, mixes the contents in a counterclockwise rotation, lifting the mixture up from the bottom of the bucket and creating swirling patterns. The bright lighting highlights the creamy texture of the mixture and the deliberate, steady motion of the hand. The background is slightly blurred, focusing attention on the hand and the bucket. The video concludes with the hand still actively mixing the thick, white substance, maintaining a consistent and purposeful motion."
+}

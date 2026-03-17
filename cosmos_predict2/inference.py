@@ -46,26 +46,6 @@ class Inference:
             offload_diffusion_model=args.offload_diffusion_model,
             offload_text_encoder=args.offload_text_encoder,
             offload_tokenizer=args.offload_tokenizer,
-            # DiCache
-            dicache_enabled=args.dicache_enabled,
-            dicache_num_steps=args.dicache_num_steps,
-            dicache_rel_l1_thresh=args.dicache_rel_l1_thresh,
-            dicache_ret_ratio=args.dicache_ret_ratio,
-            dicache_probe_depth=args.dicache_probe_depth,
-            # FasterCache
-            fastercache_enabled=args.fastercache_enabled,
-            fastercache_start_step=args.fastercache_start_step,
-            fastercache_model_interval=args.fastercache_model_interval,
-            fastercache_block_interval=args.fastercache_block_interval,
-            # EasyCache
-            easycache_enabled=args.easycache_enabled,
-            easycache_num_steps=args.easycache_num_steps,
-            easycache_thresh=args.easycache_thresh,
-            easycache_ret_steps=args.easycache_ret_steps,
-            # TeaCache
-            teacache_enabled=args.teacache_enabled,
-            teacache_num_steps=args.teacache_num_steps,
-            teacache_thresh=args.teacache_thresh,
             # WorldCache
             worldcache_enabled=args.worldcache_enabled,
             worldcache_num_steps=args.worldcache_num_steps,
@@ -75,26 +55,10 @@ class Inference:
             worldcache_motion_sensitivity=getattr(args, 'worldcache_motion_sensitivity', 5.0),
             worldcache_flow_enabled=getattr(args, 'worldcache_flow_enabled', False),
             worldcache_flow_scale=getattr(args, 'worldcache_flow_scale', 0.5),
-            worldcache_hf_enabled=getattr(args, 'worldcache_hf_enabled', False),
-            worldcache_hf_thresh=getattr(args, 'worldcache_hf_thresh', 0.01),
             worldcache_saliency_enabled=getattr(args, 'worldcache_saliency_enabled', False),
             worldcache_saliency_weight=getattr(args, 'worldcache_saliency_weight', 5.0),
             worldcache_osi_enabled=getattr(args, 'worldcache_osi_enabled', False),
             worldcache_dynamic_decay=getattr(args, 'worldcache_dynamic_decay', False),
-            worldcache_aduc_enabled=getattr(args, 'worldcache_aduc_enabled', False),
-            worldcache_aduc_start=getattr(args, 'worldcache_aduc_start', 0.5),
-            worldcache_parallel_cfg=getattr(args, 'worldcache_parallel_cfg', False),
-            
-            # Timestep-Aware Block Skipping (TABS)
-            timestep_skip_enabled=getattr(args, 'timestep_skip_enabled', False),
-            timestep_skip_early_ratio=getattr(args, 'timestep_skip_early_ratio', 0.2),
-            timestep_skip_late_ratio=getattr(args, 'timestep_skip_late_ratio', 0.2),
-            
-            # Progressive Denoising — Early Exit
-            early_exit_enabled=getattr(args, 'early_exit_enabled', False),
-            early_exit_min_ratio=getattr(args, 'early_exit_min_ratio', 0.5),
-            early_exit_threshold=getattr(args, 'early_exit_threshold', 0.02),
-            
             use_torch_compile=getattr(args, 'use_torch_compile', False),
         )
         if self.rank0:

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_238",
+  "prompt": "The video opens with two women seated at a wooden table in a bright, sunlit caf\u00e9 or restaurant, with large windows revealing a lush, green outdoor setting. The table is set with a variety of dishes, including a pizza, a pasta dish, a salad, and smaller plates with assorted foods. The woman on the left, wearing a dark-blue top, is seen chewing on a slice of tomato which rests on her fork. Meanwhile, the woman on the right, dressed in a light-blue top, takes a bite using a fork in her left hand and a spoon in her right. She brings the food to her mouth using the spoon. The table is adorned with a glass of water in front of the woman on the left and a glass filled with what appears to be soda or a carbonated drink in front of the woman on the right. Additionally, there's a small cup of what seems to be hot sauce or another condiment placed near the woman on the right. The scene remains consistent throughout the video, with the women continuing their meal without engaging in conversation. The background features a serene outdoor view with greenery and sunlight streaming through the large windows, creating a warm and inviting atmosphere."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_123",
+  "prompt": "In a first-person perspective, a robotic arm clad in gray sleeves with black accents is situated in a modern, well-lit indoor space, likely a laboratory or tech workspace. The robotic arms are positioned over a light wooden table. A gray rectangular container, filled with various small objects including a bottle with a blue label and a red cylindrical item, rests on the table. The background reveals multiple desks with computer monitors and office chairs, indicating a collaborative or research environment. Initially, the robotic arms are at rest; the left hand is near the edge of the table, while the right hand holds a small tool, possibly a screwdriver. As the sequence progresses, the right hand moves slightly forward, adjusting its grip on the tool, preparing for a precise task. The left hand remains stationary, maintaining its position close to the edge of the table. The gray container and the surrounding workspace remain static throughout the frames, emphasizing the focus on the robotic arm's actions. By the final frame, the robotic arm continues its subtle movements, with the right hand gripping the red tool and placing it into the gray box."
+}

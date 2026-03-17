@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_057",
+  "prompt": "In a well-lit textile factory warehouse, a worker dressed in a light blue shirt and a matching head covering, paired with a peach-colored skirt, stands next to an orange pallet jack. She is positioned in the foreground, gripping the handle of the pallet jack, which holds a large cardboard box filled with cylindrical white objects. The worker appears to be either preparing to move the load or has just completed a task involving the pallet jack. The background showcases various industrial elements, including stacks of green cylindrical items, large spools of material, and machinery, contributing to the busy yet organized atmosphere of the warehouse. The floor is marked with yellow lines, guiding pathways through the facility. The scene remains static throughout the sequence, emphasizing the routine nature of her work in this industrial setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_057.jpg"
+}

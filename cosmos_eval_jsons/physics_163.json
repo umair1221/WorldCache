@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_163",
+  "prompt": "A close-up view captures a melting popsicle on a white plate. The popsicle features a vibrant red top, likely strawberry-flavored, transitioning into a creamy white base, possibly vanilla or yogurt-based. The popsicle stick is visible on the right side, and the surface of the popsicle shows signs of melting, with the red portion becoming more fluid and spreading outward. The creamy white base remains relatively intact initially but eventually starts to soften and blend with the red, creating a smooth transition between the two flavors. The camera remains steady, focusing on the popsicle as it transforms from a solid form into a liquid, with the background remaining plain and white to ensure all attention is on the melting process. The lighting is consistent throughout, highlighting the colors and textures of the ice cream.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_163.jpg"
+}

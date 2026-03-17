@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_159",
+  "prompt": "The video opens in a brightly lit indoor gymnasium, characterized by its polished wooden floor and high ceilings with exposed beams and natural lighting. The walls are painted a light beige, decorated with a basketball hoop and a Belarusian flag. Players are scattered across the court, divided into two teams. The volleyball is airborne, heading towards the team alongside the net. A player in black is seen mid-jump, preparing to spike the ball. As the sequence progresses, the player in black successfully executes the spike, sending the ball over the net. The opposing team remains alert, anticipating the next move. The final frame captures the aftermath of the spike, with the ball descending towards the team across the net, who are now in position to receive it. The camera follows the ball's trajectory, providing a dynamic view of the action.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_159.jpg"
+}

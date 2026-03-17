@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_104",
+  "prompt": "A close-up shot captures the intricate operation of an automated capping machine in a dimly lit factory setting. The metallic arm, equipped with a capping head, moves methodically over a conveyor belt carrying multiple silver aluminum cans. The cans are neatly aligned, moving steadily along the belt. The background reveals additional machinery and equipment, indicative of a beverage production line. The lighting highlights the metallic surfaces and mechanical components, creating a focused and industrial atmosphere. As the video progresses, the metallic arm descends to securely cap each can, demonstrating precision and efficiency. The final frame shows the arm mid-process, capping the second can while the first, already capped, continues along the conveyor belt. The environment remains consistent, emphasizing the seamless and automated nature of the capping mechanism."
+}

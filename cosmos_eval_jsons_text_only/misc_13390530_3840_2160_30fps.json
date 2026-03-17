@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_13390530_3840_2160_30fps",
+  "prompt": "A serene winter forest scene unfolds, where a snow-covered path meanders through a dense woodland. The ground is blanketed in a thick layer of pristine white snow, which glistens under the soft light filtering through the canopy above. Tall trees, mostly bare of leaves, stand majestically on either side of the path, their branches heavily laden with snow, creating a picturesque tunnel-like effect. The trees vary in size and shape, with some having smooth, slender trunks while others are thicker and more robust. The snow appears to be freshly fallen, with no visible footprints or disturbances along the path, suggesting it has been untouched for some time. The overall atmosphere is tranquil and quiet, evoking a sense of peaceful solitude amidst the wintry landscape. As the video progresses, the scene remains largely unchanged, maintaining its tranquil and undisturbed nature. The snow continues to fall gently, adding to the already thick blanket that covers the ground and the branches of the trees. The path remains untouched, with no visible signs of movement or activity. The trees stand still, their branches heavy with snow, and the overall atmosphere remains peaceful and serene throughout the sequence."
+}

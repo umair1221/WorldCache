@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_264",
+  "prompt": "A dynamic action sequence unfolds in a spacious indoor gymnasium with high ceilings and large windows allowing ample natural light. The polished concrete floor reflects the ambient light, enhancing the industrial feel of the space. The walls are painted in a combination of white and muted tones, with sections featuring a textured, dark brown finish and a blue tone. On the left side, a yellow gymnastics apparatus, possibly a balance beam or uneven bars, stands upright against the wall. On the right side, clear backboards for basketball are mounted on pillars separating the windows.  The central figure is a woman dressed in black athletic wear, including a sports bra and leggings, with a visible sleeve tattoo on her right arm. She is engaged in a vigorous exercise routine, wearing a harness-like device around her waist, which is attached to two long, yellow fabric straps connected to a black tire. Her movements are fluid and continuous, transitioning from a crouched position to extended leg and arm movements. As the sequence progresses, she maintains a steady rhythm, with the tire following directly behind her. The overall scene remains consistent, with the woman's energetic actions being the primary focus against the static background of the gym.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_264.jpg"
+}

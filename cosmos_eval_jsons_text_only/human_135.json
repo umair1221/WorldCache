@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_135",
+  "prompt": "The video opens with a wide shot of an indoor skatepark, where a large crowd of spectators lines the edges of the bowl-shaped skating area. The audience, dressed in casual attire, watches intently from behind safety railings. The roller skater, wearing a helmet and a loose-fitting blue jacket over a dark shirt, glides smoothly across the wooden surface of the bowl. Approaching the edge, the skater leans into the curve, executing a fluid turn and adjusting their stance to navigate the transition. They then accelerate down the slope, gaining momentum before performing a controlled jump, launching into the air with arms outstretched for balance. Mid-air, the skater maintains a crouched position, showcasing precision and skill. Upon landing, the roller skater continues to glide smoothly along the curved edge of the bowl, demonstrating agility and control throughout the sequence. The final frame captures the roller skater mid-landing, with their body positioned low and balanced, continuing their smooth glide along the bowl's edge.  A dynamic wide shot captures the skater's fluid movements and the engaged audience, emphasizing the energy and excitement of the scene."
+}

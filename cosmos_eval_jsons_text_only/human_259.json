@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_259",
+  "prompt": "The video opens with a man with long, curly hair and a beard, wearing a pink sports jersey labeled \"T10APYR\" over a 100, standing outdoors on a soccer field. The background is filled with dense green trees, creating a serene and natural setting. As the sequence progresses, the man in the pink jersey raises his right hand, holding a small trophy, and his left arm rises as he celebrates his victory. Another individual with blonde hair, dressed in a dark-colored jersey, appears in the background, joining in the celebration. The man in the pink jersey continues to shake both arms in a triumphant gesture. As the scene unfolds, a group of individuals makes their way around the man, jumping and cheering joyously. The final frame captures the group of people celebrating enthusiastically, with the man in the pink jersey still holding the trophy high above his head, surrounded by his teammates who are laughing and cheering."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_18820560-uhd_3840_2160_25fps",
+  "prompt": "The video opens with a wide shot of a snowy mountain slope under a partly cloudy sky, creating a serene and picturesque scene. Four skiers are descending the slope, each contributing to the dynamic yet peaceful atmosphere. In the foreground, the skier in bright red pants and a dark jacket leads the group, holding ski poles as they glide smoothly downhill. To their left, a skier in yellow pants and a black jacket follows closely behind, maintaining a steady pace. Further back, two additional skiers, one in blue and another in darker attire, are also making their way down the slope. The background features a range of snow-capped mountains, adding depth and grandeur to the landscape.  As the video progresses, the skier in red pants continues to lead, maintaining a consistent speed and direction. The skier in yellow pants stays close, occasionally adjusting their stance. The skier in blue moves further ahead, leaving a trail of tracks in the snow. The distant skier in darker clothing also continues their descent, gradually moving out of view. The scene remains tranquil, with the snow-covered mountains providing a stunning backdrop throughout the sequence. By the final frame, the skier in red pants is still at the forefront, with the other skiers trailing behind, all moving steadily down the slope against the majestic mountainous backdrop.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_18820560-uhd_3840_2160_25fps.jpg"
+}

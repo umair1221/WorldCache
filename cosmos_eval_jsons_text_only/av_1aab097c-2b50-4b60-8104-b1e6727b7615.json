@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_1aab097c-2b50-4b60-8104-b1e6727b7615",
+  "prompt": "The video opens with a nighttime scene captured from the perspective of a dashboard camera inside a vehicle that slowly moves to the center of the intersection, where it yields to the oncoming vehicle while waiting to make a left turn. The road ahead is dimly lit by streetlights, creating a soft glow that reflects off the ego vehicle's hood. Residential houses line both sides of the street, featuring various architectural styles, including a house with a white picket fence on the left side and another with no fence on the right side of the video. A few trees are visible in the background, their silhouettes standing out against the dark sky. A few cars are parked along the curbside, and two vehicles are seen approaching the camera, with one of them passing by the ego vehicle. A signboard with a sign that reads \"speed limit 25\" can also be seen on the right side of the road across the intersection. The scene remains largely unchanged, maintaining the tranquil suburban atmosphere under the night sky. A medium shot from a slightly elevated perspective captures the intersection and the approaching traffic."
+}

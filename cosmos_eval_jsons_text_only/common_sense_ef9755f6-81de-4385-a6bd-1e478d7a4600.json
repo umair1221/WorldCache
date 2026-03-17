@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_ef9755f6-81de-4385-a6bd-1e478d7a4600",
+  "prompt": "In a medium, eye-level shot, two women are depicted in a moment of shared sorrow. On the right, a young woman with long, straight black hair and a moss-green garment with a subtle black animal print stands beside an older woman. The young woman's head is slightly tilted towards the older woman, who has a round face, a double chin, and a small mole on her right cheek. Her black hair is neatly groomed and mostly covered by a maroon scarf. The young woman holds her right hand over the right side of her mouth, fingertips pressing her nose, with a distressed expression and downward-turning mouth. Her gaze is directed downwards, and her bottom lip quivers. The older woman, with a melancholic expression, looks in the same direction before briefly lifting her gaze to meet the younger woman's eyes. The younger woman then tucks her fingers under her nose, her head lifting slightly as she stares to the left. Shadows under her green-toned eyes hint at the emotional weight, and a tear rolls down her left cheek. The camera subtly zooms in, capturing the nuanced expressions and the warm, diffused lighting. In the blurred background, a window with a teal-colored frame covered with black bars is set in a tan-colored wall."
+}

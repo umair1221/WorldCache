@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_263",
+  "prompt": "The video opens with a man standing outdoors in front of a modern building characterized by its clean lines and a combination of white and blue panels. The sky above is a clear, vibrant blue, indicating a sunny day. The man, dressed in a white hoodie and gray athletic pants, stands with earphones in his ears, appearing focused and ready for physical activity. As the video progresses, he transitions from standing on both feet to extending one leg up on the railing. He places his left hand under his thigh, aiding in maintaining balance and stability during the stretch. The background remains consistent throughout, showcasing the same modern building and clear sky. By the final frame, the man continues his stretch with one leg extended and the other not visible, demonstrating a deliberate and controlled movement aimed at flexibility and preparation for exercise. A medium shot captures the man's focused and dynamic posture against the backdrop of the modern building and clear blue sky."
+}

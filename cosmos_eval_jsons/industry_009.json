@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_009",
+  "prompt": "The video opens with a close-up shot of an old typewriter, highlighting its intricate details. The typewriter is set up with a sheet of white paper positioned behind the red ribbon, ready for use. The metallic carriage, equipped with a lever for adjusting the paper, is seen on the left side of the frame, while the platen, responsible for pressing the ribbon against the paper, is partially visible at the center. The carriage is initially at rest. As the video progresses, the carriage moves to the left, and the word \"SEX\" is typed onto the paper. The typing mechanism, including the ribbon and typebars, operates smoothly, with the letters clearly forming on the paper. After completing the word, the carriage remains in its current position without returning to its original position, and the typebar is no longer visible. The final frame shows the typewriter in a static state, with the paper displaying the text \"SEX\" and no change in the camera angle.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_009.jpg"
+}

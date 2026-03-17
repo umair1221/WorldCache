@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_accident_2_2",
+  "prompt": "The video begins with a wide-angle view from inside a vehicle, capturing an intersection under a clear blue sky. The road is divided into multiple lanes, marked by white lines, and features traffic signals above. Several cars are present, including a silver SUV positioned in the opposite lane. To the right, a few vehicles are waiting to cross the intersection. The scene is set in what appears to be a suburban or urban area during the daytime. As the video progresses, a silver sedan approaches the intersection from a perpendicular direction. The silver SUV, which was initially in the opposite lane, starts to move forward. The sedan collides with the SUV, causing it to flip over and land on its roof. Debris scatters across the road as the vehicle's body parts are visibly damaged. The car remains overturned for a moment, showing the aftermath of the crash with the car still on its roof amidst the debris. The front end of the silver sedan is also clearly shown to be heavily damaged."
+}

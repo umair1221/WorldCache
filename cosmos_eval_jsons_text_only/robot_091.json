@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_091",
+  "prompt": "The video begins with a close-up view of two robotic arms positioned in front of a wooden door. The door has a light brown, vertically striped texture, and a black door handle is visible on the right side. The robotic arm on the left is dark gray with visible joints and wiring, while the one on the right is also dark gray but features a more complex design with additional components, including what appears to be a sensor or camera mounted on its upper section. The lighting is even, suggesting an indoor setting with artificial light.  In the second frame, the robotic arm on the right moves the key, which is initially held horizontally above the lock, and inserts it into the lock mechanism. The key is metallic. The robotic arm continues to manipulate the key, indicating the beginning of the unlocking process. The robotic arm leaves the key inside the lock and turns the door handle, leading to the door being opened. By the final frame, the door has been opened by the robotic arm, and the arm leaves the door handle and moves away from it a little bit.  A close-up shot captures the intricate movements of the robotic arms as they interact with the door and key, emphasizing the precision and complexity of their design."
+}

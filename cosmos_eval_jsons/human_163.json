@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_163",
+  "prompt": "A dynamic judo practice session unfolds in a spacious indoor gymnasium with large windows allowing ample natural light. The floor is covered with a yellow mat. Two men, both dressed in white gi, are engaged in a judo drill. The man on top, wearing a black belt, executes a judo throw by lifting his opponent off the ground. The opponent, lying on his back, struggles to maintain balance and resist the throw. The man on top shifts his weight and positioning to secure a hold, while the opponent adjusts his posture, trying to find leverage to counter. The gymnasium's background includes a blue wall with a basketball hoop and a railing, indicating a multi-purpose facility. The hoop gets completely occluded as both the men make different moves. The lighting from the large windows creates a bright and focused environment for the practice. A medium shot captures the action from a slightly elevated perspective, emphasizing the fluidity and intensity of the judo throw.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_163.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_103",
+  "prompt": "A close-up view of an industrial machine in a factory setting, showcasing a series of cylindrical components labeled with red markings, indicating different stages or functions. These components are mounted on a metallic framework, including gears and levers, suggesting a complex production line or automated system. The machine operates efficiently, with glass tubes attached to each component moving steadily from left to right. Below the moving structure, a circular rotating platform holds additional glass tubes vertically. The top parts of the cylindrical components lift briefly to attach new tubes from the rotating platform, then lower again, continuing their synchronized motion along the track. The video highlights the intricate details and metallic sheen of the machine, with focused lighting emphasizing its operation.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_103.jpg"
+}

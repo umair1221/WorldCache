@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_192",
+  "prompt": "A dynamic sparring session unfolds in a well-lit gym with windowed walls and a wooden floor. The boxing ring is defined by black ropes, and several hanging punching bags are visible in the background. Two individuals engage in a close combat maneuver within the ring. The person on the left, shirtless and wearing patterned shorts, is bent forward, blocking the moves of the individual on the right, who is dressed in a black tank top and orange shorts adorned with intricate designs. Both are equipped with boxing gloves; the shirtless individual has black gloves, while the other wears red gloves. The person in the black tank top has their hair tied back and is positioned on the right side of the frame, while the shirtless individual is on the left. The sparring session intensifies as the person in the black tank top applies pressure to the arm of the shirtless individual, who attempts to maintain balance and counter the move by grabbing the opponent's left leg. The video captures the fluidity and intensity of their movements, showcasing various techniques and defensive maneuvers within the confines of the boxing ring."
+}

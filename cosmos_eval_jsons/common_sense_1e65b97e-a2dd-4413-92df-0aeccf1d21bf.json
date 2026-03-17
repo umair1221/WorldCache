@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_1e65b97e-a2dd-4413-92df-0aeccf1d21bf",
+  "prompt": "The video captures a man performing an exercise routine in a sunlit yard. Initially, the camera focuses on the man from his left side, showing him in a plank position with a stick and a weight attached to the right end. He is wearing a blue t-shirt with black writing on the back, a dark necklace, black shorts, and black sneakers. The vibrant green grass or turf beneath him provides a stable surface for his movements.  As the camera pans left and arcs in a clockwise motion, the man transitions into a dynamic push-up sequence, gripping the stick and maintaining his plank position. His movements are fluid and controlled, showcasing his upper-body strength and balance. His focused expression reflects his concentration and effort throughout the exercise. The sunlight enhances the clarity of the scene, casting clear shadows and highlighting the lush, green environment.  The background features a gray wooden fence with verdant foliage climbing it, adding depth to the setting. Nearby, there are plants situated next to the fence, separated by a short brick barrier. A black and white goalie net and a soccer ball are visible behind the man, suggesting a recreational space. The overall atmosphere is bright and energetic, emphasizing the man's dedication to his workout amidst a serene and well-maintained outdoor setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_1e65b97e-a2dd-4413-92df-0aeccf1d21bf.jpg"
+}

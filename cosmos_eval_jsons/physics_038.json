@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_038",
+  "prompt": "A static shot captures a light-colored wooden coffee table in a room with a yellow couch in the background. Two tennis balls, one orange and one brown, are placed near the center of the table, back-to-back. A black pipe lies horizontally on the left side of the table. A grey tennis ball rolls out of the pipe and approaches the two stationary balls. Upon collision, the grey ball stops, causing the brown ball to move slightly and the orange ball to fall off the table. The final frame shows the two tennis balls resting on the table.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_038.jpg"
+}

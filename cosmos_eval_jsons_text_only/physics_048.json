@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_048",
+  "prompt": "A close-up shot captures a wooden table where a clear glass bowl filled with a bright red liquid sits. Inside the bowl, a bundle of lit matchsticks, bound together by a blue band, is partially submerged in the liquid, with a small flame flickering at the top. Above the bowl, a transparent glass jar is positioned upside down, its opening directly above the burning matchsticks. The camera remains static as the glass jar is slowly lowered, covering the matchsticks completely. The flame gradually diminishes and eventually goes out, leaving the matchsticks submerged in the red liquid. The final frame shows the jar fully covering the matchsticks, with the liquid remaining calm and undisturbed. The background is a plain, light-colored wall, emphasizing the vivid colors and the subtle movements within the scene."
+}

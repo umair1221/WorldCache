@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_199",
+  "prompt": "A close-up shot of a rifle's muzzle, positioned to the right side of the frame, set against a blurred forest background. The background features indistinct tree trunks and branches, suggesting a natural outdoor environment. The firearm appears to be a rifle, with its barrel extending into the frame. Initially static, the scene sets a calm and focused tone. As the gun fires, a bright orange flame erupts from the muzzle, rapidly expanding and billowing outward. Accompanying the flame is a puff of white smoke that thickens and swirls around the muzzle. Two spent bullet casings are propelled away from the gun, one slightly ahead of the other, indicating the discharge of the weapon. The scene captures the explosive force and dynamic motion of the firearm's discharge, emphasizing the power and intensity of the explosion. The overall atmosphere remains tense and intense throughout the sequence, highlighting the dramatic and forceful nature of the firearm's operation."
+}

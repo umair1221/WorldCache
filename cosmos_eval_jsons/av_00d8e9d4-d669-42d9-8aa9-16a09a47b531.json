@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_00d8e9d4-d669-42d9-8aa9-16a09a47b531",
+  "prompt": "A dashcam video captures a multi-lane urban street intersection under clear skies with the sun low on the horizon, casting long shadows. The scene is set in a commercial area, with several cars visible, including a white van directly ahead and others moving in both directions. The road is lined with trees on the right side, providing shade for the sidewalk, where a few parked cars are also visible. Traffic lights hang above the intersection, and in the distance, more buildings and signs can be seen. The overall atmosphere is calm, with no immediate signs of congestion or activity beyond the steady flow of traffic. The ego vehicle, positioned behind the white van, slows down as it approaches the intersection, with the white van's rear right-turn signal flashing. A few other vehicles are stopped in the ego vehicle's lane at red traffic lights. The camera angle provides a first-person perspective from within the ego vehicle, capturing the view through the windshield and hood, emphasizing the calm yet dynamic urban environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_00d8e9d4-d669-42d9-8aa9-16a09a47b531.jpg"
+}

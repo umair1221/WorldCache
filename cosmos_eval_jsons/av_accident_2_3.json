@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_accident_2_3",
+  "prompt": "The video begins with a view from inside a vehicle driving on a multi-lane highway under a clear blue sky with a few scattered clouds. The road is marked with white lane dividers and directional arrows indicating forward and right turns. On the left side, there is a grassy area with small trees and utility poles, while the right side features a metal guardrail bordering a field of tall grass. In the distance, a large white truck is visible, traveling in the same direction as the camera. As the video progresses, the truck approaches an intersection where it is suddenly hit by a high-speed sedan coming from a perpendicular direction. The impact sends debris flying across the road, and both vehicles are visibly damaged. The camera captures the aftermath from a slightly elevated perspective, emphasizing the sudden collision and the resulting chaos.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_accident_2_3.jpg"
+}

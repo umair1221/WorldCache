@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_251",
+  "prompt": "A dynamic sports video captures a man running energetically across a well-maintained soccer field under a clear blue sky. Dressed in a red long-sleeve shirt and patterned shorts featuring red, white, and blue stripes, complemented by black athletic shoes, he showcases his athletic form as he moves swiftly across the field. The field is marked with white boundary lines, and in the background, a chain-link fence encloses the area, beyond which stand tall trees and a few residential houses. The man's run is focused and powerful, transitioning into a more dynamic movement as he bends his knees and shifts his weight forward, touching the ground with his right hand, suggesting preparation for a sprint or a change of direction. The camera captures this transition smoothly, emphasizing his agility and speed. The final frame shows the man mid-stride, his body leaning forward in anticipation, with the field and distant scenery still visible behind him.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_251.jpg"
+}

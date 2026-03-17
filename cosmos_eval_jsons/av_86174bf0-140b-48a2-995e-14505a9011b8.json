@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_86174bf0-140b-48a2-995e-14505a9011b8",
+  "prompt": "A nighttime drive through a wet, rainy road captured from inside a car. The windshield is speckled with raindrops, and the wipers are actively clearing them, creating a dynamic visual effect. The road is illuminated by streetlights, casting a soft, diffused glow over the scene. Trees line both sides of the road, their silhouettes barely visible against the dark sky. Several other vehicles are present, including those moving in the opposite direction, some in the same direction, and others parked along the roadside. The sky is dark, emphasizing the nighttime setting. As the video progresses, the ego car maintains a steady pace, with the wipers continuing to work tirelessly. The surrounding environment remains consistent, with the streetlights and trees providing a steady backdrop. The overall atmosphere is calm yet slightly moody, enhanced by the rain and dim lighting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_86174bf0-140b-48a2-995e-14505a9011b8.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_46fe9718-b496-4c30-b1b6-8b02028dd336",
+  "prompt": "A first-person perspective video shot from inside a car captures a sunny urban street intersection. The scene is framed by a large, domed building with classical architecture and columns on the left, and a well-maintained grassy area with tall palm trees in the center, adding a touch of greenery. Several parked cars line the streets on both sides, and the sun is high in the sky, casting long shadows across the road. As the video progresses, the ego vehicle yields to a silver car entering from the right, driving towards the intersection and then continuing straight ahead, exiting the frame towards the left. After yielding, the ego vehicle turns left at the intersection. The final frame shows the intersection without the silver car, with the domed building and palm tree still featured, and the sun continuing to shine brightly overhead. The video has a naturalistic style, capturing the everyday movement of traffic in a sunny urban setting. A medium shot from a slightly elevated perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_46fe9718-b496-4c30-b1b6-8b02028dd336.jpg"
+}

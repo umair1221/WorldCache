@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_13390461_1920_1080_30fps",
+  "prompt": "A serene video opens with two Highland cattle standing close together in a field. The foreground highlights a cow with dark brown, shaggy fur and prominent curved horns, while the second cow, slightly behind and to the right, has lighter, golden-brown fur and similar horns. Both animals face forward, with the second cow maintaining a steady gaze towards the camera. The background consists of a pale, overcast sky and a field of dry, golden grass, creating a tranquil rural atmosphere. In the bottom right corner, a portion of a metal structure, likely part of a fence or gate, is visible. Throughout the video, the cattle remain mostly stationary, with slight head movements and the occasional shift in posture. The scene concludes with the same peaceful image, emphasizing the calm and undisturbed nature of the environment. A close-up shot captures the gentle expressions and textured fur of the cattle, highlighting their majestic presence against the serene backdrop."
+}

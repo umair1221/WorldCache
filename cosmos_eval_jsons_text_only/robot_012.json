@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_012",
+  "prompt": "The video opens with a close-up of a miniature kitchen setup, featuring a small, open drawer with a red exterior and black handle. Inside the drawer, a clear plastic container with an orange lid and a blue object resembling a small bowl or cup are visible. Above the drawer, a metallic pot is situated upside down. To the right, a white shelf holds a yellow pumpkin. A robotic arm enters the frame from the left, moving towards the drawer, and then closes the drawer. The scene captures the intricate details of the miniature kitchen, including the wooden countertop and the various kitchen items, all set against a backdrop of a clean, organized space. The video has a realistic and detailed style, emphasizing the precision and functionality of the miniature setup. A close-up shot from a slightly elevated perspective."
+}

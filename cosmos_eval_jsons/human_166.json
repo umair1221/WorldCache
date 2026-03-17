@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_166",
+  "prompt": "A scuba diver, clad in a sleek black wetsuit and adorned with vibrant orange and black flippers, gracefully explores the side of a sunken shipwreck underwater. The diver's movements are deliberate and steady as they navigate the rocky, algae-covered surface of the ship, which is teeming with marine life. The surrounding water is a mesmerizing deep blue, and schools of small fish dart around the diver and the wreck, adding a lively dynamism to the serene underwater setting. Bubbles rise from the diver's breathing apparatus, creating a striking contrast against the stillness of the environment. As the video progresses, the diver continues to hover, with the bubbles growing larger and more prominent, indicating a slow ascent away from the shipwreck. The scene concludes with the diver suspended in tranquil blue water, surrounded by the gentle movement of the fish, while the shipwreck remains a silent witness to the diver's exploration.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_166.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_069",
+  "prompt": "The video showcases a robotic arm setup on a white tabletop. Two robotic arms are positioned symmetrically on either side of a teal bowl filled with various objects, including a green ball, a pink ball, a red bottle with a cartoon face design, and another red object resembling a toy or container. A beige plate lies flat on the table to the right of the bowl. The robotic arms appear to be in a ready position, with their grippers extended towards the bowl. The background is a plain, light-colored surface, likely a wall or backdrop, keeping the focus on the robotic setup and the objects on the table. During this video, the left robotic arm picks up the red bottle with a cartoon face design from the teal bowl. The right robotic arm remains steady during this action. The right robotic arm then takes the bottle from the left arm and places it on the beige plate. By the final frame, the robotic arms pick up only one object and place it onto the plate.  A medium shot captures the robotic arms' interaction with the objects on the table, emphasizing the precision and coordination between the two arms. The setting is clean and minimalistic, ensuring the viewer's attention remains on the robotic operation."
+}

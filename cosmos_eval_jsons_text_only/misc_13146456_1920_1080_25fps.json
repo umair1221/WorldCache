@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_13146456_1920_1080_25fps",
+  "prompt": "A serene sunset video captures a tranquil scene over a strait or bay, with a cityscape silhouetted against the vibrant orange and yellow hues of the sky. Several seagulls are gracefully soaring above the choppy waters, their wings spread wide in mid-flight. A large cargo ship is positioned centrally in the frame, while another smaller vessel can be seen to the left. The city skyline features several prominent structures, including a domed building, possibly a mosque, and other architectural landmarks, all bathed in the warm glow of the setting sun. As the video progresses, the seagulls continue their fluid and dynamic movements, dipping and soaring close to the water's surface, while others glide higher. The cargo ship remains stationary, serving as a steady focal point amidst the ever-moving birds. The city skyline, with its distinct domed structure and other buildings, remains static but is illuminated by the changing light of the sunset, enhancing the visual appeal of the scene. By the final frame, the seagulls maintain their graceful flight, reflecting the serene and harmonious nature of the sunset. The warm, golden light of the sunset casts a tranquil glow over the entire scene, with the water below reflecting the colors of the sky, adding depth and tranquility to the image."
+}

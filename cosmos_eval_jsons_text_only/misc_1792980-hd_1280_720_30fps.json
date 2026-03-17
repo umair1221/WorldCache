@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_1792980-hd_1280_720_30fps",
+  "prompt": "The video opens with a close-up shot of a wasp nest, a dome-shaped structure made of mud and chewed wood, hanging from a tree branch. The nest is densely populated with numerous yellow-and-black striped wasps, which are actively moving around its surface. Some wasps are seen entering and exiting the dark entrance hole at the bottom of the nest, while others are engaged in construction or maintenance activities. The background is softly blurred, featuring hints of green foliage and a hint of blue sky, indicating a sunny day. Throughout the video, the wasps continue their constant activity, with no significant changes in the environment or the appearance of the nest. The final frame shows the same scene, with the wasps still busy at work, maintaining the same level of activity and density around the nest. A close-up shot from a slightly elevated perspective."
+}

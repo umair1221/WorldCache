@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_134",
+  "prompt": "A child is seated on a spring ride-on toy shaped like a horse in an open grassy area with patches of dirt, likely a park or playground. The child is dressed warmly in a red polka-dot jacket, blue jeans, striped socks, and pink boots, and is wearing a pink knit hat adorned with a pattern. The setting includes a road curving in the background and trees scattered around, some of which have bare branches, suggesting it might be autumn or early spring. The sky is clear with the sun low on the horizon, casting a warm glow over the scene. As the video progresses, the child remains seated on the toy, occasionally shifting their weight and leaning forward or back, possibly engaging with the toy or adjusting their position. The child\u2019s hands are initially resting on the sides of the toy but move slightly at times, indicating interaction with the ride-on. The background remains consistent, with the road and trees providing a stable backdrop. By the final frame, the child continues to sit on the toy, maintaining a similar posture as before, with minimal changes in their position or the environment. The overall scene remains calm and unchanged, with the child appearing content and engaged in their play."
+}

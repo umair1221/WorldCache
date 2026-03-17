@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_225",
+  "prompt": "The video showcases two orange robotic arms branded with \"KUKA,\" situated inside a glass enclosure. These robotic arms are positioned above a white surface where numerous small rectangular components are neatly arranged in rows. The robotic arms, equipped with grippers, are actively engaged in picking up and placing these components with precision, indicating an automated process of repetitive tasks. The background includes a partially visible orange sign with some text, reinforcing the industrial setting. Throughout the video, the robotic arms exhibit asynchronous and repetitive movements, demonstrating their efficiency in handling the parts. The scene remains consistent, focusing on the robotic arm's precise and coordinated actions without any significant changes in the environment or introduction of new objects. By the final frame, the robots continue their methodical work, maintaining the same level of precision and coordination observed throughout the video. A medium shot captures the robotic arms' dynamic and efficient movements within the industrial setting."
+}

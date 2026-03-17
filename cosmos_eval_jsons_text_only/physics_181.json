@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_181",
+  "prompt": "A close-up view captures a white teacup with gold trim, elegantly placed on a dark surface. The cup is initially empty, but soon a stream of dark liquid, likely tea or coffee, begins to pour into it from above. As the liquid fills the cup, ripples form on the surface, creating a dynamic visual effect. The pouring continues until the cup is nearly full, with the final frames showing the liquid settling and the surface becoming calm. The background remains out of focus, ensuring all attention is on the cup and the pouring action. The camera remains stationary, maintaining a consistent angle and framing that highlights the pouring process and the cup's elegant design."
+}

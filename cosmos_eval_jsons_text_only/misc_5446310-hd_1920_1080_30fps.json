@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_5446310-hd_1920_1080_30fps",
+  "prompt": "A close-up of a majestic lion's face, positioned slightly off-center to the left, captures the essence of its powerful presence. The lion's thick mane of golden-brown fur frames its head, with darker fur on top, adding depth and texture. Its eyes are partially closed, giving it a relaxed yet alert expression, as if it's basking in the warmth of the sun. The background is a dry, sandy terrain, possibly a savanna or desert, with a light beige color and scattered small rocks or debris, enhancing the natural setting. The lighting is bright, casting subtle shadows across the lion's face and body, emphasizing its features. The lion's mouth is slightly open, revealing its teeth, which adds to the sense of calm intensity. As the video progresses, the lion's eyes open wider, and its mouth opens slightly more, indicating a shift towards a more alert or possibly vocal state. The lion's gaze remains fixed forward, and there are no other objects or significant changes in the environment, maintaining focus solely on the lion's subtle facial movements and expressions. By the final frame, the lion continues to look directly at the camera with its eyes wide open and mouth slightly agape, conveying a sense of readiness or attentiveness."
+}

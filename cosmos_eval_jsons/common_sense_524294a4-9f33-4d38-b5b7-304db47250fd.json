@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_524294a4-9f33-4d38-b5b7-304db47250fd",
+  "prompt": "In a medium shot captured at eye level, an elderly man and a young woman stand side by side outdoors during the day. The man, with a salt-and-pepper beard and mustache, wears a white shirt, a dark green plaid vest, and a black scarf draped over his shoulders. He has large rings on both ring fingers and is holding a string of orange beads in his left hand. The woman, dressed in a bright yellow sleeveless top and accessorized with a gold necklace, has her blonde hair tied up and is holding a black DSLR camera with both hands. Initially, they face the camera, with the man’s face slightly turned to his left and the woman’s head tilted in the same direction with her eyes closed. As the camera pans right, the woman partially turns her body to face her companion, who gestures with his left hand, making three clockwise circles in the air with his left index finger pointed up. He then brings his hand down to hold the beads with both hands. The woman turns back to face forward while the man continues speaking and gesturing with his left hand. His facial expressions are animated, and her face has a subtle smile. The background, softly focused, features a cream-colored building with brown doors and a palm tree on a patch of green grass. The bright daylight illuminates the scene, keeping the main subjects brightly lit but in shadow.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_524294a4-9f33-4d38-b5b7-304db47250fd.jpg"
+}

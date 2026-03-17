@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_014",
+  "prompt": "A static shot captures a light beige coffee table in a cozy living room, with a mustard yellow couch in the background. A small yellow rubber ducky sits near the center of the table, serving as the focal point. To the left, a black pipe is partially visible, suggesting an impending action. As the video progresses, a brown tennis ball emerges from the black pipe and rolls across the table towards the rubber ducky. The ball collides with the ducky and exits the frame to the right. The scene concludes with the table empty except for the yellow rubber ducky, which remains stationary in its initial position.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_014.jpg"
+}

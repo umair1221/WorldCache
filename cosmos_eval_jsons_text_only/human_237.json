@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_237",
+  "prompt": "A modern, well-lit living room serves as the backdrop for a lively scene where a woman is actively vacuuming the floor with a handheld vacuum cleaner. She stands on a colorful geometric-patterned rug in shades of blue, yellow, pink, and gray, next to a large L-shaped orange sectional sofa. Dressed in a bright orange outfit, complemented by a patterned scarf and headphones, she moves rhythmically, suggesting she is enjoying music. The room is tastefully decorated with a white shelf holding decorative items like plants and a fruit bowl, and a white brick wall adorned with an abstract piece of art. The woman's movements are lively and energetic as she vacuums, occasionally turning around and continuing her task with a consistent pace. The video captures her dynamic cleaning routine, blending functionality with a sense of joy and rhythm."
+}

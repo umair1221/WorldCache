@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_219",
+  "prompt": "A medium shot captures two individuals joyfully jumping in a vast, flat snowy landscape. The setting is a serene, expansive field blanketed in snow, with a distant horizon barely visible under a cloudy sky. The person on the left is dressed in a long gray coat, brown pants, a patterned scarf, and a cap, while the individual on the right sports a pink puffer jacket, blue jeans, a light-colored scarf, and their hair tied back. Both are actively engaged, their movements indicating playful energy despite the cold. As the video progresses, they jump repeatedly, moving to their right in a playful dance, their arms outstretched and hands interlocked. The camera follows their dynamic movements, capturing the lively interaction against the tranquil backdrop of the snowy field and overcast sky."
+}

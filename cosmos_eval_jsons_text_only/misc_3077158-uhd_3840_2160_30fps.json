@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3077158-uhd_3840_2160_30fps",
+  "prompt": "The video opens with a small dog, likely a Jack Russell Terrier, standing on a lush green lawn in a well-maintained backyard. The dog's coat is predominantly white with brown patches on its head and ears, and it is intently chewing on a large, light-colored bone. The background features a stone wall, a large white pot, and parts of a house structure, suggesting a suburban setting. The lighting is bright, indicating a sunny day. As the video progresses, the dog continues to chew on the bone, its head moving slightly as it works to break it apart. The dog's body posture remains steady and focused throughout the sequence. By the final frame, the dog is still engaged in chewing, maintaining its determined stance on the grassy lawn. A close-up shot captures the dog's determined expression and the texture of its fur, emphasizing the natural movement and the serene suburban environment."
+}

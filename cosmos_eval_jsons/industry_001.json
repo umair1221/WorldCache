@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_001",
+  "prompt": "A wide-angle shot of a modern industrial factory showcasing a large, curved conveyor belt system made of metallic frames and yellow plastic crates, which are moving in a continuous loop. The conveyor belt is situated centrally within the frame, with the crates evenly spaced and steadily progressing around the curve. To the left of the camera's frame, stacks of additional yellow crates are neatly arranged next to metal shelving units. The background features more shelving units and similar yellow crates lined down the conveyor belt, emphasizing the organized storage. The floor is a concrete surface, and the ceiling is equipped with fluorescent lighting that illuminates the area. Throughout the video, the conveyor belt's movement is consistent, with no noticeable changes in speed or direction, maintaining a smooth and efficient workflow. The conveyor belt and yellow crates are always in the camera's view throughout the video. The final frame captures this ongoing activity, highlighting the seamless operation of the conveyor system and the orderly arrangement of the storage areas. The camera movement moves forward throughout the video, providing a dynamic perspective of the industrial setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_001.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_door_open_1_0",
+  "prompt": "The video begins with a view from inside a car, looking out onto a residential street under an overcast sky. The scene is framed by two-story houses on both sides of the road. On the left, neutral-toned buildings stand, while on the right, a red-brick house catches the eye. Parked cars line both sides of the street, including sedans, vans, and SUVs. As the video progresses, a white car appears on the left side of the frame with its door open, indicating someone might be exiting. The ego vehicle slows down and cautiously passes the white car. Meanwhile, several vehicles are seen driving by on the right. The camera remains stationary, capturing the everyday activity of the neighborhood from a first-person perspective."
+}

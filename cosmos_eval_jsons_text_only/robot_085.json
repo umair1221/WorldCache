@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_085",
+  "prompt": "The video opens with a scene set on a wooden table, featuring two robotic arms equipped with cameras. Two white plates with some text on them are visible on the table, one of which has lettuce and the other has a slice of toasted bread that is partially occluded by the left robotic arm holding a red-colored sauce bottle. Behind the plate of lettuce, a green toaster with two slices of toasted bread popping out is visible, along with a woven basket containing additional slices of bread. The background includes a brown wooden surface and a blue reflective surface. As the video progresses, the robotic arm on the right begins to move towards a red sauce bottle with its lid opened, held by the robotic arm on the left. The left robotic arm remains stationary as the right robotic arm flips the lid of the sauce bottle with its grippers and then pushes on the lid to close it properly. The action is smooth and controlled. The video concludes with the robotic arm successfully closing the lid of the sauce bottle, while the background remains unchanged, maintaining focus on the interaction between the robotic arm and the bottle of sauce.  A medium shot captures the robotic arms interacting with the sauce bottle, emphasizing the precision and control of the movements."
+}

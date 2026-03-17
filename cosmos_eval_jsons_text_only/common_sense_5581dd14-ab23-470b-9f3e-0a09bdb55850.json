@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_5581dd14-ab23-470b-9f3e-0a09bdb55850",
+  "prompt": "A close-up of a man in a stained shirt taking a drink of liquid from a clear bottle, set against a backdrop of dense green foliage, suggesting a jungle or forest environment. The natural light filters through the leaves, casting a warm glow on the man\u2019s face and highlighting the moisture on his skin. The man, with disheveled, wavy dark brown hair that falls over his forehead and ears, has a short dark beard and mustache, and an angular facial structure with high cheekbones. His white shirt is dirty, with a wide neckline that dips below the frame, and his skin appears shiny with sweat. The camera focuses on the man from the mid-chest to the mid-forehead, capturing his intense expression as he clutches his jaw and bares his teeth. He looks down briefly before raising the bottle to his lips with his right hand. As he drinks the clear liquid, the camera tilts up slightly to show most of his head. The bottle is angled upward before he lowers it and swallows. The sunlight reflects off the bottle and the man\u2019s right cheek, adding a natural glow to the scene. The camera then tilts down to keep his face in the frame as he glances down at the bottle in his hand with a neutral expression. The label of the bottle is partially visible but mostly obscured by his fingers. The bottle changes shape, becoming more flattened, indicating it caved under the pressure of his hand."
+}

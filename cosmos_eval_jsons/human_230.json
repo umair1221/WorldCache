@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_230",
+  "prompt": "A family of four is gathered in a bright, modern kitchen, engaging in a shared cooking activity. The father, dressed in a pink shirt, leans slightly forward, interacting with items on the counter. The mother, wearing a brown top, is focused on spreading butter on a slice of bread placed on a wooden cutting board. She holds the bread in her right hand and a butter knife in her left. To her left, a young girl in a white top and pink overalls leans over the counter, attentively watching the process. Another child, seated at the counter to the mother's right, looks up at the father. The kitchen features white cabinets, a granite countertop, and various items such as a bowl of cereal, a plate with avocados, a bottle of olive oil, a glass bottle of milk, and a coffee maker in the background. As the video progresses, the father removes the cork from the top of the glass bottle of milk and then picks up the glass of milk from the counter. The mother continues to spread butter on the bread while the young girl with the pink overalls leans closer, observing intently. The seated child remains engaged, looking up at the father. The overall scene remains consistent, with the focus on the individuals' interaction around the kitchen counter. The final frame captures this ongoing activity, maintaining the same positions and actions as described earlier.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_230.jpg"
+}

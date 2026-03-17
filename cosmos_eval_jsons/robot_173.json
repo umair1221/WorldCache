@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_173",
+  "prompt": "The video opens in a spacious industrial warehouse or factory, characterized by a clean, concrete floor and white-painted walls. At the center of the scene is an orange robotic arm mounted on a sturdy metal frame, actively engaged in a material-handling task. The robotic arm is positioned under a wooden pallet, which rests on a platform, and it appears to be preparing to lift it. Surrounding the robotic arm are various pieces of industrial equipment, including a control panel with buttons and stacks of wood in the background. A stack of wooden pallets is also present in front of the robotic arm. The robotic arm begins its operation by lifting the wooden pallet, rotating it slightly, and then continuing to lift it higher until it is positioned at a steeper angle. The robotic arm's movements are smooth and controlled, demonstrating the precision of the automated process. By the final frame, the robotic arm has successfully lifted the pallet, ready for further processing. The camera angle remains fixed throughout the video, capturing the entire scene.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_173.jpg"
+}

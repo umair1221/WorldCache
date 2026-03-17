@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_060",
+  "prompt": "A video opens with a static shot of a small, intricately carved porcelain statue illuminated by a spotlight, placed on a rotating base that begins to spin clockwise. The statue, seated and detailed, is positioned on a reflective surface, likely a table, enhancing its visibility. The spotlight, positioned directly below the statue, casts a bright, focused light that highlights the texture and contours of the porcelain, creating a dramatic effect. Behind the statue, a large, circular shadow is cast on the wall, mirroring the statue\u2019s shape but inverted due to the angle of projection. As the statue rotates clockwise, the shadow shifts and changes shape, reflecting the statue\u2019s changing orientation. The shadow starts as a full-body silhouette and gradually transforms into more abstract forms, showcasing the dynamic interplay between the statue and its shadow. The video concludes with the statue fully rotated, the shadow now an intricate, abstract form on the wall, highlighting the optical phenomenon of how light and shadow can create complex visual effects."
+}

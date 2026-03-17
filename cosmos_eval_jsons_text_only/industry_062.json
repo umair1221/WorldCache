@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_062",
+  "prompt": "The video opens with a scene set in a well-lit industrial textile factory, where two workers, dressed in light blue uniforms and hairnets, are operating a large spinning or weaving machine. The machine features numerous spools of white thread neatly arranged in rows, with some spools actively rotating. The worker in the foreground is meticulously adjusting the spools, ensuring they are properly aligned and secured, while the worker in the background also adjusts the spools and rotates them. The environment is clean and organized, with additional machinery and equipment visible in the background, emphasizing the industrial setting. The workers' movements are deliberate and focused, highlighting their expertise and attention to detail in managing the machinery. As the video progresses, there are no significant changes in the scene, maintaining a consistent view of the workers and the machinery. The final frame captures the same scene, with the workers continuing their tasks, the machinery operating smoothly, and the overall environment remaining unchanged."
+}

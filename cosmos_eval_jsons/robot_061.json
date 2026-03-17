@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_061",
+  "prompt": "The video showcases a robotic arm setup situated in a modern, minimalistic indoor space, likely an office or lab. The scene centers around a white table where a plastic opaque cup is placed. A smaller white robotic arm with blue and green lights on its joints is holding a small bottle, while a larger black and silver robotic arm with green and blue lights on its joints is positioned above it, twisting the cap of the bottle. The background includes black office chairs and a few indistinct items on the floor, indicating a workspace environment, and a shadow on the floor at the upper left frame of the video, most probably of a person passing by. Throughout the video, the left robotic arm remains stationary, maintaining its grip on the bottle, while the larger arm rotates clockwise without any change in its position. The overall scene remains consistent, with no new objects appearing or actions taking place beyond the initial positioning of the robotic arms. A medium shot captures the robotic arms' interaction with the bottle, emphasizing their precision and controlled movements within the workspace.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_061.jpg"
+}

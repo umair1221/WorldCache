@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_044",
+  "prompt": "A static shot of a tall, clear glass placed on a wooden surface against a plain, light-colored background. Inside the glass, there is a vibrant blue liquid, and a distinct green band of tape marks a specific level within the glass. A wooden-handled grabber tool, with blue gripping ends, holds a potato above the glass. The potato is then released, falling into the blue liquid. As it descends, it creates ripples and disturbances in the liquid, causing the water level to rise slightly around the potato. The final frame captures the potato fully submerged in the blue liquid, with the green band of tape still visible. The scene is set in a controlled studio environment with soft lighting, emphasizing the clarity of the glass and the vivid colors of the liquid and tape. A medium shot with a slight upward angle.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_044.jpg"
+}

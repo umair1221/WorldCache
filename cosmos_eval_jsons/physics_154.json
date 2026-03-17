@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_154",
+  "prompt": "The video opens with an extreme close-up of a coffee cup, focusing on the surface where a drop of coffee is about to fall. The liquid is a rich, dark brown color, indicating it's freshly brewed. The surface of the coffee is textured with small bubbles and foam, suggesting it might be a latte or cappuccino. The background is out of focus, emphasizing the action in the foreground. The lighting is warm, enhancing the rich colors of the coffee and the texture of the foam. As the drop falls, it creates a splash that ripples outward, disturbing the foam and bubbles. The splash initially forms a small crown-like shape at the center, which then collapses into a smaller droplet. The surrounding foam and bubbles continue to ripple outward, creating a dynamic and visually appealing effect. The entire sequence is captured in slow motion, allowing viewers to observe the intricate details of the coffee's surface and the movement of the liquid. By the final frame, the coffee has settled back down, with the initial disturbance now smoothed out, leaving behind a slightly disturbed but still visually appealing surface.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_154.jpg"
+}

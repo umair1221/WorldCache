@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_068",
+  "prompt": "A high-tech tabletop experiment featuring two robotic arms and two plates unfolds in a controlled laboratory setting. The left robotic arm, equipped with a gripper, is positioned over a green bowl containing a red object. Meanwhile, the right robotic arm, also fitted with a gripper, is over a clear plate with two small, colorful objects: one pink and one green. The background is a plain, light-colored surface, emphasizing the precision of the robotic setup.  As the video progresses, the right robotic arm extends its gripper forward, preparing to grasp the green object on the plate. The left robotic arm remains stationary, maintaining its position over the red object in the bowl. The right robotic arm then successfully picks up the green object and transfers it to the left robotic arm, which places it onto the green plate. The entire sequence demonstrates the precise and controlled movements of the robotic arms in a laboratory environment, highlighting their capabilities for manipulating small objects."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4483542-uhd_2562_1440_30fps",
+  "prompt": "A wide shot of a bustling city intersection on a sunny day, capturing the transition between two distinct architectural styles. On the left, a curved, reddish-brown brick building stands out with its modern design and large windows, while on the right, a sleek, light-colored stone structure with large windows adds to the urban landscape. The street is relatively quiet, with minimal pedestrian activity. A white van is parked on the left side of the street, and traffic lights show green signals. A couple of pedestrians can be seen near the TD Bank branch on the left, while others stroll along the sidewalk on the right. The sky is clear and blue, indicating pleasant weather. As the camera moves forward, it captures the continuation of the street, revealing more of the urban landscape, including additional storefronts and parked cars. The overall scene remains calm and orderly, with the camera's steady progression providing a continuous view of the city's architecture and streetscape."
+}

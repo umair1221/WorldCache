@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_108",
+  "prompt": "The video opens with a close-up shot from a first-person perspective, showcasing a robot's hands, which have black and white arms, interacting with an electronic device mounted on a light-colored wall. The device, a thermostat or a black rectangular control panel, is centrally positioned in the frame. Above it, a piece of paper with printed text is affixed to the wall. The floor is tiled, and a small, dark object, possibly a screw, lies near the bottom right corner. The robot's right hand approaches the device, pressing buttons or touching it, indicating an adjustment or operation. The hand moves methodically, suggesting a deliberate and focused interaction. After a second, the hand moves away, and the final frame captures the hands in a rest position, with the device still in its original state. The scene remains static except for the interaction between the hands and the device."
+}

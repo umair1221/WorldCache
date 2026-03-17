@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_015",
+  "prompt": "The video opens with a static shot of a wooden table against a plain off-white wall, setting a neutral stage for the objects in the foreground. On the table lies a small mound of bright green kinetic sand, its texture appearing slightly damp and malleable. Above the sand, a blue tennis ball is securely held by a black and blue grabber tool, positioned just above the ball's diameter. The grabber tool is designed to grip the ball without causing damage. As the video progresses, the grabber tool releases the ball, allowing it to fall onto the sand. Upon impact, the ball compresses the sand slightly before coming to rest atop the mound, showcasing the interaction between the ball and the kinetic sand. The final frame captures the ball resting on the compressed sand, with the grabber tool still visible above, indicating the end of the release action. The scene is captured from a slightly elevated perspective, emphasizing the dynamic motion of the ball and the resulting compression of the sand.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_015.jpg"
+}

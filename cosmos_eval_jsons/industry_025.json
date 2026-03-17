@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_025",
+  "prompt": "The video begins with a close-up shot of a sewing machine in operation, focusing on the needle area where it pierces through a piece of light gray fabric. The sewing machine has a white body with black accents and metallic components, including the needle and presser foot. A human hand is visible on the right side of the frame, guiding the fabric under the presser foot. The fabric appears to be a lightweight material, possibly cotton or linen, and the thread is a light blue color, contrasting subtly against the neutral tones of the machine and fabric. The background is blurred, suggesting a workshop or sewing room setting, with soft lighting that highlights the sewing process. As the video progresses, the needle continues its rhythmic up-and-down motion, stitching the fabric steadily. The human hand maintains a steady grip, ensuring the fabric moves smoothly under the presser foot. The fabric gradually accumulates stitches, indicating the sewing process is ongoing. No new objects appear in the video; the focus remains on the sewing machine and the fabric being stitched. By the end of the video, the fabric shows a noticeable length of stitches, demonstrating the continuous and precise sewing action. The human hand continues to guide the fabric, maintaining control over the sewing process. The overall scene remains consistent, with the sewing machine and fabric as the central elements, emphasizing the meticulous nature of the sewing activity.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_025.jpg"
+}

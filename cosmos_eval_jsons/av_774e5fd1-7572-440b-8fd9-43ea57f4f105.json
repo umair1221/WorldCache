@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_774e5fd1-7572-440b-8fd9-43ea57f4f105",
+  "prompt": "A point-of-view video shot from inside a vehicle driving on a multi-lane highway under a clear blue sky. The dashboard of the car is visible at the bottom of the frame, reflecting the road ahead. The road stretches forward with multiple lanes, bordered by trees on both sides, suggesting a suburban or semi-rural area. On the left side of the highway, there’s a concrete barrier separating the lanes, and beyond it, additional vehicles can be seen traveling in the same direction. The right side of the road features more trees and some greenery. The sun is positioned high in the sky, casting bright light across the scene and creating a lens flare effect that slightly obscures the upper left corner of the frame. As the video progresses, the scene remains consistent, with the vehicle continuing its journey along the multi-lane highway. The dashboard reflects the road ahead and the surrounding environment, including the trees and other vehicles. There are no significant changes in the positions or actions of the objects; the vehicles maintain their steady pace. The sun continues to shine brightly, maintaining the lens flare effect in the upper left corner of the frame. By the end of the video, the ego vehicle gradually changes to the adjacent right lane on the highway, surrounded by the same trees and vehicles, and the sun continues to cast its bright light over the landscape. A steady, forward-moving shot from a first-person perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_774e5fd1-7572-440b-8fd9-43ea57f4f105.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_073",
+  "prompt": "A close-up shot captures the intricate process of a CNC machine drilling holes into a metal workpiece in an industrial setting. The metallic cutting tool, mounted on a black holder, precisely drills into the securely clamped metal surface. Small metal shavings scatter around the work area, evidence of previous machining activities. Bright lighting highlights the precision of the operation, reflecting off the metal. As the drill bit descends, it initiates the drilling process, with high-pressure water cooling sprays continuously surrounding the cutting zone to cool and lubricate the tool while flushing away debris. The machine methodically removes material, ensuring accuracy in the drilling operation. By the final frame, the drilled holes are clearly visible on the workpiece, and the high-pressure water cooling system continues to operate, maintaining optimal machining conditions. The video showcases the meticulous and efficient nature of modern manufacturing technology.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_073.jpg"
+}

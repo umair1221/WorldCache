@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3012488-uhd_3840_2160_30fps",
+  "prompt": "The video begins with a close-up shot of a guinea pig with a white chest and brown fur, situated in a hay-filled enclosure. The guinea pig is positioned near a large, dark gray plastic tube lying horizontally across the hay. Behind the guinea pig, a tree trunk with exposed roots and branches provides a natural backdrop. A goat with a light brown coat and darker mane stands in the background, partially obscured by a metal fence. The goat remains relatively still, occasionally shifting its gaze towards the guinea pig. The scene captures a calm moment in what appears to be a petting zoo or animal exhibit, with the hay and tree trunk serving as part of the habitat. As the video progresses, the guinea pig continues to move its head slightly, occasionally grooming itself, while the goat maintains its position, observing the surroundings. The final frame shows the guinea pig moving forward along the dark plastic tube, continuing its subtle movements, with the goat remaining in the background, unchanged from its earlier stance."
+}

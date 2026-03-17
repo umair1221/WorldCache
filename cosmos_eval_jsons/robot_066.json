@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_066",
+  "prompt": "A robotic arm demonstration takes place in a modern, possibly industrial or research setting, evident from the visible office chairs and technical equipment in the background. The focus is on the robotic arms, which are positioned over a white table. Two distinct plates are placed on the table: a pink plate containing a decorative white flower made of food, and a white plate holding several food items, including a piece of meat. The robotic arm on the right, equipped with a black gripper, extends towards the white plate, preparing to interact with it. The arm's movement is smooth and controlled, demonstrating precision and functionality. The robotic arm lifts the white plate, with its gripper extended, and places it back down on the table. In the final frame, the robotic arm on the left grips the pink plate while the robotic arm on the right remains still. The scene remains consistent throughout, with a stationary camera capturing the interaction between the robotic arms and the plates on the table.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_066.jpg"
+}

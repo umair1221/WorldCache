@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_133",
+  "prompt": "The video opens with a view from above a wooden table in a laboratory or workshop setting. The table is cluttered with various objects, including a small rectangular box containing a white cylindrical item, a clear plastic container with colorful items, a patterned cloth, and a beanie cap. A gray tray on the left side holds two small red and yellow objects. In the background, a metal structure and cables suggest an experimental or industrial environment. The lighting is bright, illuminating the workspace clearly. A robotic arm with black and white segments is positioned over the table. Initially, the arm holds a screwdriver in its right hand. It moves the screwdriver towards the small rectangular box, placing it carefully inside along with the other items. The left hand of the robotic arm remains stationary. The robotic arm's movements are precise and deliberate, showcasing its capability for fine manipulation tasks. The scene remains static except for the robotic arm's actions, maintaining the same background elements throughout the video. By the end of the sequence, the screwdriver is securely placed within the box, completing the task.  A top-down shot captures the robotic arm's precise placement of the screwdriver, emphasizing the meticulous nature of the task. The background, with its metal structure and cables, adds to the industrial ambiance, while the bright lighting ensures every detail is visible.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_133.jpg"
+}

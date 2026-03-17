@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_52a08e41-ee30-4bc1-ab18-fa5d3b4eff40",
+  "prompt": "A person is preparing ingredients for cooking, focusing on crushing garlic cloves inside a mortar. The video begins with a close-up shot of the person's left hand picking up several garlic cloves from a wooden cutting board and placing them into a dark gray mortar. The person, wearing a gold ring on their right ring finger, then uses a pestle with their right hand to crush the garlic, applying an up-and-down motion with slight rotation. The camera remains steady, capturing the detailed action of the hands and the mortar. As the person continues to crush the garlic, another hand briefly enters the frame from the right, moving across the top of the cutting board. The background is well-lit, showcasing the rough texture of the mortar and pestle on the left side of the frame. On the right, the wooden cutting board holds various ingredients, including white, green, and light purple items, neatly arranged into two piles. A white bowl with a red and green floral pattern contains a mix of light and dark brown circular pieces. The background also includes a black textile material and a small patch of red, adding contrast to the scene. The overall setting is natural, with earthy tones dominating the visual palette."
+}

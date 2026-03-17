@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_042",
+  "prompt": "A close-up shot captures a pair of hands meticulously working on a small mechanical device on a white surface, likely in a workshop or home environment, as suggested by the patterned carpet in the background. The main objects include a black cylindrical device with a transparent hose attached, a larger white tank-like structure with multiple circular openings, and two coiled yellow wires lying nearby. The hands are seen holding the transparent hose and attaching a small black connector to its end. They then insert this connector into the cylindrical device, ensuring it fits securely. The hands continue to adjust the position of the device, making sure everything is properly aligned and secured. By the final frame, the hands have completed the task, with the hose now firmly connected to the cylindrical device, which is held in place by the person's hand.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_042.jpg"
+}

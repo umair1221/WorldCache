@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_145",
+  "prompt": "A serene video opens with a steaming cup of coffee placed on a wooden table, the handle pointing to the left. The cup, with its simple design, is positioned slightly off-center, drawing immediate attention to the thick, white steam that billows upwards and curls gracefully. The steam creates a dynamic visual element against the softly blurred background, which features a window with an orange and white patterned curtain, suggesting a cozy indoor setting. The lighting is warm and natural, likely from sunlight streaming through the window, enhancing the overall tranquility of the scene. The camera remains stationary throughout the sequence, focusing solely on the cup and the steam. The atmosphere is calm and inviting, evoking a sense of comfort and relaxation. As the video progresses, the steam continues to rise and curl, maintaining the dynamic visual element. The cup remains stationary on the wooden table, and the background stays blurred with the same orange and white patterned curtain visible. The lighting remains consistent, with the soft natural light continuing to enhance the warmth and tranquility of the scene. By the end of the video, the cup still holds the steaming coffee, the steam continues to curl gracefully, and the overall atmosphere remains calm and inviting, reinforcing the sense of comfort and relaxation."
+}

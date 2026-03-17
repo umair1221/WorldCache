@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_036",
+  "prompt": "The video opens with a static shot of a 30lb kettlebell hanging above a yellow ceramic coffee mug placed on a wooden table. The background is a plain white wall, and the lighting is even, ensuring clear visibility of the objects. The kettlebell is positioned directly above the mug, indicating that it is about to be lowered. As the sequence progresses, the kettlebell is slowly lowered until it makes contact with the mug, resting on top of it. The final frame shows the kettlebell securely placed on the mug, demonstrating the interaction between the two objects under the influence of gravity. The wooden table provides a warm contrast to the cool tones of the kettlebell and the mug, creating a visually balanced composition."
+}

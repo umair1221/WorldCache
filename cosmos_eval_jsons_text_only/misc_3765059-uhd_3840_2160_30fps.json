@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3765059-uhd_3840_2160_30fps",
+  "prompt": "The video opens with a vibrant underwater scene inside an aquarium, showcasing a variety of fish swimming amidst a rocky, cave-like structure. The background is composed of layered, textured rocks in earthy tones, creating a naturalistic setting. Several colorful fish, including yellow and black striped butterflyfish, blue tangs, and smaller white fish, are seen moving gracefully through the water. The yellow and black striped fish are particularly prominent, swimming from left to right, their fins fluttering as they glide past the camera. The blue tangs, positioned higher up in the tank, remain relatively still, adding depth to the scene. Smaller white fish dart around, enhancing the lively atmosphere. The water is clear, allowing for a detailed view of the fish and the rocky backdrop. As the video progresses, the fish continue their fluid movements, maintaining the tranquil yet dynamic underwater environment. By the final frame, the yellow and black striped fish have moved further into the right side of the frame, while the blue tangs and smaller white fish remain in their respective positions, contributing to the ongoing, peaceful aquatic tableau."
+}

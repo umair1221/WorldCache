@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_137",
+  "prompt": "The video opens with a first-person perspective of a robotic system interacting with fitness equipment inside a gym or fitness center. The robotic system is dressed in white athletic pants and black-and-white sneakers, though the focus is primarily on the upper body and the equipment they are manipulating. The robotic system uses a black platform with a handlebar for support, indicating an exercise routine. Above this equipment, a white wall-mounted device, possibly a monitor or control panel, is connected by cables, suggesting advanced monitoring or control capabilities. To the left, part of another piece of exercise equipment, likely a treadmill, is visible, with its control panel and a small screen mounted on the wall nearby. The floor is covered with a speckled gray carpet, and the walls are painted white, creating a clean and minimalistic environment. Throughout the video, the robotic system continues to engage with the stationary equipment, demonstrating controlled movements and interaction. The camera angle remains fixed, emphasizing the robotic system's precise and deliberate actions. The environment, including the white wall-mounted device, the control panel of the treadmill, and the speckled gray carpeted floor, remains unchanged, focusing on the robotic system's exercise activity."
+}

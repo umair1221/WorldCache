@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_d89501c6-78d1-4af6-bb04-d3bce9125259",
+  "prompt": "In this cooking video, two male individuals are actively engaged in preparing a dish in a small professional kitchen. The chef in the foreground, wearing a white chef's hat with a blue stripe and patterned gray circles, a red uniform shirt with two white stripes in the neck, and sleeves featuring a blue and white logo on the left side of the chest, is focused on frying two pieces of snacks in a bubbling black frying pan on the bottom right burner. He uses a slotted silver spoon to drain oil from the food as he works. Standing behind him, a bald man in the same uniform is closely supervising, occasionally pointing to a silver tray beside the stove. The chef continues to drain the oil, then transfers the food to one of two silver containers lined with white paper towels, which the supervisor points to. The kitchen is functional yet cluttered, with a silver shelf above the stove holding various kitchen utensils like ladles and spatulas, and a large stainless-steel oven with yellow and white labels and ventilation slats nearby. The countertop next to the stove contains glass bottles with pour spouts, a jar with a red cap, and other kitchen essentials. The brown-tiled floor contrasts with the bright natural lighting streaming through large rectangular windows with white frames, capturing the cooking process in a medium shot with slight random camera movement and an eye-level perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_d89501c6-78d1-4af6-bb04-d3bce9125259.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_060",
+  "prompt": "The video opens with a close-up of a wooden kitchen counter where two individuals are engaged in preparing dough. The person on the left, wearing a black chef's jacket with \"SORTED\" embroidered on it, is actively shaping a ball of dough by rolling it between their palms. The counter is lightly dusted with flour, and a glass bowl containing more dough remnants is positioned to the right. A rolling pin rests on the right side of the counter. In the background, a white cabinet with silver handles is visible, along with various kitchen items including a blender, jars, and a small plant. The scene suggests a cooking demonstration or tutorial. As the video progresses, the individual in the chef's jacket continues to flatten the dough, pressing it down gently with both hands. The person on the right, dressed in a dark shirt, stands beside them, observing closely. The flour on the counter remains spread out, and the glass bowl with dough remnants stays in place. The rolling pin remains untouched on the counter throughout the sequence. By the final frame, the individual in the chef's jacket has successfully flattened the dough into a disk, while the person in the dark shirt continues to watch attentively. The scene maintains its focus on the preparation process, with the kitchen setting remaining consistent and the individuals engaged in their task.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_060.jpg"
+}

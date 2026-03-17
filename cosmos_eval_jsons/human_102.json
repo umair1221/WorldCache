@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_102",
+  "prompt": "A skier descends a snowy slope under a clear blue sky, their shadow stretching long across the pristine white snow. Dressed in dark winter gear and a helmet, the skier is positioned slightly off-center to the right, moving away from the camera. The skier maintains a steady pace, leaning slightly forward for balance, and occasionally adjusts their posture to navigate the terrain. To the left, a ski lift with red supports and cables ascends the hill, carrying a few passengers. Dense evergreen trees line both sides of the slope, their dark green foliage contrasting sharply with the bright snow. Rolling hills and mountains rise in the background, adding depth and a sense of vastness to the scene. The skier's shadow moves dynamically across the snow, reflecting their movement and the angle of the sun. The ski lift remains stationary in the background, with its cables stretching tautly above the slope. The surrounding forest of evergreen trees stands still, their branches swaying subtly in the breeze. The skier's descent is smooth, with occasional adjustments in posture to navigate the terrain. By the final frame, the skier has moved further down the slope, their shadow now more elongated due to the angle of the sun, while the ski lift and forest remain constant in the background.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_102.jpg"
+}

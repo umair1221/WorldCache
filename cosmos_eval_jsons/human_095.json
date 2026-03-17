@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_095",
+  "prompt": "The video captures a thrilling moment from a volleyball match at the London 2012 Olympics. Set in a large indoor stadium filled with spectators, the scene is marked by the Olympic rings and \"London 2012\" branding. The teams are positioned on opposite sides of the net: one in dark uniforms and the other in red. The scoreboard indicates a close match with the USA leading 3-1 against Tunisia. The players are actively engaged, with the team in dark uniforms preparing to receive the ball. A player in a dark uniform jumps to spike the ball over the net, while the opposing team in red uniforms readies themselves to defend. The ball is seen in mid-air, heading towards the red team's side of the court. The players' movements are fluid and focused, demonstrating their skill and determination. The crowd in the background is visibly engaged, adding to the excitement of the match. By the final frame, the ball has been successfully spiked by the dark team, and the red team is reacting to the play, with some players jumping to block or retrieve the ball. The overall scene conveys the high energy and competitive spirit of the Olympic volleyball competition.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_095.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_079",
+  "prompt": "A close-up view captures a robotic arm holding a red basketball in front of a miniature basketball hoop. The robotic arms, white with black gloves, are positioned symmetrically to grip the ball. The basketball hoop features a red backboard with a white border, adorned with an illustration of a basketball and wings, along with a small logo. The background includes a beige curtain and part of a gray wall, indicating an indoor setting. The floor is light-colored wood or laminate. As the sequence progresses, the robotic arms slowly lower the basketball towards the hoop, maintaining a firm grip. The ball is then released, rolling off the edge of the hoop onto the floor below. The robotic arms initially extend forward before returning to their position after the ball has fallen. The basketball is no longer visible in the frame, with the robotic arms remaining in place.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_079.jpg"
+}

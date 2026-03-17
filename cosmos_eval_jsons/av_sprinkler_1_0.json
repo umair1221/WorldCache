@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_sprinkler_1_0",
+  "prompt": "The video begins with a view from inside a vehicle, likely captured by a dashboard camera, showing a street scene in an urban area under a clear blue sky. The road is lined with trees and various buildings, including a prominent multi-story structure with a light-colored facade and some signage in Chinese characters. To the left, there's a white fence running parallel to the road, separating it from the opposite side of the road. On the right side, there are parked cars and a covered area that appears to be a market or a small shopping complex. As the video progresses, a large sprinkler truck approaches from the opposite side of the road, spraying a wide stream of water across the road. The water creates a mist that partially obscures the view of the vehicles ahead. As the mist gradually settles, the surrounding cars and urban environment become more visible. By the final frame, the water has mostly cleared, revealing a clear view of the street with the vehicles and cityscape remaining consistent throughout the sequence.  A wide-angle shot from inside a vehicle, capturing the urban street scene with a sprinkler truck approaching and spraying water.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_sprinkler_1_0.jpg"
+}

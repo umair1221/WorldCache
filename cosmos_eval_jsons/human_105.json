@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_105",
+  "prompt": "A wide shot captures a vast, open grassland under a partly cloudy sky. The foreground is dominated by dry, golden-brown grass, while the background features rolling hills that fade into the horizon. The sky is a mix of blue and white, with scattered clouds adding texture to the scene. As the video progresses, a person riding a horse enters the frame from the left, moving steadily across the field. The rider, dressed in a purple top and dark pants, sits upright on the horse, which is a rich brown color. The horse trots at a moderate pace, its legs moving rhythmically as it moves through the grass. The rider holds the reins loosely, maintaining a relaxed posture. The scene continues to unfold with the rider and horse moving further into the distance, gradually becoming smaller as they move away from the camera. By the final frame, the rider and horse are positioned more towards the center of the frame, continuing their journey across the expansive, tranquil landscape.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_105.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_2436088-uhd_3840_2160_25fps",
+  "prompt": "A close-up of a young monkey with light brown fur, sitting on a grassy field, surrounded by scattered leaves and small branches. The monkey holds a piece of food in its hands, appearing to eat or examine it carefully. The scene is tranquil, set in an outdoor area during autumn, with fallen leaves adding to the natural setting. As the video progresses, the monkey continues to interact with the food, using both hands to handle it, occasionally bringing it closer to its mouth. The background remains consistent, with the grassy field and scattered leaves providing a stable and natural setting. By the final frame, the monkey is still engaged with the food, maintaining its focused demeanor while seated on the grass.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_2436088-uhd_3840_2160_25fps.jpg"
+}

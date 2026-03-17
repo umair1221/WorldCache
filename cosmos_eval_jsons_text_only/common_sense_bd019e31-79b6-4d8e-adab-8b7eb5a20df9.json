@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_bd019e31-79b6-4d8e-adab-8b7eb5a20df9",
+  "prompt": "In a small office-like room with a mix of white and wooden walls, a man dressed in a red t-shirt and dark-colored pants stands poised with a skateboard positioned in front of him on the ground. The room features large windows covered with blinds, allowing soft light to filter in. A black desk is positioned behind the man, accompanied by a smaller black side table that holds a basketball and other miscellaneous items both on top and on its lower shelf. The man, initially standing with a focused expression, steps onto the skateboard, demonstrating his balancing skills. As he prepares to perform a trick, the camera pans to the left, then pedestals up, following his movements closely. He kicks the board up with his right foot, attempting a flip or twist, but the skateboard flips unexpectedly, causing him to lose his balance and fall towards the left wall. The man quickly regains his composure, touching the wall with his right hand, and readjusts his stance. The skateboard remains on the floor, indicating a missed trick. The casual nature of the activity is evident as the man appears unfazed. In the background, a painting and a cardboard box sit on the window ledge, along with other miscellaneous items. The room also includes an air vent diffuser and an office light on the ceiling."
+}

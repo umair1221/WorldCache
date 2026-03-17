@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_045",
+  "prompt": "The video opens with a view inside a well-lit warehouse or retail store aisle, characterized by high ceilings and industrial shelving units stocked with various products. The shelves are neatly organized with items such as canned goods, packaged foods, and cleaning supplies, all displayed in bright packaging that catches the eye. A forklift is prominently featured in the center of the aisle, lifting a package to the shelf \u2013 its forks extended as it raises a pallet loaded with red cans, likely beverages, above the shelves. To the right, another forklift stand is non-functional in the background, its forks lowered. The floor appears cluttered with a ladder behind the operational forklift and packages. The surrounding environment includes additional shelving units filled with similar products. As the video progresses, a person wearing a face mask appears in the lower right corner of the frame, observing the operation. The final frame shows the forklift continuing its task, with the pallet of red cans being raised further onto the upper shelf, indicating the completion of the repositioning process. The scene concludes with the forklift still in motion, ensuring the pallet is securely placed on the shelf."
+}

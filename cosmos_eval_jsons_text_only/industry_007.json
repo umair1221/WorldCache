@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_007",
+  "prompt": "A close-up shot captures a person's hand holding a black electric drill, meticulously screwing a silver screw into a circular white object, likely part of a furniture assembly. The hand, steady and precise, ensures the screw is driven into the white component with care. The background is softly blurred, revealing an indoor setting with a light-colored surface beneath the work area. The camera maintains a consistent angle, focusing on the detailed action of the drilling process, emphasizing the careful and deliberate movements of the hand and drill. By the final frame, the screw is visibly being driven further into the white object, highlighting the precision required for this task."
+}

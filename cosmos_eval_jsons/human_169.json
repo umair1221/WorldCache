@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_169",
+  "prompt": "A dynamic Brazilian Jiu-Jitsu training session unfolds in a gym with a yellow mat covering the floor, surrounded by blue and white wall panels. Through a window, greenery is visible, suggesting a daytime setting. Two practitioners, one in a white gi with a black belt and the other in a blue gi with a black belt, engage in a grappling maneuver. Initially, they lie on their backs in a guard position, with their legs placed on the arms of their left hands while gripping each other’s arm for control. As the sequence progresses, the person in white raises their legs while maintaining a firm grip on the opponent’s arm, transitioning into an armbar submission attempt. Their backs stay grounded, adjusting their posture to resist. By the final frame, both practitioners fully extend their legs, applying pressure to the submission hold, while both continue to maintain their position with a slight change in the angles relative to the camera. The legs remain in the air at the end of the video. A medium shot captures the action from a slightly elevated perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_169.jpg"
+}

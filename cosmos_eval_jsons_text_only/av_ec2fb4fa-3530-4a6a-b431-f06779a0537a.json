@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_ec2fb4fa-3530-4a6a-b431-f06779a0537a",
+  "prompt": "The video opens with a view from inside a vehicle, looking out through a wide-angle lens that captures a busy urban intersection under a clear blue sky. The scene is set in a commercial district, with modern buildings featuring large windows and colorful signage. A prominent white multi-story building stands out on the right side, while a more eclectic, multi-colored building with various advertisements is visible on the left. Several cars are parked along the streets, and a few are in motion. A black SUV is standing directly ahead, and a white sedan is moving to its left. The crosswalk is clearly marked with white stripes, and traffic lights are present at the intersection. As the video progresses, the black SUV continues moving forward, crossing the intersection. The traffic light remains green, facilitating the smooth movement of vehicles. The ego vehicle overtakes a stopped SUV ahead which is waiting to make a left turn. The surrounding buildings and parked cars remain static, maintaining their positions as the vehicles navigate the urban environment. By the final frame, the intersection is less crowded, with fewer vehicles in motion, and the scene continues to depict a typical day in a bustling city."
+}

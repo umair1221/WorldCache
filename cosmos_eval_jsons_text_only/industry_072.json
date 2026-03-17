@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_072",
+  "prompt": "A close-up shot captures a conveyor belt system in an industrial facility processing freshly harvested tomatoes. The metallic conveyor belt runs horizontally, carrying a steady stream of orange-red tomatoes. The camera focuses on the tomatoes as they drop onto the conveyor belt, highlighting their vibrant color and smooth texture. Above the conveyor belt, a machine carries green trays, reinforcing the processing environment. As the video progresses, more tomatoes are dropped onto the conveyor belt, gradually increasing in quantity while the sorting mechanism continues to function. By the end of the frame, the conveyor belt is filled with tomatoes, demonstrating the processing line's continuous and systematic nature. The background includes industrial equipment and a clean, organized workspace, emphasizing the efficiency of the facility."
+}

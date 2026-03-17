@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_229",
+  "prompt": "The video captures an agricultural processing facility under a metal roof, with a focus on a large industrial machine that wraps a cylindrical green material, possibly leaves, with translucent plastic wrap. The machine, with a prominent red frame and symmetrical robotic arms, operates continuously, rotating around the material to ensure even wrapping. The green material slowly turns to expose new areas, which the machine wraps methodically. The setting is outdoors, with visible trees and sky in the background, and the machine remains stationary, emphasizing automation. The camera angle is consistent, providing a clear view of the machine's operation and the transformation of the green material.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_229.jpg"
+}

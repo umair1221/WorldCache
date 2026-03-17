@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_026",
+  "prompt": "A close-up shot captures a whiteboard serving as the backdrop for a marble run experiment involving magnetic ramps. The whiteboard is adorned with several colorful magnetic ramps of varying shapes and sizes, including straight and curved pieces, arranged in a descending sequence. The ramps are made of glossy materials that reflect light, adding a subtle sheen to their surfaces. The ramps are primarily in shades of green, blue, purple, and yellow, with some featuring patterns such as polka dots. A yellow marble is positioned at the topmost ramp, ready to slide down. The scene is well-lit, emphasizing the vibrant colors and glossy textures of the ramps against the stark white background of the board. As the video progresses, the yellow marble is released from the top ramp and begins its descent, rolling smoothly down the ramps. The marble's movement is continuous and uninterrupted, illustrating the principles of gravity and motion. The ramps remain stationary, with the marble's journey being the focal point of the video. By the final frame, the marble has traveled down multiple ramps, showcasing the cumulative effect of gravitational force and the smooth, controlled motion facilitated by the magnetic properties of the ramps. The scene concludes with the marble continuing its path, highlighting the dynamic interplay between the marble and the ramps."
+}

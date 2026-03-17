@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_200",
+  "prompt": "The video opens with a scene set in a cozy, rustic coffee shop characterized by exposed brick walls and wooden shelves filled with neatly arranged coffee cups and containers. The focal point is a woman standing at the counter, dressed in a dark shirt and apron, diligently preparing a pour-over coffee. She holds a paper filter over a glass carafe, pouring coffee beans into it. The metallic kettle, positioned prominently on the counter, contrasts with the warm tones of the surroundings. Nearby, a red coffee dripper and a small container of coffee grounds are visible, along with a few other utensils. In the background, another individual, also wearing an apron, is seen working at the espresso machine, occasionally walking and adjusting its settings. The overall ambiance is warm and inviting, enhanced by a wreath hanging on the wall and a colorful door in the distance. The camera captures a medium shot from a slightly elevated perspective, focusing on the woman's careful pouring, ensuring the coffee grounds are evenly saturated. The second individual remains focused on their task, contributing to the busy yet harmonious atmosphere of the caf\u00e9. By the final frame, the woman has completed pouring the beans, and the scene retains its tranquil and methodical pace, reflecting the dedication and care typical of a skilled barista in a charming coffee shop."
+}

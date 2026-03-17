@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_089",
+  "prompt": "The video opens with a scene set in a simple, modern cafeteria with wooden tables and benches arranged in rows. The focal point is a young woman seated at one of the tables, dressed in a plaid shirt and gray sweatpants, with her long hair down. On the table in front of her, there is a menu or book open, a smartphone, and two bottles of water, one with a red cap and the other clear. Two mechanical arms with black and silver components are positioned in the foreground, suggesting some form of automated interaction with the items on the table. The woman appears to be reading or examining the menu, occasionally adjusting its position. As the video progresses, she lifts the menu from the table and turns it towards the mechanical arms. The mechanical arms move closer to the woman and grab the menu from her. The mechanical arms then turn right, revealing a few more wooden tables and benches. By the final frame, the woman is still sitting in her original place, and a blue box beside a small cylindrical object is seen on one of the tables, and red-and-white striped objects are seen on another table.  A medium shot captures the woman seated at the table, with the mechanical arms interacting with the menu. The background features a clean, minimalist design with wooden tables and benches, and the floor is a neutral gray. The video has a modern, functional aesthetic, emphasizing the interaction between human and machine.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_089.jpg"
+}

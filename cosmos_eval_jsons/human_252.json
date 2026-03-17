@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_252",
+  "prompt": "A young woman with curly red hair dances energetically on a paved outdoor area. She is wearing a loose white t-shirt, light blue jeans, and colorful sneakers. The background features a modern building with large black-framed windows that reflect some greenery from outside. The sunlight casts distinct shadows of the dancer onto the ground, indicating it's a bright day. The woman moves fluidly across the paved area, her arms extending outward in various gestures, sometimes reaching high above her head or extending sideways, while her legs alternate between steps and kicks. Her movements are dynamic and expressive, showcasing a lively and rhythmic performance. The camera captures her from a medium shot, emphasizing her fluid motion and the interplay of light and shadow on the ground. The background remains consistent throughout the video, with the large black-framed windows reflecting the surrounding environment, and the sunlight continues to illuminate the scene, casting clear shadows of her movements. The video concludes with the woman continuing her energetic dance, her movements fluid and full of life.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_252.jpg"
+}

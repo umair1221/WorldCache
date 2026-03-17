@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_2e166ef8-062f-4b00-8fd3-e3276edc3367",
+  "prompt": "A serene pastoral scene unfolds under a dramatic sky, featuring five cows grazing in a lush green field. The main focus is on four cows clustered on the left side, viewed from the right, constantly moving their tails and ears as they feed on the grass. One cow stands alone on the right, facing the camera, and also moves its ear and tilts its head up. The cows are primarily brown and white with irregular patches. The foreground is a vibrant green, transitioning to yellow in the middle ground, where evergreen trees and rooftops of various colors line up horizontally. The background showcases a majestic mountain range with snow-capped peaks on the right and rugged, green-covered slopes on the left. The camera captures the scene in an arc shot, highlighting the dynamic movements of the cows and the expansive rural setting. The sky above is a mix of dark gray clouds with occasional lighter patches, adding depth to the tranquil yet dramatic atmosphere. The entire scene is bathed in natural daylight, casting soft shadows across the grass. This wide shot at a high angle beautifully encapsulates the peaceful coexistence of nature and the countryside."
+}

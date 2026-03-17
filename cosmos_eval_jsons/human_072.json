@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_072",
+  "prompt": "A sunny backyard scene unfolds on a vibrant green lawn bordered by a paved patio with a stone edge. A black metal railing and a planter box with blooming flowers add charm to the setting. Logs and a piece of wood lean against the planter, hinting at upcoming outdoor activities. Dense, dark green trees form a secluded backdrop, enhancing the tranquil atmosphere. A person in a bright green shirt rides a red and black ATV across the lawn, moving steadily towards the camera. The ATV, equipped with large, rugged tires and a black front bumper, is designed for off-road use. The rider, positioned centrally in the frame, approaches the paved area and gradually slows down, coming to a stop near the stone border. The rider remains seated, holding the handlebars, and appears to be preparing to dismount or adjust something on the vehicle. The scene remains static after the ATV stops, with no further movement or changes in the environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_072.jpg"
+}

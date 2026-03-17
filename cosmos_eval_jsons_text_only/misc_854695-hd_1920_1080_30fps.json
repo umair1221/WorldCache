@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_854695-hd_1920_1080_30fps",
+  "prompt": "A close-up of a fully bloomed pink lotus flower in the foreground, its delicate petals gently swaying in the breeze. The flower's vibrant pink hue contrasts beautifully with the lush, green lotus leaves that surround it, some of which are large and broad, while others are smaller and more rounded. The background is softly blurred, revealing additional lotus flowers at various stages of bloom, including some that are still tightly closed as buds and others that are partially open, displaying a mix of pink and white tones. The scene is set in a serene lotus garden, likely near a pond, as suggested by the blurred water surface visible in the distance. Throughout the video, the lotus flower continues to sway slightly, its petals occasionally adjusting their position, while the leaves around it move gently in response to the breeze. The video concludes with the same tranquil scene, maintaining the focus on the lotus flower and its surroundings, emphasizing the peaceful and natural beauty of the garden."
+}

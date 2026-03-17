@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_c6a93dd9-65c6-4c1c-8e69-8db57c27b0ce",
+  "prompt": "The video begins with a view from inside a vehicle, positioned at an intersection in a residential neighborhood on a sunny day. The scene is bathed in bright sunlight, with clear blue skies overhead. The street is lined with parked cars on both sides, including a dark-colored sedan and a silver SUV on the left side of the lane. The buildings are two-story houses with light-colored siding, featuring multiple windows and balconies. Trees with lush green foliage are planted along the sidewalks, casting shadows on the pavement. Overhead, numerous power lines crisscross against the sky. A \"do not enter\" sign is visible near the left side of the frame, indicating restricted access.  As the video progresses, the car begins to move forward, slowly navigating through the quiet residential street. The camera angle remains steady, capturing the gradual shift in perspective as the vehicle advances. The parked cars remain stationary, and the trees continue to cast shadows on the road. The buildings and power lines stay in place, maintaining their positions under the bright sunlight. No significant actions or new objects appear. By the final frame, the ego vehicle turns left onto a street where a \"do not enter\" sign is posted ahead, indicating restricted access, with the same residential backdrop and consistent lighting conditions."
+}

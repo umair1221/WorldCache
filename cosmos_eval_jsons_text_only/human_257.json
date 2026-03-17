@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_257",
+  "prompt": "The video opens with a serene forest scene where two individuals are hiking. The man, wearing a wide-brimmed hat, a denim jacket, blue jeans, and brown boots, carries a large beige backpack and carefully navigates a moss-covered rock face. He uses his hands and feet to find secure footing, stepping over the uneven terrain. Beside him, the woman, dressed in a patterned sweater and jeans, follows closely. The forest around them is dense with tall evergreen trees, and the ground is covered with moss and scattered rocks. As the video progresses, the man continues to climb the rock face, his movements becoming more deliberate and careful. He reaches out with one hand, and the woman, positioned slightly behind him, offers her hand towards him. The man accepts her right hand and they continue their ascent together. By the final frame, both individuals have successfully climbed further up the rock face. The man has reached a higher point, still holding onto the rock for support, while the woman has followed closely behind. The camera captures this moment from a low angle, emphasizing the height and the challenging nature of their climb."
+}

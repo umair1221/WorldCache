@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_004",
+  "prompt": "The video opens with a close-up shot of a tangerine cut in half, placed on a glass cutting board. The cutting board rests on a wooden surface, likely a kitchen counter. The tangerine's vibrant orange color contrasts sharply with the translucent glass and the warm tones of the wood. A knife, held steadily by an unseen hand, is positioned vertically above the tangerine, poised to slice through it. The knife begins its descent, making contact with the tangerine and applying pressure to cut through the fruit. As the knife continues its downward motion, it gradually separates the two halves of the tangerine. By the final frame, the tangerine is fully divided into two equal halves, resting on the cutting board. The knife remains in position, having completed its task.  A close-up shot from a slightly elevated perspective captures the moment the knife slices through the tangerine, emphasizing the vibrant orange flesh and the translucent glass cutting board. The wooden surface beneath adds warmth to the scene, creating a natural and inviting kitchen setting. The camera remains steady throughout, focusing on the precise action of the knife and the resulting division of the tangerine.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_004.jpg"
+}

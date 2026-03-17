@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_161",
+  "prompt": "A serene outdoor scene unfolds, beginning with a close-up of an incense stick emitting a thin trail of smoke. The incense stick is positioned horizontally across the frame, with its tip slightly elevated, indicating it has just been lit. To the left of the incense stick, there is a small bowl containing vibrant yellow and pink flowers, adding a touch of color and life to the composition. The background is softly blurred, showcasing a natural setting with lush green foliage that enhances the tranquil atmosphere. The ground beneath the incense stick appears to be a mosaic or tiled surface, composed of small, multicolored stones arranged in a pattern. The smoke from the incense drifts gently upwards, creating a sense of calm and tranquility. Throughout the video, the scene remains static, emphasizing the peaceful ambiance and the subtle beauty of the moment. The smoke continues to rise steadily, maintaining a consistent upward trajectory, while the vibrant flowers and the mosaic surface remain unchanged, contributing to the serene and contemplative mood. A close-up shot captures the gentle movement of the smoke and the stillness of the flowers and mosaic."
+}

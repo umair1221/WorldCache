@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_103",
+  "prompt": "In a modern office or meeting room with a clean and organized layout, a person wearing a yellow sweater stands near a long wooden table. The table holds various objects, including a wooden box with a lid, a coiled cable, a small cube, and three distinct objects: a pink sphere, a green non-spherical object in the middle, and a silver sphere, each with unique colors and patterns. The background features two wooden doors, one closed and one ajar, a black cabinet with shelves holding items, and a few potted plants adding greenery. The floor is covered with dark carpeting, and the walls are painted in a neutral gray tone. The person, initially standing and pointing toward the pink spherical object with their left hand, then steps back, placing both hands into the front pocket of their sweater. A pair of robotic arms appears, interacting with the pink object. The camera captures the person's movements and the static arrangement of the objects on the table. The robotic arm picks up the pink object and hands it back to the person, completing the action, while the remaining objects remain in their initial positions on the table."
+}

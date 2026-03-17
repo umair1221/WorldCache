@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_animal_dear_1_0",
+  "prompt": "The video begins with a view from inside a car, looking out through the windshield onto a quiet suburban street on a bright, sunny day. The road is a two-lane street with yellow double lines in the center, flanked by sidewalks on both sides. On the left side of the street, there are houses with light-colored exteriors and varying roof colors. Some houses have small yards with sparse grass and a few leafless trees, indicating it might be late fall or early spring. On the right side, similar houses line the street, with one having a dark-colored vehicle parked in front. A trash can is positioned on the right sidewalk near the foreground. Throughout the video, a group of deer crosses the road in front of the ego vehicle, and the vehicle slows down and waits until the animals have safely passed. The scene captures the serene atmosphere of a typical suburban neighborhood, with the gentle movement of the deer adding a touch of nature to the urban setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_animal_dear_1_0.jpg"
+}

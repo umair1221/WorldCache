@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_056",
+  "prompt": "A high-angle, wide shot captures the industrial setting of a steel mill, focusing on the pouring of molten metal from a large crucible into a mold. The crucible, glowing intensely with bright orange and yellow hues, is positioned at the top left corner, pouring a steady stream of molten metal into the mold below. Sparks fly from the pouring point, scattering in all directions, illuminating the surrounding area with a warm glow. The background features industrial machinery and structures, including a conveyor belt system and other equipment, all bathed in the light from the molten metal. The scene remains consistent throughout, with the continuous flow of molten metal and the ongoing emission of sparks being the primary actions. The final frame maintains the same dynamic yet steady flow of molten metal and the scattering of sparks, emphasizing the industrial process."
+}

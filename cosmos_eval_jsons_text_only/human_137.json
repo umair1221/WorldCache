@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_137",
+  "prompt": "The video opens with a tranquil scene of a lake nestled between verdant mountains under a partly cloudy sky. A wooden raft with a yellow edge is prominently featured in the foreground, while several people are either standing on the raft or swimming in the water. The lake is dotted with other rafts and individuals enjoying various water activities. As the sequence progresses, a man on the raft runs towards the edge, leaps off, and executes a backflip into the lake. His body twists mid-air before he splashes into the water, creating a large splash that ripples across the surface. After emerging from the water, he swims away, gradually becoming smaller in the distance as he moves further into the lake. The final frame captures the man swimming away, with the serene lake and surrounding mountains still visible in the background.  A dynamic medium shot from a slightly elevated perspective, capturing the action and the scenic beauty of the lake and mountains."
+}

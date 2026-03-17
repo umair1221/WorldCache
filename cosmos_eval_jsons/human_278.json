@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_278",
+  "prompt": "A muscular man stands shirtless in a well-lit boxing gym, wearing black shorts and boxing gloves. The gym is equipped with several red punching bags hanging from the ceiling, labeled \"Olympic Fight,\" and a wooden wall-mounted ladder for pull-ups or exercises. The walls are plain white, and the ceiling is painted a dark gray, with two fluorescent lights illuminating the space evenly. The man stands with his arms slightly bent at the elbows, holding the gloves in front of him. Throughout the sequence, he jumps in place, maintaining this position without any noticeable movement or change in posture. The environment remains consistent with no new objects introduced, and the focus stays on the individual's form and readiness within the gym setting. At the end of the video, he lifts his boxing gloves up and twirls his arms, showcasing his agility and strength. A medium shot captures the man's dynamic movements against the backdrop of the gym equipment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_278.jpg"
+}

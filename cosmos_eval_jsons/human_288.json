@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_288",
+  "prompt": "A dynamic judo session unfolds on a light yellow mat inside a dojo. Two individuals, both wearing gis—one white with blue accents and a black belt, the other blue—are engaged in a gripping maneuver. The man in white, positioned on top, leans forward, applying pressure on the opponent's back, who is hunched over on their knees, facing the ground. The person in blue struggles to maintain balance, trying to stabilize themselves amidst the intense grappling. As the sequence progresses, the man in white shifts his weight, adjusting his grip on the opponent's right arm, while the person in blue continues to roll and adjust their position. The video concludes with the man in white maintaining a dominant position, leaning forward and applying further pressure, while the person in blue rolls onto their back. The camera follows the action closely, capturing the fluid movements and expressions of the participants.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_288.jpg"
+}

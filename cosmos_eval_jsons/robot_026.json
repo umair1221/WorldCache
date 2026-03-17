@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_026",
+  "prompt": "The video showcases a toy kitchen sink setup, likely part of a robotics demonstration or experiment, set on a wooden surface with a white countertop in the background. The scene features a light blue sink with a dark blue rim, containing various colorful toy kitchen items. On the left side of the sink, a yellow dish rack holds a blue cup, a yellow ball, and a striped purple and white onion-shaped object. In the main part of the sink, an orange cone-shaped toy is placed near the drain. To the right, there's a knife with a yellow handle, a purple eggplant-shaped toy, and a green pepper-shaped toy. A black robotic arm with a claw-like end is positioned above the orange cone, seemingly preparing to pick it up. As the video progresses, the robotic arm descends towards the orange cone, lifts it from the sink, and carries it upwards and out of the sink. The final frame captures the orange cone being placed on a green plate to the left of the sink. The video has a playful and educational tone, emphasizing the interaction between the robotic arm and the toy kitchen items.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_026.jpg"
+}

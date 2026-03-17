@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_da2cfe87-9674-4463-a913-7623f68e16fa",
+  "prompt": "The video begins with a view from inside a vehicle, likely a dashcam, capturing a white delivery truck parked near the right curb of a roundabout. The truck is positioned on the edge of the roundabout, which is paved with red brick pavers. In the background, there is an office building characterized by a contemporary design with large windows and white exterior walls. The roundabout is adorned with neatly trimmed green shrubs and bushes along the edges. As the video progresses, the ego vehicle carefully maneuvers through the roundabout, approaching the parked truck. The sky above is overcast with clouds, creating a subdued atmosphere. The scene is captured in a realistic, documentary style, emphasizing the everyday activity of navigating a parking area."
+}

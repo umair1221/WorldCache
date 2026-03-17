@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4057407-uhd_4096_2160_25fps",
+  "prompt": "A serene yoga session unfolds in a bright, airy room with wooden flooring and large windows draped with sheer white curtains, allowing natural light to flood the space. The room is cozy and inviting, adorned with two potted plants on the windowsill and a radiator beneath them. To the right, an open bookshelf filled with books and decorative items adds to the organized and tranquil atmosphere. A woman, dressed in a sleeveless top and leggings, stands barefoot on a yoga mat, preparing for her practice. She begins with a balanced stance, feet shoulder-width apart, and then transitions into a lunge, stepping her right foot forward and extending her left leg straight back. She maintains her balance and alignment, extending her arms out to the sides. A small dog enters the frame from the right, walking past her and adding a dynamic element to the scene. The woman continues her yoga pose, focusing on her form and posture, with the serene environment and the presence of the dog enhancing the peaceful ambiance."
+}

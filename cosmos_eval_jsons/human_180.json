@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_180",
+  "prompt": "A medium shot captures a squash match taking place indoors on a wooden court marked by red lines. The walls have a pale, off-white hue and are clearly worn, with stains and marks visible. A woman and a man are playing squash, both dressed in sportswear suitable for the sport. The man, wearing a white polo shirt, black shorts, white socks with red stripes, and a white headband, holds a squash racket in his right hand and a squash ball in his left. The woman is dressed in a white polo shirt, a black skirt, and white wristbands, holding her racket in her right hand. Initially, the woman hits the ball approaching her direction, while the man stands ready with his racket held steady. As the sequence progresses, the man shifts his stance, moving his racket from a resting position to a more active position, and hits the ball approaching in his direction. The woman remains attentive, maintaining her grip on the racket, anticipating the next move. By the final frame, the man's racket is in motion, suggesting he has just served the ball, while the woman continues to hold her racket, ready to respond.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_180.jpg"
+}

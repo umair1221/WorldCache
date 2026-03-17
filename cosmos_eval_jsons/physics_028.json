@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_028",
+  "prompt": "A static shot captures a simple yet intriguing setup: a white styrofoam cup lying on its side on a polished wooden table, with a 30-pound kettlebell suspended above it. The background is a plain, light-colored wall, providing a neutral backdrop that highlights the objects in the foreground. As the video progresses, the kettlebell is slowly lowered towards the cup, moving from a high position to a lower one, creating anticipation. The kettlebell approaches the cup until it gently lands on the cup's rim, causing the cup to deform slightly. The kettlebell then presses down further, flattening the cup completely. The final frame captures this moment, with the kettlebell resting on the flattened cup, emphasizing the interaction between the two objects under the influence of gravity.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_028.jpg"
+}

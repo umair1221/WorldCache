@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_9a39abb2-7289-4b00-8707-887be4f46c04",
+  "prompt": "A dashboard camera captures a view from inside a vehicle as it drives through a suburban neighborhood on a partly cloudy day. The street is lined with houses featuring various architectural styles, including brick and siding facades. Well-maintained lawns and trees, including a prominent large tree on the left, surround the houses. Several cars are parked along the sides of the road, including a white van and a silver SUV near the foreground. A white sedan is seen driving away from the camera. Traffic cones are placed on the right side of the road, indicating ongoing construction or maintenance work. As the video progresses, the ego vehicle makes a U-turn on the residential street, and the white van and SUV initially parked on the right side of the road move out of the frame. The traffic cones remain in place, marking their designated area, while the surrounding environment, including the houses, trees, and parked vehicles, stays largely unchanged throughout the sequence. By the end of the video, the scene remains consistent with the initial frame, showing the same suburban street lined with houses, trees, and parked cars under a partly cloudy sky. A medium shot from a slightly elevated perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_9a39abb2-7289-4b00-8707-887be4f46c04.jpg"
+}

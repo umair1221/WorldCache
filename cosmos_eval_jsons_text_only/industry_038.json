@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_038",
+  "prompt": "The video captures a construction site where workers are engaged in pouring and smoothing concrete. In the first frame, a worker in an orange high-visibility jacket and blue jeans is seen holding a concrete chute filled with thick, gray concrete containing visible gravel and cement mix. Another worker, wearing a bright yellow safety vest and blue pants, is kneeling on the ground, using a trowel to spread the concrete along a curb. The background includes part of a construction truck and some scattered gravel, indicating ongoing work. As the video progresses, the worker in the orange jacket uses a shovel to transfer the concrete from the chute into the area being smoothed by the kneeling worker. The concrete flows smoothly from the chute into the troweled area, gradually filling the space between the curb and the ground. The kneeling worker continues to use the trowel to spread the concrete evenly, ensuring a level surface. The scene remains consistent throughout the video, with the focus on the meticulous process of pouring and smoothing the concrete. By the final frame, both workers are still actively engaged\u2014one continuing to pour the concrete, while the other is still in the process of smoothing it."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_098",
+  "prompt": "The video captures a thrilling moment during a volleyball match between Great Britain (GBR) and Bulgaria (BUL) at the London 2012 Olympics. Set indoors on a vibrant pink court bordered by a blue area, the scene is framed by red barriers adorned with the Olympic rings. The scoreboard indicates BUL leads GBR with a score of 1-4. Players from both teams are strategically positioned; the green team is on defense, while the white team prepares to serve. As the serve is made, the ball is hit over the net, and the green team dives to save it, successfully keeping it in play. The white team then readies themselves to continue the rally. The final frame shows the white team about to receive the ball from the green team, highlighting the dynamic and competitive nature of the match."
+}

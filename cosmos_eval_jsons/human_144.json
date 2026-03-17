@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_144",
+  "prompt": "A serene underwater scene unfolds as a snorkeler glides through the clear blue water, illuminated by the bright sunlight filtering through the surface. The snorkeler, wearing a snorkel mask and a black wristband, is positioned centrally in the frame, with their body angled slightly downward as they move through the water. Bubbles trail behind them, rising upwards, indicating their exhalation. The water is calm, with gentle ripples and reflections of light dancing across its surface. The snorkeler's movements are fluid and controlled, creating a sense of tranquility and immersion. The final frame captures the snorkeler in a similar position, with the same gentle ripples and light reflections, emphasizing the peaceful and immersive nature of the underwater environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_144.jpg"
+}

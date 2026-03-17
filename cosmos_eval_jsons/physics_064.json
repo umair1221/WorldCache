@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_064",
+  "prompt": "A close-up shot captures a wooden table where a square glass cutting board is positioned. At the center of the glass board lies a piece of folded paper that is actively burning, emitting white smoke that rises steadily. The smoke starts as a thin, wispy line and gradually thickens, rising vertically above the burning paper. The lighting in the room is soft, casting gentle shadows on the wooden surface, which contrasts sharply with the transparent glass board and the darkened paper. The scene remains static throughout the video, focusing intently on the burning paper and the rising smoke. By the end, the smoke continues to rise, though its intensity may have slightly diminished, indicating the fire is slowly dying down.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_064.jpg"
+}

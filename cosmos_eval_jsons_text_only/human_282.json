@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_282",
+  "prompt": "The video opens with two shirtless men in a gym, both wearing boxing gloves, practicing their techniques. The man on the left, sporting a beard and green gloves, is positioned slightly closer to the camera, while the man on the right, with black gloves, stands further back. They are both in a defensive stance, facing each other, with their gloves raised protectively. The gym is equipped with various pieces of exercise gear, including weight racks and dumbbells, and the walls are adorned with framed pictures or posters. The lighting is bright, casting clear shadows. As the video progresses, the man on the left jumps and shifts his weight a little bit forward, slightly extending his left hand, while the man on the right remains stationary, maintaining his focus. The scene concludes with the same two men in their respective positions, continuing their focused practice session without any significant changes in their actions or the environment.  A medium shot captures the dynamic interaction between the two boxers, emphasizing their movements and the intensity of their training. The gym's equipment and decor provide a realistic backdrop, enhancing the authenticity of the scene."
+}

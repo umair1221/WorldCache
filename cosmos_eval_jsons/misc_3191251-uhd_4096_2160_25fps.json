@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3191251-uhd_4096_2160_25fps",
+  "prompt": "The video opens with a serene park scene bathed in bright sunlight filtering through dense green foliage. A golden retriever dog, with a shiny, light brown coat, stands on a paved path, its tail wagging vigorously. The dog appears attentive and happy, looking up at a person standing nearby. The person, dressed in a plaid shirt, blue jeans, and white sneakers, is partially visible from the waist down, suggesting they are interacting with the dog. The dog then begins to move around the person, displaying playful behavior by circling and occasionally lifting its front paws, possibly in response to commands or as part of a game. The person remains stationary, maintaining a calm presence while the dog's movements become more animated, showcasing its energy and enthusiasm. By the final frame, the dog continues to move around the person, its tail still wagging, indicating ongoing interaction and playfulness.  A medium shot captures the playful interaction between the golden retriever and the person in a sunny park setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_3191251-uhd_4096_2160_25fps.jpg"
+}

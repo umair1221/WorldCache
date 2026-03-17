@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_c135ea08-213e-4533-b55b-3bb776cdf345",
+  "prompt": "A first-person perspective video shot from inside a car, looking out through the windshield onto a multi-lane road during early morning or late afternoon/evening, as indicated by the soft, muted lighting and a grayish-blue sky. The road is marked with white lane lines, and several cars are visible, some moving in the same direction as the viewer's perspective, while others are parked along the sides. On the right, there is a small building with a red roof, possibly a restaurant or service station, surrounded by trees and greenery. To the left, more trees and commercial establishments, including a gas station with a blue canopy, are present. The setting suggests a suburban or semi-urban area with a mix of residential and commercial zones. The camera captures the motion of the car as it navigates through the intersection, passing by various buildings and trees. The trees on the roadside sway slightly, indicating a gentle breeze. The road markings remain consistent, guiding the flow of traffic. The scene transitions smoothly without any abrupt changes in the environment or the actions of the objects. By the final frame, the car has moved further down the road, approaching another intersection where three traffic lights display a red left-turn arrow and two green circular signals, signaling the continuation of the journey through this suburban area."
+}

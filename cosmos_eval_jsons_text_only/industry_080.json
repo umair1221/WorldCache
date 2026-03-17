@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_080",
+  "prompt": "The video opens with a wide shot of an automotive assembly line within a large car factory, characterized by its high ceiling with exposed metal beams and fluorescent lighting. The scene is filled with intricate machinery and robotic arms, predominantly painted in blue and orange, actively engaged in welding car frames. These frames, partially constructed, stand on the ground while being welded by the robot's hands. The robots, equipped with various tools and cables, meticulously move around the components of the car bodies, generating sparks of light. In the foreground, a worker wearing a green cap and safety gear is seen operating one of the robotic arms, ensuring the precision of the assembly process. The environment is clean and organized, with safety barriers in place to protect workers. As the video progresses, the car frames become increasingly complete, with more parts being added and secured by the robotic arms. The conveyor belt holding the robot arms moves steadily, illustrating the efficiency and scale of the manufacturing operation. By the final frame, the car frames are still being welded by the robot arms, showcasing the advanced automation and systematic approach to vehicle production."
+}

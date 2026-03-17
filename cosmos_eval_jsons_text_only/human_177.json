@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_177",
+  "prompt": "A close-up of a soccer player standing on a vibrant green artificial turf field, with a ball between their legs. The player is dressed in black shorts with the number \"14\" prominently displayed, navy blue socks, and bright blue and white cleats with yellow laces. The soccer ball, adorned with a colorful pattern, lies on the ground just ahead of them. The player shifts their weight slightly, adjusting the ball position and positioning their feet around the ball, demonstrating control and focus. The background features a chain-link fence separating the field from a suburban neighborhood with houses and trees, and a few parked cars are visible beyond the fence while some are driving. The sky is clear and sunny, casting distinct shadows on the turf. The video captures the player's dynamic movement as they dribble the ball between their legs, showcasing their skill and precision. A close-up shot from a slightly low angle, emphasizing the player's lower body and the ball."
+}

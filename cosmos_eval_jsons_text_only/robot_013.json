@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_013",
+  "prompt": "The video opens with a close-up view of a wooden cutting board placed on a metallic surface, likely part of a kitchenette or a robotic arm testing setup. The background features a rustic wooden wall and a blue fabric backdrop, indicating an indoor environment. On the cutting board, there is a stainless steel pot with two handles, positioned centrally. To the right of the pot, a yellow cloth is laid out, with a green-handled spatula resting on it. A black robotic arm with a claw-like end is seen moving across the board, initially hovering above the pot before reaching towards the green toy avocado. The robotic arm grasps the green toy avocado and lifts it off the board, carrying it towards the stainless steel pot. The arm releases the green object into the pot. The arm is then lifted up, completing the sequence of actions. The scene captures the precision and functionality of the robotic arm in a controlled, indoor setting."
+}

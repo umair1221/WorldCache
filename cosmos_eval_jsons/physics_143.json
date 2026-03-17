@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_143",
+  "prompt": "A close-up view of a transparent electric kettle filled with water, actively boiling and creating a dynamic scene with numerous bubbles rising to the surface. The bubbles vary in size and shape, some appearing larger and more rounded, while others are smaller and more elongated. The water inside the kettle is clear, allowing for a detailed observation of the bubbles' movement. The background shows a blurred window with a view of greenery outside, suggesting an indoor setting with natural light filtering through. The camera remains stationary throughout the sequence, focusing solely on the kettle and its contents, emphasizing the boiling process and the texture of the bubbles. The kettle is placed on a dark surface, and the scene maintains a consistent visual focus on the boiling water and the bubbles until the final frame, where the kettle remains in the same state of active boiling, with the bubbles continuing their upward journey through the clear water.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_143.jpg"
+}

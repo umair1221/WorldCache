@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_024",
+  "prompt": "In a toy kitchen setting, a wooden countertop and a sink are featured. On the countertop, a green tray, a carton labeled \"Yogurt Milk,\" and a blue bowl are arranged. Inside the sink, a yellow toy potato, a red toy strawberry, and a white plastic fork with a blue handle are visible. The sink has a white faucet and a red plate on its edge. The background showcases a tiled wall with a blue and black striped pattern.  As the video progresses, a black robotic arm descends towards the yellow toy potato inside the sink. It grasps the potato and lifts it up, moving it from the sink to the red plate resting on the edge of the sink. By the final frame, the yellow toy potato is securely placed on the red plate, while the other objects remain stationary in their original positions.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_024.jpg"
+}

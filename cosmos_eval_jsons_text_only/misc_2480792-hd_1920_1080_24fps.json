@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_2480792-hd_1920_1080_24fps",
+  "prompt": "A serene sunset scene by a body of water, likely a lake or river, unfolds in this video. In the foreground, tall grasses with golden-brown seed heads sway gently in the breeze, their silhouettes sharply defined against the bright, glowing sun that sits low on the horizon. The sun's rays create a warm, golden reflection on the water's surface, which stretches across the middle ground of the image. In the background, soft, hazy hills or mountains rise, their outlines softened by the distance and the diffused light of the setting sun. Throughout the sequence, the grasses continue to sway gently, their movements fluid and continuous, while the sun maintains its position, slowly descending towards the horizon. The hills remain static, their hazy forms unchanged, contributing to the overall peaceful and timeless quality of the scene. By the final frame, the grasses continue their gentle swaying, the sun still low but slightly lower than at the beginning, and the hills still hazy, encapsulating the tranquil beauty of the sunset."
+}

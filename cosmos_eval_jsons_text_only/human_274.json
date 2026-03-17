@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_274",
+  "prompt": "The video opens with a wide shot of a modern bridge under an overcast sky. The bridge features a curved concrete barrier running along its edge, with a red-painted section for pedestrian use. A metal railing runs parallel to the barrier, supported by vertical poles. The road surface is asphalt, marked with white lane lines, and stretches into the distance where it meets another part of the bridge. Streetlights line the road, evenly spaced, and the background reveals a distant view of urban structures and possibly a stadium or large building. The overall atmosphere is calm and slightly muted due to the cloudy weather.  As the video progresses, a man wearing a yellow shirt and black pants enters the frame from the left side. He walks along the concrete barrier, then bends down and places his hands on it. He shifts his weight forward, lifting one leg off the ground and balancing on his hands as he jumps his body over the barrier for support. His body leans forward, and he appears focused on maintaining balance while jumping. A second man follows in black and white attire after the first man, doing the same action. The scene remains consistent throughout, with the bridge, barrier, and surrounding urban landscape providing a static backdrop to the two men's synchronized movements."
+}

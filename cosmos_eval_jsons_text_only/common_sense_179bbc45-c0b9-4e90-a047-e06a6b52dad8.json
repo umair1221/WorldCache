@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_179bbc45-c0b9-4e90-a047-e06a6b52dad8",
+  "prompt": "A medium shot captures two individuals seated outdoors, enjoying chips while engaging in conversation. The man on the left, sporting black spiky hair and glasses, wears a dark olive jacket over a blue hoodie. His facial expressions shift between speaking and eating, with occasional glances upward or towards the surroundings. The woman beside him, adorned with hoop earrings and long brown hair, is dressed in a mauve sweater under a purple jacket. She is actively eating chips topped with green ingredients, her focus alternating between her snack and the conversation. Both are equipped with small clip-on microphones clipped to their clothing. Two white takeout boxes rest in front of them, one partially open. The background reveals a blurred urban setting, featuring tall buildings with large windows, a yellow sign, and greenery that frames the subjects. Pedestrians occasionally pass by, their heads visible over the foliage. The scene is well-lit with natural daylight, creating a casual and lively atmosphere."
+}

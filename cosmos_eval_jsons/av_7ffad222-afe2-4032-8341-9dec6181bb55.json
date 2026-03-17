@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_7ffad222-afe2-4032-8341-9dec6181bb55",
+  "prompt": "The video begins with a view from inside a vehicle, looking out onto a wet, overcast street intersection. A silver sedan is positioned directly ahead of the ego vehicle. The rear lights of two leading vehicles are red, indicating they are stationary and waiting at the intersection ahead. To the left, another car is visible, positioned further back in the opposite lane. The traffic light above the intersection is green, allowing vehicles to proceed. The road surface is shiny and reflective, indicating recent rainfall. On the right side of the street, there's a grassy slope leading up to a modern building with glass windows. Trees and shrubs line the roadside, and the sky is filled with dark, cloudy formations, contributing to the dreary weather. As the video progresses, the traffic light remains green, and the vehicles continue to move forward at a slow pace. The silver sedan ahead eventually stops, and the ego car behind it also comes to a halt. The final frame shows the same scene, with the vehicles stopped at the intersection under the same overcast sky, the wet road reflecting the surroundings, the green lights shining, and the grassy slope and modern building still visible.  A medium shot from the perspective of the ego vehicle, capturing the intersection and the vehicles ahead.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_7ffad222-afe2-4032-8341-9dec6181bb55.jpg"
+}

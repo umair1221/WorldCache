@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_172",
+  "prompt": "A high-definition video captures the operation of a robotic plasma cutter in a well-lit industrial factory. The scene is framed by large windows allowing natural light to flood the workspace. The main focus is on the robotic arm of the plasma cutter, equipped with a torch and various hoses for gas supply and exhaust. Positioned above a large, flat metal sheet secured on a cutting table, the robotic arm begins its precise cutting process. Protective barriers, including a black curtain and a corrugated metal panel, surround the cutting area to ensure safety. At the start, the robotic arm makes contact with the metal sheet, activating the torch, which emits a bright spark. As the video progresses, the torch moves methodically across the metal sheet, creating a clean and straight cut. Sparks fly from the point of contact, emphasizing the intensity of the cutting process. The robotic arm adjusts its position slightly to maintain accuracy and consistency. By the end of the sequence, the torch completes its path, leaving a precise line in the metal sheet. The surrounding environment remains consistent, highlighting the precision and efficiency of the robotic plasma cutter in this industrial setting."
+}

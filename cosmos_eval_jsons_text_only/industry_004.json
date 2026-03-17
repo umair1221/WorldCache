@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_004",
+  "prompt": "The video opens with an aerial shot of a logging yard situated near a calm lake, surrounded by dense, green hills. The yard is filled with neatly stacked logs, primarily reddish-brown in color, arranged in orderly rows on a damp, reddish-brown ground, indicating recent watering or wet conditions. Some logs in the background remain dry, on dry land. Water sprays are actively visible, shooting streams into the air from multiple sprinklers, creating a misty effect as they interact with the logs. As the camera pans across the scene, it maintains an aerial perspective, showcasing the entire logging yard and the tranquil lake bordered by forested hills. The background includes a few buildings and structures faintly visible in the distance. The water body is partially obscured by the trees throughout the video. The scene is well-lit, suggesting it is daytime. The final frame shows the same logging yard with the water spraying still active, maintaining the same serene and industrious atmosphere."
+}

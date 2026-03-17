@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_131",
+  "prompt": "In a well-lit, industrial-like environment resembling a workshop or laboratory, a humanoid robot with a sleek, white body and black accents stands behind a table. The robot's head features a blue, illuminated face with large, expressive eyes, and its arms are distinctly colored—one in a red textured sleeve and the other in green. The robot's hands, each equipped with a robotic arm, move methodically. The white robotic arm with the green sleeve picks up a red cylindrical canister, holds it briefly, and places it back down. The red-clothed arm remains mostly stationary, occasionally adjusting its position slightly. The scene is captured from a first-person perspective, emphasizing the interaction between the robot's arms and the canisters. The background includes workbenches, tools, and equipment, suggesting a workspace dedicated to robotics or engineering. The video maintains a steady focus on the robot's precise movements, highlighting the contrast between the red and green sleeves against the white body.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_131.jpg"
+}

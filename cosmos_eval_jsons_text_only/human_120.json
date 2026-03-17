@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_120",
+  "prompt": "A woman is jogging along a paved path beside a calm body of water, likely a river or lake, under an overcast sky. She is dressed in athletic attire, wearing a pink long-sleeved top layered under a brown puffer vest, and has her hair tied back. Her expression is focused yet relaxed, suggesting she is enjoying her run. The background features a grassy embankment to her right, dotted with small trees and bushes, and a distant cityscape with tall buildings visible across the water. A few people can be seen walking or standing further down the path, adding a sense of scale and activity to the serene setting. As the woman continues her jog, her hair flows freely behind her, indicating the motion of running. Her pace remains steady, and her expression shifts subtly between moments of focus and slight smiles, reflecting her enjoyment of the activity. The background remains consistent, with the water, embankment, and city skyline providing a static backdrop that contrasts with her dynamic movement. By the final frame, the woman's determined yet content demeanor persists, capturing the essence of her active routine amidst a peaceful urban environment."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_086",
+  "prompt": "The video opens with an aerial view of an industrial setting, focusing on a soil conveyor belt that runs horizontally through the center of the frame. The conveyor belt is actively transporting a mixture of soil and small rocks, moving from left to right. On either side of the conveyor belt, there are metal structures, likely part of the machinery involved in the processing or sorting of materials. The ground beneath the conveyor belt is uneven, covered with gravel and patches of dirt, indicative of an outdoor industrial area. In the background, additional industrial elements such as a building with a sloped roof and fencing are visible, suggesting a larger facility. The building is positioned on the upper left quadrant of the video and does not occlude the conveyor belt. The scene remains consistent throughout the video, with no significant changes in the actions or appearance of objects. The conveyor belt continues its steady movement, and the surrounding structures and ground maintain their positions and states. The camera remains stationary throughout the video. By the final frame, the video still shows the same industrial setting with the conveyor belt in operation, transporting the same mixture of soil and rocks, and the overall scene remaining unchanged."
+}

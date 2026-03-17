@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_6487f37f-ef57-49ca-afdc-d898922b5191",
+  "prompt": "A close-up shot of a beautifully plated dessert, showcasing a golden-brown eclair-like pastry with a delicate, crisp exterior dusted with powdered sugar. The pastry is split open, revealing perfectly piped mounds of rich, textured coffee-colored cream filling, each with velvety ridges and topped with finely chopped nuts. A small sprig of fresh green garnish adorns the rightmost swirl. Beneath the pastry, four glossy lines of dark brown sauce radiate outward in evenly spaced streaks. In the foreground, a rounded food item with a soft, velvety foamy texture, light beige in color, sits slightly overlapping the chocolate lines. The plate is a pristine white ceramic with a subtle textured pattern along its edges. The background remains softly blurred, with another golden-brown item briefly appearing on a plate on the top right side. The scene is captured under bright, natural lighting from a slightly elevated angle, gradually pulling back to reveal the intricate details of the dish.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_6487f37f-ef57-49ca-afdc-d898922b5191.jpg"
+}

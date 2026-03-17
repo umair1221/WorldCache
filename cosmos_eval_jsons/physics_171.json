@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_171",
+  "prompt": "A close-up view of a swimming pool captures the surface of the water where sunlight filters through, creating a shimmering effect on the ripples below. The top portion of the frame shows the water's surface, which is slightly disturbed by small waves and bubbles, reflecting the bright blue sky and the silhouettes of trees in the background. The lower part of the frame reveals the pool's sandy bottom, which is bathed in a mesmerizing pattern of light and shadow created by the refracted sunlight. The sand appears textured and layered, with subtle variations in color and depth, adding to the serene and tranquil ambiance of the scene. As the camera slowly pans downward, the perspective shifts to an underwater view, showcasing the clear blue water beneath the surface. The sunlight continues to dance across the water's surface, casting intricate patterns of light and shadow. The camera movement remains smooth and steady, maintaining a serene and tranquil atmosphere throughout the sequence. The transition from above to below water highlights the beauty and tranquility of the pool environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_171.jpg"
+}

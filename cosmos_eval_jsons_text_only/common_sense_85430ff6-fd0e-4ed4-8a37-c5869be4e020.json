@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_85430ff6-fd0e-4ed4-8a37-c5869be4e020",
+  "prompt": "The video opens with a sweeping aerial view of a dense cluster of high-rise buildings, primarily beige in color, arranged in a tight formation. At the center, a distinctive building with a domed rooftop stands out, surrounded by lush greenery that forms a natural border. Adjacent to this area, smaller pink high-rises add a contrasting hue to the urban landscape. Beyond the immediate high-rise complex, a sprawling cityscape unfolds, with patches of green fields interspersed among the urban skyline. A dark slate-gray river flows through the foreground, bordered by grassy banks and dense vegetation. Train tracks run parallel to the river, with a small train station visible nearby. The camera pans right, revealing a major highway curving through the city, with an overpass spanning the river. As the camera arcs further, it focuses on a set of dark high-rise buildings, framed by smaller high-rises and dark green vegetation in the distance. The scene is bathed in natural light, with white clouds reflected in the river, creating a serene yet dynamic urban tableau."
+}

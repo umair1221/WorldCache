@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_698983ca-8fd5-41a9-8148-401738768402",
+  "prompt": "A point-of-view video shot from the dashboard of a vehicle traveling down a suburban street under a clear blue sky. The road is lined with trees and houses, creating a serene and residential atmosphere. On the right side of the street, a speed limit sign indicates 35 mph, and a fence runs parallel to the sidewalk. Several cars are visible ahead, including a black sedan and a silver SUV, both moving in the same direction as the camera. As the video progresses, a gray pickup truck enters the frame from the left lane, driving in the opposite direction of the ego vehicle. Shortly after, a white sedan appears from behind the pickup truck, moving in the same direction as the pickup truck in a different lane, which then exits the frame. The ego vehicle comes to a stop at a T-intersection, yielding to oncoming traffic from the opposite direction while preparing to make a left turn. The camera remains stationary, capturing the steady flow of traffic and the tranquil surroundings, with no significant changes in the environment or the actions of other vehicles. By the end of the video, the scene remains consistent with the initial view, showing the same road, trees, houses, and traffic conditions, maintaining a calm and orderly suburban atmosphere."
+}

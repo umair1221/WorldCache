@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_106",
+  "prompt": "A skier, dressed in a blue jacket and black pants, glides down a groomed ski slope under a clear blue sky. They wear green ski boots and ski poles, using them to maintain balance and control as they descend. The slope is bordered by a mix of bare trees and patches of exposed earth on the left, contrasting with the dense evergreen trees on the right. In the background, a range of mountains stretches across the horizon, adding depth to the scene. The skier's shadow is prominently cast on the snow, elongating as they move further into the sunlit area. The skier maintains a steady posture, leaning slightly forward for balance. The skier's shadow grows longer, indicating the progression of time towards late afternoon. The surrounding environment remains unchanged, with the trees and distant mountains providing a constant, serene backdrop to the skier's journey. A dynamic medium shot captures the skier's descent from behind, emphasizing their movement and the expansive snowy landscape."
+}

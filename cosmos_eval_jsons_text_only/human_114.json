@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_114",
+  "prompt": "The video opens with a climber ascending a steep, rocky cliff face, surrounded by a dense forest of tall pine trees. The climber, dressed in dark clothing, is positioned mid-climb, gripping onto a narrow overhang with both hands while their legs are secured in climbing shoes. Below, a group of spectators, including someone in a red shirt, stands on a dirt path, attentively watching the climber's progress. The rock surface is rugged, with varying shades of gray and brown, and the scene is bathed in bright sunlight, casting sharp shadows across the terrain. As the video progresses, the climber continues to make steady upward progress, maintaining a focused and deliberate pace. The spectators remain stationary, their attention fixed on the climber's ascent. The final frame shows the climber nearing the top of the overhang, having successfully navigated the challenging climb, while the serene forest and distant water remain a constant backdrop. A high-angle shot captures the climber's ascent, emphasizing the height and difficulty of the climb."
+}

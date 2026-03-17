@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_166",
+  "prompt": "A close-up view captures a small, conical ice formation resting on a textured, flat surface. The ice is centrally positioned and appears to be melting slowly, with water droplets forming around it and trickling down the sides. The surface beneath the ice has a rough, honeycomb-like texture, which becomes more pronounced as the ice melts, revealing its intricate patterns. The background is a smooth, reflective surface, likely a metallic or glass plate, which enhances the visibility of the ice's melting process. The lighting is soft and diffused, casting subtle shadows and highlighting the ice's translucence and the texture of the surrounding surface. As time progresses, the ice continues to melt, expanding the pool of water around it and altering the overall appearance of the scene. The camera remains stationary throughout, focusing intently on the ice and its immediate surroundings, allowing viewers to observe the gradual transformation of the ice into liquid form. By the final frame, the ice has significantly melted, with the top portion becoming less distinct and the water pool expanding further, revealing more of the honeycomb-like texture underneath.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_166.jpg"
+}

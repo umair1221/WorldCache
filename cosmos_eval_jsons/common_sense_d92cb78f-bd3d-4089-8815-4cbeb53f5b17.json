@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_d92cb78f-bd3d-4089-8815-4cbeb53f5b17",
+  "prompt": "A close-up shot captures a dynamic culinary moment where a gloved hand uses silver tongs to place a piece of browned meat onto a bed of glossy, yellow noodles on a hotplate. The hotplate, resting on a worn, wooden board at a slight angle towards the left, is positioned on a flat, metallic surface. The noodles, thick and curling, support a bright, uncooked egg yolk encased in a ring of semi-set egg white on the front edge of the skillet. A thick, dark sauce is poured over the meat and noodles from a round scooped object, moving in a counterclockwise motion to cover the meat completely. The sauce cascades down the sides, slightly coating the noodles, creating a sizzling interaction with the heated surface. Steam rises from the hotplate, illuminated by warm, bright light reflecting off the ingredients. The camera angle is high, providing a clear view of the action, with occasional zoom-ins and random camera movements enhancing the sense of immediacy and energy.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_d92cb78f-bd3d-4089-8815-4cbeb53f5b17.jpg"
+}

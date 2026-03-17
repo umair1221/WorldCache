@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_062",
+  "prompt": "In a well-lit craft room, a person dressed in a red blouse with a black cardigan and a decorative necklace is engaged in a crafting activity. They hold a white oval plate in their left hand and a red plastic object, possibly a mold or tool, in their right hand. The table is covered with a green cutting mat, and various materials and tools are laid out, including a piece of white fabric with a dotted pattern, a measuring tape, and some small red and white items. The background shows shelves with various supplies and materials, indicating a workshop setting. Throughout the video, the person rotates the red plastic object slightly, moving it closer to the plate, suggesting a demonstration or instructional sequence. Their hands move methodically, emphasizing precision and care in their movements. By the final frame, the person has lowered the red plastic object back down, completing the action. The scene maintains focus on the crafting materials and the person's hands as they continue their demonstration."
+}

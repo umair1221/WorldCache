@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_052",
+  "prompt": "The video opens with a scene set at a seaside construction site, where a large yellow Komatsu excavator dominates the foreground. The excavator, equipped with a claw attachment, is positioned near a pile of rocks and sand, with the ocean visible in the background. Several rusted metal poles are scattered around the area, some standing upright and others lying horizontally. The ground is uneven, and covered with sand and rocks, indicative of ongoing construction activities. A worker in an orange safety vest and hard hat is seen walking near the excavator, likely coordinating the operation. Another worker, dressed in a yellow safety vest, stands further back, observing the process. The excavator's claw is actively engaged, lifting a big rock from the ground and moving it towards the pile. The rock is then released, landing onto the existing pile. The excavator's arm and claw move methodically, demonstrating precision and control throughout the task. As the video progresses, the excavator continues its work. The workers remain vigilant, ensuring safety and coordination. The ocean waves gently lap against the shore in the background, adding a serene contrast to the industrious activity on land. By the final frame, the excavator has completed the cycle of lifting and placing rock, altering the landscape of the construction site.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_052.jpg"
+}

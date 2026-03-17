@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4793475-hd_1280_720_60fps",
+  "prompt": "A close-up shot captures a vibrant green parrot perched on a thin branch amidst a dense forest. The parrot's plumage is a vivid green, accentuated by a red patch around its eyes and a yellow beak. Its head also displays a subtle blue hue, adding to its colorful appearance. The parrot is surrounded by lush, green foliage, with leaves of varying shades creating a rich, textured backdrop. The background is softly blurred, emphasizing the parrot as the focal point. The parrot remains mostly stationary, occasionally shifting its gaze and head, looking around its surroundings. The scene concludes with the parrot still perched on the branch, maintaining its initial position and the tranquil, natural ambiance of the forest."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_177",
+  "prompt": "In a minimalist setting with a neutral gray backdrop, a sophisticated robotic arm, primarily black with metallic components, is positioned on a flat, light-colored surface. The arm, equipped with a cylindrical gripper, is ready to interact with the scene. To the right, a clear wine glass filled with a rich, deep red liquid, presumably wine, stands elegantly on the same surface. The glass, with its long stem and wide bowl, reflects the ambient light. The robotic arm smoothly rotates towards the wine glass, preparing to grasp it with its gripper. The scene maintains a clean and focused aesthetic, emphasizing the precision and modernity of the robotic arm. A medium shot captures the robotic arm and the wine glass from a slightly elevated perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_177.jpg"
+}

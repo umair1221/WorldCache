@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_12908442_1920_1080_25fps",
+  "prompt": "A serene video captures a white swan gracefully floating on dark blue water. The swan's pristine, fluffy plumage contrasts beautifully with its sleek, curved neck and vibrant orange beak marked with a black spot near its tip. The gentle ripples around the swan indicate a calm and slightly windy day. The background, mostly obscured by the water's surface, hints at darker tones and possibly distant foliage, adding depth to the tranquil setting. The swan remains stationary, maintaining its elegant posture with its head slightly tilted downward, as if it might be drinking or pecking at something just below the surface. The camera angle shifts subtly, capturing the swan from various perspectives, emphasizing its graceful movements and the serene environment. By the end of the video, the swan is still in the same position, continuing its graceful float on the water, with the same serene and undisturbed environment surrounding it.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_12908442_1920_1080_25fps.jpg"
+}

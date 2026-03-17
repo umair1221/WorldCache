@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_845d7a44-758f-4d13-918b-19f5b32bd87f",
+  "prompt": "A nighttime urban street scene viewed from inside a car, likely captured by a dashboard camera, sets the stage for this video. The road stretches ahead, flanked by palm trees and various buildings, including a prominent multi-story structure on the right side. The street is lined with parked cars on the left side, and the headlights of the cars provide illumination for the immediate surroundings. The sky is dark, indicating it's late evening or night, and the overall atmosphere suggests a calm city environment. As the video progresses, the ego car gradually changes to the right lane. The surrounding environment remains consistent, with the palm trees and buildings lining the road. The headlights of the car illuminate the path ahead, revealing more details of the street, such as the parked cars and the occasional passing vehicle. The camera angle remains fixed, capturing the continuous motion of the car as it navigates through the urban setting at a constant speed. By the final frame, the car has moved further down the street, with the same elements of the urban landscape still visible, maintaining the serene nighttime ambiance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_845d7a44-758f-4d13-918b-19f5b32bd87f.jpg"
+}

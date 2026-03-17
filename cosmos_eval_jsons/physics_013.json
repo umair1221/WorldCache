@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_013",
+  "prompt": "A static shot captures a wooden table against a plain white background. On the left side of the table, a row of seven colorful wooden blocks, each a different primary color—yellow, red, pink, green, blue, and purple—are standing upright in a straight line. To the right of the blocks, a black circular object resembling a lid or a small box rests on the table. Attached to this black object is a wooden stick that extends outward. The scene remains unchanged until the black rotating platform starts spinning clockwise. As the platform rotates, the wooden stick moves forward and strikes the first block in the row. This impact causes the first block to fall, initiating a domino effect where each subsequent block falls in turn. The sequence concludes with all the blocks scattered across the table, no longer aligned in their original order.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_013.jpg"
+}

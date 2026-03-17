@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_085",
+  "prompt": "The video captures a dynamic moment during the FIBA Women's Basketball World Cup 2019 final game between Australia and the United States in San Cristóbal de la Laguna, Tenerife, Spain. Set in a large indoor arena packed with enthusiastic spectators, the scene highlights the intense action on the court. The distinctive center logo featuring a sun and basketball motif, surrounded by sponsor logos like \"WANDA\" and \"SANDA,\" adds to the vibrant atmosphere. The scoreboard indicates Australia leading with 27 points against the United States with 35 points in the third quarter, with 9:58 remaining.  Players from both teams are actively engaged. The Australian team in red uniforms is seen dribbling and maneuvering the ball, with one player attempting to drive towards the basket. Meanwhile, the U.S. team in yellow uniforms is defending vigorously, trying to block or intercept the ball. The players move dynamically across the court, showcasing their agility and skill. Referees, including one near the basket, ensure fair play amidst the energetic crowd watching intently. The overall scene conveys the excitement and competitive spirit of the final game.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_085.jpg"
+}

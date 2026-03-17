@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_8df9180b-b182-49ad-92e5-2d000320f9f3",
+  "prompt": "A woman rides a bicycle down a quiet urban street on a cloudy day. She is dressed in a black helmet, black raincoat, black pants, and closed black shoes, riding a black bicycle with a green head tube. She pedals steadily, holding onto the handlebars, and briefly stops, then resumes her journey. As she cycles, she passes a curved road to the left and approaches two black sedan cars on the left. She turns her head slightly to the right, then looks back at the camera. The woman continues cycling under a concrete bridge and approaches more parked cars and modern buildings on the right. The back of her raincoat flutters in the wind, and the wet ground reflects the faint light, enhancing the sense of dampness and coolness. The overall tone is gray and cold, highlighting the dreary weather. The video is shot at eye level, maintaining a wide shot, and with the camera in a tracking motion, capturing the urban street scene with a concrete wall, green grass, trees, utility poles, and modern buildings on both sides. In the distance, taller industrial-style buildings and green trees complete the muted urban landscape.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_8df9180b-b182-49ad-92e5-2d000320f9f3.jpg"
+}

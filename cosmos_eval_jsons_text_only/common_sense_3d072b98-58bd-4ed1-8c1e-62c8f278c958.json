@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_3d072b98-58bd-4ed1-8c1e-62c8f278c958",
+  "prompt": "A close-up of an individual's hands as they prepare a twisted bacon pastry, captured from a slightly high angle and slowly panning left. The person, wearing a black coat with two white buttons at waist level, stands behind a wooden table. Their bare forearms and hands are visible as they handle the food item, which rests on a thin sheet of parchment paper attached to the table. The pastry is long, thin, rectangular, and consists of four layers: a sheet of dough, small green bits, another sheet of dough, and a strip of bacon on top. A few green bits are scattered on the parchment paper.  The individual uses both hands to twist the pastry, starting with the left side and then the right, bringing it to the center of the frame. The scene is brightly lit, with artificial lighting reflecting off the person's fingernails."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_017",
+  "prompt": "A static shot captures a light-colored wooden table against a plain white wall. On the edge of the table lies a rectangular piece of clear glass, its transparency blending subtly into the background. The table's surface is smooth and polished, showcasing a warm, natural wood grain pattern. A blue tennis ball enters the frame from the left, rolling smoothly across the table towards the glass. As the ball approaches the edge, it rolls over the glass, exiting the frame. The scene concludes with the table and the glass remaining stationary."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_b1e8af27-189f-4a51-9920-294298a1c790",
+  "prompt": "A man is tending to a small fire in a woodland setting, captured in a medium shot at an eye-level angle. He is kneeling on the forest floor, which is covered with dirt, twigs, and leaves. The man, with a full beard and wearing a brown jacket layered over a hoodie, olive-green pants, and a knit hat, is focused on the fire in front of him. His posture is slightly hunched as he carefully picks up small wooden splinters with his right hand, placing them near the fire. The fire, surrounded by kindling, produces thick white smoke that drifts upwards, partially obscuring the view in the lower right corner of the frame. The camera pans slightly to the right, bringing the man into the center of the frame. Afterward, he leans back slightly, adjusts his posture, and picks up a pair of gloves with both hands. He shakes the gloves gently before pressing them together with his hands. The background showcases a dense woodland area with tall trees, and a faint sky peaking through the sparse treetops with some warm yellowish light filtering through. A backpack is visible behind him, resting against a wooden structure, with additional gear and supplies nearby. The color palette of the scene is dominated by earthy tones of greens, browns, and gray, with soft natural lighting."
+}

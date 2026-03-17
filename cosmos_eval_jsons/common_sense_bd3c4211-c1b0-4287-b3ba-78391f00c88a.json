@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_bd3c4211-c1b0-4287-b3ba-78391f00c88a",
+  "prompt": "Two women are playing similar string instruments in a medium shot captured at eye level. Both have long, black hair adorned with pink rabbit ears headbands. They wear full-sleeved, V-neck purple shirts and partially visible black chokers. With their left hands, they hold the body of the black-stringed instrument, where the white strings are attached. The lower part of the instrument rests on their left shoulders, between the chin and the neck. Using a long, black bow, they glide over the strings, creating music with fluid, continuous movements. Their left thumb is positioned under the body of the instrument, while the rest of the fingers rest on the fretboard to play the notes. Occasionally, they shake their hands to produce a vibrato effect. Their bodies move rhythmically left and right as they play, their eyes closed in concentration. The setting is an artificial backdrop with sufficient lighting, featuring a dark orange vignette that flickers and spreads in various directions, adding a dynamic visual element to the scene.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_bd3c4211-c1b0-4287-b3ba-78391f00c88a.jpg"
+}

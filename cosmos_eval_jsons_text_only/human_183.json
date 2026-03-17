@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_183",
+  "prompt": "A medium shot captures an indoor badminton court with a vibrant red playing surface marked by white lines defining the boundaries and service areas. A woman stands on one side of one of the nets, dressed in athletic attire\u2014a dark blue top with purple lines, a dark blue skirt, and bright red sneakers. She holds a badminton racket in her right hand and a shuttlecock in her left, preparing to serve. The background includes gray walls, benches near the back wall, and a separate court with a net at a distance. The court in the back is far enough for the net to appear half the woman's height. The woman begins her serve by holding the shuttlecock in her left hand while gripping the racket in her right. She then extends her left arm forward to release the shuttlecock and hits it with the racket to move it over the net. She continues to watch the trajectory of the shuttlecock, her body in an in-between position, as she focuses on the net. The final frame shows her facing the net, looking in the direction of the shuttlecock, with her racket held up and her body poised for the next move."
+}

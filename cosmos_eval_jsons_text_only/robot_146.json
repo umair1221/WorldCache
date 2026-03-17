@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_146",
+  "prompt": "The video opens with a scene set in a well-lit, spacious room with a glossy white floor and large windows allowing ample natural light. A robot is positioned at one end of the table, while a person wearing a dark green T-shirt and dark pants stands across the table. His face has been blurred out in the video. The person remains stationary throughout the video, observing the robot's actions. On the table, a large open cardboard box sits amidst various items, including what appear to be electronic components such as circuit boards, cables, and small devices. Additional objects like a pair of pliers, a small black device, and a white item are scattered around the box. In the background, a black couch and a chair are visible, along with another person on the right who walks outside the view of the camera.  The robot, positioned at the far end of the table, uses its grippers to pick up and place items into the box, demonstrating the functionality of its limbs. The robot's movements are methodical and precise, transferring items from the table into the box. It knocks the white-colored items on the table to the side before picking up the black object on the table with its right gripper. The robot's actions are deliberate, showcasing its ability to organize the items efficiently. By the final frame, the box is more populated with the items being organized, indicating significant progress in the task."
+}

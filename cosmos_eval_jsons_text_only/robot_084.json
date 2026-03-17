@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_084",
+  "prompt": "The video opens with a first-person perspective, showcasing two robotic arms holding a red menu book labeled \"Menu\" in gold script. Positioned on either side of the menu, the robotic arms are situated in a casual dining area, likely a cafeteria or small restaurant, characterized by wooden benches and tiled flooring. The robotic arms, equipped with grippers, are poised below the text \"Menu.\" In the background, a person dressed in dark clothing is seated at one of the benches, with a blue object placed on the table in front of them, remaining stationary throughout the video. The setting includes additional elements like a trash bin and some indistinct items in the top right corner, emphasizing the public or communal nature of the space.  As the video progresses, the robotic arms holding the menu card move towards the seated person and lower the menu. The person, dressed in dark clothing, reaches out and grabs the menu book from the robotic arms, opening it. The robotic arms then move backward, maintaining their position relative to the person who now holds the menu. The final frames show the robotic arms continuing to move backward, with no further changes in the positioning of the objects or the person. The video captures a seamless interaction between the robotic arms and the human, highlighting the precision and coordination involved in the process."
+}

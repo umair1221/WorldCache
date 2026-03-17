@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_e0bf6d20-504c-46cc-8b48-f7dcef57762a",
+  "prompt": "Two vloggers are having a lively conversation as they stroll through an outdoor market area. A dynamic low-angle medium shot captures their interaction, with the camera following their movements closely, creating a sense of motion and engagement. The angle showcases a quarter profile of both individuals, emphasizing their expressions and gestures.  The man, wearing a vibrant green hoodie and a crossbody bag with a gray strap, has short black hair and a thin tattoo behind his right ear. He looks forward, occasionally glancing downward, and then back up, his smile reflecting his enthusiasm. The woman beside him, with long straight black hair, holds a paper coffee cup in her right hand. She is dressed in a white top with a tan vest adorned with sherpa accents, complemented by a matching crossbody bag. Her arm gestures emphatically as she speaks, her smile warm and engaging.  The setting is a bustling outdoor market with a distinctly East Asian architectural style, characterized by dark wooden structures and traditional lanterns hanging overhead. The sun is bright, casting clear shadows beneath the awnings and the people, with a few scattered clouds adding depth to the vivid blue sky. Blurred figures of other shoppers can be seen in the background, contributing to the lively atmosphere."
+}

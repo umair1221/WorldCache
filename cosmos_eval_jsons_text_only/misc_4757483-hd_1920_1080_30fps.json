@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4757483-hd_1920_1080_30fps",
+  "prompt": "A close-up shot captures a wet, dark surface, likely a puddle or damp ground, under an overcast sky. The surface is covered with small ripples and bubbles, indicating recent rain. Several droplets of water form small, round bubbles that float on the surface, while others create concentric circles as they spread outwards. Tiny bits of debris, including leaves and twigs, are scattered across the surface, adding texture. As the video progresses, the rain continues to fall, creating more ripples and bubbles. Each raindrop impacts the water, causing a series of concentric circles that expand outward from the point of impact. The bubbles grow slightly larger as they float on the surface, reflecting the light and adding a shimmering effect. The scattered debris remains stationary, but the ripples and bubbles continuously shift and evolve, capturing the dynamic nature of the rainfall. The scene remains focused on the wet, reflective surface, with the ongoing rain creating a continuous pattern of ripples and bubbles."
+}

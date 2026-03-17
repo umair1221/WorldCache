@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_081",
+  "prompt": "A dynamic volleyball match unfolds in a large indoor stadium filled with enthusiastic spectators. The brightly lit court is marked clearly for play, with the team in red uniforms on one side and the team in white uniforms on the other. The scoreboard shows Japan leading Canada 8-5 in the second set. Players in red are actively engaged, preparing to receive the serve from the white team. As the serve is made, player number 12 from the white team successfully sends the ball over the net. The red team quickly responds, with players positioning themselves to either block or set up for a counterattack. The crowd in the background is visibly engaged, adding to the lively atmosphere of the match. The video concludes with the players in white executing a strategic play, with one player jumping to spike the ball while others prepare to defend or support their teammates. The camera captures the intensity and excitement of the game from a mid-range perspective, highlighting the players' movements and the energetic crowd."
+}

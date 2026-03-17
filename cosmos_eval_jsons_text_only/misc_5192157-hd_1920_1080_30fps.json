@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_5192157-hd_1920_1080_30fps",
+  "prompt": "A dynamic medium shot captures a man on an outdoor basketball court, preparing to take a shot at the hoop. The court is marked with white lines on a reddish-brown surface, and the basketball hoop stands prominently in the center. The background features a grassy field bordered by a fence, with trees and some buildings visible in the distance under a clear sky. The man, wearing a light-colored t-shirt, black shorts, white socks, and green sneakers, is seen running towards the hoop with a basketball in his right hand. As he approaches, he transitions into a jump, extending his left leg forward for balance while holding the ball with both hands above his head. He releases the ball, aiming it towards the hoop, completing the sequence with a follow-through motion as the ball arcs towards the net. The final frame captures the ball in mid-air, heading towards the hoop, with the man's body positioned in a dynamic, athletic stance."
+}

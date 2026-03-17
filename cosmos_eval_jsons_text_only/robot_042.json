@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_042",
+  "prompt": "The video opens with a static shot of a wooden kitchen countertop. On the left, a small silver pot with two handles is placed, while a light blue cloth is neatly folded in the center. To the right of the cloth, a yellow-handled spoon lies on the counter. Further back, two cans are visible: one labeled \"Tomato Sauce\" with an image of a tomato, and the other labeled \"Pineapple Slices.\" To the left of these cans, a toy microwave oven with orange buttons is positioned. There is a toy mushroom in front of the microwave on the countertop. As the video progresses, a robotic arm enters from the left side of the frame. The arm moves towards the mushroom, grasps it using the gripper, lifts it up, and then moves back to the bottom left part of the countertop, placing the mushroom next to the pot. The background includes a stove on the right and a clear acrylic barrier on the left, adding depth to the scene. The video captures the precise motion of the robotic arm, emphasizing the interaction between the toy mushroom and the countertop."
+}

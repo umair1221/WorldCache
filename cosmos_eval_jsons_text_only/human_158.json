@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_158",
+  "prompt": "A dynamic soccer goalkeeper practices in an indoor facility. The scene is set on a green turf field marked with a white line, indicating a designated playing area. A white goalpost with a net stands prominently in the center, surrounded by a large white tent-like structure that suggests the facility is enclosed. Three yellow cones are scattered around the goal area, likely used for drills. The goalkeeper, wearing a green jersey, blue shorts, and gloves, is initially seen standing near the goalpost, preparing for a drill. He steps forward, maintaining his balance, and then executes a dive to the right of the video frame, successfully deflecting the ball mid-air. After deflecting the ball, he rolls onto his left side before getting up and walking toward the goalpost, ready for the next phase of his practice. The final frame shows the goalkeeper standing upright, having completed his dive and recovery, with the ball rolling away from him towards the edge of the field.  A medium shot captures the goalkeeper's fluid movements and the intensity of his practice session."
+}

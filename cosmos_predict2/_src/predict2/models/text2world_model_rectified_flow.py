@@ -585,13 +585,6 @@ class Text2WorldModelRectifiedFlow(ImaginaireModel):
             torch.cuda.synchronize()
         start_time = time.time()
 
-        # Early exit configuration (read from model attrs set by video2world.py)
-        early_exit_enabled = getattr(self, '_early_exit_enabled', False)
-        early_exit_min_ratio = getattr(self, '_early_exit_min_ratio', 0.5)
-        early_exit_threshold = getattr(self, '_early_exit_threshold', 0.02)
-        total_steps = len(timesteps)
-        min_steps = int(total_steps * early_exit_min_ratio)
-        
         steps_executed = 0
         for step_idx, t in enumerate(timesteps_iter):
             latent_model_input = latents
@@ -605,22 +598,10 @@ class Text2WorldModelRectifiedFlow(ImaginaireModel):
             )[0]
             latents = temp_x0.squeeze(0)
             steps_executed += 1
-            
-            # Compute velocity RMS for early exit check
-            vel_norm = velocity_pred.float().norm() / velocity_pred.numel() ** 0.5  # per-element RMS
-            
-            # Velocity-based early exit: after min_steps, check if velocity is small enough
-            if early_exit_enabled and step_idx >= min_steps:
-                if vel_norm.item() < early_exit_threshold:
-                    print(f"[EarlyExit] Converged at step {step_idx + 1}/{total_steps} "
-                          f"(velocity RMS={vel_norm.item():.6f} < threshold={early_exit_threshold})")
-                    break
+
 
         if torch.cuda.is_available():
             torch.cuda.synchronize()
-        inference_time = time.time() - start_time
-        print(f"\n[Performance] Core DiT Inference Loop completed in {inference_time:.3f} seconds "
-              f"({steps_executed}/{total_steps} steps executed)\n")
 
         if self.net.is_context_parallel_enabled:
             if use_spatial_split:

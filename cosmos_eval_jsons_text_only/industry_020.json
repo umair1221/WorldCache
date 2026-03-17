@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_020",
+  "prompt": "A medium close-up shot captures a person in a white t-shirt sealing a cardboard box with a red tape dispenser in a storage or packing area. The individual's right hand firmly holds the tape dispenser steady, while their left hand presses down on the tape to ensure it adheres properly to the box. The tape dispenser is red with a clear roll of tape attached, and the box is brown and rectangular with a smooth surface. The background reveals multiple cardboard boxes, some marked with \"FRAGILE\" and recycling symbols, indicating a busy packing environment. The lighting is even, illuminating the workspace clearly. The person's movements are deliberate and focused, and by the final frame, they were taping on the side of the box."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_241",
+  "prompt": "A dynamic soccer practice video captures a goalkeeper in action within an indoor facility. Set on a green artificial turf field marked with a white line, the scene centers around a white goalpost with a net. Behind the goalpost, a large white tent-like structure provides a backdrop. Three small yellow cones, used for drills, are positioned in front of the white line. The goalkeeper, dressed in a green jersey, navy-blue shorts, and two-tone gloves, is seen running towards his left side, preparing to intercept the ball. As he dives to his left, he successfully blocks the ball, ensuring it never reaches the goal. In the final shot, the ball rolls out of the right side of the frame, and the goalkeeper stands back up, maintaining his position, as he turns his face towards his right side, keeping his arms and legs bent, ready for the next drill. The video showcases the agility and focus required in soccer training, emphasizing the goalkeeper's readiness and precision."
+}

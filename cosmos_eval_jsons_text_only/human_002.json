@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_002",
+  "prompt": "The video opens with a wide shot of a bustling waterfront promenade under a clear blue sky. The paved walkway, composed of light gray rectangular tiles, stretches out towards the horizon where it meets a calm body of water. A lively crowd of people is scattered across the area; some are strolling, while others are seated along the edge of the water, soaking in the tranquil view. In the distance, a city skyline with numerous buildings of varying heights is visible, indicating an urban setting. Several boats are seen on the water, including a larger vessel near the right side of the frame. The scene captures a vibrant and relaxed atmosphere, typical of a popular public space on a sunny day.  As the video progresses, two individuals come into focus in the foreground. They are walking together, engaged in conversation, and holding drinks with straws. The woman in the purple shirt carries a shoulder bag while eating an ice cream cone, while the other person holds a drink cup and a blue shopping bag. They move steadily forward, gradually moving further into the frame until they exit the scene. The background remains consistent throughout, maintaining the same crowd of people, the waterfront, and the distant cityscape. The overall ambiance continues to convey a sense of leisure and activity, characteristic of a bustling yet peaceful waterfront environment."
+}

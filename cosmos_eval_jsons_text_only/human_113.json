@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_113",
+  "prompt": "A woman lies on her back on a yellow exercise mat placed on a polished wooden floor within a modern, well-lit living space. She is dressed in a dark blue long-sleeved top and black leggings, with white sneakers on her feet. Her curly hair is loose, cascading over her shoulders. She holds two small purple dumbbells, one in each hand, positioned near her chest. The room features large windows allowing natural light to stream in, revealing a view of greenery outside. A brown sofa with cushions, a small round table with a few items on it, and a tall, cylindrical white structure are visible in the background. The woman then lifts her legs straight up into the air while keeping her arms extended overhead, maintaining a straight line from her shoulders to her knees. After holding this position briefly, she slowly lowers her legs back down towards the mat, keeping them straight throughout the movement. By the final frame, she has completed the exercise, with her legs lowered and her arms still extended overhead, resting on the mat.  A top-down shot captures the woman performing a leg lift exercise with dumbbells, emphasizing her form and the movement against the backdrop of the modern living space."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_107",
+  "prompt": "The video opens in a well-lit, spacious laboratory setting with a clean, white floor marked by blue lines, suggesting a controlled environment, possibly for robotics or engineering tests. In the foreground, a humanoid robot stands behind a small, wheeled cart with a tray on top. The robot is dressed in a white and black suit, giving it a futuristic appearance. Its hands, equipped with black parts, manipulate objects on the tray. Initially, the partially visible robot in the foreground uses its left hand to pick up a red can from the tray, lifting it slightly before placing it back down. Simultaneously, the robot on the other end of the tray uses its right hand to adjust another black object, moving it away from the red can. They completely separate the cans in the tray according to their colors. The robot's movements are precise and methodical, demonstrating its ability to handle multiple objects simultaneously. In the last frame, the robot successfully separates the black from the red cans on the tray. In the background, similar robots are visible, seated in an identical position to others, facing the wall. The scene concludes with the robot continuing its task while focusing on the tray's objects.  A medium shot captures the robots' synchronized actions, emphasizing their precision and coordination. The background robots add depth to the scene, highlighting the scale of the operation. The overall setting conveys a sense of advanced technology and meticulous organization.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_107.jpg"
+}

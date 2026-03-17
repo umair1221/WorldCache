@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_107",
+  "prompt": "An aerial view captures a vast agricultural field during the harvesting process, showcasing a green combine harvester actively working. The field is divided into two sections: the left side is already cleared, exposing the bare soil, while the right side remains covered with tall, unharvested corn stalks arranged in neat rows. The harvester, positioned centrally, moves slowly vertically, cutting and collecting the corn, leaving behind a trail of dust. The harvester's shadow stretches out to the left, elongating as it advances, indicating the sun is positioned to the right. By the final frame, the cleared area expands towards the center, while the remaining unharvested corn becomes more prominent on the right side. The video maintains a steady, bird's-eye perspective throughout, emphasizing the methodical progress of the harvesting operation."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_debris_2_0",
+  "prompt": "The video begins with a view from inside a vehicle traveling on a multi-lane highway under a clear blue sky. The road curves gently to the left, bordered by a concrete barrier on the right and a grassy area with scattered palm trees on the left. A red SUV is visible ahead, driving in the right lane as the ego vehicle's perspective. An elevated roadway with a yellow sign indicating \"16 FT 3IN\" spans across the scene, supported by concrete pillars. As the video progresses, a large cardboard box appears on the road ahead. The box is initially lying flat but then flips upright after the leading vehicle runs over it. The ego vehicle, unable to swerve or avoid it, collides with the cardboard and continues driving forward with it stuck to the front. The final frame shows the highway continuing its gentle curve, with the elevated roadway still overhead, and the grassy area to the left.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_debris_2_0.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_066",
+  "prompt": "A close-up view of a lathe machine in operation within an industrial workshop captures the precision and intensity of the machining process. The metallic components of the lathe, including a robust, dark-colored base and a vertical column supporting the cutting tool, dominate the frame. The central focus is on the spinning metal workpiece, which is being machined by a precision cutting tool held by the lathe's chuck. The tool is angled towards the workpiece, causing a continuous stream of white, fibrous metal shavings to be ejected from the cutting area. These shavings are visible in various stages of ejection, highlighting the ongoing material removal process. Several water pipes with black and red trims are visible as part of a cooling system, continuously spraying water onto the workpiece to manage heat during cutting. The background, slightly out of focus, shows additional machinery and equipment, reinforcing the industrial setting. The lighting emphasizes the dynamic motion of the shavings and the intricate details of the machine's components, showcasing the precision and intensity of the machining process. The lathe remains stationary while the workpiece rotates, and the cutting tool maintains its position, ensuring a consistent and controlled machining action."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_184",
+  "prompt": "A wide shot captures an outdoor tennis court on a bright, sunny day, enclosed by a chain-link fence. Beyond the court, a row of modern apartment buildings with balconies stands under a clear blue sky, indicating pleasant weather. The court has a vibrant green surface marked with white lines delineating the boundaries and service areas. A net divides the court into two halves, with the foreground showing part of the net closer to the camera. In the center of the court, a person dressed in a pink shirt, purple shorts, white sneakers, and a white cap stands ready to play tennis. They hold a tennis racket in a poised position, appearing focused and prepared for the game. As the video progresses, this person changes their stance and with a little hop proceeds to hit back the ball coming towards her side, maintaining her balance. In the background, another person dressed in green and black bounces the ball twice on the ground and gets ready to serve. The scene concludes as the ball hit by the person in pink goes out of the camera frame."
+}

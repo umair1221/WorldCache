@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_031",
+  "prompt": "The video opens with a view of an airport tarmac, framed by the window of an airport terminal. A Delta Airlines aircraft is parked at a gate, with its nose extended towards the right of a mobile cargo loading platform. The plane's fuselage is predominantly white, adorned with the Delta logo. On the platform, a worker wearing a high-visibility orange vest is actively engaged in loading or unloading cargo. Several empty pallets are positioned nearby, ready for use. In the background, various airport vehicles and equipment are visible, including a small white tug vehicle moving across the tarmac beyond the empty pallets. The sky above is partly cloudy. As the video progresses, the worker continues their task, making slight adjustments to ensure the cargo is securely placed on the platform. The surrounding activity remains consistent, and the position of the small tug vehicle changes. The white tug vehicle slows near the empty pallets. The scene maintains a steady pace. By the final frame, the worker is still focused on their task, diligently working to load or unload the cargo onto the aircraft. The overall environment remains unchanged, with the Delta plane still parked at the gate and the tarmac activity continuing in the background.  A medium shot from inside the terminal, capturing the worker's focused movements and the bustling airport environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_031.jpg"
+}

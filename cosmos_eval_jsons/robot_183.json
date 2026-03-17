@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_183",
+  "prompt": "The video captures a modern automotive factory assembly line within an exhibition space, showcasing the precision and automation of car manufacturing. The focal point is a partially assembled car, with its roof and side panels installed but lacking doors and other components. Two prominent yellow robotic arms dominate the scene, positioned on either side of the car. The robotic arm on the left side of the camera is actively engaged in welding, moving towards the car's structure with deliberate precision, while the robotic arm on the right side of the camera moves smoothly, adjusting its position without interacting with the car's structure, possibly preparing for a subsequent operation. The car itself is metallic gray, with a sleek design, and the surrounding environment is brightly lit, highlighting the intricate details of the assembly process. The background features a sign reading \"Stellantis,\" indicating the manufacturer. The video emphasizes the seamless and methodical movements of the robotic arms, underscoring the efficiency and advanced technology involved in car production. A medium shot with a slight upward angle captures the robotic arms' operations.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_183.jpg"
+}

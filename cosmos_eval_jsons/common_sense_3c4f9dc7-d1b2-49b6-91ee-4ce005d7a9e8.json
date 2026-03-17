@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_3c4f9dc7-d1b2-49b6-91ee-4ce005d7a9e8",
+  "prompt": "A chef in a black chef's jacket with visible buttons and blue jeans is chopping Bok Choy on a round wooden cutting board. The camera captures this action from a high angle, framing a medium shot with slight random camera motion. The chef, positioned on the left side of the frame, makes an open-handed gesture with their left hand before beginning to slice the Bok Choy with a cleaver held in their right hand. The chef's left hand moves away from the vegetable, revealing a black watch on their wrist. As the cleaver descends, the chef saws downward, slicing through the Bok Choy. The setting is a well-lit kitchen area, with various bowls containing ingredients scattered around. One bowl emits steam, and another is filled with ramen. In the background, a stainless steel pot with a rounded lid sits on the stove, and a brown-colored object is centered behind it. To the left, an opening leads to a brighter area.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_3c4f9dc7-d1b2-49b6-91ee-4ce005d7a9e8.jpg"
+}

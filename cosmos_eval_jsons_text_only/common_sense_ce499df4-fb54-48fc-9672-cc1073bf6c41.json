@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_ce499df4-fb54-48fc-9672-cc1073bf6c41",
+  "prompt": "In this slow-motion footage, a lone figure confidently strides along a winter coastline, navigating the scattered chunks of ice on the black sand. The person, clad in a khaki-green coat, gray pants, and sturdy brown and gray hiking boots, moves with purpose, their arms swinging rhythmically with each step. The bright, clear day is accentuated by the sun casting a soft, dark shadow on their right side, while the fluffy white clouds near the horizon add a serene backdrop. Rolling waves meet the shoreline, their edges lined with icy formations, creating a picturesque scene. The camera follows the person from behind, capturing a medium shot at ground level, emphasizing the textures of the sand and ice. The figure remains centered in the frame, their lower body and shoes prominently featured as they walk towards the water, with the waves on their left. The glacial ice, ranging from small fragments to large chunks, glistens under the daylight, adding to the cold, yet captivating atmosphere."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_126",
+  "prompt": "A serene outdoor scene unfolds in a grassy field under an overcast sky. A person stands on the left side of the frame, holding a long stick with a bubble wand attached to it. They are actively creating large, colorful soap bubbles that float gracefully through the air. The bubbles are translucent with vibrant hues of blue, green, and purple, reflecting light beautifully against the cloudy backdrop. The person's movements are fluid and deliberate, causing the bubbles to grow larger and more intricate, forming complex shapes and patterns as they expand. The vibrant colors of the bubbles continue to reflect light, creating a mesmerizing display against the overcast sky. The bubbles drift slowly, some merging together to form larger, more elaborate structures, while others break apart into smaller, shimmering fragments. The serene outdoor setting remains unchanged, with the chain-link fence, sports field, red-roofed house, and lush green trees providing a picturesque backdrop for this captivating spectacle."
+}

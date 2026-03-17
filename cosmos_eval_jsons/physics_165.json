@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_165",
+  "prompt": "A close-up view captures a white tray on a wooden surface, showcasing six popsicles arranged in a row on wooden sticks. The popsicles exhibit a gradient of colors: light blue at the top, followed by yellow, red, blue, yellow, and another blue at the bottom. As the video progresses, each popsicle begins to melt, with their colors blending and dripping onto the tray. The blue popsicle at the top starts to drip, forming a small pool of blue liquid on the left side of the tray. The yellow popsicle next to it melts more extensively, creating a larger pool of yellow liquid that merges with the blue. The red popsicle, though still mostly intact, contributes to the vibrant mix of colors as it softens and drips slightly. The second blue popsicle also melts more visibly, adding to the growing blue pool. The yellow popsicle at the bottom continues to drip, integrating its color into the existing puddles. The camera remains stationary, capturing the gradual transformation of the popsicles into a colorful, liquid mixture on the tray. By the end of the video, the popsicles have melted significantly, with the colors fully blended and spread across the tray, creating a visually striking and dynamic scene.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_165.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_093",
+  "prompt": "The video captures a dynamic moment during the FIBA World Cup 2019 Group Phase match between Turkey (TUR) and Japan (JPN), with Turkey leading 13-5 in the first quarter with 5:34 remaining. Set in a well-lit indoor arena, likely a large stadium, the scene is filled with spectators seated in tiered stands, creating an energetic atmosphere. The court prominently displays branding for Canton and Aeroflot, alongside the FIBA World Cup logo at center. Players from both teams are strategically positioned; Turkish players in white jerseys are actively dribbling and passing the ball, while Japanese players in black jerseys are defending. The scoreboard updates throughout the sequence, showing the score and time decreasing as the game progresses. The players' movements are fluid and intense, with Turkish players working to advance the ball while Japanese defenders adjust their stances to block or intercept. The final frame captures the ongoing action, highlighting the competitive spirit of the match."
+}

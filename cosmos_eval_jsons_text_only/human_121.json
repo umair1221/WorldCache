@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_121",
+  "prompt": "The video opens with a serene park-like setting, featuring a paved area with visible cracks and a backdrop of neatly trimmed bushes and trees. Two individuals stand on a blue and yellow outdoor exercise machine, positioned side by side. One person carries a backpack, while the other has a bag slung over their shoulder. The sunlight illuminates the scene, casting distinct shadows of the individuals and the exercise machine onto the ground, highlighting the bright, clear weather. Throughout the video, the individuals move slightly side to side on the machine, maintaining a casual and relaxed posture. The background remains unchanged, reinforcing the tranquil and static nature of the scene. By the final frame, the individuals continue to move side to side on the machine, maintaining the initial setup without any noticeable changes in their posture or the environment around them.  A medium shot captures the two individuals on the exercise machine, with the camera positioned at a slight angle to emphasize their movements and the shadows cast by the sunlight. The background features a mix of greenery and bare trees, suggesting a late autumn or early spring setting. The overall atmosphere is calm and peaceful, with the exercise machine serving as the focal point of the scene."
+}

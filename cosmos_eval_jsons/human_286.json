@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_286",
+  "prompt": "A close-up shot captures a person wearing a vibrant red hoodie and a knitted scarf, standing in a snowy outdoor environment. The individual is holding a traditional wooden bow with a long, curved shape, and a single arrow is nocked at the end of the bowstring. The person's hands are positioned to draw back the string, preparing to shoot the arrow. The background is softly blurred, showing a wintry forest setting with snow-covered ground and trees, creating a serene and cold atmosphere. As the video progresses, the person continues to draw back the bowstring with their left hand, gradually increasing the tension. The arrow remains securely nocked, and the individual's grip on the bow is firm and steady. The camera maintains its focus on the upper body and hands, capturing the deliberate motion of drawing the bowstring closer to their face. The snowy backdrop remains constant, emphasizing the outdoor setting and the focused action of archery. By the final frame, the person has drawn the bowstring back to a full draw, with the arrow poised for release. The individual's posture is tense and concentrated, indicating the completion of the preparation phase before the shot. The snowy landscape and the blurred background continue to provide context, maintaining the serene and cold ambiance established in the initial frames.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_286.jpg"
+}

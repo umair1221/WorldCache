@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_58441033-c8ad-4f4b-9fcf-2b2161a32173",
+  "prompt": "A close-up shot from a high angle captures a pair of hands wearing transparent disposable gloves, each with medium-length French tips, as they handle a slice of bread. The bread has a golden yellow crust sprinkled with black sesame seeds and a very pale yellow interior with a spongy texture containing numerous small air bubbles. The person tears the slice into two unevenly-sized pieces, with a third of it in their left hand and two-thirds in their right hand. They rotate the smaller piece until its cross section is directly facing the camera, while the larger piece remains tilted up at a higher angle and rests lightly on the smaller piece. The backdrop is an off-white polished stone surface with a marble design. In the background, a partial loaf of bread and two pre-cut slices lie to the left. The scene is well-lit with high color accuracy levels."
+}

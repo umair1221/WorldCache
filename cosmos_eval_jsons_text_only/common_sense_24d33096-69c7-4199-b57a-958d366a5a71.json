@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_24d33096-69c7-4199-b57a-958d366a5a71",
+  "prompt": "A thrilling outdoor adventure unfolds as a motorcyclist navigates a narrow, rugged mountain trail. The rider, clad in a vivid yellow-green and black jacket, expertly maneuvers along a precarious dirt road that hugs the jagged mountain's edge. Positioned at a moderate distance behind another motorcyclist in dark clothing, the rider skillfully handles the powerful motorcycle, which kicks up dust as it speeds along the path. The scene is framed by a sheer rock wall on the left and a breathtaking, expansive drop on the right. Shadows play across the trail, reflecting the rugged terrain, and the camera follows closely behind the motorcyclist, capturing the dynamic movement and the stunning scenery. As the rider passes by the tallest section of the rock wall, the route opens up into an expansive view of rolling mountains and valleys under a clear blue sky. The sunlight illuminates the scene, casting dark shadows on the rock wall and the trail, while the background reveals a dark vehicle and faint outlines of other people, adding depth to the adventurous journey."
+}

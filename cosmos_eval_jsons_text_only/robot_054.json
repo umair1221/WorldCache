@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_054",
+  "prompt": "The video opens with a light wooden table featuring a partially open white plastic bag. A bottle of hand sanitizer with a blue pump dispenser and a yellow container with a lid are neatly placed next to it. In the background, a colorful cartoon illustration of a smiling face with large eyes and a red nose adds a playful touch to the setting. Two robotic arms are positioned on either side of the table. As the video progresses, the robotic arm on the left extends and grasps the white plastic bag, while the robotic arm on the right picks up objects and places them inside the bag. The shadows of the robotic arms are cast along with their movements. By the final frame, the arms are no longer interacting with the bag and return to their initial placement on the left and right sides of the frame.  A medium shot captures the interaction between the robotic arms and the objects on the table, emphasizing the precision and coordination of the robotic movements. The background remains static, allowing the focus to remain on the dynamic action of the robotic arms. The lighting is even, highlighting the details of the objects and the smooth motion of the robotic arms."
+}

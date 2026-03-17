@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_051",
+  "prompt": "A static shot captures a wooden table against a plain white background. A woven wicker basket supports a large glass beverage dispenser filled with vibrant orange grapefruit juice. In front of the dispenser, a smaller glass bottle, partially filled with water, is positioned to receive the grapefruit juice. The dispenser's spout is open, and a steady stream of grapefruit juice is being poured into the bottle. The camera remains fixed as the juice flows, gradually filling the bottle. By the final frame, the bottle is nearly full, showcasing the successful transfer of the grapefruit juice from the dispenser to the bottle.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_051.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4761426-uhd_4096_2160_25fps",
+  "prompt": "A low-angle shot captures the dynamic motion of two individuals engaged in jump rope exercises within a dimly lit gym. The person on the left, clad in black shorts and white sneakers, and the individual on the right, wearing a white t-shirt and black shorts, are both mid-jump, their feet rhythmically moving up and down. The gym is equipped with various fitness gear, including weights and a punching bag, which are visible but not the primary focus. The wooden floorboards add texture to the scene, and the soft, diffused lighting creates a moody atmosphere. A mirror in the background reflects the two individuals as they jump rope, adding depth to the composition. The camera remains mostly stationary, emphasizing the rhythmic motion and the energetic environment of the gym.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_4761426-uhd_4096_2160_25fps.jpg"
+}

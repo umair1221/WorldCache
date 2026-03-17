@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3070181-hd_1920_1080_24fps",
+  "prompt": "A wide shot of a desert landscape, beginning with a prominent reddish-brown cliff face on the left side of the frame. The terrain below is dry and rocky, with sparse vegetation consisting of small bushes and shrubs scattered across the surface. In the distance, a range of layered red rock formations rises against a clear blue sky, which is lightly speckled with a few fluffy white clouds. A group of hikers, dressed in colorful outdoor attire, is positioned on a rocky overlook, standing close together and facing the expansive view. As the camera slowly moves forward, it reveals more of the desert's vastness and the impressive geological features in the background. The hikers remain stationary throughout, occasionally shifting their positions slightly but continuing to gaze at the stunning scenery. The final frame captures the same serene and picturesque scene, with the hikers still on the overlook, the red rocks, and the expansive desert landscape stretching out into the distance."
+}

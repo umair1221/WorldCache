@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_2927943-uhd_4096_2160_24fps",
+  "prompt": "The video opens with a vibrant scene set under a thatched roof structure, likely within an indigenous community. Three women in colorful, patterned skirts and floral headpieces are performing a traditional dance, their movements fluid and synchronized. They wear beaded necklaces and arm bands, adding to the cultural richness of their attire. Behind them, several men stand observing the performance, some holding drums, indicating their role in the musical accompaniment. The sandy ground and natural light filtering through the thatch create a warm, inviting atmosphere. The women's dance involves rhythmic arm movements and body sways, while the men remain mostly stationary, occasionally tapping their drums. The scene captures a moment of cultural celebration and community engagement, with the dancers and musicians deeply immersed in their roles. A medium shot of a group portrait, capturing the dynamic energy of the performers and the serene observation of the audience."
+}

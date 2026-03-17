@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4707906-uhd_3840_2160_30fps",
+  "prompt": "A close-up shot of a vibrant orange butterfly resting on a leafy green plant adorned with small red flowers. The butterfly's wings are spread wide, showcasing intricate black and white patterns. The plant is part of a lush garden, with dense green foliage and additional plants visible in the background. A gentle stream can be seen flowing through the garden, its water reflecting the sunlight and adding to the tranquil atmosphere. The scene is bathed in natural light, emphasizing the vivid colors of the butterfly and the surrounding vegetation. As the video progresses, the butterfly remains mostly stationary on the plant, its wings occasionally fluttering gently in the breeze. The camera captures the butterfly from different angles, highlighting its detailed wing patterns and the vibrant colors of the flowers. The serene garden setting continues to exude a peaceful and natural ambiance throughout the duration of the video."
+}

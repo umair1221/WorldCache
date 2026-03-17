@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_996b00f7-8b77-4f6b-a47f-8c37ef2094ae",
+  "prompt": "In a bright and airy kitchen, a cheerful woman demonstrates a culinary process, standing at a wooden table adorned with two large bouquets of wildflowers in vases. She is wearing a floral pink blouse with wide sleeves and a white apron with a grey lining. Her blonde hair is loosely tied behind her neck, with some strands falling gently over her shoulders. The woman is actively engaged in her task, using her hands to explain and gesture towards the camera, maintaining a friendly and enthusiastic demeanor. The table is set with various baking essentials: cake tins, a large blue plate filled with strawberries, a jar of jam, eggs in a wire basket, and other ingredients. A green potted herb sits on the left side of the table, adding a touch of freshness to the scene. The kitchen is spacious, with large window panes allowing ample natural light to flood in, and the background features additional plants and kitchen appliances, slightly out of focus. The video captures the woman's movements and expressions in a medium shot, emphasizing her interaction with the camera and the ingredients on the table.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_996b00f7-8b77-4f6b-a47f-8c37ef2094ae.jpg"
+}

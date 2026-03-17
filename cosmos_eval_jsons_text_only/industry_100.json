@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_100",
+  "prompt": "The video opens with a wide shot of a bustling warehouse, characterized by its expansive layout and towering shelving units filled with neatly arranged boxes and packages. The shelves, painted in vibrant red and black, stretch high into the ceiling, creating a dense and organized storage environment. A worker, clad in a bright yellow safety vest with reflective stripes, is operating a forklift, carefully navigating through the aisle. The forklift is positioned near a pallet loaded with various boxes, including some wrapped in plastic. The worker appears to be in the process of either loading or unloading the pallet onto one of the elevated shelves. The warehouse floor is a clean, polished surface that reflects the overhead fluorescent lights, enhancing the visibility within the space. As the video progresses, the forklift moves steadily along the aisle, showcasing the systematic and efficient workflow typical of such industrial settings. By the final frame, as the forklift advances further down the aisle, it is seen being lifted along with the pallet of boxes and the worker still on it, indicating vertical movement to place the load on a higher shelf."
+}

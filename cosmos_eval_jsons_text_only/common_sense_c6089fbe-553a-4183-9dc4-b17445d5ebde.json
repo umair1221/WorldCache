@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_c6089fbe-553a-4183-9dc4-b17445d5ebde",
+  "prompt": "In a medium shot, a person wearing a black cap backward and a denim jacket walks slowly down the side of a busy road, their back to the camera. Their arms swing naturally as they move, and their head and body sway slightly from side to side. The camera follows them from behind, capturing their relaxed yet purposeful gait. The scene is set in bright sunlight, with snow-capped mountains and an evergreen forest forming a stunning backdrop. The road, to the left of the frame, winds off into the distance, flanked by a low barrier wall painted with a yellow and black vertical line pattern. Several white vehicles travel in both directions on the left side of the road, while others are parked on the right. The sunlight casts hard shadows beneath the vehicles, and the bright daylight reflects off the surfaces of the cars. To the left of the road, small multistory buildings, one brown and another white, stand alongside various signs placed around the scene. The overall atmosphere is dynamic yet serene, blending human activity with the grandeur of nature."
+}

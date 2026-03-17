@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_104",
+  "prompt": "The video opens with a top-down view of a person seated at a wooden table in an office setting. The individual is dressed in black-and-white pants. The table holds a variety of items: a neatly folded dark green shirt is positioned center right; to its left, there is a black box, a white device with cables, and a small black object resembling a phone or remote control. The person begins by adjusting the dark green shirt, folding it in half with deliberate movements. The camera remains stationary throughout, capturing the person's hands as they carefully align the fabric. On the right side of the shirt, there are additional items, including a roll of tape, a yellow tube, and a few other miscellaneous objects. A basket containing tissues is visible to the far left of the table. The background shows an open office space with desks, chairs, and a carpeted floor. The final frame captures the neatly folded shirt in the center right of the table, with the other objects untouched on the table.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_104.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_13206250_3840_2160_60fps",
+  "prompt": "The video opens with a dynamic scene of the ocean, where waves are actively breaking, creating a mesmerizing interplay of white foam and deep blue-green water. A surfer is positioned further out, near the crest of a wave, seemingly waiting for an opportunity to ride it, while a seagull is closer to the shore, navigating through the turbulent waters. The waves continue to crash and churn, with the frothy white foam expanding and contracting as they break. The surfer maintains his position, appearing to paddle slightly against the current. The ocean's surface remains active, with the waves continuously forming and dissipating, showcasing the relentless motion of the sea. By the final frame, the waves continue their rhythmic dance, with the surfer still engaged in his respective activities amidst the ever-changing ocean landscape.  A high-angle shot captures the surfer and the seagull, emphasizing the vastness of the ocean and the dynamic interplay between the waves and the surfers. The camera pans slowly across the scene, highlighting the texture of the water and the movement of the waves. The surfer appears focused and determined, while the seagull soars gracefully, adding a sense of freedom and serenity to the scene. The overall atmosphere is one of raw power and natural beauty, with the ocean's constant motion providing a captivating backdrop.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_13206250_3840_2160_60fps.jpg"
+}

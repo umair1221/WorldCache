@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_191",
+  "prompt": "The video opens with a surfer riding a massive, curling wave, showcasing its immense size and power. The wave is a deep, vibrant green, with white foam forming at its crest. The surfer, clad in a light-colored wetsuit, is positioned low on the surfboard, leaning into the curve of the wave to maintain balance. The wave's barrel is partially visible, creating a tunnel-like effect around the surfer. As the video progresses, the surfer maneuvers skillfully through the tunnel, navigating the wave's powerful currents. The water splashes vigorously around the board, highlighting the surfer's controlled movements. Eventually, the surfer gets caught in the wave's barrel, and the camera captures the wave's dramatic collapse as it crashes down, leaving a trail of white foam behind. The final frame shows the wave crashing, with the surfer no longer visible, emphasizing the wave's dominance over the surfer. The scene is captured from a high vantage point, providing a bird's-eye view of the surfer's daring ride and the wave's sheer force."
+}

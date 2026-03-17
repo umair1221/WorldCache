@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_029",
+  "prompt": "The video opens in a spacious indoor studio characterized by a high ceiling with exposed metal beams and bright fluorescent lighting. The walls are painted white with an orange accent stripe near the ceiling, and the floor is covered with light-colored wood paneling. The studio is equipped with various filming equipment, including a tripod-mounted camera positioned to the left of the frame, and black acoustic panels stacked against the wall in the background. A disco ball hangs from the ceiling, reflecting light across the room. The man in the foreground, dressed in a striped shirt, dark pants, and sneakers, is seen performing a dance routine. His dance involves him making small taps with his feet on the ground and then moving forwards and backwards, gradually shifting his weight. Throughout the dance, he moves his arms in a circular motion, moving them clockwise when stepping forward and counterclockwise when stepping backwards. Another person briefly appears in the background, partially obscured by the man in the foreground, but remains stationary. The scene remains consistent throughout the video, with no significant changes to the environment or introduction of new objects. By the final frame, the man continues his actions, maintaining his position and focus within the same well-lit, organized studio setup.  A medium shot of a man dancing in a studio.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_029.jpg"
+}

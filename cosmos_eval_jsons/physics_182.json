@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_182",
+  "prompt": "A serene close-up of a water surface, likely part of a tranquil pond or stream, set against a softly blurred backdrop of lush greenery, suggesting a garden or forested area. In the foreground, a branch with vibrant, glossy green leaves dominates the left side of the frame. Some of these leaves are adorned with glistening dew drops, indicating a recent rainfall or morning dew. The water below is dark and still, reflecting the leaves and the surrounding foliage, creating a mirror-like effect. As the video progresses, the focus shifts subtly from the leaves to the water below. A small droplet of water is seen falling into the still water, initiating a gentle ripple effect that spreads outward in concentric circles. This droplet is captured mid-air, frozen in time, emphasizing the tranquility and the delicate beauty of the moment. The ripples gradually dissipate, returning the water to its calm state, mirroring the peacefulness of the surrounding environment. A close-up shot from a slightly elevated perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_182.jpg"
+}

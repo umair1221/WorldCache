@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_149",
+  "prompt": "The video opens with a wide shot of a modern office space, showcasing a carpeted floor and a large open-plan area with some equipment in the background. A white circular table with a small potted plant sits near the center-right, accompanied by several light gray chairs. In the background, a person dressed in blue is seen standing at a counter, engaged in some activity that appears to be working. The counter is equipped with various kitchen appliances and utensils, indicating a cafeteria area. The office space is well-lit with fluorescent lighting, and the ceiling has exposed beams and ductwork, contributing to the industrial yet clean aesthetic. As the camera moves forward and turns right, the person at the counter continues their task, occasionally shifting slightly but maintaining focus on their work. The overall scene remains consistent throughout the video, with no significant changes in the positions or actions of other objects or individuals. A medium shot with a slight pan to follow the person at the counter.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_149.jpg"
+}

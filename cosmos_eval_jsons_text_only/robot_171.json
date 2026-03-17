@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_171",
+  "prompt": "A futuristic, minimalist video featuring a humanoid robot with a sleek, white design and black and white joints, set against a gradient background that transitions from deep purple on the left to dark blue on the right. The robot, with its rounded head and glowing blue eyes, stands centrally with its arms outstretched at shoulder height and legs slightly apart, maintaining balance as it tilts its body to its right side. It then lifts its left leg up and swings it forward while keeping its arms stationary, before lowering the leg and returning to a neutral stance. The robot's movements are smooth and deliberate, showcasing its mechanical precision. The background remains static, emphasizing the robot's dynamic actions. A medium shot captures the robot's full body, highlighting its fluid motion and the contrast between its white body and the dark, gradient backdrop."
+}

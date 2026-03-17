@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_114",
+  "prompt": "The video captures a modern kitchen sink area, showcasing a large stainless steel dishwasher on the left and a smaller sink on the right. Inside the dishwasher, various items and a steel tray are visible. The robotic arm, equipped with a suction cup, is positioned above the smaller sink, where a beige bowl and a beige plate are the focal points. The robotic arm lifts the bowl, rotating it to a vertical position with precision. The background features a window revealing greenery outside, a faucet above the smaller sink, and cleaning supplies including sponges and a dish soap bottle on the counter. The scene concludes with the bowl now upright in the sink, highlighting the robotic arm's efficient and meticulous handling of the dish.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_114.jpg"
+}

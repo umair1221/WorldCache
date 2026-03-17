@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_9f986144-dec3-490d-8c44-aed3a2727413",
+  "prompt": "A first-person view from inside a vehicle captures a rainy street intersection under an overcast sky. The windshield is streaked with rain, and the wipers are actively clearing the water. Several cars are visible ahead, including a dark-colored sedan directly in front and others further to the left with their brake lights illuminated. Overhead traffic lights hang above the intersection, with some showing green signals while others display red. The sky is filled with thick, gray clouds, creating a gloomy atmosphere of a rainy day. Trees and utility poles line the sides of the road, and a palm tree is partially visible on the right side. The word \"CLEAR\" is faintly visible on the wet pavement near the center of the frame. As the video progresses, the car drives across the intersection under green lights. The windshield wipers continue to clear the rain, revealing more of the wet road and the vehicles ahead. The left turn arrow is red. Other vehicles pass by on the left side, their headlights glowing as they move away. The scene remains consistent with the overcast sky and wet conditions throughout the frames. By the final frame, the ego vehicle is moving into the intersection. The windshield wipers continue to work, and the wet road reflects the surrounding environment. The vehicles ahead are also moving on their respective paths, and the overall scene retains its gloomy, rainy ambiance."
+}

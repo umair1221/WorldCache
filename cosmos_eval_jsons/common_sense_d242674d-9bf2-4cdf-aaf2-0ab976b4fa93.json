@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_d242674d-9bf2-4cdf-aaf2-0ab976b4fa93",
+  "prompt": "A man stands in front of a rustic brick wall, holding a yellow whole chicken with both hands. The video captures a medium shot of him at eye level, with the camera following his random movements as he speaks. His eyes occasionally glance at the camera while he moves the chicken up and down, making it partially and fully visible within the frame. He blinks and raises his eyebrows, then tilts his head down to look at the chicken. The man has short brown hair, a shadow of a beard, and nicely trimmed brown eyebrows. He is dressed in a black jacket with a white fur-lined hood, a small black microphone clipped on it, and a gray top partially visible under the jacket. A dark apron with brown straps and a metal hook is also partially visible on his right side. The background features a prominent hanging gray lamp emitting artificial light, a white pole with black and brown patches, and a brown surface stocked with items in blue, brown, and white packaging. The scene is set against a backdrop of brown and red bricks with visible white binding material.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_d242674d-9bf2-4cdf-aaf2-0ab976b4fa93.jpg"
+}

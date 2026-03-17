@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_083",
+  "prompt": "A close-up of an industrial lathe machine in operation, set within a workshop or factory environment. The scene is dominated by the metallic components of the lathe, including two prominent circular handles on either side, used for adjusting the machine's settings. These handles are attached to metal rods extending towards the center where a cylindrical workpiece is being machined. The workpiece is rotating, and steam or smoke is visibly rising from the point of contact between the flowing liquid and the metal, indicating active liquid cooling. The lighting is focused on the machine, casting a warm glow on the metallic surfaces and creating a contrast against the darker background. The overall scene remains static throughout the video, with no noticeable changes in the actions or appearance of the objects, maintaining a steady depiction of the machining process."
+}

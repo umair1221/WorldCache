@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_165",
+  "prompt": "In a nighttime outdoor setting, likely a sports field, two individuals are engaged in a football drill under artificial lighting that casts sharp shadows on the ground. The person on the left, dressed in a white Adidas t-shirt and black shorts, stands in a defensive stance with their knees bent and arms slightly extended, leaning forward and extending one arm, indicating readiness to block or intercept. The individual on the right, wearing a black Nike hoodie and black pants, is crouched low, gripping an orange football firmly with both hands, preparing to throw it. The scene captures the tension and focus of the drill, with the defender on the left shifting into a more active stance, leaning further forward and extending their arm, while the person with the football maintains their position, poised to make a throw. The background remains dark, emphasizing the players and their movements.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_165.jpg"
+}

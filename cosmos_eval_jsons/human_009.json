@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_009",
+  "prompt": "A wide shot captures a lively urban shopping street during the late afternoon or early evening. The street is lined with modern, well-lit storefronts, including \"River\" and \"Lipsy,\" with a glossy, wet pavement reflecting the lights. Pedestrians of various ages and styles walk along the street, some briskly and others leisurely, carrying shopping bags. The overcast sky casts a soft, diffused light, enhancing the reflective quality of the wet pavement. The scene is dynamic, with people engaging in typical shopping activities, some stopping to look at shop windows or interact with others. The overall atmosphere is one of a bustling city street, filled with the constant motion of daily life.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_009.jpg"
+}

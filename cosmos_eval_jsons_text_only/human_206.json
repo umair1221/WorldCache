@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_206",
+  "prompt": "A close-up of a man outdoors, savoring a piece of food. He has short gray hair and a neatly trimmed beard, dressed in a gray t-shirt. The man holds a small, triangular slice of food topped with diced tomatoes and possibly other garnishes. His eyes are closed, and his mouth is slightly open as he brings the food closer to his mouth, indicating he is deeply enjoying the taste. The background is softly blurred, showing greenery and a hint of water, suggesting a peaceful lakeside or riverside setting. As the sequence progresses, the man continues to take bites from the food, his eyes remaining closed and his expression conveying deep enjoyment. The background remains consistent throughout, maintaining the serene outdoor environment. By the final frame, the man is still engaged in eating, his focus entirely on the food, with no new objects appearing, and the scene continues to depict the tranquil outdoor setting."
+}

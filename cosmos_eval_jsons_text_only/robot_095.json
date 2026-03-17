@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_095",
+  "prompt": "A robotic arm video showcasing the process of setting a table. The scene is set on a wooden surface with a white wall in the background. A square-shaped wooden tray, matching the table's brown hue, holds a white plate accompanied by a knife and fork wrapped in tissue, placed neatly beside it. Two robotic arms, equipped with blue indicator lights, hold the tray on either side. The left robotic arm is closer to the camera, while the right arm is further away. Both arms move down simultaneously, indicating the placement of the tray on the table. As the sequence progresses, the robotic arms successfully position the plate on the table, completing the task of setting the table. The left arm releases the plate first, followed by the right arm after a slight delay. By the final frame, both robotic arms are still in view but have finished their task, moving away from the table to demonstrate the precision and efficiency of the robotic setup, confirmed by the tray being stable on the table."
+}

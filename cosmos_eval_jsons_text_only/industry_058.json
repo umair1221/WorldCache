@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_058",
+  "prompt": "A family of three\u2014a man and two children\u2014dances in sync with a robot toy in a dimly lit room. The backdrop consists of a dark curtain, and the floor is tiled, reflecting the colorful lighting that shifts throughout the sequence. The man, dressed in a plaid shirt over a black t-shirt and beige pants, stands at the center, extending his arms outward and bending his knees as he mirrors the robot's movements. The boy, wearing an orange polo shirt and light blue jeans, and the girl, in a white t-shirt with a graphic design and light-colored pants, both extend their arms outward and bend their knees in unison. To the left, a small table holds a humanoid robot toy, which also has its arms outstretched, seemingly dancing. The lighting transitions through various colors\u2014purple, green, and yellow\u2014adding a vibrant and dynamic feel to the scene. As the video progresses, the family continues imitating the robot's dance, maintaining their synchronized steps and expressions of joy. By the final frame, the lighting has shifted to a warm yellow hue and blue, casting a cozy glow over the scene, while the family remains engaged in their playful routine."
+}

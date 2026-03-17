@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_207",
+  "prompt": "A woman with shoulder-length blonde hair and a white top is seated indoors, likely in a personal space such as a bedroom or vanity area, as indicated by the compact mirror and makeup products present. She is applying blush to her cheeks using a makeup brush held in her right hand, while her left hand holds the compact mirror close to her face for better visibility. The background features a white textured wall, a piece of abstract art with pink, yellow, and green hues, and vertical neon lights in shades of yellow and white, creating a modern and vibrant atmosphere. The video captures her methodical application of blush, ensuring even coverage across her cheeks. The setting remains consistent throughout the frames, with no significant changes in the environment or the introduction of new objects. By the final frame, the woman has completed her application, and the scene retains its initial composition, emphasizing the continuity of her makeup routine in a well-lit, stylishly decorated room.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_207.jpg"
+}

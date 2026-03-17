@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_097",
+  "prompt": "The video captures a volleyball match between Thailand (THA) and Peru (PER), with the score displayed as THA 2-2 and PER 0-1. Set in an indoor stadium with red seats partially filled with spectators, the scene features a blue and green playing surface marked with standard volleyball lines. Teams are positioned on opposite sides of the net; the Thai team wears dark uniforms, while the Peruvian team wears white. Advertisements for sponsors like Mikasa and Japanet line the court's perimeter. As the video progresses, a player from the Thai team serves the ball, sending it over the net. The Peruvian team responds with defensive maneuvers, attempting to block or return the serve. The camera follows the ball's trajectory, capturing the dynamic movement of players as they react to the serve. The final frame shows the Peruvian team in motion, ready to counter the serve, with the Thai team positioned to receive the ball.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_097.jpg"
+}

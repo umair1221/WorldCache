@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_034",
+  "prompt": "The video opens with a tennis player standing on a clay court under a clear blue sky. The player, dressed in a light-colored, patterned shirt, gray shorts, white socks, and yellow tennis shoes, holds a tennis racket in his right hand and a ball in his left. He appears to be preparing for a serve. Behind him, a chain-link fence separates the court from a row of empty bleachers with orange and white seats. Tall floodlights stand prominently in the background, suggesting the setting is an outdoor tennis facility. The scene is bathed in bright sunlight, casting sharp shadows on the court. The player begins by holding the ball in his left hand and the racket in his right. He then tosses the ball into the air with his left hand while simultaneously bringing the racket back, preparing for a serve. As he serves, the ball is seen flying through the air towards the opposite side of the court. After the serve, the player stands upright, holding the racket in his right hand, and looks in the direction where the ball was hit. In the final frame, the player is standing upright on the clay court, holding the racket in his right hand and looking off to the side, presumably following the trajectory of the served ball. The scene remains consistent with the initial setup, with the clear blue sky, chain-link fence, empty bleachers, and tall floodlights still visible in the background.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_034.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_126",
+  "prompt": "The video opens with a first-person view of a robotic arm setup in a laboratory-like environment. The scene centers on a gray platform with a white rectangular box placed at its center. Below this platform, a smaller, open compartment holds various small objects, including a green item and a yellow block. Two robotic arms, each equipped with grippers, are positioned at the bottom of the frame, poised for action. The background is a clean, minimalistic room with light-colored walls and a carpeted floor, emphasizing the controlled nature of the setting.  As the video progresses, the left robotic hand extends toward the green and yellow items, initiating a grasping motion. The right hand remains stationary. The left hand successfully picks up the yellow item, lifting it slightly off the platform, and places it into the box at the top of the structure. The interaction highlights the precision and coordination required for robotic manipulation. By the final frame, the left robotic hand has completed the task, putting the yellow item into the box. The scene remains consistent throughout, maintaining focus on the robotic arms and their interaction with the objects on the platform. The environment continues to appear clean and organized, reinforcing the controlled and methodical nature of the activity being demonstrated."
+}

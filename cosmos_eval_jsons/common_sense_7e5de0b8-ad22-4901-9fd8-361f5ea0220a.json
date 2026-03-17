@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_7e5de0b8-ad22-4901-9fd8-361f5ea0220a",
+  "prompt": "In a well-lit veterinary clinic, a woman in a light blue T-shirt with two white buttons on her left shoulder is examining a black and white Border Collie. The dog, with its dark brown and white fur, stands calmly between the woman and a man wearing a light pink T-shirt and a gray backward-facing baseball cap. The woman, with her light brown hair tied back, holds a stethoscope and gently places it on the dog's chest. The man, with short brown hair peeking out from under his cap, has his arms wrapped around the dog, providing support. The dog's mouth is initially open, revealing its tongue and teeth, but it soon turns its face towards the woman, causing her to smile widely. The man's lips are initially closed and tight, but he then begins to smile mildly. The woman continues to examine the dog, moving the stethoscope along its body. The dog turns its face towards the camera, and the woman removes the stethoscope. The background features white walls and two large computer screens displaying medical data, adding to the clinical setting. The scene captures a moment of interaction and care between the veterinarian and the pet owner.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_7e5de0b8-ad22-4901-9fd8-361f5ea0220a.jpg"
+}

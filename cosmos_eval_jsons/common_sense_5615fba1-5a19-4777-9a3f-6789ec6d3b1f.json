@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_5615fba1-5a19-4777-9a3f-6789ec6d3b1f",
+  "prompt": "An aerial landscape video showcases a breathtaking mountainous region covered in snow. The camera slowly zooms in, revealing a charming village nestled within the snowy peaks. The landscape is dominated by vast expanses of white snow, with patches of brown earth visible, highlighting the rugged terrain. The village consists of closely packed, rectangular houses with flat roofs and earth-toned exteriors, blending seamlessly with the natural surroundings. The structures vary in size and elevation, following the contours of the mountainous landscape. Winding roads carve through the hills, creating a serpentine pathway that connects the scattered houses and the main area of the settlement. These roads twist and turn, leading to various parts of the village. Cars are parked along both sides of the roads, adding a touch of life to the otherwise tranquil scene. The sky is a vibrant, clear blue, providing a striking contrast against the pristine white snow and the warm, earthy tones of the exposed ground. The sunlight reflects off the snow-covered terrain and the rooftops, enhancing the natural brilliance of the scene. The overall ambiance is serene and tranquil, capturing the beauty of this picturesque mountainous setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_5615fba1-5a19-4777-9a3f-6789ec6d3b1f.jpg"
+}

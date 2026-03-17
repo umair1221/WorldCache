@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_099",
+  "prompt": "The video opens with a scene set in a clean, industrial-looking environment, featuring a small white table with a toy-like cash register placed on it. The cash register has a green body, a red handle, and a digital display showing \"000\" and \"000.\" On top of the cash register sits a small orange basket containing a green toy figure. Two black robotic arms, one above and the other on the right side, are positioned near the cash register. The black robotic arm extending from the left side of the frame extends its fingers toward the cash register to swipe a card. The robotic arm positioned on the right side remains stationary throughout the sequence. The background is a plain, gray floor marked with black and yellow caution stripes, suggesting a controlled experimental setting. By the final frame, the black robotic arm has successfully swiped the card, holding it, while the other robotic arm continues to remain motionless.  A medium shot from a slightly elevated perspective captures the interaction between the robotic arms and the toy cash register.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_099.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3173312-uhd_3840_2160_30fps",
+  "prompt": "A close-up aerial view of Godafoss waterfall showcases its powerful and continuous flow. The turquoise water cascades over the jagged edge, creating a misty veil below where the frothy white foam forms at the base. The surrounding area is rugged and rocky, adding to the raw beauty of the scene. The video captures the waterfall's dynamic motion, emphasizing the continuous flow and the mist rising from the base. The camera remains static, focusing on the waterfall's unchanging yet mesmerizing presence. The final frame mirrors the initial scene, maintaining the same serene and powerful depiction of Godafoss.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_3173312-uhd_3840_2160_30fps.jpg"
+}

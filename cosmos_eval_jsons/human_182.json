@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_182",
+  "prompt": "A dynamic action sequence captures a woman in an indoor badminton court, preparing to make a powerful stroke. She is dressed in a dark blue sports outfit with a purple stripe design, holding a badminton racket in her right hand. The court features a red floor and gray walls with red accents, and a white net divides the space. The high ceiling showcases red structural beams and rows of tube lights, creating a bright and focused environment. As the sequence progresses, she raises her racket above her head, swings it forward to hit the shuttlecock, and then follows through with her motion, completing the stroke. The camera tracks her movements, keeping her in the middle of the frame, emphasizing her athletic form and the intensity of her action. By the final frame, she moves forward in a ready stance, watching the shuttlecock's trajectory after her stroke.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_182.jpg"
+}

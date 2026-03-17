@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_049",
+  "prompt": "The video begins with a close-up shot of a sausage resting on a white paper towel, with a blurred background showing a shelf lined with spice jars. The scene then transitions to a medium shot of a person in a modern, well-lit kitchen, preparing the sausage. The individual is seen holding a knife and appears to be seasoning or cutting the sausage, with a pan of food on the stove and various fresh vegetables and fruits neatly arranged on the counter behind them. The person continues to handle the sausage, focusing intently on their task, occasionally glancing at the ingredients on the counter. The final frame captures the person still engaged in preparing the sausage, maintaining the same setting and activity throughout the sequence.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_049.jpg"
+}

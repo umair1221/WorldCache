@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_5320822-hd_1920_1080_30fps",
+  "prompt": "A medium shot captures four budgerigars perched on wooden branches within a cage with a red metal mesh background. The bird on the far left has a predominantly yellow body with black markings on its wings and tail, while the second bird from the left showcases a mix of white and light blue feathers, with a noticeable blue patch on its wing. The central bird is smaller, primarily white with some gray markings on its wings and tail, and the bird on the far right is entirely white with a yellow beak. Throughout the video, the birds remain mostly stationary, occasionally shifting their heads or bodies slightly. The second bird from the far left turns its head to look behind it, while the others continue to face forward. The scene remains consistent, with no new objects appearing and minimal movement among the birds. By the final frame, the birds are still in their respective positions, maintaining the same calm demeanor and arrangement as initially observed.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_5320822-hd_1920_1080_30fps.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_5552421-hd_1920_1080_25fps",
+  "prompt": "The video opens with a snowy outdoor scene where three individuals are engaged in a lively snowball fight. The setting is a park-like area with a fence, barbed wire, and a gate in the background. Snow-covered trees and a signboard are visible, adding to the wintry atmosphere. The ground is blanketed in snow, and the sky is overcast, indicating a cold day. The three participants are dressed warmly; one wears a dark jacket and jeans, another a black outfit, and the third a brown jacket and pants. They are actively throwing snowballs at each other, with one person in the foreground holding a snowball, preparing to throw it, while the others are in motion, dodging and reacting to the incoming snowballs. The snowflakes are visibly falling, creating a dynamic and lively scene. As the sequence progresses, the individual with the snowball throws it towards the other two, who react by dodging and moving quickly. The snowball is seen mid-air, heading towards its target. The participants continue to engage in the playful activity, with snowflakes visibly falling around them, enhancing the wintry ambiance. The video concludes with the three individuals still actively participating in the snowball fight, maintaining the energetic and joyful mood throughout the sequence."
+}

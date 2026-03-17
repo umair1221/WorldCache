@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_6915e8a1-0c4d-4a9f-960c-eed9e297fddf",
+  "prompt": "A medium shot captures a woman in a vibrant yellow sari with embroidered details and a deep red blouse with frilled shoulders, preparing food in a warmly lit kitchen. Her hair is neatly pulled back and styled with a large yellow fabric piece matching the sari. She wears a white bracelet on her left wrist, a darker bracelet on her right, gold earrings, and a necklace. The left side of the room is dimly lit, with a basket of food hanging from the ceiling and a wooden object below it. A shiny pot and a pitcher sit on a table beneath the basket. The woman, facing the right side of the room, picks up a food item with her left hand and scoops up another ingredient with her right. The camera follows the second ingredient, moving slightly down before returning to focus on the woman as she kneads it rhythmically with her right hand. She then places the ingredient inside the food item in her left hand and gently folds the edges. Her focused expression underscores her concentration on the task. The background features a white vase with colorful flowers, a basket of food, a brown rectangular vessel, and a black lantern casting a gentle glow, creating a warm and inviting ambiance. The scene is filmed at eye level, capturing the intricate details of her movements and the cozy kitchen setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_6915e8a1-0c4d-4a9f-960c-eed9e297fddf.jpg"
+}

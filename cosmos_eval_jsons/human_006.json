@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_006",
+  "prompt": "The video opens with a lively street scene in a European city, characterized by historic architecture with ornate balconies and large windows. The street is adorned with vibrant pink lanterns strung overhead, creating a festive atmosphere. On the left, a clothing store named \"Loge\" displays its merchandise through large glass windows, with a blue awning and signage above the entrance. Several pedestrians walk along the sidewalk, some carrying shopping bags, indicating a bustling shopping district. In the foreground, two women are walking away from the camera, one wearing a brown jacket and the other a patterned top with a backpack. As the camera moves forward, more people come into view, including a man in a white shirt and another in a maroon shirt, both walking in different directions. The café on the right side of the street is filled with patrons seated at tables under umbrellas, enjoying their meals. The scene continues to depict a lively urban environment with continuous pedestrian activity and the decorative lanterns enhancing the vibrant ambiance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_006.jpg"
+}

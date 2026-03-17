@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_010",
+  "prompt": "The video opens with a close-up view of a toy kitchen setup, featuring a white stove with three burners and control knobs. A small, elongated object resembling a hot dog bun with a yellowish-orange topping rests on the stove's surface. In front of the stove, a robotic arm with multiple black segments and joints is positioned, ready to interact with the scene. The robotic arm descends towards the oven door, which is initially closed. It then opens the oven door, revealing the white interior. The robotic arm adjusts its position and pose, continuing its motion, fully opens the oven door, and shows a red and a blue object from inside. The scene captures the intricate details of the robotic arm's movements and the toy kitchen's realistic design, creating a playful yet precise interaction.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_010.jpg"
+}

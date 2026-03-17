@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_e9a2f654-17fa-4975-942d-966a28c7715d",
+  "prompt": "In a medium shot at eye level, two men are working on a red brick wall. One man, wearing a dark red Under Armour shirt with gray diagonal stripes on the sleeves and a smartwatch on his wrist, holds two metal rods. The other man, with a full beard and slightly receding hairline, stands in the foreground, gripping a yellow and black caulking gun with a white tube labeled with blue and red letters. He pulls the gun away from the wall, revealing a hole where the rod will be inserted. The man in the red shirt then carefully inserts the metal rod into the hole, turning it to ensure it is securely in place. The background features a wooden shelf with a framed photo, a large clear glass jug, and a dark-colored glass bottle. The shelf is set against a gray wall with a white window frame and tan-colored blinds. The room is illuminated by a mix of artificial and natural light.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_e9a2f654-17fa-4975-942d-966a28c7715d.jpg"
+}

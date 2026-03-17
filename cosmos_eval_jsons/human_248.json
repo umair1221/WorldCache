@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_248",
+  "prompt": "The video opens with a close-up shot of three individuals seated at a bar, raising their glasses and bottles in a toast. The setting is a warmly lit pub with exposed brick walls and a mural in the background. The man on the left, wearing a red sweater, holds a glass of beer, while the person in the middle, donning a green hat and glasses, holds a bottle with a pink label. To the right, an individual in a plaid shirt raises their glass of beer. The camera focuses on their hands and drinks, capturing the moment as they clink them together, causing the liquid in their cups to slosh around. As the frames progress, the individuals lower their glasses and proceed to take a sip from their drinks. The final frame shows them still engaged in conversation and laughter, with the warm lighting and cozy atmosphere of the pub enhancing the sense of camaraderie.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_248.jpg"
+}

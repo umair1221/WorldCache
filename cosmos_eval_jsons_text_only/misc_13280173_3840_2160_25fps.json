@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_13280173_3840_2160_25fps",
+  "prompt": "A serene winter landscape unfolds, capturing a group of reindeer in a snowy field. The primary focus is on a large reindeer with prominent antlers, standing prominently in the foreground and facing the camera. Its coat is a mix of white and brown, blending seamlessly with the surrounding snow. To its left, another reindeer is seen grazing, its head lowered to the ground. In the background, a majestic mountain range stretches across the horizon, its peaks covered in pristine white snow under a clear blue sky. A calm body of water reflects the snow-covered mountains, enhancing the tranquil beauty of the scene. The reindeer in the foreground remains mostly stationary, occasionally shifting its gaze slightly, while the grazing reindeer continues to feed peacefully. The background remains unchanged, maintaining the picturesque and serene atmosphere throughout the video. A medium shot captures the peaceful interaction between the reindeer and their environment."
+}

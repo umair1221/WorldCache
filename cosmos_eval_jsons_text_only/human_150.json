@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_150",
+  "prompt": "A serene video opens with a tranquil scene set on a calm lake under an overcast sky, suggesting early morning or late evening due to the soft, diffused lighting. A person wearing a red and white checkered shirt is seated in a small, green canoe, positioned near the center of the frame. The canoe is gently floating on the water's surface, which reflects the subdued light of the cloudy day. In the background, a dense line of tall evergreen trees stretches across the horizon, their dark silhouettes contrasting against the pale sky. The water is mostly still, with only slight ripples around the canoe, indicating minimal movement. As the video progresses, the person in the canoe begins to paddle slowly, moving the paddles through the water, causing gentle ripples to spread outward from the canoe. The canoe moves slowly, and the individual appears to be navigating calmly across the lake. The overall mood of the scene remains peaceful and contemplative throughout the video, with no other visible activity or distractions in the immediate vicinity. By the final frame, the person continues to paddle at a slow pace, maintaining the serene and undisturbed atmosphere of the lake."
+}

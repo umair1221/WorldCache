@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_245",
+  "prompt": "A medium shot captures a person in an unfinished room, likely under renovation, dressed in a white hard hat, a light pink shirt over a white tee, and dark pants. They hold a tablet in their left hand and gesture with their right hand towards the ceiling, seemingly discussing or pointing out features of the space. The room is minimally furnished, with a window covered by plastic sheeting to protect it from dust and debris, a partially visible saw stand frame on the left, and a ladder on the right, indicating ongoing work at a higher elevation. The walls are bare and unfinished, with some areas showing signs of plaster or drywall. The person appears engaged in a discussion, moving their right hand slightly while maintaining their grip on the tablet. The setting suggests a professional or collaborative environment, with the individual actively involved in planning or assessing the renovation project."
+}

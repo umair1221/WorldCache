@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_320f7d89-ae0b-4ecb-bd7b-dccfb4d11cb2",
+  "prompt": "A young woman with braided hair, wearing a light blue dress with brown shoulder straps over a white blouse, approaches a wooden door in a narrow hallway. The hallway features a red-painted staircase railing on the left and white walls with a cable duct running vertically. The door, a dark brown panel with a brass lock and handle, is situated on the left side of the scene. Two transparent frames with brown contents are visible at the top right. The woman holds a transparent plastic container with toilet paper and a white plastic bag in her right hand. She places the plastic bag down and then rests the container on a bright pink suitcase to free her hands. She then reaches for a small blue purse at her side, which is a rectangular shape with a metal strap adorned with bright decorations. The camera follows her movements closely, shifting to a medium shot at eye level as she approaches the door. The woman inserts a set of keys into the keyhole, and the camera captures the action from a slightly low-angle perspective, emphasizing her focused expression and the details of her attire and surroundings. The lighting is clear, casting shadows on the wall to the right."
+}

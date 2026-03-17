@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_200",
+  "prompt": "A close-up shot captures a small, round object mounted on a metal pole in a sandy area. The background features a building with a red stripe across its facade and some trees to the right side. Tire tracks mark the ground, indicating recent vehicle activity. The object remains stationary until it suddenly ignites, producing a burst of bright light and smoke. The explosion is intense, sending sparks flying outward and creating a large cloud of white smoke that billows into the air. The smoke gradually disperses, revealing scattered debris around the pole. The scene remains static after the explosion, focusing on the remnants of the blast and the surrounding environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_200.jpg"
+}

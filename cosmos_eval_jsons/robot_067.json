@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_067",
+  "prompt": "In a robotic arm setup on a gray floor, the video captures a sequence where a dark green bowl on the left side of the table contains a red bottle, a pink spherical object, and a red apple. Adjacent to the bowl, a cream-colored plate holds a green spherical object. Two robotic arms are present; the one on the left is initially positioned over the bowl, ready to interact with the objects within. The robotic arm on the right remains stationary throughout the sequence.  As the video progresses, the robotic arm on the left begins to move, shifting its position to grasp the pink spherical object with its gripper. It then transfers the object to the robotic arm on the right, which gently places the pink sphere onto the cream-colored plate. By the final frame, the pink spherical object has been successfully moved from the green bowl to the plate. The robotic arm on the left continues its subtle movements, focusing on the remaining objects in the bowl, while the robotic arm on the right returns to its initial position. The scene remains largely unchanged, emphasizing the precise interaction between the robotic arms and the objects on the table.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_067.jpg"
+}

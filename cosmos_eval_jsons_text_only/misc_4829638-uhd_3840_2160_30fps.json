@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4829638-uhd_3840_2160_30fps",
+  "prompt": "A wide shot captures a serene savanna under a bright, clear sky. Several zebras are scattered across the landscape, some lying down and others standing. The ground is covered in dry, brown grass, and a few scattered trees add depth to the scene. In the foreground, a zebra kicks up dust with its hind legs, creating a cloud of particles that drifts through the air. The zebra's movements are slow and deliberate as it walks away from the camera, kicking up more dust behind it. Another zebra, previously lying down, stirs and stands up, turning its head slightly as if observing the first zebra's actions. The other zebras in the background remain mostly stationary, with some lying down and others standing, all appearing relaxed and at ease in their environment. The scene maintains a calm and natural ambiance throughout, with the zebras' interactions and movements subtly altering the dynamics of the landscape. By the final frame, the zebra that was kicking up dust has moved further into the background, leaving a trail of dust behind it, while the rest of the herd continues to rest or graze peacefully in the open savanna."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_227",
+  "prompt": "The video opens with a wide shot of a busy port area under an overcast sky. In the foreground, a series of shipping containers is neatly arranged in rows, showcasing a variety of colors including blue, orange, and red, with logos like \"CMA CGM\" and \"OPDR\" clearly visible. These containers are stacked in a grid-like formation, indicating an organized storage system. A green crane stands slightly to the left of the frame, positioned near the containers. Behind the containers, large blue, green, and white cranes dominate the midground, standing idle with no apparent movement, likely preparing to pick up and place the containers around them on top of each other. Further back, additional containers and industrial buildings contribute to the bustling port environment.  The video begins with a medium shot of the green crane in the foreground to the left of the frame, slowly lifting a blue container using an orange robotic gripper attached to the cables of the crane. The crane moves steadily, demonstrating the automation process of rearranging the containers. As the video progresses, the crane continues to lift the container at a constant pace, showcasing the precision and efficiency of the operation. In the final frames, the crane continues to lift the container further up, and no new objects appear, with no noticeable changes in the position of the containers on either side of the operating green crane in the foreground."
+}

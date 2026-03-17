@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_12861854_3840_2160_25fps",
+  "prompt": "The video opens with a serene rural scene featuring two alpacas standing in a grassy field enclosed by a wooden fence. The alpaca on the left sports a lighter coat with a reddish-brown stripe along its back, while the one on the right is uniformly light beige. Both animals face forward, occasionally turning their heads slightly, seemingly reacting to sounds or movements outside the frame. Behind them, a red barn with white trim stands prominently, accompanied by a large white cylindrical object resembling a hay bale. A green container is positioned near the barn, and a paved road curves gently into the distance, bordered by some trees and bushes. The alpacas remain mostly still, with subtle head movements, and no new objects appear during the sequence. The scene concludes with the same peaceful rural setting, where the alpacas continue to stand calmly in the field, surrounded by the familiar elements of the barn, hay bale, and road.  A medium shot captures the alpacas in a tranquil, pastoral setting, emphasizing their gentle presence amidst the rustic backdrop.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_12861854_3840_2160_25fps.jpg"
+}

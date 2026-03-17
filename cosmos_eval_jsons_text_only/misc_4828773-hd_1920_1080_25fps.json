@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4828773-hd_1920_1080_25fps",
+  "prompt": "A close-up shot captures a grapevine during a heavy rainstorm, set outdoors in a vineyard or garden. The lush green leaves are large, broad, and glossy, with water droplets glistening on their surfaces, emphasizing the intensity of the rainfall. Clusters of dark grapes hang from the vines, partially obscured by the leaves, adding depth to the composition. The background is blurred, suggesting an overcast sky, which enhances the focus on the wet foliage and fruit. As the video progresses, the rain continues to fall, with droplets visibly accumulating on the leaves and dripping off, causing slight movements in the leaves due to the wind. The grapes remain stationary, nestled among the leaves, while the rain creates a continuous, soothing sound that fills the air. By the final frame, the scene remains consistent, with the rain continuing to pour down, the leaves swaying gently, and the grapes still partially hidden by the leaves, maintaining the tranquil yet dynamic nature of the rainy environment."
+}

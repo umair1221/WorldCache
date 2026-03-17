@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_202",
+  "prompt": "The video opens with a serene sunset scene, where a person stands silhouetted against a vibrant sky painted with hues of orange and pink. The individual, wearing reflective sunglasses and a dark jacket, is positioned near a window, gazing out over a cityscape. The city below features a mix of modern high-rise buildings with vehicles moving and lower residential structures with trees and streetlights scattered throughout. The camera pans towards the right, capturing the dynamic movement of the city below, including the flow of traffic and the gentle sway of trees. A prominent communication tower rises in the midground, adding to the urban landscape. The person then picks up a bottle of beer, bringing it to their lips and taking a sip, maintaining a relaxed posture as they enjoy the drink while continuing to look out at the picturesque view. The final frame captures this tranquil moment, with the person still holding the beer bottle, savoring the drink and the peaceful ambiance of the setting sun.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_202.jpg"
+}

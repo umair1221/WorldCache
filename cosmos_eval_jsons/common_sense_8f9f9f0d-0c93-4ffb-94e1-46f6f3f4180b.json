@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_8f9f9f0d-0c93-4ffb-94e1-46f6f3f4180b",
+  "prompt": "A medium shot captures a chef in a black chef's coat, black apron, black pants, and black shoes, wearing white latex gloves, working on a dark countertop. The scene includes a tan floor and white walls. The chef is partially visible from the torso down, focusing on a large white tray segmented into multiple compartments, each filled with vibrant yellow spherical shapes. The chef removes the transparent lid of the white tray, revealing the yellow candies. The camera then pans slightly to the left, zooms in, and removes the lid of a clear tray, revealing similarly shaped orange candies with a black dot on each. The background features a variety of tools and ingredients: two molds shaped like the desserts, a small glass bottle with a water-like liquid, two bags labeled \"Ecuador\" and \"Perú,\" a larger glass jar with another water-like liquid, and a blue food wrap box. The video is shot at a high angle with overhead white lighting, capturing the chef's meticulous process in a medium shot.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_8f9f9f0d-0c93-4ffb-94e1-46f6f3f4180b.jpg"
+}

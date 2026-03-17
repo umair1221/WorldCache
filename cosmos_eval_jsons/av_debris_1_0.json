@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_debris_1_0",
+  "prompt": "The video begins with a view from inside a vehicle traveling on a multi-lane highway under a clear blue sky. The road is bordered by dense green trees on both sides, creating a tranquil environment. Several vehicles, including a prominent white semi-truck and various cars, are visible ahead, maintaining a steady pace. The highway features multiple lanes separated by concrete barriers, and the scene is bathed in bright sunlight, indicating a clear day. As the video progresses, a large amount of debris suddenly appears on the lane ahead. With little time to avoid it, the ego vehicle has to drive over the debris and continue moving forward. A noticeable jolt occurs as the ego vehicle passes over the scattered objects.  A point-of-view shot from inside the vehicle, capturing the road ahead and the surrounding environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_debris_1_0.jpg"
+}

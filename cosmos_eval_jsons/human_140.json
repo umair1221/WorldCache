@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_140",
+  "prompt": "A dynamic indoor rock climbing session unfolds in a well-lit facility. The scene centers on a climber dressed in black attire with a blue waistband, positioned at the base of a large, artificial climbing wall. The wall is intricately designed to mimic natural rock formations, adorned with a variety of colorful holds in shapes such as circles, triangles, and irregular forms, including vibrant hues like red, yellow, green, purple, and orange. The climber, captured mid-action, grips a white rectangular hold with their right hand while their left hand reaches upward toward another hold. Their movements are deliberate and focused, showcasing their technique and progress. The climber's left hand transitions from reaching to firmly grasping the next hold, indicating a continuous upward movement. By the final frame, the climber has made noticeable progress, with their body slightly elevated from the initial position, demonstrating steady advancement along the route. The floor below is covered in a green mat, ensuring safety during falls. The video captures the climber's determined ascent, highlighting their skill and the vibrant, textured environment of the climbing wall.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_140.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_296",
+  "prompt": "A medium shot captures a person wearing a gray and white patterned sweater, skillfully juggling three multicolored balls against a backdrop of vibrant autumn foliage. The individual's hands move fluidly, tossing the balls in a continuous juggling routine. The first ball is seen in the air in the person's right hand, while the second and third balls are closer to their hands. As the sequence progresses, the first ball reappears in various positions above the person's hands, and the second and third balls are caught and thrown back into the air. The person's hands maintain a steady rhythm, ensuring the balls remain in motion. The autumn leaves in the background add a warm, seasonal touch to the dynamic performance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_296.jpg"
+}

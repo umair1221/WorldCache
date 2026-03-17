@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_19923962-uhd_3840_2160_24fps",
+  "prompt": "A close-up shot captures the intense moment when a powerful ocean wave breaks. The wave, a vibrant shade of deep blue-green, curls over itself before collapsing, releasing a dramatic burst of white, frothy water into the air. The frothy spray spreads outward, creating a striking contrast against the darker hues of the surrounding ocean. The surface of the water around the wave is relatively calm, with gentle ripples and small waves reflecting the sunlight, adding a shimmering effect. The background fades into a darker blue, emphasizing the wave's prominence. As the wave breaks, droplets of water scatter in various directions, capturing the wave's forceful descent towards the shore. The water's surface transitions from a smooth, undisturbed state to one filled with turbulence and movement, highlighting the wave's dynamic nature. The frothy white spray continues to expand, creating a visually captivating display of nature's power and beauty. In the final frame, the wave has fully broken, with the white frothy water gradually dissipating back into the water, leaving behind a turbulent surface with ripples and small waves still visible. The overall scene maintains a sense of raw energy and the continuous motion of the ocean.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_19923962-uhd_3840_2160_24fps.jpg"
+}

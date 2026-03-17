@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_b244af31-bca4-451e-b8f0-cd8018fb0657",
+  "prompt": "A woman is singing passionately on stage, holding a black cordless microphone in her right hand. She stands confidently on a geometric-patterned rug with shades of brown and beige, wearing an elegant off-shoulder, beige-colored dress adorned with soft ruffles and paired with flat, gold shoes featuring vertical stripes. Her brown hair is slightly curled at the bottom, adding to her graceful appearance. Initially, she sings with her eyes closed, making open hand gestures with her left hand before lowering it naturally. The camera begins with a wide shot from a high angle, pushing in to capture her at a medium shot as she opens her eyes and gazes to the right of the frame. The camera then slightly tilts up and pushes her in again, maintaining a medium shot.  In the background, a man with short black hair, dressed entirely in black, plays a keyboard with his head lowered, standing on a black-and-white striped mat. To his left, a black couch is positioned against a wall, with a picture display of pink flowers in a pink and grey frame. On the right side of the frame, a black object lies on the floor near a light stand, and a display of a tree with pink leaves subtly moves in the background. The scene is dimly lit, with artificial lighting from a lamp in the background casting a warm glow, though it does not fully illuminate the entire setting."
+}

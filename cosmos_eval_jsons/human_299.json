@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_299",
+  "prompt": "The video opens in a dimly lit indoor space, likely a gym, with a muted blue-gray lower wall transitioning to white upper walls. Exposed ceiling beams and fluorescent lights create a stark contrast. A thick rope hangs prominently from the ceiling, drawing immediate attention. On the floor, various pieces of exercise equipment, including a weight bag and mats, are scattered around. The main subject, dressed in dark athletic attire, approaches the rope. They grasp it with their right hand, then switch to the left, pulling themselves up with a determined motion. The body transitions from a horizontal position to an inverted one, showcasing a controlled ascent. The final frame captures the person mid-climb, demonstrating strength and focus against the backdrop of the dimly lit gym environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_299.jpg"
+}

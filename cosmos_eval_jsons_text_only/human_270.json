@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_270",
+  "prompt": "The video opens with a black and white shot of a paved area, likely a park or plaza, with a long wooden bench running horizontally across the middle of the frame. The bench is made of light-colored wood and has a simple, modern design. In the background, a line of trees with sparse foliage is visible. A tall, slender lamp post stands near the right side of the frame. A skateboarder dressed in dark clothing approaches the bench from the left side of the frame. He jumps onto the bench, performing a trick that involves balancing on the edge while the skateboard flips underneath him. After completing the trick, he lands back on the ground and continues skating away to the right. The camera remains stationary throughout, capturing the skateboarder's dynamic movements and the serene, minimalist setting. Later, another individual wearing a white outfit and a hat approaches the same bench, preparing to perform a similar trick. The scene maintains a contemplative and artistic tone, emphasizing the contrast between the monochrome palette and the lively action of the skateboarders."
+}

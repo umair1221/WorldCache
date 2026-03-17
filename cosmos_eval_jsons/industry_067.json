@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_067",
+  "prompt": "A medium shot captures a section of a conveyor belt system within an industrial coffee production facility. The conveyor belt, made of metal with a textured, grid-like surface, curves gracefully, supported by metallic frames and mechanisms. Four large, identical, silver-colored coffee bags labeled \"TOKYO ROAST\" move steadily along the conveyor belt. Initially, the second bag is closest to the camera, while the first bag is further back. As the video progresses, both bags continue their journey, with the second bag gradually moving out of the frame, revealing more of the conveyor belt and machinery. The third bag advances, taking the place of the second bag, and the fourth bag enters from the left side. The conveyor belt maintains a consistent motion, emphasizing the efficiency and automation of the process. The background includes industrial elements like metal structures and control panels, contributing to the functional and modern aesthetic of the facility.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_067.jpg"
+}

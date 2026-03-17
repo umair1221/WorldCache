@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_5fa007f0-2596-478c-9534-880d9bb57dc3",
+  "prompt": "The video opens with a first-person perspective from inside a car, situated at an intersection in a suburban neighborhood. The road is lined with trees; on the left, a dense cluster of dark green trees stands tall, while on the right, lighter green trees with patches of grass and a sidewalk bordered by a low wall are visible. Several orange traffic cones are strategically placed along the center of the road, signaling ongoing construction or maintenance work. In the background, a white building with a flat roof can be seen on the right side. The sky is clear with a few wispy clouds, indicating a sunny day. As the video progresses, the ego vehicle briefly shifts lanes to maneuver around the safety zone marked by the traffic cones. A person is seen standing near the right side of the road, sweeping up fallen leaves and branches scattered across the road surface. The scene captures the calm and orderly nature of the suburban setting, with the ongoing work adding a subtle dynamic element to the otherwise serene environment."
+}

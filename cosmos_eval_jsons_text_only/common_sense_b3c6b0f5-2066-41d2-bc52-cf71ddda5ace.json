@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_b3c6b0f5-2066-41d2-bc52-cf71ddda5ace",
+  "prompt": "In a modern, well-lit kitchen with sleek white cabinetry and reflective surfaces, two women are engaged in a lively conversation. The woman on the right, sporting short blond hair and a shiny silver jacket, gestures animatedly with her left arm extended toward the camera, her expression lively and enthusiastic. Meanwhile, the woman on the left, with long straight dark hair and patterned clothing in shades of purple and orange, turns to her left, covering her mouth with her hands as if reacting to something amusing. As the conversation progresses, the woman in purple shifts her gaze to the right, lowering her arms, while the woman in silver continues to talk, her left arm gradually dropping. The woman with long hair then touches her hair with her right arm before turning to her right, placing her left arm on the counter. She picks up a spatula and begins stirring a dish in a pan on the stove, her movements fluid and energetic. The woman in purple raises her left arm and brings it down, continuing to talk, while the woman in silver maintains her focus on the spatula, her laughter adding to the dynamic interaction. The camera captures their lively exchange from a medium shot, maintaining an eye-level angle throughout, highlighting the warmth and brightness of the kitchen setting."
+}

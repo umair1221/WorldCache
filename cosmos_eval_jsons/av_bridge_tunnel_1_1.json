@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_bridge_tunnel_1_1",
+  "prompt": "The video begins with a view from inside a tunnel, likely captured from the dashboard camera of a vehicle. The tunnel's interior is illuminated by rows of overhead lights that cast a warm glow across the concrete walls and ceiling. The road ahead is marked with white lane lines, and several vehicles can be seen traveling in the same direction, including two white cars. The tunnel appears to be relatively wide, with a smooth, curved design that gently curves upwards towards the light at the far end. As the video progresses, the white cars move further away. The tunnel's lighting gradually brightens as the vehicle approaches the exit, creating a sense of forward motion and transition from the enclosed space into daylight. By the final frame, the tunnel's interior is bathed in a brighter light, indicating the vehicle has moved closer to the exit, with the white cars now significantly further ahead.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_bridge_tunnel_1_1.jpg"
+}

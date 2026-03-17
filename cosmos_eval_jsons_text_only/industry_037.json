@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_037",
+  "prompt": "The video opens with a view of a bustling motorcycle assembly line inside a well-lit factory. The foreground prominently features a partially assembled motorcycle with a striking red fender and black frame, resting on a workbench. A worker, wearing a face mask and gloves, is seen installing a front wheel onto the motorcycle. The worker carefully positions the wheel, ensuring it aligns correctly with the bike's structure. The background shows other workers engaged in various tasks, with shelves stocked with parts and tools and overhead cables and pipes running across the ceiling. The scene captures the intricate details of the assembly process, highlighting the precision required for each step. As the video progresses, the worker continues to adjust the wheel, making minor tweaks to ensure it is securely installed. The final frame shows the worker still focused on securing the wheel, with the motorcycle now more complete, though the assembly process is ongoing."
+}

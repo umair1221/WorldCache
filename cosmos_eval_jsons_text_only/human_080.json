@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_080",
+  "prompt": "A dynamic basketball game between the USA and Australia unfolds in a well-lit indoor arena filled with enthusiastic spectators. The polished wooden court is marked with standard basketball lines, and the scoreboard shows the USA leading 9-5 with 6:26 remaining in the first quarter. Players in green jerseys represent Australia, while those in white jerseys represent the USA. The player in green, number 5, is seen dribbling the ball with intensity, closely guarded by a player in a white jersey. Other players from both teams are strategically positioned, either defending or preparing to receive the ball. Referees in black uniforms ensure fair play. The bottom of the screen displays information about the NBA schedule, including an upcoming game between the Lakers and Celtics, scheduled for 7:30 pm ET on TNT. As the video progresses, the scoreboard updates slightly, reflecting the ongoing scoring and time remaining in the game. The player in green continues to dribble, attempting to maneuver past his defender, while the game unfolds with dynamic movement and strategic positioning from all players involved."
+}

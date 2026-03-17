@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_088",
+  "prompt": "The video opens with a close-up view of a chessboard, showcasing a standard arrangement of black and white chess pieces. The black pieces are positioned on the left side, while the white pieces are on the right. The central focus is on the black queen, which is surrounded by other black pawns and rooks. A black robotic arm, equipped with a claw-like mechanism, approaches the chessboard from above. The arm slowly descends, closing around the black queen, indicating the start of a programmed move. The robot then shifts the black queen across the board, transitioning from preparation to execution. The background remains blurred, emphasizing the chessboard and the robotic arm's precise movements. By the final frame, the black queen has been successfully repositioned by the robotic claw, signifying the completion of this particular move in the game.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_088.jpg"
+}

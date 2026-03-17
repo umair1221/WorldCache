@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_064",
+  "prompt": "The video opens with a view of a modern kitchen countertop, characterized by a clean white surface and a marble-patterned backsplash. Central to the scene is a white toaster, flanked by a carton of milk and a small bottle of vanilla extract. In front of the toaster lies an open wicker basket holding two slices of bread. To the left, part of a stovetop is visible, and to the right, a stainless steel sink can be seen. Two robotic arms, one on each side of the frame, are positioned above the countertop, hinting at an automated food preparation process. As the video progresses, the robotic arm on the left lifts the bread off the wicker basket one by one and places them into the toaster. Simultaneously, the robotic arm on the right pushes the toast lever. The other objects remain static, maintaining their positions throughout the sequence. By the end of the video, the scene remains largely unchanged, with the toaster now containing the bread slices. A medium shot captures the entire countertop and the robotic arms' actions."
+}

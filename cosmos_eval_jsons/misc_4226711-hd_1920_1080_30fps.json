@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4226711-hd_1920_1080_30fps",
+  "prompt": "A serene video captures four swans in a shallow wetland during a beautiful sunset, with warm golden hues casting a tranquil glow over the scene. The foreground is lush green grass, leading into the water where the swans are situated. The central swan stands prominently, preening its feathers, with its neck slightly raised and its head moving gently from side to side. To the left, another swan is partially submerged, its head dipping into the water, possibly feeding or searching for food. On the right, a third swan is also partially submerged, with its head lowered close to the surface. In the background, tall reeds sway subtly, enhancing the peaceful atmosphere. The swans remain mostly stationary, with minimal movement, maintaining the calm and picturesque setting. Another swan moves from left to right across the frame, adding a subtle dynamic element to the otherwise tranquil scene. The final frame mirrors the initial one, preserving the serene and natural habitat of the swans.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_4226711-hd_1920_1080_30fps.jpg"
+}

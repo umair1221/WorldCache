@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_091",
+  "prompt": "A wide shot captures an indoor volleyball match between Korea (KOR+) and Hungary (HUN), with the scoreboard showing a score of 1-0 for KOR+ and 1-2 for HUN. The court, marked with white lines and labeled \"JIANGMEN,\" is set within a large stadium with mostly empty blue seats, indicating low attendance. Advertisements from sponsors like \"MIKASA,\" \"AVC,\" and \"GRAND SPORT\" line the walls. Players from both teams are strategically positioned; the dark blue team is ready to serve, while the light blue team is in defensive stance. As the ball is served over the net, the light blue team quickly shifts into position to receive it. The sequence progresses with dynamic movements as the ball is passed back and forth, showcasing the players' agility and coordination. The final frame captures the players in mid-action, emphasizing the fast-paced nature of the game and the strategic plays unfolding on the court.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_091.jpg"
+}

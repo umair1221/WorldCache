@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_6a0c672b-9603-410e-bb4b-323c7c1b8029",
+  "prompt": "A point-of-view video shot from inside a vehicle, likely captured by a dashboard camera, shows a suburban street intersection during a clear, sunny day. The sky is a vibrant blue, and the surroundings feature multi-story residential buildings with light-colored facades and balconies. Trees with lush green foliage line the sidewalks, adding to the suburban ambiance. On the left side of the road, traffic flows in one direction, with a blue car driving away from the intersection. A silver SUV on the right side of the road is preparing to make a left turn, with its left rear turn signal illuminated. The road markings include straight and right-turn only lane markers, stop lane markers, and a stop sign. The camera remains stationary, capturing the movement of the vehicles as they navigate the intersection. The silver SUV begins to move forward along a slightly curved path, while a pale gray SUV enters the intersection from the right and moves onto the left side of the road. The scene is framed by a beige building with a flat roof on the right and a parking lot with several parked cars. The overall setting is calm and orderly, with no significant changes in the environment throughout the sequence.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_6a0c672b-9603-410e-bb4b-323c7c1b8029.jpg"
+}

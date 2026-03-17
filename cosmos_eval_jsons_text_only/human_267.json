@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_267",
+  "prompt": "A high-angle video captures a rock climbing scene set in a forested area, where a man in a dark blue t-shirt is actively climbing a steep, textured rock face. The climber's body is angled downward, gripping the rock with both hands, and the camera maintains this perspective throughout the sequence. Below the climber, on the ground, are various climbing gear and equipment, including ropes and a helmet. A person wearing a blue cap stands nearby, holding a rope and observing the climber attentively. The surrounding area features a mix of rocky outcrops and patches of grass, with dappled sunlight filtering through the trees, casting distinct shadows across the scene. The climber's movements are deliberate and focused, showcasing a steady and methodical climb. The final frame shows the climber still engaged in their ascent, maintaining the same determined stance."
+}

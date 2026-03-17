@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_022",
+  "prompt": "A toy kitchen setup is showcased in a video, focusing on a sink area. On the left side of the sink, a blue toy stove with two red knobs and a metallic pot on top is visible. Inside the sink, a purple and green toy eggplant lies. To the right of the sink, an orange dish rack holds a blue cup, a yellow pepper, a green cucumber, and a white and yellow toy egg. A robotic arm is positioned above the sink, hovering over the eggplant. The robotic arm descends, grabs the eggplant, and lifts it out of the sink. It then moves the eggplant towards the blue toy stove on the left side of the sink, placing it into the metallic pot. By the final frame, the sink is empty except for the metallic pot, while the blue tray now contains the purple and green toy eggplant. The background features a wooden floor and various other toy kitchen items scattered around. The video captures the motion of the robotic arm in a medium shot, emphasizing the interaction between the robotic arm and the toy eggplant.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_022.jpg"
+}

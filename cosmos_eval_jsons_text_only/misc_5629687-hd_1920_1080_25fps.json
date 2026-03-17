@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_5629687-hd_1920_1080_25fps",
+  "prompt": "The video opens with a tranquil beach scene where five seagulls are perched on a sandy shore dotted with small pebbles and shells. The seagulls, characterized by their white bodies, gray wings, and red beaks, are positioned in a loose group, with three standing upright and two lying down. The background features a calm, rippling body of water, likely an ocean or sea, which provides a serene backdrop to the scene. Throughout the video, the seagulls exhibit minimal movement, primarily involving slight head turns and minor shifts in posture. The water remains static, with gentle waves occasionally breaking near the shore. The overall atmosphere is peaceful and unchanging, emphasizing the natural beauty and stillness of the coastal environment. By the final frame, the scene remains largely unchanged, with the seagulls continuing to rest in their original positions against the backdrop of the calm ocean. A medium shot captures the seagulls in a relaxed state, highlighting their subtle movements and the serene beach setting."
+}

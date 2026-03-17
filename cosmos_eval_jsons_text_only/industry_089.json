@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_089",
+  "prompt": "The video opens with an aerial view of a large-scale sand mining construction operation, showcasing extensive piles of brown sand meticulously arranged in parallel rows. A central water channel, fed by a water pipe, flows through the middle of these sand heaps, creating ripples and movement as it cascades down. The surrounding area features dense green vegetation on the left, contrasting with the sandy terrain, while a body of water is visible in the background on the right. As the video progresses, a piece of heavy machinery, likely a bulldozer, enters the frame from the right, moving slowly along the edge of the sand piles. This machinery's presence indicates ongoing construction work in the operation. The final frame captures the same scene, with the water continuing its flow and the bulldozer still in motion, maintaining the dynamic yet steady pace of the construction activity."
+}

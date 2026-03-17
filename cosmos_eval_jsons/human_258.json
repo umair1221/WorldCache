@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_258",
+  "prompt": "A dynamic, late afternoon video captures two young girls running down a grassy hillside, bathed in the warm, golden light of the setting sun. Both girls are dressed in matching pink tops and dark shorts; the girl on the left has her hair loose, while the girl on the right has her hair in a braid. They are sprinting down the hill, their movements fluid and energetic. The hill is covered in vibrant green grass, and the background features several buildings with red-tiled roofs surrounded by lush greenery. Their shadows stretch long on the ground, emphasizing the angle of the sun. As they reach the bottom of the hill, the terrain levels off into a vast, open field. The girls continue running across this expansive grassy area, their figures becoming smaller as they move further away from the camera. The final frame captures them in mid-stride, their movements fluid and lively.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_258.jpg"
+}

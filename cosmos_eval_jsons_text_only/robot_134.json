@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_134",
+  "prompt": "The video opens with a scene set in an indoor space, likely an office or lab, characterized by a large window allowing ample natural light. A person dressed in a dark jacket and wearing a yellow strap identity card stands near the window, partially out of focus, suggesting they might be observing or waiting. The main focus is on a table in the foreground, which holds a bright yellow bowl, and two robotic hands positioned at the bottom corners of the frame. The robotic hands, equipped with grippers, are in motion. The right arm gripper grasps a small square object and places it into a yellow bowl on the table. Then, a person standing near the window reaches to grab the yellow bowl. The scene remains static, with no noticeable changes in the positions of the other objects, creating a consistent and unchanging environment until the end of the video.  A medium shot captures the interaction between the robotic hands and the yellow bowl, emphasizing the precision and coordination required for such tasks. The background, with the large window and the identity card-wearing individual, adds context to the setting, suggesting a controlled and professional environment. The video maintains a steady pace, focusing on the mechanical and human elements working together seamlessly."
+}

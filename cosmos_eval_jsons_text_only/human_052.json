@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_052",
+  "prompt": "The video opens in a well-lit, modern kitchen with red cabinetry and stainless steel appliances. The person, dressed in a light blue shirt, is actively engaged in cooking at a stove. They are using a wooden spatula to stir food in a black frying pan, which contains pieces of what appear to be chicken or another protein. The kitchen counter is neatly arranged with various cooking ingredients and utensils, including a wooden cutting board with sliced red peppers, a bowl of greens, and a jar of what looks like a condiment or sauce. Shelves in the background are filled with jars and bottles, suggesting a well-stocked pantry. The person gestures with one hand while speaking, likely explaining the cooking process. As they continue to stir, they reach for a small container, presumably containing seasoning or oil, and pour it into the pan, continuing to mix the ingredients thoroughly. The final frame captures the person still engaged in the cooking process, maintaining focus on the pan as they ensure the ingredients are evenly cooked."
+}

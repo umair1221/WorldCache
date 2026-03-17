@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_0ac2a3a9-3eed-481f-926a-9f74de46bd0b",
+  "prompt": "A close-up, high-angle shot captures a display of vibrant parrotfish on a bed of ice. The fish are arranged neatly with their tails parallel, filling most of the frame. A hand, seen in the right corner with its palmer surface facing the camera, gently adjusts the position of the second fish from the bottom, lifting its head slightly to reveal its structure. The parrotfish exhibit a striking combination of turquoise and orange hues, adorned with intricate patterns and medium to dark purple accents on their bodies. Each fish has a round eye with a light brown outer area and a yellowish ring encircling the black innermost part. The hand then gradually releases the fish, allowing it to fall back into place. The scene concludes with the hand positioned in the right corner, and the fish delicately settling back into its original position. The lighting highlights the luminous sheen of the fish, while the topmost fish appears softly focused against the sharp focus of the rest. The ice is contained within a blue-edged object, adding a cool contrast to the vivid colors of the parrotfish.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_0ac2a3a9-3eed-481f-926a-9f74de46bd0b.jpg"
+}

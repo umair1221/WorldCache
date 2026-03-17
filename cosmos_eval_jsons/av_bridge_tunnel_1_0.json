@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_bridge_tunnel_1_0",
+  "prompt": "The video begins with a view from inside a vehicle driving across the Bay Bridge in San Francisco. The iconic bridge's towering concrete towers and intricate steel cables stretch into the overcast sky, creating a dramatic backdrop. Several cars are visible ahead, including a black sedan directly in front of the ego vehicle. The road is multi-lane, and streetlights line both sides of the bridge. In the distance, the city skyline, including notable landmarks such as the Transamerica Pyramid, is faintly visible through the mist. As the vehicle continues to move forward, the black sedan remains in the same lane, maintaining its position relative to the camera. Additional vehicles appear further ahead, indicating a steady flow of traffic. The bridge's structure and the suspension cables remain prominent. By the end, the black sedan is signaling a right turn with its rear indicator and appears to be preparing to merge into the right lane.  A medium shot from within the vehicle, capturing the dynamic motion of the Bay Bridge and the surrounding urban landscape.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_bridge_tunnel_1_0.jpg"
+}

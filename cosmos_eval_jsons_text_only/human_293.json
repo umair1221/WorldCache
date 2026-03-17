@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_293",
+  "prompt": "In a sunny, outdoor swimming pool filled with clear, turquoise water, a man, shirtless and partially submerged, holds an orange and blue beach ball above his head, preparing to throw it. A woman in a blue bikini smiles and gestures playfully beside him. Midway through the scene, another woman catches the beach ball and throws it to a man hanging on to a neon green floatie. The background showcases a concrete pool deck with black lounge chairs. The video captures a lively and playful moment, emphasizing the vibrant colors and dynamic interactions among the participants."
+}

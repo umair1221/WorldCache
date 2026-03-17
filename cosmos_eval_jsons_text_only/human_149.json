@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_149",
+  "prompt": "A vibrant green Kawasaki jet ski glides across a tranquil lake, with a person riding it, dressed in a blue life vest over a white shirt and black shorts, their hair flowing in the wind. The individual maintains a steady grip on the handlebars, causing a dynamic spray of water to rise behind them. At one point, they slightly bend down at their knee to make the jet ski jump, showcasing their skill and control. The lush, green forested shoreline and clear blue sky provide a serene backdrop, with the water spray growing more intense as the jet ski cuts through the water at a moderate speed. The final frame captures the rider's focused posture, with the water spray highlighting the jet ski's power and the rider's expertise."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_023",
+  "prompt": "A wide shot captures an indoor basketball court within a spacious gymnasium. The high ceiling is adorned with a grid of recessed lights, and large windows allow natural light to illuminate the space. The walls are primarily white, with some darker sections, likely due to shadows or additional panels. The polished wooden floor of the basketball court is marked with standard lines for play. A blue metal backboard supports a basketball hoop on the right side of the frame. In the foreground, a person dressed in athletic attire is seen dribbling a basketball, preparing to shoot towards the hoop. The individual appears focused, and their movements suggest they are practicing their shooting technique. As the sequence progresses, the person approaches the hoop, jumps, and attempts a shot. The ball is released into the air, heading towards the basket. The person watches the trajectory of the ball, maintaining focus throughout the action. The final frame shows the person standing near the hoop, having completed their shot, with the ball either in mid-air or having just landed.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_023.jpg"
+}

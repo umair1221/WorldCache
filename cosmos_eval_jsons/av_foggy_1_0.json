@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_foggy_1_0",
+  "prompt": "The video opens with a view from inside a vehicle, looking out onto a multi-lane road shrouded in dense fog. The road is marked by double yellow lines down the center and white lane markings on either side. Bare trees line the left side of the road, while a grassy area is visible on the right. Traffic lights are visible in the distance, indicating an upcoming intersection. The fog creates a hazy, almost ethereal atmosphere, significantly reducing visibility. As the video progresses, the fog remains thick, and two vehicles are seen waiting at the intersection with their rear lights illuminated, indicating they are stationary. Due to the heavy fog and the distance, the traffic light colors appear faint and are difficult to distinguish. By the final frame, the scene remains consistent with the initial view, emphasizing the stillness and quiet of the foggy road. A wide-angle shot captures the entire road and surrounding environment, highlighting the serene yet mysterious ambiance created by the fog.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_foggy_1_0.jpg"
+}

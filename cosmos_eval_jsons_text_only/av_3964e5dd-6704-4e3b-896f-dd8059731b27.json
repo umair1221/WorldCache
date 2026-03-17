@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_3964e5dd-6704-4e3b-896f-dd8059731b27",
+  "prompt": "The video begins with a view from inside a car, positioned at an intersection in a modern urban setting. The road stretches straight ahead, divided by double yellow lines in the center. To the right, a large blue-and-white bus is moving forward, while a white SUV is positioned directly ahead of the ego vehicle. The surrounding architecture includes tall buildings with reflective glass facades, one of which has a distinctive curved design. The sky is clear and bright, suggesting a sunny day. As the video progresses, the traffic light remains green. The white SUV proceeds through the intersection, making a left turn. A clearly marked left-turn-only lane is visible, confirming that the ego vehicle is also in a left-turn-only lane, bordered on the right by a single white line. Crosswalk markings can be seen in the distance as well. The scene captures the dynamic movement of vehicles and the bustling urban environment, emphasizing the flow of traffic and the architectural details of the cityscape."
+}

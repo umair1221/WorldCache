@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_074",
+  "prompt": "The video opens with a scene set on a wooden table in a kitchen or utility area, characterized by a tiled floor and wooden cabinets in the background. On the table, there is an open gray cloth bag, a pink cup, a green bottle with a green cap, and a small green package. A robotic arm with black and metallic components is positioned on the left side of the frame, extending towards the paper bag. The robotic arm then moves closer to the bag, extending its claw-like appendages towards it, indicating an intention to interact with the bag, possibly to pick it up or manipulate it. The left robotic arm holds the bag steady, while the right robotic arm places the items into the bag, demonstrating precision and control. The scene remains static otherwise, with no other significant changes or new objects appearing in the video. A medium shot captures the robotic arm's interaction with the bag and items on the table."
+}

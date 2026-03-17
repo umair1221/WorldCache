@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_243",
+  "prompt": "The video opens in a well-lit indoor gymnasium with a polished wooden floor and cream-colored walls adorned with Olympic rings. A volleyball net is visible in the background, along with a row of benches and a small vent near the floor. Four players are present: a partially visible person with a grey shirt and black shorts, a male in black athletic wear with yellow shoes, a female in a gray long-sleeve shirt and dark shorts, and another male in black attire with blue accents on his sleeves. The male in black is positioned centrally, leaning forward with one leg extended and arms outstretched, seemingly preparing to dive for the volleyball. The female player stands further back, observing the play, while the third male player approaches from the right, also in a ready stance. As the sequence progresses, the male in black dives horizontally, extending his body low to the ground, reaching out with his hand towards the volleyball, which is captured mid-air above him. The female player remains stationary, watching the ball's trajectory, while the third male player continues to approach, maintaining his readiness. The final frame shows the male in black diving fully, his body stretched out horizontally, with the volleyball still in motion above him, highlighting the dynamic and athletic nature of the scene.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_243.jpg"
+}

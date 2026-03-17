@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_062",
+  "prompt": "A video opens with a static shot of a yellow mug and a blue wooden block on a rotating turntable, set against a dark backdrop. The turntable starts rotating clockwise under the illumination of a spotlight, casting the mug's shadow prominently onto the wall behind it. The mug is bright yellow with a handle facing left, and the blue wooden block is rectangular, positioned to the right of the mug. As the turntable rotates, the mug and block move in a circular motion, causing their shadows to shift and change shape on the wall. The spotlight remains steady, keeping the mug's shadow as the focal point. By the final frame, the mug and block have completed part of a rotation, with their shadows dynamically altering in size and position due to the continuous rotation of the turntable.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_062.jpg"
+}

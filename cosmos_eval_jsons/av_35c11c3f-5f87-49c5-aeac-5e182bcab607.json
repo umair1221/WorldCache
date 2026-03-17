@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_35c11c3f-5f87-49c5-aeac-5e182bcab607",
+  "prompt": "A first-person view from inside a vehicle, looking out through the windshield onto a wide, two-lane road under a clear blue sky. The road is flanked by lush green trees on both sides, with some power lines running parallel with it. On the left side of the road, a grassy area with tall trees and a few cars waiting at a traffic signal in the distance. On the right side, the road curves gently, bordered by more trees and a grassy slope. The road markings are visible, including dashed white lines dividing the lanes and solid yellow lines marking the center. The overall scene suggests a suburban or semi-rural setting with minimal traffic. As the vehicle moves forward, it approaches an intersection where traffic lights become visible. The camera captures the gradual approach towards the traffic lights at the intersection, showing a green left-turn arrow for the left-turn only lane and red circular signals for the straight-through lanes. The white car in front of the ego vehicle turns left, visible on the same lane. The surroundings remain consistent with the initial frame, featuring the same trees, power lines, and distant buildings. The camera angle shifts slightly as the vehicle changes its lane on the left-turn arrow sign at the intersection, with the green traffic lights hanging above the road, showing to turn left.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_35c11c3f-5f87-49c5-aeac-5e182bcab607.jpg"
+}

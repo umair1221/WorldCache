@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_030",
+  "prompt": "The video showcases a toy kitchen sink setup, likely designed for children's play. The scene is set on a countertop with a tiled floor visible in the background. The sink is light blue with a yellow dish rack on the left side holding a blue cup and a white bowl. Inside the main basin of the sink, there is a metallic pot with two handles, a yellow-handled knife, and a gray fork. Next to the sink, various colorful toy items are scattered, including red and blue cups, and other kitchen utensils. A gray faucet is positioned above the sink, and a green textured ball-shape vegetable is placed at the side of the sink. A black robotic arm is seen in motion, initially holding the green textured ball-shape vegetable. The robotic arm moves the ball-shape vegetable from above the sink into the metallic pot, creating a playful and dynamic scene. The background includes additional toy kitchen items, adding to the lively and engaging atmosphere. A medium shot captures the entire sink area, emphasizing the interaction between the robotic arm and the toy vegetables."
+}

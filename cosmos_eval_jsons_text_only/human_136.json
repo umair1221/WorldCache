@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_136",
+  "prompt": "The video opens with a serene scene of a dock extending into a calm lake, framed by a backdrop of snow-capped mountains under a clear blue sky. The dock is constructed of light-colored wood with a metal railing and a central cylindrical post. Two shirtless individuals wearing black swim shorts enter the frame from the right, walking briskly along the dock towards the camera. As they approach, their movement suggests they are preparing to jump into the lake. The camera follows their progress, capturing their determined strides and the gentle ripples on the water's surface. The scene concludes with both individuals running towards the water's edge, their strides indicating urgency and excitement, while the serene lake and distant mountains remain a constant, peaceful presence in the background."
+}

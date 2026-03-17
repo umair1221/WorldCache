@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_070",
+  "prompt": "A documentary-style video captures a person meticulously coating a concrete roof with spray paint. Dressed in a white protective suit and equipped with a safety harness, the individual works at height, ensuring their safety. The roof is covered with dark gray, textured tiles, which the person systematically applies using a spray nozzle. The camera follows the worker's deliberate and controlled movements, highlighting their focus and precision. The background, a blurred view of greenery, suggests an outdoor suburban setting. The video emphasizes the steady and methodical nature of the task, showcasing the person's dedication to achieving even coverage."
+}

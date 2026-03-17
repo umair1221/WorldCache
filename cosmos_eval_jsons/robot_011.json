@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_011",
+  "prompt": "The video begins with a close-up view of a white ice cream cabinet with a gray front panel and a square opening at the center. The bottom right corner is labeled \"ICE CREAM,\" accompanied by an illustration of an ice cream cone. A robotic arm, black and mechanical, is positioned in front of the machine, moving towards the handle of the cabinet. The arm extends its claw-like end towards the handle and opens the cabinet, revealing a small yellow toy grilled chicken leg inside. The camera remains steady, focusing on the robotic arm's precise movements and the contents of the cabinet. The background is minimal, emphasizing the interaction between the robotic arm and the ice cream cabinet.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_011.jpg"
+}

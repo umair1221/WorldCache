@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_071",
+  "prompt": "A brightly lit, colorful kitchen setting showcases a person engaged in the process of decorating cupcakes. Dressed in a green long-sleeved shirt and a black and white patterned apron, the individual is meticulously arranging green cupcake liners on a white plate adorned with a gold doily. The scene includes a pink muffin tin filled with green cupcakes, a container of frosting, a small bowl of gold sprinkles, and a decorative plate with a shamrock design. The person picks up a green cupcake liner from the muffin tin and places it on the plate, continuing this action with another liner. The background features a pink and white kitchen-themed backdrop with a stove and cabinets, enhancing the cheerful ambiance. The video captures the careful and deliberate movements of the person as they organize the cupcakes, ensuring each liner is neatly positioned on the plate.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_071.jpg"
+}

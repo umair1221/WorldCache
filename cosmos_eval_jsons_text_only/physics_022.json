@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_022",
+  "prompt": "The video opens with a static shot of a light wood surface, likely a tabletop, extending across the frame. At the center of the table, a small, white, cube-shaped object, resembling a lampshade, is positioned upright and slightly off-center to the right. To the left of this white cube, partially visible, is a dark, cylindrical object, which appears to be the top part of a black tube. The background behind the table is a solid yellow color, indicating an indoor setting, possibly a room or studio. The lighting is even and bright, emphasizing the texture of the wood and the smooth surfaces of the objects. As the video progresses, a brown tennis ball emerges from the black tube on the left side of the frame and begins rolling across the light wood surface towards the right. The ball gains momentum and continues its path until it exits the frame on the right. By the final frame, the scene returns to its initial state, with the white lampshade still centered on the table and the black tube partially visible on the left, while the tennis ball has completely left the frame.  A medium shot of a static scene with a dynamic element introduced by the rolling tennis ball."
+}

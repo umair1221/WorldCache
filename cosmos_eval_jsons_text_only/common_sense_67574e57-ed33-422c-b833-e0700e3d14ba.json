@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_67574e57-ed33-422c-b833-e0700e3d14ba",
+  "prompt": "A serene beach scene captures an artist meticulously crafting a highly detailed sand sculpture of a large face on a breezy day. The artist, a man in a light blue shirt and dark pants, kneels beside the sculpture, carefully smoothing and shaping the sand to create the neck. He occasionally glances up to look at the camera before returning his focus to the work. The sand sculpture rises majestically from the beach surface, showcasing the artist\u2019s impressive skill in sand art. To the artist's right, two individuals in blue outfits sit, with a cluster of tall, colorful toys and other miscellaneous items between them. In the background, a bustling yet tranquil beach scene unfolds with numerous beachgoers wandering or relaxing on the sand, some sitting in colorful chairs and others lining up on the shore. The sky is overcast, and the ocean waves softly crash onto the beach. The lighting is natural, with brown tones dominating the shot due to the lack of strong sunlight. The camera pushes in on the artwork, offering a detailed perspective that allows viewers to appreciate its intricate details while observing the lively beach setting."
+}

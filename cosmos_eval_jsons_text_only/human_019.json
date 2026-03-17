@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_019",
+  "prompt": "The video opens with a scene set in an urban parking area, where a row of bicycles is secured to a metal rack. The bicycles vary in design, with some equipped with child seats and panniers, indicating their use for family or commuting purposes. Parked cars line the background, including a blue sedan and a red car, while a wall covered in vibrant graffiti adds a lively, artistic backdrop to the setting. A man, dressed in a gray jacket and carrying a white and red bag slung over his shoulder, walks into the frame from the left side. He approaches the bike rack, reaches out, and begins to climb onto one of the bicycles. After securing himself, he starts pedaling away, moving smoothly down the street. By the final frame, the man has ridden past the camera, leaving the initial urban scene behind."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_49861e32-702e-4042-bea4-5fc56e371cfe",
+  "prompt": "A medium shot captures a young child adjusting headphones on their head, set against a backdrop of other children engaged in various activities. The child, with short, straight black hair, holds the headphones using both hands, one on each speaker. The left speaker is secured with a pencil, with the thumb resting on the back of the speaker. The headphones feature a matte, metallic silver finish, with a black plastic headband and a yellow sticker with a barcode near the attachment point. The child's expression shifts from focused to a wide smile, followed by raised eyebrows and puckered lips, as they gaze towards the camera. To the right, a girl with straight black hair and a pink cap looks downward, while another boy turns his head to the side, revealing only his right ear. The background is softly blurred, showcasing greenery and the casual attire of the children, suggesting an outdoor setting. The scene is bathed in natural, diffused light, creating a candid and lively atmosphere.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_49861e32-702e-4042-bea4-5fc56e371cfe.jpg"
+}

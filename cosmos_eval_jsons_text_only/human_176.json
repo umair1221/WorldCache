@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_176",
+  "prompt": "A snowboarder glides down a snowy slope next to a dense forest of snow-covered trees. The snowboarder is dressed in a vibrant yellow jacket with a hood, black snow pants, and snowboard boots attached to a pink snowboard. They wear purple goggles and black gloves. The snowboarder maintains a balanced stance, with one foot slightly ahead of the other, as they move smoothly across the snow. The background features various snow-covered trees, creating a serene winter landscape. As the snowboarder continues their descent, they adjust their goggles with both hands. The camera follows the snowboarder closely, capturing their fluid movements against the backdrop of the snowy forest."
+}

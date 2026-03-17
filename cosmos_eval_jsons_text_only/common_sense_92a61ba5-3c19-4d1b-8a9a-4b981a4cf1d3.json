@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_92a61ba5-3c19-4d1b-8a9a-4b981a4cf1d3",
+  "prompt": "A medium shot captures a man interacting with a small brown puppy in a well-lit room. The man, dressed in a black sweater with yellow patterns around the shoulders and blue jeans, is crouched on the floor, gently holding an infant monkey in his right hand. He extends his left hand towards the playful brown puppy, which stands on its hind legs, reaching out with its front paws. The camera pans right, following the dog as it hops into a dome-shaped tent with a gray lining at the base and floor. Inside the tent, a pink and orange chequered blanket is visible. The man continues to engage with the dog using the same hand, while the puppy alternates between standing on its hind legs and all four legs. The scene is bright and well-lit, with beige tiled flooring and a solid brown object in the foreground. To the left, a white and yellow ride-on toy vehicle with black accents is parked near the tent. Behind the man, a lush decorative plant with red flowers climbs up the wall, and additional greenery, including a white cylindrical pot with multiple plastic plants, a brown rack with horizontal slats, and a small brown surface with one of its short legs, appears on the right. The video ends with a slight pan to the left, showing the dog jumping away to the right."
+}

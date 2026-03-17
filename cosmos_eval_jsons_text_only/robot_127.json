@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_127",
+  "prompt": "The video opens with a view from above, showcasing a multi-tiered structure made of light gray material, resembling a modular shelf or a piece of furniture under construction. The topmost tier holds a large, open gray box with a smaller wooden block inside it. Below this, the second tier has a flat surface, while the third tier features two dark grayish rectangular sections. A red colored L-shaped object lies near the edge of the third tier. Two robotic hands with grippers are positioned at the bottom of the frame. The setting appears to be indoors, possibly a workshop or a room dedicated to crafting, with a neutral-colored wall and a visible cable in the background.  The right robotic arm picks up the red object from the right rectangular section, tossing it into the gray bin. The left hand remains still throughout the video. The red object makes its way back to the left side of the surface, resting on top of the structure. The left robotic arm remains stationary. By the final frame, the red object settles into the left rectangular portion, indicating the completion of the action."
+}

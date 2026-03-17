@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_036",
+  "prompt": "The video opens with a close-up shot of a wooden countertop in a modern kitchen setting. On the countertop, there is a metallic bowl with a shiny, reflective surface, a folded purple cloth, and a blue-handled ice cream scoop. A green cylindrical object is also present but remains stationary throughout the sequence. A black robotic arm enters the frame from above, moving towards the ice cream scoop. The robotic arm then grasps the scoop, lifts it slightly off the surface, and moves it away from its original position on the left part of the wooden countertop, indicating the beginning of a task involving the scoop. The robotic arm then places the ice cream scoop on the right part of the countertop, while the other objects remain undisturbed. The background features a light-colored wooden wall and a glimpse of a tiled backsplash, adding to the clean and organized kitchen ambiance. The video captures the precise and deliberate movements of the robotic arm, emphasizing the integration of technology in everyday tasks."
+}

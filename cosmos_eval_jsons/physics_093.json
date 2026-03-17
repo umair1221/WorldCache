@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_093",
+  "prompt": "A close-up shot of a hydraulic press positioned on a metallic surface, set against a backdrop of green cabinets, indicating an industrial setting. Inside the press, a clear cylindrical container holds several kiwis and a tomato. The kiwis are adorned with googly eyes, giving them a playful appearance. The press slowly descends onto the container, applying pressure. As the pressure increases, the tomatoes burst open, releasing their juice and pulp, while the kiwis compress, their skin wrinkling under the force. The camera captures this transformation in detail, showing the gradual flattening of the container and the splattering of the contents around the base of the press. The scene concludes with the complete destruction of the fruits, emphasizing the dramatic change from their original state to a flattened, splattered mess.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_093.jpg"
+}

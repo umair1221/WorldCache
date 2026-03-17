@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_0d9d4977-4944-4ec3-a784-86c34f2fa897",
+  "prompt": "The video opens with a panoramic view of 9 Fisherman's Grotto, a two-story building with a Spanish-style roof and large, eye-catching signage that prominently displays \"Fisherman's Grotto\" in bold blue letters against a yellow background. The building features several arched windows and doors, adding to its charming architectural charm. Adjacent to it, Alioto's, another establishment, is partially visible with its own signage. The street in front of the 9 Fisherman's Grotto restaurant is marked with pedestrian crosswalks, and a few vehicles, including a red car, are parked nearby. A group of cyclists riding from right to left at a T-intersection, heading toward the center of the scene, can be seen. The ego vehicle slows down to yield them, capturing the moment as the cyclists continue their journey without stopping. The background reveals additional structures and a clear blue sky, enhancing the lively yet serene atmosphere of the location. By the final frame, the cyclists have moved further into the scene, while the rest of the environment remains unchanged, maintaining the tranquil ambiance of the setting. A wide-angle shot captures the bustling yet peaceful street scene."
+}

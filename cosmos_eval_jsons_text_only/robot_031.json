@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_031",
+  "prompt": "A close-up view of a wooden workbench inside a transparent acrylic enclosure, part of a robotics setup, captures the scene where a black robotic arm moves dynamically. The bench holds an orange bowl with a white handle, a blue spoon, a piece of salmon-shaped toy food, and an orange cloth with a textured pattern. The robotic arm descends towards the orange bowl, lifting it momentarily before placing it back down on the right side of the bench. The other objects remain stationary. The background features a rustic wooden wall and a gray fabric backdrop, adding depth to the setting. The video showcases the precision and movement of the robotic arm in a controlled environment. A close-up shot from a slightly elevated perspective."
+}

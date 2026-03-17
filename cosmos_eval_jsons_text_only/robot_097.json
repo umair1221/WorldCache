@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_097",
+  "prompt": "A high-angle, top-down view of a tabletop setup showcasing two robotic arms interacting with toy objects. The left robotic arm, with articulated joints, reaches out toward a small orange toy construction vehicle. On the right, another robotic arm holds a card, moving it closer to a toy cash register. The cash register displays various symbols and numbers on its digital screen, and a small basket containing vegetables like a carrot is visible inside. A small toy figure resembling a white animal with an orange tail and a blue body stands nearby. The scene is set indoors, likely in a demonstration or exhibition area, with a neutral gray floor and a partial view of a person\u2019s leg in the upper right corner. Two individuals walk by on the left side of the table. The construction vehicle remains stationary throughout the video. The final frame captures the right robotic arm still positioned over the cash register, indicating ongoing interaction."
+}

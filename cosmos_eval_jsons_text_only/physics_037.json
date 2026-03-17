@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_037",
+  "prompt": "A static shot captures a brightly colored ceramic teapot placed on a wooden table. The teapot boasts a vivid blue body adorned with pink roses and green leaves, complemented by red handles and a matching spout. The lid features a charming frog motif with a checkered pattern. The background is a simple white fabric draped over a wooden surface, creating a clean and neutral setting that highlights the teapot's vibrant details. As the video progresses, a piece of silk fabric is slowly lowered onto the teapot, covering it completely. The silk fabric, with its smooth texture and subtle sheen, drapes over the teapot, gradually obscuring it from view. By the final frame, the teapot is entirely hidden beneath the silk fabric, leaving only the fabric's folds and texture visible against the wooden table and white backdrop."
+}

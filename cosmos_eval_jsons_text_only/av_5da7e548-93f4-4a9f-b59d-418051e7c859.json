@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_5da7e548-93f4-4a9f-b59d-418051e7c859",
+  "prompt": "The video begins with a view from the top of a police car, as indicated by the blue light on the hood, driving through a suburban neighborhood under an overcast sky. The road is a two-lane street with multiple lanes of traffic, including a white van, a silver sedan, and other vehicles. On the right side, there are residential houses with driveways and parked cars, while utility poles and power lines line the street. The scene captures a typical day in a quiet neighborhood, with the occasional reflection of nearby vehicles on the hood of the ego vehicle.  As the video progresses, the ego vehicle approaches an intersection where many vehicles are stopped in the left lanes. The white van in front of the camera comes to a halt, and other vehicles, such as a silver sedan and a blue pickup truck, also stop at the intersection. The surroundings remain consistent with residential houses, parked cars, and power lines lining the street. The overcast sky continues to cast a subdued light over the entire scene, creating a calm yet slightly somber atmosphere. Despite the movement and stopping of various vehicles, the ego vehicle does not collide with any object throughout the video."
+}

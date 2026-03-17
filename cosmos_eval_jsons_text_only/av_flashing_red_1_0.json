@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_flashing_red_1_0",
+  "prompt": "The video begins with a view from inside a vehicle, looking out through the windshield at an intersection under a clear blue sky. The road is marked with double yellow lines, white lines, and traffic signals hang above the intersection. Orange traffic barriers are set up on the left of the double yellow lines, indicating ongoing roadwork. On the right side of the road, there's a grassy area with some trees. The left side of the intersection has more trees and a few more traffic barriers. As the video progresses, the traffic lights at the intersection are flashing red. Vehicles first come to a complete stop, and then proceed through the intersection in the order in which they arrived. The camera remains stationary throughout, capturing the scene from a first-person perspective. The surroundings include a mix of greenery and urban elements, with a sign for Scripps Memorial Hospital La Jolla visible in the distance. The overall atmosphere is calm and orderly, typical of a suburban intersection during daylight hours."
+}

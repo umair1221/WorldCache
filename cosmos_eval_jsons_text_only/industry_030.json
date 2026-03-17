@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_030",
+  "prompt": "A close-up shot captures a woodworking setup where a drill bit is positioned above a piece of light-colored metal, clamped down on a wooden surface. The metal shows signs of wear, including scratches and a shadow cast by the drill bit. Two small metallic screws are affixed to the metal, acting as guides or anchors. As the drill bit begins to rotate, it drills into the metal, creating a small hole. Metal shavings accumulate around the hole as the drilling progresses. The drill bit maintains its position, gradually enlarging the hole until it completes the task, leaving a circular hole in the metal with shavings still visible. The red structure in the foreground remains constant throughout the sequence."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_6fa7204a-8d92-444a-8f23-e6eba7078568",
+  "prompt": "A dynamic driving sequence captured from inside a car, showcasing a multi-lane highway under a clear blue sky. The road is bordered by a metal guardrail on the right and lined with trees displaying vibrant autumn foliage. A green highway sign reading \"EXIT 82 A\" is prominently visible ahead, guiding the direction of travel. To the left, a grassy area stretches alongside the road. The sun is high in the sky, casting bright light and creating lens flares on the windshield. As the ego vehicle navigates a gentle curve to the right, the road continues to wind through the landscape, with the surrounding trees and grassy areas remaining consistent. The scene is bathed in warm sunlight, with the lens flares persisting due to the strong backlight, adding a cinematic quality to the footage.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_6fa7204a-8d92-444a-8f23-e6eba7078568.jpg"
+}

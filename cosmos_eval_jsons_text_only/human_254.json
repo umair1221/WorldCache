@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_254",
+  "prompt": "A dynamic basketball game unfolds on an outdoor court under a clear blue sky. The court is surrounded by lush greenery, including palm trees and other leafy plants, creating a vibrant backdrop. A light teal building with circular windows stands prominently in the background, alongside a taller structure that hints at a larger complex nearby. The court is marked with white boundary lines, and a basketball hoop is positioned in the upper left corner.  In the foreground, two individuals are engaged in a lively game. One player, wearing a gray sleeveless shirt, blue shorts, white socks, and black sneakers, and glasses, is positioned slightly behind the other. The second player, dressed in a red sleeveless top, black shorts with red and white stripes, and black sneakers, is actively dribbling a brown basketball. The player in red moves slightly to the side while maintaining control of the ball, which bounces on the court surface. The player in gray leans forward with hands outstretched, attempting to block the movements of the individual in red. The scene captures the intensity and focus of the game, with both players fully immersed in the action. The final frame shows the same dynamic, with the player in red continuing to dribble the ball and the player in gray maintaining their defensive stance."
+}

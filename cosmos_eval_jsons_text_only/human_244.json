@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_244",
+  "prompt": "The video opens with a man standing on a step stool, leaning against a white wall that is partially covered with plaster or drywall compound. He is dressed in a white t-shirt, dark pants, and light-colored sneakers, and he is wearing gloves for protection. The man is using a metal trowel to smooth out the plaster on the wall. He steps down with his right foot and as he slides the trowel lower, he steps his left leg down. The wall to his left is painted teal and also shows patches of plaster. On the right side of the frame, part of a brick wall is visible, indicating the room might have exposed brickwork. The lighting is soft and even, suggesting an indoor setting with artificial light. As the video progresses, the man continues to smooth the plaster, gradually covering more of the wall. By the final frame, the man is still engaged in his task, leaning slightly forward as he works, with the plaster visibly spreading and becoming smoother.  A medium shot of a man working on a wall, with a focus on his methodical movements and the transformation of the wall surface."
+}

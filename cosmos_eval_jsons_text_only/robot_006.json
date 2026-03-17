@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_006",
+  "prompt": "A robotic arm is engaged in a laundry task within a modern laundry room. The initial frame shows a white plastic laundry basket filled with various pieces of clothing, including a red shirt and a blue cloth. A bright red cloth lies on the floor next to the basket. The robotic arm, equipped with a claw-like mechanism, is positioned above the basket, ready to pick up items. The background reveals a partially visible washing machine with its door open, indicating that the laundry process is about to begin. As the video progresses, the robotic arm extends its claw into the basket and grasps a red shirt and a blue cloth. It lifts the clothes and moves them towards the open washing machine, depositing them inside the drum. The scene captures the seamless integration of technology and household chores, emphasizing efficiency and precision."
+}

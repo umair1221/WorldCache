@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_111",
+  "prompt": "The video opens with a cozy indoor scene centered around a warm fireplace. The fire burns brightly, casting a soft, flickering glow that illuminates the surrounding area. Above the fireplace, a garland of colorful lights in shades of blue, green, and red adds a festive touch, suggesting a holiday setting. To the left, a decorated Christmas tree stands tall, its branches adorned with twinkling lights and ornaments, enhancing the festive atmosphere. In the foreground, a woven rocking chair sits invitingly, with a red mug placed on a small table beside it, emitting steam, indicating a hot beverage inside. The overall ambiance is one of warmth and comfort, perfect for a quiet evening. The camera remains stationary throughout, focusing on the tranquil and inviting scene created by the fire and decorations. The fire continues to burn steadily, the flames dancing and shifting, while the garland and Christmas tree remain unchanged, maintaining their festive glow. The red mug on the table continues to emit steam, suggesting the beverage inside remains hot and ready to be enjoyed. The woven rocking chair remains stationary, offering a comfortable spot to sit and savor the warmth. The scene concludes with the same tranquil and inviting atmosphere, emphasizing the cozy and festive environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_111.jpg"
+}

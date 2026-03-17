@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_002",
+  "prompt": "In a playful kitchen setting, a toy stove with two burners and a wooden countertop serves as the stage for a whimsical interaction. The stove, with its gray surface and black burners, hosts a small yellow rubber duck and a white, egg-shaped object. To the left, a metallic pot sits ready for action. A robotic arm enters the frame from above, initially lifting the rubber duck from the burners and placing it onto a green plate. It then moves to the left, picks up the egg-shaped white object from the stove, and deposits it into the metallic pot. The final scene captures the rubber duck perched on the green plate, while the egg-shaped object rests in the pot, creating a charming and dynamic sequence.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_002.jpg"
+}

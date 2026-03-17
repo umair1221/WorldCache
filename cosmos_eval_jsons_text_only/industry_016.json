@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_016",
+  "prompt": "A medium shot captures a worker in a spacious industrial warehouse or textile factory, brightly lit by overhead fluorescent lights. The worker, dressed in a light blue button-up shirt over a yellow kurta and red leggings, operates a pallet jack to lift a cage pallet filled with white cylindrical rolls. The worker is positioned near the right side of the frame, facing the right, and is seen pulling the handle of the pallet jack multiple times to slightly lift the cage pallet. The surrounding area is organized, with various cardboard boxes and containers, some labeled with text, and additional cage pallets and storage units filled with more boxes and supplies. The worker's movements are deliberate and focused, showcasing the routine task of handling materials in a busy and efficient workspace. The entire setting remains unchanged, maintaining the organized work space."
+}

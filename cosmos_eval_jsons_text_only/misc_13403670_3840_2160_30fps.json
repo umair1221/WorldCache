@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_13403670_3840_2160_30fps",
+  "prompt": "A serene video captures several koi fish swimming gracefully in a clear pond. The water is shallow, revealing dark, smooth stones beneath. The koi fish display vibrant colors: one prominent fish features a striking pattern of red, white, and black spots, while another is a solid golden hue. A third koi, partially visible, has a white body with red markings. The fish move slowly, creating gentle ripples in the water. A few small leaves float on the surface, adding a touch of natural debris to the tranquil setting. The camera angle shifts slightly throughout the video, offering various perspectives of the koi fish as they swim leisurely, with subtle changes in their positions and orientations. The water remains calm, with only minor ripples caused by their gentle movements. The video concludes with the koi fish continuing their graceful swimming, with the golden fish and the one with red and white markings still prominently visible, while the red and black spotted fish continues to dominate the foreground."
+}

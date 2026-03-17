@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_7660618-uhd_3840_2160_25fps",
+  "prompt": "A dynamic video captures three surfers running energetically along a wide sandy beach towards the ocean. The beach is expansive, with light-colored sand dotted with scattered footprints. The surfers, dressed in wetsuits—two in black and one in red—are each carrying a white surfboard adorned with colorful designs. Their movements are purposeful and lively, kicking up small splashes of water as they step into deeper areas of the wet sand. The ocean waves roll gently in the background, creating a serene yet invigorating backdrop. The sky above is clear and blue, indicating a sunny day. The surfers' wetsuits billow slightly with their motion, and the surfboards remain securely held under their arms. The camera follows the surfers closely, capturing their energetic strides and the gradual transition from the sandy beach to the water's edge. The scene concludes with the surfers running deeper into the sand, with the ocean waves now dominating the background.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_7660618-uhd_3840_2160_25fps.jpg"
+}

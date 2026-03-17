@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_179",
+  "prompt": "A high-definition video showcasing a segment of an industrial manufacturing facility, specifically highlighting an ABB robotic arm engaged in a precise assembly or welding operation. The scene is set within a clean, well-lit factory environment characterized by metallic structures and automated machinery. The robotic arm, painted white with yellow warning labels, is positioned on the left side of the frame, actively moving its end-effector towards a metallic component mounted on a rotating platform. The surrounding area includes a control panel with various buttons and switches, including a prominent red emergency stop button, and a metal cage structure for safety. In the background, additional machinery and equipment are visible, reinforcing the industrial setting. As the robotic arm completes its task, it retracts and readjusts its position, preparing for another cycle of operation. The final frame captures the robotic arm in a stationary state, having completed its current task, with the metallic component securely in place on the rotating platform."
+}

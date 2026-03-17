@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_13362641_3840_2160_25fps",
+  "prompt": "A serene rural scene unfolds as a flock of white swans grazes on a vibrant green field bathed in the warm, golden light of either sunrise or sunset. The swans are dispersed across the field, some standing still while others move slowly, creating a harmonious and peaceful tableau. In the background, a line of leafless trees stands tall, their bare branches silhouetted against the warm sky, adding depth to the landscape. The field stretches out towards the horizon, where the trees meet the sky, painted with hues of orange and yellow. The overall atmosphere is calm and idyllic, with the swans appearing relaxed and at ease in their natural habitat.  As the video progresses, the swans continue their slow movement across the field. Some walk towards the left side of the frame, while others remain stationary, possibly preening themselves or observing their surroundings. Their gentle and unhurried movements maintain the tranquil ambiance of the scene. The warm, golden light persists, casting a gentle glow over the entire landscape, enhancing the serene and picturesque nature of the video. By the final frame, the swans are still scattered across the field, continuing their slow, deliberate movements, preserving the peaceful and tranquil quality of the scene."
+}

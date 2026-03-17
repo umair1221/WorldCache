@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_009",
+  "prompt": "A high-speed action video captures a simple yet dramatic experiment. A yellow mug, suspended in mid-air by a grabber tool, hangs above a concrete brick placed on a wooden surface. The background is a plain white projection screen, providing a clean and neutral setting. The mug, initially intact and undamaged, is released by the grabber. It falls freely under gravity and impacts the concrete brick, shattering into pieces upon contact. The camera captures the moment of impact in slow motion, highlighting the explosive fragmentation of the mug. The final scene shows the broken mug pieces scattered around the base of the brick, with the intact brick remaining stationary on the wooden platform. A close-up shot from a slightly elevated perspective emphasizes the dynamic action and the resulting debris."
+}

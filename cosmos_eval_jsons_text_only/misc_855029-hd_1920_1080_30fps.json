@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_855029-hd_1920_1080_30fps",
+  "prompt": "A medium shot captures a cat sitting on a tiled floor in a kitchen setting. The cat, predominantly white with patches of brown fur on its head and back, is engaged in grooming itself. It wears a red bandana adorned with paw prints around its neck. The cat uses its front paws to meticulously clean its face and neck area, showcasing a methodical and focused grooming routine. The background features wooden cabinets with metal legs and a stainless steel appliance, likely a refrigerator, providing a warm and homely atmosphere. The lighting is bright, highlighting the cat's fur and the details of the surroundings. As the video progresses, the cat continues its grooming, maintaining the same posture and actions. The red bandana remains securely in place, and the cat's movements are deliberate and attentive. In the final frame, the cat finishes grooming and looks up, possibly towards the camera or something off-screen, with its mouth slightly open and eyes wide, giving an impression of curiosity or surprise. The red bandana is still in place, and the cat's posture is relaxed yet alert. The overall scene remains in the same kitchen setting, with the wooden cabinets and stainless steel appliance continuing to provide context."
+}

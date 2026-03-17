@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_084",
+  "prompt": "The video opens with an aerial view of a bustling mining operation set in a quarry. The scene is dominated by a vast expanse of dark, uneven terrain scattered with gravel and dirt. At the center, a yellow front-end loader is actively engaged in scooping up a mound of gray gravel. To the left, an orange dump truck is positioned, its bed partially filled and ready to receive the load. A conveyor belt system runs in front of the loader, extending towards the right side of the frame. The lighting suggests a time of day when the sun casts long shadows, enhancing the rugged texture of the landscape.  As the video progresses, the loader moves methodically, scooping gravel and transporting it to the dump truck. The conveyor belt is seen carrying and dumping the gray gravel, maintaining a steady depiction of the mining activity. The loader continues its task, moving forward and backward at a consistent pace, completing a cycle of scooping and loading. The final frame captures the loader having finished another cycle, with the truck still awaiting its next fill.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_084.jpg"
+}

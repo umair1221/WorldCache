@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_077",
+  "prompt": "The video opens with a close-up shot of a person's hands working meticulously on a circular metal piece secured on a wooden base within a workshop setting. The individual, dressed in a plaid shirt, uses a yellow-handled screwdriver to perform a precise task on the metal surface, likely tightening screws onto the wooden piece. The workspace is cluttered with various tools and materials, including a screwdriver and what appears to be a bottle of lubricant or oil in the background. The lighting is soft and natural, emphasizing the intricate details of the hands and the object being worked on. As the video progresses, the person continues to rotate the screwdriver by hand in a clockwise manner, maintaining steady and controlled movements. The final frame shows the same scene, with the hands still engaged in the meticulous task, highlighting the ongoing nature of the work without any significant changes in the environment or the actions performed."
+}

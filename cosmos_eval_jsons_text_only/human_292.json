@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_292",
+  "prompt": "A young girl stands on a grassy field bathed in the warm sunlight filtering through the trees behind her, creating a golden ambiance. She wears a black dress with a patterned skirt and black leggings, paired with white sneakers. Her long, dark hair cascades down as she faces someone off-camera, who holds a red frisbee. The person throws the frisbee towards her, and she raises her arms to catch it, but drops it. She then smiles and bends down to pick up the frisbee, stands back up, and prepares to throw it back. The background features a lush green field with scattered trees and a hint of another person walking in the distance. The video has a natural, candid feel, capturing the playful interaction between the two individuals. A medium shot with a slight angle from the side."
+}

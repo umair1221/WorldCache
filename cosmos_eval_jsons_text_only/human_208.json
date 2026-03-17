@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_208",
+  "prompt": "The video opens with a festive indoor party scene, warmly lit by string lights that create a cozy ambiance. In the foreground, a woman with long, wavy blonde hair, dressed in a shimmering silver sequined dress, is the focal point. She holds a champagne flute aloft, her face radiating joy and excitement. Surrounding her are several other individuals, all similarly dressed in elegant attire, each holding their own champagne flutes. The group appears to be celebrating, with all the members raising their glasses in a toast. The background reveals a modern interior space, possibly a living room or a bar area, with soft lighting and minimalistic decor.  As the video progresses, the woman in the center raises her glass higher, her expression shifting to one of open-mouthed cheer. Her face gets occluded by the right hand of a partially visible person wearing an off-white shirt with their sleeve rolled up. The individuals around her also raise their glasses, joining in the toast. The group's hands come together in a celebratory clinking of glasses, culminating in a shared moment of joy and camaraderie. Flashing white light randomly appears over the screen as they celebrate. By the final frame, the group stands close together, clinking their glasses, creating a sense of unity and celebration."
+}

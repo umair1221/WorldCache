@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_025",
+  "prompt": "The video opens with a wide shot of an indoor basketball court situated within a large gymnasium. The gym features a high ceiling with a grid of recessed lights, and large windows allow ample natural light to flood the space. The walls are mostly white, with some sections appearing darker, possibly due to shadows or additional panels. The basketball court itself has a polished wooden floor marked with standard lines for play. A basketball hoop is mounted on the right side of the frame, attached to a blue metal backboard. In the foreground, two individuals are present: one in a yellow hoodie and blue pants standing near the left side of the frame, and another in black attire dribbling a basketball near the center of the court. The individual in black appears focused, and their movements suggest they are practicing their shooting technique. As the sequence progresses, the person in black takes a shot from the free throw line. The ball is released into the air, heading towards the basket. The person watches the trajectory of the ball, maintaining focus throughout the action. The ball bounces off the rim of the basket and bounces towards the camera. The person in black walks towards the camera, trying to get the ball again to attempt another shot. The scene captures the dynamic energy of the practice session, highlighting the concentration and skill involved in basketball training."
+}

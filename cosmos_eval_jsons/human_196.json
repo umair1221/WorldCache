@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_196",
+  "prompt": "The video opens in a bright, modern kitchen with white brick walls and light wooden flooring. A man stands a few steps away from the wooden dining table, holding a ping pong paddle in his right hand. He is dressed casually in an unbuttoned beige shirt over a white t-shirt, coral shorts, white socks, and black sneakers kept behind him. The kitchen features a white refrigerator with a small logo on its door, a small white oven, and a countertop with various items including jars and utensils. A neon sign reading \"TOGETHER\" is mounted on the wall above the counter. The man begins by standing still, then starts to move slightly forward as he adjusts his stance. He then actively engages in playing ping pong, swinging the paddle to hit a ball that is seen flying through the air towards him. His movements become more dynamic, showing a focus on the game as he bends slightly forward, anticipating the ball's trajectory. By the final frame, the man is in an active playing position, fully engaged in the game, with the ball mid-air and the paddle poised to strike.  A medium shot captures the man's movements, emphasizing his casual yet focused demeanor as he plays ping pong in this stylish kitchen setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_196.jpg"
+}

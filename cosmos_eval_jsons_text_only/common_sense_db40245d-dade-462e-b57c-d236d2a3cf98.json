@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_db40245d-dade-462e-b57c-d236d2a3cf98",
+  "prompt": "A man stands in a forest during the daytime, holding a large wooden pole over his right shoulder. He is positioned in the center-right of the frame, occupying most of the right half of the shot. The man wears a blue shirt with the sleeves rolled up to his forearms, featuring an intricate blue, white, and light blue pattern on the torso. He has dark short hair and visible crow\u2019s feet and forehead lines. The man holds some leaves in his right hand, which he alternates between holding and gesturing with his left hand, touching the right side of his face and then pointing to the plant. He appears to be talking, looking off-screen to the left, and occasionally nods slightly while shifting his gaze down toward the plant. A left hand enters the frame from the left, gesturing toward the plant as the man holds it with both hands. The background behind him is a hillside with dense vegetation; the left side is in the shade, while the right side is illuminated by sunlight, creating a lighter shade of green. Another forested hill is visible in the middle of the background, also receiving sunlight. The camera captures a medium shot from a slightly high angle, with random movements throughout the scene."
+}

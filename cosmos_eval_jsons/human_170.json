@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_170",
+  "prompt": "A close-up of a snowboarder gliding down a snowy slope, capturing their lower body as they maintain a controlled posture. The snowboarder wears beige snow pants and white snowboarding boots, securely fastened into black bindings on an orange snowboard. Their shadow stretches ahead on the pristine snow, indicating the sun's position. In the background, a dense line of bare trees frames the winter landscape. The snowboarder smoothly carves through the snow, leaving a faint trail behind, with the snow-covered terrain and distant trees remaining unchanged throughout the video. The snowboarder's shadow subtly shifts, mirroring their movement down the slope.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_170.jpg"
+}

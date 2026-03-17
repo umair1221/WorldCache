@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4782413-uhd_3840_2160_30fps",
+  "prompt": "The video opens with a wide aerial shot of a bustling ocean scene, likely at a popular surfing location. The turquoise waters are calm, with a few small waves rolling in, and numerous surfers are scattered across the surface, some standing on their boards while others paddle out. The sky above is a clear blue, with a few wispy clouds adding texture to the horizon. The surfers are engaged in various activities, with some actively riding waves and others waiting for their turn. The overall atmosphere is lively yet peaceful, capturing the essence of a sunny day at the beach. As the video progresses, the surfers continue their activities without significant changes in their positions or actions, maintaining the same serene and dynamic scene throughout the frames. By the final frame, the surfers remain dispersed across the water, continuing their surfing activities amidst the tranquil ocean backdrop.  Aerial view of a lively ocean scene with numerous surfers enjoying the waves. The turquoise waters are calm, with small waves rolling in, and the sky is a clear blue with wispy clouds. The surfers are engaged in various activities, with some actively riding waves and others paddling out. The overall atmosphere is lively yet peaceful, capturing the essence of a sunny day at the beach.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_4782413-uhd_3840_2160_30fps.jpg"
+}

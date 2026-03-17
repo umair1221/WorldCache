@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_342f4397-8e2c-48d5-a3f2-08c5fddef944",
+  "prompt": "In a modest, worn-down room with whitewashed walls marred by stains, a woman is cooking. The scene is illuminated by natural light streaming through a window with stained, cracked window sills to the right. A door with see-through panels and a wooden board at the bottom stands in the middle of the room. The camera captures a medium shot at eye level, focusing on the woman who is sitting cross-legged on a colorful carpet adorned with patterns in shades of red, white, and dark blue. She is dressed in a light blue outfit with an open golden vest over it, her dark-colored hair covered with a patterned blue scarf, and she wears a golden-colored bracelet on her right wrist. Her gaze remains fixed on the pot as she carefully handles a steaming round pot with a cloth. The pot is moved from the small green stove, which sits in front of a rusted metal structure with a pipe leading upwards. The woman places the pot onto a cloth on the carpet, and the camera tracks her movement to the left, revealing a collection of wood behind her to the left of the frame."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_186",
+  "prompt": "A young girl stands on a tennis court, poised to hit a tennis ball. She is dressed in a light blue shirt, a white pleated skirt, and white sneakers, with a tri-colored headband securing her hair. The court is surrounded by a green chain-link fence, and beyond it, there's a grassy area with some trees and a tall compound, possibly including a bench. The sunlight illuminates the scene, casting shadows across the court. As the video progresses, the girl transitions from a ready stance to a full swing. Initially, she holds the racket high, anticipating the incoming ball. As the ball approaches, she shifts her weight, extending her arm to make contact. Her body rotates, and her racket swings through the air, making contact with the ball mid-air. After the hit, she follows through with her motion, her racket moving behind her as she completes the swing. The ball is seen flying away after being struck, indicating the successful execution of her shot. In the final frame, the girl has completed her swing, her racket initially behind her having been pulled in front of her. She proceeds to stand in a posture suggesting readiness for the ball to return. The scene remains consistent with the initial setting, with the green fence and grassy background still in view, and the sunlight continuing to cast shadows on the court.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_186.jpg"
+}

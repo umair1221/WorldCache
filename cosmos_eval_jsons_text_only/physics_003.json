@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_003",
+  "prompt": "A static shot captures a light-colored wooden tabletop with a smooth, polished surface and visible wood grain patterns. Two black cylindrical objects, resembling pipes, are positioned at opposite ends near the edges of the table. The background features a hint of a yellow wall, suggesting an indoor setting. The lighting is even, casting soft shadows from the pipes onto the table's surface. As the video progresses, two tennis balls, one blue and one yellow, roll out of the pipes and move towards each other across the table. They collide near the center and recoil. The final frame shows the two tennis balls resting side by side on the table, with no further movement observed."
+}

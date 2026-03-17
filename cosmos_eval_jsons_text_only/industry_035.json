@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_035",
+  "prompt": "A documentary-style video capturing the automated coffee production process at a Starbucks facility, focusing on the \"TOKYO ROAST\" coffee bags. The scene opens in a clean, industrial setting with metallic machinery and a polished concrete floor. A conveyor belt, made of metal with a textured surface, carries multiple white coffee bags labeled \"TOKYO ROAST,\" each featuring a green circular logo at the bottom right corner. The bags move steadily along the conveyor belt, showcasing the systematic flow of the production line. The machinery operates efficiently, ensuring the bags remain aligned and uninterrupted as they progress through the facility. The video maintains a consistent focus on the conveyor belt and the bags, emphasizing the precision and orderliness of the automated process."
+}

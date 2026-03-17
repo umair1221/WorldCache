@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3048199-uhd_3840_2160_24fps",
+  "prompt": "A young woman is captured running up a set of wide, gray concrete stairs in an urban setting. She is dressed in athletic attire, including a light-colored, tie-dye hoodie, black leggings, and white sneakers. Her long dark hair flows freely as she runs with a determined and focused pace. The stairs are bordered by a sleek, dark metal railing that curves gently along their length. In the background, a modern urban landscape unfolds, featuring tall residential buildings with a mix of glass and brick facades. Some greenery, including trees and bushes, is visible at the base of the stairs and interspersed among the buildings, adding a touch of nature to the cityscape. The sky above is clear and bright, suggesting a sunny day. The camera follows her on the side, capturing her progress as she climbs higher. The surrounding urban environment remains constant, with the modern buildings and greenery providing a static backdrop to her dynamic action. By the final frame, the woman has reached the top of the stairs, having completed her climb. The scene captures her in mid-stride, with her body leaning forward slightly as she maintains her momentum. The urban landscape and greenery remain unchanged, emphasizing the contrast between her active movement and the stillness of the surroundings."
+}

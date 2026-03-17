@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_086",
+  "prompt": "The video opens with a person seated at a wooden table in a simple, well-lit room that resembles a dining area or a casual workspace. The individual, dressed in dark clothing, is engaged with a red folder on the table. The table holds several items: a clear glass, a bottle, and a few small containers. To the left, another table holding a yellow bag and other miscellaneous objects is visible. Two large robotic arms with blue lights are positioned in the foreground, suggesting an experimental or technological setup. The background includes a window letting in natural light and additional tables and benches, indicating a communal dining or working area. As the video progresses, the person seated at the table lifts the red folder and then holds it up. The robotic arms then move towards the person seated on the table, grab the red folder from them using the grippers of both arms, and move backward. As the robotic arms move backward, another individual dressed in a similar outfit to the person seated at the table walks into the frame. The scene concludes with the robotic arms turning towards the right while holding the red folder.  A medium shot captures the interaction between the person seated at the table and the robotic arms, emphasizing the precision and coordination involved in the experiment. The setting is modern and functional, with a focus on the technological demonstration taking place."
+}

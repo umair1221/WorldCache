@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_8d8858fa-9cb7-413b-8b28-43e814c78156",
+  "prompt": "The video opens with a view from inside a car, positioned at an intersection in a suburban neighborhood during early evening. The car's dashboard reflects the street ahead, capturing a serene suburban scene. Across the street, a pedestrian in dark clothing is crossing the road, moving from left to right. The houses lining both sides of the street are two-story structures with neutral-colored exteriors, some featuring white picket fences. Several cars are parked along the curb, including a blue sedan. Palm trees are scattered throughout the neighborhood, adding a touch of greenery. The sky is clear with a gradient of colors suggesting a sunset, enhancing the tranquil suburban atmosphere. As the pedestrian continues their crossing, a white car moves forward towards the frame on the left lane and moves over the \"STOP\" lane marking on the road while the ego car remains stationary. The pedestrian's pace is consistent, and they appear focused on reaching the other side of the road. The surrounding environment remains unchanged, with the same houses, parked cars, and palm trees visible throughout the sequence. By the final frame, the pedestrian has almost reached the far side of the street, with the ego car slightly turned to the left and the overall scene maintaining its serene suburban ambiance. A medium shot from a slightly elevated perspective captures the pedestrian's movement across the road.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_8d8858fa-9cb7-413b-8b28-43e814c78156.jpg"
+}

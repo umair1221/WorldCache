@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_130",
+  "prompt": "A close-up of a runner ascending a set of concrete stairs, captured with a dynamic lens flare effect. The runner is dressed in a patterned gray tank top, pink shorts, and black running shoes, with a red water bottle attached to their waistband. Their legs move rhythmically, propelling them forward as they climb the stairs bordered by a metal railing with horizontal bars. The background features a clear sky with a few distant buildings, indicating an urban setting. The sunlight creates a warm, lens-flare effect, adding a dynamic quality to the scene. The camera follows the runner's movement, capturing the fluid motion of their stride against the backdrop of the sunlit urban environment. The runner's form remains consistent throughout the sequence, emphasizing the effort and determination in their gait. By the final frame, the runner has reached the top of the stairs, continuing their run along the flat surface beyond, with the same warm, lens-flare lighting enhancing the overall scene."
+}

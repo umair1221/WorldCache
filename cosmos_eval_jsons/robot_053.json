@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_053",
+  "prompt": "The video opens indoors, likely in a grocery store, showcasing a wooden table laden with a variety of colorful vegetables, including yellow, purple, and red bell peppers, tomatoes, corn, and zucchini. In front of the table, a shopping cart with a red handle contains a plastic bag. Two robotic arms with black and silver claw-like mechanisms are positioned above the table, poised for action. As the video progresses, the robotic arm on the right side methodically picks up vegetables and places them into the plastic bag in the shopping cart. It begins by placing a cucumber, followed by a tomato, and then corn. Two partially visible people move beside the table in the background. By the final frame, the robotic arm extends toward a crate, seemingly preparing to grab another vegetable, demonstrating the integration of robotics in automating grocery-related tasks. The setting is well-lit, highlighting the vibrant colors of the vegetables and the sleek design of the robotic arms. A medium shot captures the entire scene, emphasizing the precision and efficiency of the robotic operation.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_053.jpg"
+}

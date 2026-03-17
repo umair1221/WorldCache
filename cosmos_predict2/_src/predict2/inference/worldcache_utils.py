@@ -17,7 +17,8 @@ except ImportError:
     cv2 = None
     np = None
 
-from cosmos_predict2._src.predict2.inference.debug_utils import visualize_latent
+
+
 
 
 def estimate_optical_flow(prev_img_tensor, curr_img_tensor, scale_factor=0.5):
@@ -147,32 +148,8 @@ def warp_feature(feature_tensor, flow_tensor):
     warped_feature = F.grid_sample(feature_tensor, grid, mode='bilinear', padding_mode='reflection', align_corners=True)
     return warped_feature
 
-def compute_hf_drift(prev_img_tensor, curr_img_tensor):
-    """
-    Computes High-Frequency Drift using Laplacian filter.
-    Returns scalar drift value.
-    """
-    # 1. Laplacian Kernel (High-Pass)
-    # [[0, -1, 0], [-1, 4, -1], [0, -1, 0]]
-    k = torch.tensor([[0, -1, 0], [-1, 4, -1], [0, -1, 0]], dtype=prev_img_tensor.dtype, device=prev_img_tensor.device).view(1, 1, 3, 3)
-    
-    # Expand to C channels (depth-wise conv)
-    C = prev_img_tensor.shape[1]
-    k = k.repeat(C, 1, 1, 1)
-    
-    # 2. Apply Filter (Depthwise)
-    # Padding=1 for same size
-    prev_hf = F.conv2d(prev_img_tensor, k, padding=1, groups=C)
-    curr_hf = F.conv2d(curr_img_tensor, k, padding=1, groups=C)
-    
-    # 3. L1 Distance of HF components
-    hf_drift = (prev_hf - curr_hf).abs().mean()
-    
-    # Normalize by signal magnitude? 
-    # Usually drift thresholds are relative.
-    # relative_hf_drift = hf_drift / (prev_hf.abs().mean() + 1e-6)
-    
-    return hf_drift
+
+
 
 def compute_saliency_map(features):
     """
@@ -327,13 +304,7 @@ def worldcache_mini_train_dit_forward(
     # We maintain state in self.cnt, self.num_steps, self.ret_ratio, etc.
     # self.cnt is incremented at the end.
     
-    # Parallel CFG mode: B=2 (cond+uncond stacked), use single buffer index
-    # Sequential CFG mode: ping-pong buffer with cnt % 2
-    is_parallel_cfg = getattr(self, 'worldcache_parallel_cfg', False)
-    if is_parallel_cfg:
-        current_idx = 0  # Single buffer for batched B=2
-    else:
-        current_idx = self.cnt % 2  # Ping-pong for sequential
+    current_idx = self.cnt % 2  # Ping-pong for sequential CFG (cond/uncond)
     
     test_x = x_B_T_H_W_D.clone()
 
@@ -400,48 +371,6 @@ def worldcache_mini_train_dit_forward(
                  # Update for logging
                  delta_y = weighted_rel_drift
 
-             
-             
-             # --- Adaptive Unconditional Caching (AdUC) ---
-             # AdUC is incompatible with parallel CFG (entire batch is processed together)
-             if getattr(self, 'worldcache_aduc_enabled', False) and not is_parallel_cfg:
-                 # Correct Step Ratio Calculation: cnt tracks PASSES (cond+uncond). 
-                 # Step = cnt // 2.
-                 actual_step = self.cnt // 2
-                 step_ratio = actual_step / getattr(self, 'worldcache_num_steps', 35)
-                 aduc_start = getattr(self, 'worldcache_aduc_start', 0.5)
-                 
-                 # Unconditional pass is usually the SECOND call in velocity_fn (cnt % 2 == 1)
-                 # Index 0 = Conditional, Index 1 = Unconditional
-                 if current_idx == 1: 
-                     # DEBUG: Force print to see what's happening
-                     print(f"[AdUC DEBUG] Step {actual_step}: Ratio {step_ratio:.2f} > Start {aduc_start}?")
-                     
-                     if step_ratio > aduc_start:
-                         # AdUC: Skip unconditional forward pass
-                         try:
-                             # Reuse previous unconditional OUTPUT (stored at index 1)
-                             # NOTE: We need the FINAL output (projected), not the internal state.
-                             if len(self.previous_output) > 1:
-                                 prev_output = self.previous_output[1]
-                             
-                                 if prev_output is not None:
-                                     print(f"[AdUC ACTIVE] Step {actual_step}: Skipping Unconditional Pass")
-                                     self.cnt += 1 # CRITICAL: Manually increment counter since we return early
-                                     # We also need to update resume_flag? 
-                                     # self.resume_flag[current_idx] = True # Maybe?
-                                     return prev_output
-                                 else:
-                                     pass
-                                     # print(f"[AdUC FAIL] Step {actual_step}: No previous Uncond output found")
-
-                         except Exception as e:
-                             print(f"[AdUC ERROR] {e}")
-                             pass 
-
-
-
-
 
              # --- Causal-DiCache (Motion-Adaptive Thresholding) ---
              # Calculate input velocity (drift of x_t vs x_{t-1})
@@ -479,70 +408,15 @@ def worldcache_mini_train_dit_forward(
                  dynamic_thresh *= decay_factor
 
 
-             
-             # --- Spectral-Adaptive Caching (High-Freq Monitoring) ---
-             hf_check_pass = True
-             if getattr(self, 'worldcache_hf_enabled', False):
-                  # Check High-Frequency Drift
-                  # x_B_T_H_W_D -> (B, D, H, W) approx?
-                  # Use input images for drift check (consistent with main drift)
-                  curr_input_img = rearrange(x_B_T_H_W_D, 'b t h w d -> b (t d) h w')
-                  prev_input_img = rearrange(self.previous_input[current_idx], 'b t h w d -> b (t d) h w')
-                  
-                  hf_drift = compute_hf_drift(prev_input_img, curr_input_img)
-                  hf_thresh = getattr(self, 'worldcache_hf_thresh', 0.01)
-                  
-                  # If HF drift is high, we should NOT skip, even if dynamic_thresh is satisfied.
-                  if hf_drift > hf_thresh:
-                       hf_check_pass = False
-                       log.info(f"[WorldCache] Step {self.cnt}: HF Drift {hf_drift:.4f} > {hf_thresh}")
-             
-             # 1. Global Drift < Dynamic Threshold
-             # 2. HF Drift < HF Threshold (if enabled)
-             
-             import json
-             import os
-             log_file = "/share_2/users/umair_nawaz/ats_real_drift_log.json"
-             log_data = {"step": self.cnt, "drift": float(self.accumulated_rel_l1_distance[current_idx]), "dynamic_thresh": float(dynamic_thresh), "static_thresh": float(self.worldcache_rel_l1_thresh)}
-             if not os.path.exists(log_file):
-                 with open(log_file, "w") as f:
-                     json.dump([log_data], f)
-             else:
-                 with open(log_file, "r") as f:
-                     try:
-                         data = json.load(f)
-                     except:
-                         data = []
-                 data.append(log_data)
-                 with open(log_file, "w") as f:
-                     json.dump(data, f)
 
-             log.info(f"[WorldCache] Step {self.cnt}: Drift {self.accumulated_rel_l1_distance[current_idx]:.4f} / Thresh {dynamic_thresh:.4f} (Base {self.worldcache_rel_l1_thresh}, Vel {input_velocity:.4f}, Alpha {alpha}) | HF {hf_drift if 'hf_drift' in locals() else 'N/A'}")
-             # Console Debug Print for User
-             # print(f"[DRIFT CHECK] Step {self.cnt}: Drift {self.accumulated_rel_l1_distance[current_idx]:.4f} vs Thresh {dynamic_thresh:.4f} | OSI: {getattr(self, 'worldcache_osi_enabled', False)}")
-             if (self.accumulated_rel_l1_distance[current_idx] < dynamic_thresh) and hf_check_pass: # skip this step
-                 # For parallel CFG with B=2: evaluate both halves and only skip if BOTH agree
-                 if is_parallel_cfg and B > 1:
-                     # Split the drift check for each half of the batch
-                     diff_full = (test_x - self.previous_internal_states[current_idx]).abs()
-                     half_B = B // 2
-                     drift_cond = diff_full[:half_B].mean() / (self.previous_internal_states[current_idx][:half_B].abs().mean() + 1e-6)
-                     drift_uncond = diff_full[half_B:].mean() / (self.previous_internal_states[current_idx][half_B:].abs().mean() + 1e-6)
-                     both_want_skip = (drift_cond < dynamic_thresh) and (drift_uncond < dynamic_thresh)
-                     if both_want_skip:
-                         skip_forward = True
-                         self.worldcache_step_skipped_count += 1
-                         self.resume_flag[current_idx] = False
-                         residual_x = self.residual_cache[current_idx]
-                     else:
-                         self.resume_flag[current_idx] = True
-                         self.accumulated_rel_l1_distance[current_idx] = 0
-                         self.previous_internal_states[current_idx] = test_x.clone()
-                 else:
-                     skip_forward = True
-                     self.worldcache_step_skipped_count += 1 # Count cache hits
-                     self.resume_flag[current_idx] = False 
-                     residual_x = self.residual_cache[current_idx]
+             
+
+             log.info(f"[WorldCache] Step {self.cnt}: Drift {self.accumulated_rel_l1_distance[current_idx]:.4f} / Thresh {dynamic_thresh:.4f} (Base {self.worldcache_rel_l1_thresh}, Vel {input_velocity:.4f}, Alpha {alpha})")
+             if self.accumulated_rel_l1_distance[current_idx] < dynamic_thresh: # skip this step
+                 skip_forward = True
+                 self.worldcache_step_skipped_count += 1
+                 self.resume_flag[current_idx] = False 
+                 residual_x = self.residual_cache[current_idx]
              else:
                  self.resume_flag[current_idx] = True
                  self.accumulated_rel_l1_distance[current_idx] = 0
@@ -783,7 +657,7 @@ def worldcache_mini_train_dit_forward(
     if self.cnt >= self.worldcache_num_steps: 
         # Log Summary before reset
         cache_rate = self.worldcache_step_skipped_count / self.worldcache_num_steps
-        log.info(f"[WorldCache Summary] Skipped {self.worldcache_step_skipped_count}/{self.worldcache_num_steps} steps ({cache_rate:.1%}) | MotionSens={getattr(self, 'worldcache_motion_sensitivity', 'N/A')} HFThresh={getattr(self, 'worldcache_hf_thresh', 'N/A')}")
+        log.info(f"[WorldCache Summary] Skipped {self.worldcache_step_skipped_count}/{self.worldcache_num_steps} steps ({cache_rate:.1%}) | MotionSens={getattr(self, 'worldcache_motion_sensitivity', 'N/A')}")
         
         # Reset at end of generation
         # WAN resets self.cnt = 0 and clears cache
@@ -815,7 +689,7 @@ def worldcache_mini_train_dit_forward(
     #     # Save to outputs/debug_vis_worldcache
     #     visualize_latent(x_B_C_Tt_Hp_Wp, step_idx, save_dir="outputs/debug_vis_worldcache", suffix=suffix, subfolder_name=subfolder)
 
-    # Store Final Output for AdUC Reuse
+    # Store Final Output
     if current_idx < len(self.previous_output):
         self.previous_output[current_idx] = x_B_C_Tt_Hp_Wp.clone()
 
@@ -829,17 +703,12 @@ def apply_worldcache(
     ret_ratio: float = 0.2,
     probe_depth: int = 1,
     motion_sensitivity: float = 5.0,
-    flow_enabled: bool = False, # New parameter for Flow-Warped Caching
-    flow_scale: float = 0.5, # New parameter for Optimized flow
-    hf_enabled: bool = False, # Spectral-Adaptive
-    hf_thresh: float = 0.01,
-    saliency_enabled: bool = False, # Saliency-Guided
+    flow_enabled: bool = False,
+    flow_scale: float = 0.5,
+    saliency_enabled: bool = False,
     saliency_weight: float = 5.0,
-    osi_enabled: bool = False, # Online System Identification
-    dynamic_decay: bool = False, # Dynamic Threshold Decay
-    aduc_enabled: bool = False, # Adaptive Unconditional Caching
-    aduc_start: float = 0.5,
-    parallel_cfg: bool = False, # Parallel CFG (batch size 2)
+    osi_enabled: bool = False,
+    dynamic_decay: bool = False,
 ):
     """
     Applies WorldCache patching to the model.
@@ -853,22 +722,17 @@ def apply_worldcache(
     model.worldcache_motion_sensitivity = motion_sensitivity
     model.worldcache_flow_enabled = flow_enabled
     model.worldcache_flow_scale = flow_scale
-    model.worldcache_hf_enabled = hf_enabled
-    model.worldcache_hf_thresh = hf_thresh
     model.worldcache_saliency_enabled = saliency_enabled
     model.worldcache_saliency_weight = saliency_weight
     model.worldcache_osi_enabled = osi_enabled
     model.worldcache_dynamic_decay = dynamic_decay
-    model.worldcache_aduc_enabled = aduc_enabled
-    model.worldcache_aduc_start = aduc_start
-    model.worldcache_parallel_cfg = parallel_cfg
 
     model.cnt = 0
-    model.worldcache_step_skipped_count = 0 # New counter
+    model.worldcache_step_skipped_count = 0
     model.accumulated_rel_l1_distance = [0.0, 0.0]
     model.residual_cache = [None, None]
     model.probe_residual_cache = [None, None]
-    model.residual_window = [[], []] # List of lists
+    model.residual_window = [[], []]
     model.probe_residual_window = [[], []]
     model.previous_internal_states = [None, None]
     model.previous_input = [None, None]
@@ -879,7 +743,7 @@ def apply_worldcache(
     import types
     model.forward = types.MethodType(worldcache_mini_train_dit_forward, model)
     
-    log.info(f"WorldCache applied: steps={num_steps}, thresh={rel_l1_thresh}, alpha={motion_sensitivity}, flow={flow_enabled}, scale={flow_scale}, hf={hf_enabled}, saliency={saliency_enabled}, osi={osi_enabled}, decay={dynamic_decay}, aduc={aduc_enabled}({aduc_start}), parallel_cfg={parallel_cfg}")
+    log.info(f"WorldCache applied: steps={num_steps}, thresh={rel_l1_thresh}, alpha={motion_sensitivity}, flow={flow_enabled}, scale={flow_scale}, saliency={saliency_enabled}, osi={osi_enabled}, decay={dynamic_decay}")
 
     return model
 

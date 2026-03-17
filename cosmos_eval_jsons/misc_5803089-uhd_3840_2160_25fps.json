@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_5803089-uhd_3840_2160_25fps",
+  "prompt": "A close-up view captures a motocross rider in a forest trail, dressed in a blue jacket and patterned pants, gripping the handlebars of a white dirt bike with large, rugged tires. The bike, equipped with a visible exhaust pipe and various decals, navigates the narrow, moss-covered path surrounded by tall, slender trees. Sunlight filters through the canopy, casting dappled shadows on the ground. The camera follows the rider closely, capturing their movements as they lean into turns and adjust their posture for balance. Another rider, also in motion, is visible further down the path, wearing similar protective gear. The forest remains lush and dense, with sunlight occasionally breaking through the tree canopy, creating a dynamic interplay of light and shadow on the ground. The riders' bikes kick up small clouds of dust as they travel, highlighting the rough terrain and the speed at which they are moving. The video concludes with both riders continuing their journey deeper into the forest, the camera maintaining a steady focus on their back as they navigate the winding trail.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_5803089-uhd_3840_2160_25fps.jpg"
+}

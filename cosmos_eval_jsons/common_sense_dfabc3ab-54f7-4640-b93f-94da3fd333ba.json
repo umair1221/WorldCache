@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_dfabc3ab-54f7-4640-b93f-94da3fd333ba",
+  "prompt": "A woman walks through a dimly lit hallway, her movements hurried and cautious as she looks around anxiously. She wears a long navy blue coat over a baby blue V-neck undershirt with large buttons, paired with blue pants. Her blonde hair falls loosely around her shoulders. The hallway is lined with doors on both sides; on the right wall, there is a white door with a black handle and a key in the lock, followed by a yellow vent. On the left wall, a gray metal door stands out. Her path is blocked by a metal-framed door with glass panels and a keycard reader. Beyond the glass panels, more white doors line the opposite wall. Bright white light streams through a large window at the end of the hallway, creating a stark contrast with the otherwise muted tones of the corridor. The setting suggests a secure or compartmentalized area. As she approaches the glass panel doors, her gaze shifts to check if they are closed, her movements fluid and uninterrupted. The camera maintains a medium shot throughout, capturing her anxious yet determined demeanor and the detailed environment of the hallway.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_dfabc3ab-54f7-4640-b93f-94da3fd333ba.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_017",
+  "prompt": "The video begins with a close-up shot of a toy oven, part of a play kitchen set, situated in what appears to be a store or showroom. The oven has a modern design with a metallic finish and a clear glass door, through which a blue bowl and a red object, resembling a toy strawberry, are visible. To the left of the oven, there is a wooden cabinet with a dark frame, and the floor is a light-colored, speckled surface. A black robotic arm is positioned above the oven, moving downward and applying pressure to the top handle of the oven door. The door slowly swings open, revealing a gray tray inside the oven. The robotic arm then moves to the position behind the door and pushes it open smoothly. The camera follows the robotic arm's movements, capturing the smooth opening of the oven door and the reveal of the tray inside. The background remains static, focusing on the interaction between the robotic arm and the toy oven."
+}

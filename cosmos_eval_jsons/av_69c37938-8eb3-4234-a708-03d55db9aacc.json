@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_69c37938-8eb3-4234-a708-03d55db9aacc",
+  "prompt": "A point-of-view video shot from inside a vehicle, positioned at an intersection under a cloudy sky. The road ahead is wide and paved, flanked by trees with green foliage that suggest a suburban or park-like setting. The vehicle moves forward slowly through the intersection, with the camera angle remaining fixed, capturing the road ahead and the surrounding environment. The trees sway slightly, indicating a gentle breeze. Two stop signs are visible near the center of the intersection, along with a \"no-left-turn\" sign and stop lane markers on the road. The background scenery includes a few buildings partially obscured by the trees and a few parked cars on the right side of the road. The overall atmosphere is calm and overcast, with no immediate signs of traffic or pedestrians. The stop signs and \"no-left-turn\" sign remain stationary throughout the sequence, and the stop lane markers on the road become more prominent as the car approaches the intersection. The background scenery, including the distant buildings and parked cars, remains unchanged, maintaining the tranquil and quiet ambiance of the scene. By the final frame, the car has moved closer to the intersection, with the stop signs and \"no-left-turn\" sign clearly visible, and the stop lane markers on the road becoming more defined. The trees continue to sway gently, and the overall scene remains calm and undisturbed.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_69c37938-8eb3-4234-a708-03d55db9aacc.jpg"
+}

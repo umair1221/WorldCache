@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_054",
+  "prompt": "A static shot captures a clear acrylic sheet laid flat on a wooden table. The acrylic sheet is transparent, showcasing the wood grain beneath it. At the center of the acrylic sheet, a small, circular dollop of red paint is positioned. To the right, a rotating paintbrush, secured with green tape on a black base, is mounted. The paintbrush has a white handle and an orange-tipped bristle head. The background is a plain, light-colored wall, suggesting an indoor studio or workspace. As the video progresses, the paintbrush begins to spin clockwise, lifting the red paint from the acrylic sheet. The paint flows smoothly, creating a thin, curved trail that extends outward, forming a noticeable, elongated streak. The paintbrush continues its rotation, causing the red paint to spread further across the clear surface, maintaining a dynamic and fluid motion throughout the sequence. The overall scene remains static, focusing on the interaction between the rotating paintbrush and the red paint."
+}

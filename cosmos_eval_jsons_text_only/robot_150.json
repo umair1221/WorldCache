@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_150",
+  "prompt": "The video opens with a view of a wooden table adorned with various objects, including a metallic teapot, a cluster of dark grapes, a green cucumber, a red bell pepper, a green apple, a white mug containing a green object, a white clock, and two plates\u2014one light blue and one dark blue. A pink object, possibly a pillow or a soft item, rests on a gray base. Two robotic arms, equipped with grippers, are positioned on either side of the table, suggesting an experiment involving manipulation, interaction, testing, demonstration, and control of the robot with the objects. Two individuals are present; one sits on a chair while the other stands nearby. The standing individual reaches out with their right hand towards the dark blue plate, shifting towards the robotic arms. Their hand then moves away from the plate, which remains stationary. The robotic arm on the left picks up the pink object and places it on the blue plate. The robotic arm on the right exhibits subtle movements but does not interact with any objects. By the end of the video, the scene shows some changes in the arrangement of objects on the table, with the dark blue plate still in its original position, and no significant changes in the environment or additional objects introduced. The setting appears to be a workspace with various equipment and tools visible in the background."
+}

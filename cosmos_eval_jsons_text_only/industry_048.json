@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_048",
+  "prompt": "The video opens with a close-up view of a robotic plasma cutter in operation within an industrial workshop. The scene is set in a well-lit environment with large windows allowing natural light to illuminate the workspace. The machine, mounted on a sturdy, metallic framework, features a complex array of cables and hoses connected to the cutting head, which is positioned above a large sheet of dark metal. The cutting head, equipped with a nozzle that emits a bright orange flame, is actively engaged in laser cutting the metal, producing visible sparks and smoke as it moves across the surface. Protective barriers and ventilation systems are visible around the cutting area, ensuring safety during the process. The metal sheet below shows signs of previous cuts, with some areas already marked and cut. As the video progresses, the cutting head continues its precise movements, leaving behind a clean and straight line in the metal. The final frame captures the cutting head in motion, having completed a section of the cut, with the metal sheet now featuring a distinct, straight edge.  A close-up shot from a slightly elevated perspective, focusing on the robotic plasma cutter in action."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_266",
+  "prompt": "A child rides a blue bicycle on a paved road, wearing a blue jacket, gray pants, and a blue helmet. The bicycle has handlebars and orange reflectors on its wheels. The child rides steadily towards the left side of the frame, their back facing the right. A dark-colored van is parked on the side of the road, partially visible behind the cyclist's body, to their right. The background features a black wooden fence and some greenery, including bushes and trees. The sky appears overcast with some natural light casting on the buildings. The background scenery, including the black wooden fence and greenery, remains static throughout the frames. The child continues to ride the bicycle steadily, with the background now showing more of the residential area with houses and gardens visible in the distance. A low-angle shot captures the child's movement from the side, emphasizing the motion and the surrounding environment."
+}

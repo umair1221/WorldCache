@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_096",
+  "prompt": "The video begins with a panning shot of a wooden tray being moved away from a desk in an office setting. On the tray, there is a dark-colored cup, possibly containing a beverage. The camera angle is positioned above the tray, capturing both the tray and the cup clearly. The surrounding area includes a light-colored wooden floor, parts of other desks, and a white wall in the background. The scene is well-lit, suggesting an indoor environment with artificial lighting. Throughout the video, the robot's arms rotate right, causing the camera to pan right, while the tray remains centered in the frame. The video concludes when the robot's arms are nearly parallel to the table on its left side."
+}

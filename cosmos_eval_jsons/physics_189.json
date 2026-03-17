@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_189",
+  "prompt": "The video opens with an astronaut inside the International Space Station (ISS), showcasing the confined yet meticulously organized environment. The astronaut, dressed in a blue shirt and khaki pants, is seen floating effortlessly due to the microgravity conditions. He moves gracefully around the station, interacting with various pieces of equipment and machinery that are mounted on the walls and floors. The camera pans around him, highlighting the complexity of the space station's interior, which includes control panels, storage compartments, and scientific instruments. The lighting is artificial, typical of spacecraft interiors, casting a cool white glow over the scene. The overall atmosphere is one of quiet activity and technological sophistication, emphasizing the advanced nature of space exploration. The astronaut appears to be conducting routine tasks or demonstrating the capabilities of the ISS. The camera continues to pan around the astronaut, capturing his interactions with the station's equipment and the intricate details of the space station's interior. The video concludes with the astronaut still floating and interacting with the station, maintaining the serene and sophisticated ambiance of the ISS.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_189.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_055",
+  "prompt": "A close-up shot captures a wooden surface, likely a table or countertop, where a blue ceramic mug filled with a dark-colored liquid, presumably tea or coffee, sits prominently in the center. Above the mug, a pair of blue robotic grippers hold a white domino. Positioned directly above the mug, the grippers release the domino, allowing it to fall into the liquid. The video captures the moment the domino hits the surface, creating ripples and disturbances in the liquid, showcasing the principles of fluid dynamics. The final frame shows the mug with the liquid now disturbed by the falling domino."
+}

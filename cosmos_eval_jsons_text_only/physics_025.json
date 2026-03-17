@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_025",
+  "prompt": "A static shot captures a wooden table against a plain white wall. At the center of the table lies a bright yellow tennis ball adorned with a cheerful smiley face, featuring two black dots for eyes and a curved line for a mouth. Suspended from a cord with an orange knot near the hook, a clear acrylic box slowly descends from above. As the box approaches, it begins to enclose the tennis ball, eventually covering it completely. The box's descent is smooth and deliberate, ensuring the ball is fully contained within the transparent container. By the final frame, the acrylic box has fully covered the tennis ball, leaving only the top edge of the box visible above the ball."
+}

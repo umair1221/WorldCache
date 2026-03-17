@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_037",
+  "prompt": "The video opens with a view of a wooden kitchen countertop. On the left side, a light blue cloth is neatly folded. In the center, a small metallic pot with two handles is placed, accompanied by a yellow-handled spoon lying horizontally on the table. There is a toy mushroom in the metallic pot. To the right, two cans are visible: one labeled \"Tomato Sauce\" and the other \"Pineapple Chunks.\" A robotic arm, equipped with a claw-like mechanism, is positioned above the countertop. The arm descends and uses its claw to grasp the toy mushroom, lifting it from the metallic pot and placing it on the light blue cloth at the left part of the countertop. The scene captures the precise motion of the robotic arm, highlighting the contrast between the mechanical precision and the playful toy mushroom. The background includes a stove and various kitchen items, adding context to the setting."
+}

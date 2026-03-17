@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_106",
+  "prompt": "The video opens with a static shot of a minimalist room featuring a light blue wall. Central to the scene is a black wire shelving unit with wooden shelves. In the middle section of the shelf, three red books stand upright, while the other shelves remain empty. To the right of the shelving unit, a black metal coat rack with three hooks is mounted on the wall. Below the coat rack, a white trash bag filled with crumpled paper rests on the floor. A small electrical outlet is visible on the wall to the right of the coat rack. In the foreground, a robotic arm with a white and black exterior extends into the frame from the bottom left corner. The robotic arm, equipped with a tool resembling a pair of pliers, moves slowly towards the middle shelf, where it gently places a black book in the middle of the red books. The black book slightly tilts towards the red book on the shelf. The robotic arm then moves downward to its original position. The scene remains unchanged, with all other objects maintaining their positions throughout the video."
+}

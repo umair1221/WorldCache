@@ -65,11 +65,7 @@ from cosmos_predict2._src.imaginaire.utils import distributed, log
 from cosmos_predict2._src.imaginaire.utils.easy_io import easy_io
 from cosmos_predict2._src.predict2.inference.get_t5_emb import get_text_embedding
 from cosmos_predict2._src.predict2.utils.model_loader import load_model_from_checkpoint
-from cosmos_predict2._src.predict2.inference.dicache_utils import apply_dicache
 from cosmos_predict2._src.predict2.inference.worldcache_utils import apply_worldcache
-from cosmos_predict2._src.predict2.inference.easycache_utils import apply_easycache
-from cosmos_predict2._src.predict2.inference.teacache_utils import apply_teacache
-from cosmos_predict2._src.predict2.inference.debug_utils import apply_visual_trace, reset_run_id
 
 _IMAGE_EXTENSIONS = [".png", ".jpg", ".jpeg", ".webp"]
 _VIDEO_EXTENSIONS = [".mp4"]
@@ -254,24 +250,6 @@ class Video2WorldInference:
         offload_diffusion_model: bool = False,
         offload_text_encoder: bool = False,
         offload_tokenizer: bool = False,
-        dicache_enabled: bool = False,
-        dicache_num_steps: int = 35,
-        dicache_rel_l1_thresh: float = 0.5,
-        dicache_ret_ratio: float = 0.2,
-        dicache_probe_depth: int = 8,
-        fastercache_enabled: bool = False,
-        fastercache_start_step: int = 1,
-        fastercache_model_interval: int = 2,
-        fastercache_block_interval: int = 3,
-        # EasyCache Arguments
-        easycache_enabled: bool = False,
-        easycache_num_steps: int = 35,
-        easycache_thresh: float = 0.05,
-        easycache_ret_steps: int = 5,
-        # TeaCache Arguments
-        teacache_enabled: bool = False,
-        teacache_num_steps: int = 35,
-        teacache_thresh: float = 0.3,
         worldcache_enabled: bool = False,
         worldcache_num_steps: int = 35,
         worldcache_rel_l1_thresh: float = 0.5,
@@ -280,22 +258,10 @@ class Video2WorldInference:
         worldcache_motion_sensitivity: float = 5.0,
         worldcache_flow_enabled: bool = False,
         worldcache_flow_scale: float = 0.5,
-        worldcache_hf_enabled: bool = False,
-        worldcache_hf_thresh: float = 0.01,
         worldcache_saliency_enabled: bool = False,
         worldcache_saliency_weight: float = 5.0,
-        worldcache_osi_enabled: bool = False, # Online System Identification
-        worldcache_dynamic_decay: bool = False, # Dynamic Threshold Decay
-        worldcache_aduc_enabled: bool = False, # Adaptive Unconditional Caching
-        worldcache_aduc_start: float = 0.5,
-        worldcache_parallel_cfg: bool = False, # Parallel CFG (batch size 2)
-        timestep_skip_enabled: bool = False,
-        timestep_skip_early_ratio: float = 0.2,
-        timestep_skip_late_ratio: float = 0.2,
-        # Progressive Denoising — Early Exit
-        early_exit_enabled: bool = False,
-        early_exit_min_ratio: float = 0.5,
-        early_exit_threshold: float = 0.02,
+        worldcache_osi_enabled: bool = False,
+        worldcache_dynamic_decay: bool = False,
         use_torch_compile: bool = False, # Compile DiT natively
         
     ):
@@ -321,32 +287,6 @@ class Video2WorldInference:
         self.offload_text_encoder = offload_text_encoder
         self.offload_tokenizer = offload_tokenizer
         
-        # DiCache parameters
-        self.dicache_enabled = dicache_enabled
-        self.dicache_num_steps = dicache_num_steps
-        self.dicache_rel_l1_thresh = dicache_rel_l1_thresh
-        self.dicache_ret_ratio = dicache_ret_ratio
-        self.dicache_probe_depth = dicache_probe_depth
-        
-        if self.dicache_enabled and fastercache_enabled:
-             raise ValueError("dicache and fastercache cannot be enabled at the same time.")
-
-        self.fastercache_enabled = fastercache_enabled
-        self.fastercache_start_step = fastercache_start_step
-        self.fastercache_model_interval = fastercache_model_interval
-        self.fastercache_block_interval = fastercache_block_interval
-        
-        # EasyCache parameters
-        self.easycache_enabled = easycache_enabled
-        self.easycache_num_steps = easycache_num_steps
-        self.easycache_thresh = easycache_thresh
-        self.easycache_ret_steps = easycache_ret_steps
-        
-        # TeaCache parameters
-        self.teacache_enabled = teacache_enabled
-        self.teacache_num_steps = teacache_num_steps
-        self.teacache_thresh = teacache_thresh
-        
         self.use_torch_compile = use_torch_compile
         
         # WorldCache parameters
@@ -358,22 +298,10 @@ class Video2WorldInference:
         self.worldcache_motion_sensitivity = worldcache_motion_sensitivity
         self.worldcache_flow_enabled = worldcache_flow_enabled
         self.worldcache_flow_scale = worldcache_flow_scale
-        self.worldcache_hf_enabled = worldcache_hf_enabled
-        self.worldcache_hf_thresh = worldcache_hf_thresh
         self.worldcache_saliency_enabled = worldcache_saliency_enabled
         self.worldcache_saliency_weight = worldcache_saliency_weight
         self.worldcache_osi_enabled = worldcache_osi_enabled
         self.worldcache_dynamic_decay = worldcache_dynamic_decay
-        self.worldcache_aduc_enabled = worldcache_aduc_enabled
-        self.worldcache_aduc_start = worldcache_aduc_start
-        self.worldcache_parallel_cfg = worldcache_parallel_cfg
-
-        # Progressive Denoising — Early Exit
-        self.early_exit_enabled = early_exit_enabled
-        self.early_exit_min_ratio = early_exit_min_ratio
-        self.early_exit_threshold = early_exit_threshold
-        if sum([self.dicache_enabled, self.fastercache_enabled, self.worldcache_enabled, self.easycache_enabled, self.teacache_enabled]) > 1:
-             raise ValueError("Only one of dicache, fastercache, worldcache, easycache, or teacache can be enabled at a time.")
 
         # If no offloading is specified, instruct model loader to move the model to GPU
         model_device = None if offload_diffusion_model else "cuda"
@@ -453,77 +381,10 @@ class Video2WorldInference:
 
         self.model = model
         
-        # Apply DiCache if enabled
-        if self.dicache_enabled:
-            patch_target = self.model.net if hasattr(self.model, 'net') else self.model
-            print(f"[DiCache] Applying DiCache")
-            # log.info("[Memory Optimization] Offloading DiT conditioner to CPU")
-            patch_target = apply_dicache(
-                patch_target,
-                num_steps=self.dicache_num_steps,
-                rel_l1_thresh=self.dicache_rel_l1_thresh,
-                ret_ratio=self.dicache_ret_ratio,
-                probe_depth=self.dicache_probe_depth
-            )
-            
-            if hasattr(self.model, 'net'):
-                self.model.net = patch_target
-            else:
-                self.model = patch_target
-
-        # Apply FasterCache if enabled
-        if self.fastercache_enabled:
-            from cosmos_predict2._src.predict2.inference.fastercache_utils import apply_fastercache
-            log.info(f"[FasterCache] Enabling FasterCache. Start={self.fastercache_start_step}, intervals={self.fastercache_model_interval}/{self.fastercache_block_interval}")
-            
-            # Patch the underlying 'net' which is the MiniTrainDIT instance
-            patch_target = self.model.net if hasattr(self.model, 'net') else self.model
-            
-            patch_target = apply_fastercache(
-                patch_target, 
-                start_step=self.fastercache_start_step,
-                model_interval=self.fastercache_model_interval,
-                block_interval=self.fastercache_block_interval
-            )
-            
-            if hasattr(self.model, 'net'):
-                self.model.net = patch_target
-            else:
-                self.model = patch_target
-
-        # Apply EasyCache if enabled
-        if self.easycache_enabled:
-            log.info(f"[EasyCache] Enabling EasyCache. thresh={self.easycache_thresh}, ret_steps={self.easycache_ret_steps}")
-            patch_target = self.model.net if hasattr(self.model, 'net') else self.model
-            patch_target = apply_easycache(
-                patch_target,
-                num_steps=self.easycache_num_steps,
-                thresh=self.easycache_thresh,
-                ret_steps=self.easycache_ret_steps,
-            )
-            if hasattr(self.model, 'net'):
-                self.model.net = patch_target
-            else:
-                self.model = patch_target
-
-        # Apply TeaCache if enabled
-        if self.teacache_enabled:
-            log.info(f"[TeaCache] Enabling TeaCache. thresh={self.teacache_thresh}")
-            patch_target = self.model.net if hasattr(self.model, 'net') else self.model
-            patch_target = apply_teacache(
-                patch_target,
-                num_steps=self.teacache_num_steps,
-                rel_l1_thresh=self.teacache_thresh,
-            )
-            if hasattr(self.model, 'net'):
-                self.model.net = patch_target
-            else:
-                self.model = patch_target
-
         # Apply WorldCache if enabled
         if self.worldcache_enabled:
             patch_target = self.model.net if hasattr(self.model, 'net') else self.model
-            print(f"[WorldCache] Applying WorldCache")
+            log.info(f"[WorldCache] Applying WorldCache")
             patch_target = apply_worldcache(
                 patch_target,
                 num_steps=self.worldcache_num_steps,
@@ -533,38 +394,11 @@ class Video2WorldInference:
                 motion_sensitivity=self.worldcache_motion_sensitivity,
                 flow_enabled=self.worldcache_flow_enabled,
                 flow_scale=self.worldcache_flow_scale,
-                hf_enabled=self.worldcache_hf_enabled,
-                hf_thresh=self.worldcache_hf_thresh,
                 saliency_enabled=self.worldcache_saliency_enabled,
                 saliency_weight=self.worldcache_saliency_weight,
                 osi_enabled=self.worldcache_osi_enabled,
                 dynamic_decay=self.worldcache_dynamic_decay,
-                aduc_enabled=self.worldcache_aduc_enabled,
-                aduc_start=self.worldcache_aduc_start,
-                parallel_cfg=self.worldcache_parallel_cfg
             )
-
-
-
-
-            
-            if hasattr(self.model, 'net'):
-                self.model.net = patch_target
-            else:
-                self.model = patch_target
-                
-        # Apply Timestep-Aware Block Skipping (TABS)
-        if hasattr(self, 'timestep_skip_enabled') and self.timestep_skip_enabled:
-            from cosmos_predict2._src.predict2.inference.timestep_skip_utils import apply_timestep_skip
-            log.info(f"[TABS] Applying Timestep-Aware Block Skipping (Early: {self.timestep_skip_early_ratio}, Late: {self.timestep_skip_late_ratio})")
-            patch_target = self.model.net if hasattr(self.model, 'net') else self.model
-            
-            patch_target = apply_timestep_skip(
-                patch_target,
-                early_ratio=self.timestep_skip_early_ratio,
-                late_ratio=self.timestep_skip_late_ratio
-            )
-            
             if hasattr(self.model, 'net'):
                 self.model.net = patch_target
             else:
@@ -806,137 +640,37 @@ class Video2WorldInference:
         else:
             generate_samples = self.model.generate_samples_from_batch
             
-        # reset_run_id() -> Removed (no visualization)
-        if self.dicache_enabled:
-             # Update num_steps for DiCache (accounting for CFG implicitly if we count every forward pass)
-             # If CFG, we have 2 calls per step.
-             target_steps = num_steps * 2
-             if hasattr(self.model.net, "dicache_num_steps"):
-                 self.model.net.dicache_num_steps = target_steps
-                 # Explicitly reset state to safe defaults before every generation
-                 self.model.net.cnt = 0
-                 self.model.net.accumulated_rel_l1_distance = [0.0, 0.0]
-                 self.model.net.residual_cache = [None, None]
-                 self.model.net.residual_window = [[], []]
-                 self.model.net.probe_residual_window = [[], []]
-                 self.model.net.previous_internal_states = [None, None]
-                 self.model.net.previous_input = [None, None]
-                 self.model.net.resume_flag = [False, False]
-             elif hasattr(self.model, "dicache_num_steps"): # If net is model
-                 self.model.dicache_num_steps = target_steps
-                 # Explicitly reset state to safe defaults before every generation
-                 self.model.cnt = 0
-                 self.model.accumulated_rel_l1_distance = [0.0, 0.0]
-                 self.model.residual_cache = [None, None]
-                 self.model.residual_window = [[], []]
-                 self.model.probe_residual_window = [[], []]
-                 self.model.previous_internal_states = [None, None]
-                 self.model.previous_input = [None, None]
-                 self.model.resume_flag = [False, False]
-        elif self.worldcache_enabled:
-            # WorldCache Reset Logic
-            # If parallel_cfg: B=2 batched, cnt increments once per step
-            # If sequential: B=1 ping-pong, cnt increments twice per step (cond + uncond)
-            if self.worldcache_parallel_cfg:
-                target_steps = num_steps
-            else:
-                target_steps = num_steps * 2
+        # WorldCache Reset Logic
+        if self.worldcache_enabled:
+            target_steps = num_steps * 2  # CFG doubles the step count
             if hasattr(self.model.net, "worldcache_num_steps"):
                 self.model.net.worldcache_num_steps = target_steps
                 self.model.net.cnt = 0
+                self.model.net.worldcache_step_skipped_count = 0
                 self.model.net.accumulated_rel_l1_distance = [0.0, 0.0]
                 self.model.net.residual_cache = [None, None]
                 self.model.net.residual_window = [[], []]
                 self.model.net.probe_residual_window = [[], []]
                 self.model.net.previous_internal_states = [None, None]
                 self.model.net.previous_input = [None, None]
+                self.model.net.previous_output = [None, None]
                 self.model.net.resume_flag = [False, False]
             elif hasattr(self.model, "worldcache_num_steps"):
                 self.model.worldcache_num_steps = target_steps
                 self.model.cnt = 0
+                self.model.worldcache_step_skipped_count = 0
                 self.model.accumulated_rel_l1_distance = [0.0, 0.0]
                 self.model.residual_cache = [None, None]
                 self.model.residual_window = [[], []]
                 self.model.probe_residual_window = [[], []]
                 self.model.previous_internal_states = [None, None]
                 self.model.previous_input = [None, None]
+                self.model.previous_output = [None, None]
                 self.model.resume_flag = [False, False]
-        elif self.easycache_enabled:
-            # EasyCache reset
-            target_steps = num_steps * 2
-            patch_target = self.model.net if hasattr(self.model, 'net') else self.model
-            if hasattr(patch_target, 'easycache_num_steps'):
-                patch_target.easycache_num_steps = target_steps
-                patch_target.easycache_cnt = 0
-                patch_target.easycache_accumulated_error_even = 0.0
-                patch_target.easycache_k = None
-                patch_target.easycache_should_compute = True
-                patch_target.easycache_prev_input_even = None
-                patch_target.easycache_prev_output_even = None
-                patch_target.easycache_prev_output_odd = None
-                patch_target.easycache_prev_prev_input_even = None
-                patch_target.easycache_cache_even = None
-                patch_target.easycache_cache_odd = None
-                patch_target.easycache_cutoff_steps = target_steps - 2
-                patch_target.easycache_ret_steps = self.easycache_ret_steps * 2
-        elif self.teacache_enabled:
-            # TeaCache reset
-            patch_target = self.model.net if hasattr(self.model, 'net') else self.model
-            if hasattr(patch_target, 'teacache_enabled'):
-                patch_target.teacache_num_steps = num_steps * 2
-                patch_target.teacache_cnt = 0
-                patch_target.teacache_accum_even = 0.0
-                patch_target.teacache_accum_odd = 0.0
-                patch_target.teacache_prev_mod_even = None
-                patch_target.teacache_prev_mod_odd = None
-                patch_target.teacache_residual_even = None
-                patch_target.teacache_residual_odd = None
-                patch_target.teacache_step_skipped_count = 0
-        else: # DiCache Disabled -> Apply Visual Trace for Baseline Comparison
-            log.info("Applying Visual Trace for Baseline (No DiCache)")
-            if hasattr(self.model, "net"):
-                apply_visual_trace(self.model.net, save_dir="outputs/debug_vis_baseline")
-            else:
-                apply_visual_trace(self.model, save_dir="outputs/debug_vis_baseline")
         torch.cuda.reset_peak_memory_stats()
-        mem_before = torch.cuda.memory_allocated() / (1024**3)
         
-        # Set parallel_cfg on model for velocity_fn auto-detection
-        self.model._worldcache_parallel_cfg = self.worldcache_parallel_cfg
-        
-        # Set early exit config on model for the sampling loop
-        self.model._early_exit_enabled = self.early_exit_enabled
-        self.model._early_exit_min_ratio = self.early_exit_min_ratio
-        self.model._early_exit_threshold = self.early_exit_threshold
-        
-        # Timestep-Aware Block Skipping (TABS) reset
-        if hasattr(self.model, 'net') and getattr(self.model.net, 'tabs_enabled', False):
-            self.model.net.tabs_cnt = 0
-            self.model.net.tabs_num_steps = num_steps if self.worldcache_parallel_cfg else num_steps * 2
-        elif hasattr(self.model, 'tabs_enabled') and getattr(self.model, 'tabs_enabled', False):
-            self.model.tabs_cnt = 0
-            self.model.tabs_num_steps = num_steps if self.worldcache_parallel_cfg else num_steps * 2
-        
-        import time
-        method_name = "Baseline"
-        if self.worldcache_enabled:
-            method_name = "WorldCache"
-        elif self.dicache_enabled:
-            method_name = "DiCache"
-        elif self.fastercache_enabled:
-            method_name = "FasterCache"
-        elif self.easycache_enabled:
-            method_name = "EasyCache"
-        elif self.teacache_enabled:
-            method_name = "TeaCache"
-            
-        if getattr(self, 'timestep_skip_enabled', False):
-            method_name += " + TABS" if method_name != "Baseline" else "TABS"
-        
-        if self.early_exit_enabled:
-            method_name += " + EarlyExit" if method_name != "Baseline" else "EarlyExit"
-            
-        print(f"\nRunning inference with {method_name} ({num_steps} steps)...")
+        method_name = "WorldCache" if self.worldcache_enabled else "Baseline"
+        log.info(f"Running inference with {method_name} ({num_steps} steps)...")
         
         sample = generate_samples(
             data_batch,

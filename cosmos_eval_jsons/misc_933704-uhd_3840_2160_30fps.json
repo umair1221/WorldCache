@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_933704-uhd_3840_2160_30fps",
+  "prompt": "A video capturing a heavy rainfall in a tropical or subtropical environment. The scene opens with a close-up of a tree with large, broad leaves that are visibly wet and glistening under the rain. The leaves are attached to dark, slender branches that sway vigorously in the wind, indicating the strength of the storm. In the background, other trees with thinner trunks and more sparse foliage are partially obscured by the mist created by the rain, adding depth to the scene. The sky is overcast, contributing to the gray and damp atmosphere. As the video progresses, the rain continues to pour, with water droplets continuously falling and splashing against the leaves and branches. The leaves rustle and move more vigorously, and the branches bend further under the force of the wind. No new objects appear throughout the video; the focus remains on the interaction between the rain, wind, and vegetation. By the final frame, the scene retains its initial characteristics: the wet, swaying leaves, the misty background, and the persistent, heavy rain, maintaining the overall mood of a stormy day.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_933704-uhd_3840_2160_30fps.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_290",
+  "prompt": "The video opens in a gymnasium where two individuals are practicing judo. The setting features a wooden floor mat, characteristic of a judo training area, and walls adorned with various notices and children's artwork pinned to boards. The person in the white judo gi, wearing a black belt, is positioned over the individual in the blue gi, who is bent forward on the mat. The person in white leans forward, preparing to execute a judo throw. As the sequence progresses, the individual in white lifts their legs into the air, transitioning from a bent position to an upright stance, indicating the start of a judo throw. The person in blue remains stationary, supporting the weight of the individual in white as they lift off the ground. By the final frame, the person in white is fully elevated, demonstrating the completion of the throw, while the person in blue maintains their supportive position on the mat. The camera captures this dynamic moment from a low angle, emphasizing the fluidity and precision of the judo technique."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_077",
+  "prompt": "A young man stands behind a wooden table in a dimly lit room, likely a bar or a home setup for cocktail-making demonstrations. The background is a plain white curtain, providing a clean and simple backdrop that keeps the focus on the man and the items on the table. The man, wearing a plaid shirt, is preparing a cocktail. On the table, there is a tall martini glass filled with a frothy white liquid, suggesting the initial stages of a layered drink. Various tools and ingredients are laid out: a jigger, a cocktail shaker, a bottle of clear liquor, and another bottle with a dark-colored liquid. The man is seen opening the bottle of clear liquor with his right hand while holding it steady with his left. He then pours the liquor into the jigger, measures it carefully, and transfers it into the cocktail shaker. His movements are methodical and precise, indicating his expertise in cocktail preparation. The scene concludes with the man continuing to pour the measured liquor into the shaker, ensuring the correct proportions for the drink. A medium shot captures the man's focused and deliberate actions, emphasizing the precision of his technique.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_077.jpg"
+}

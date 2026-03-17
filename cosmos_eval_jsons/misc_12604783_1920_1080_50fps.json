@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_12604783_1920_1080_50fps",
+  "prompt": "A serene rural scene unfolds as three horses walk along a gravel path, set against a backdrop of vibrant autumn foliage. The white picket fence lines one side of the path, while the other side is bordered by trees displaying hues of orange, red, and yellow. Tall black lampposts stand evenly spaced in the distance, leading towards a gate. The ground is damp, suggesting recent rainfall, and there are some tires and a white container near the lampposts. The horses, varying in color from dark brown to light gray and white, move forward in a calm and steady manner, their manes and tails flowing slightly as they walk. The overall atmosphere is peaceful and picturesque, capturing the essence of a tranquil countryside during the autumn season. As the video progresses, the horses continue their journey down the path, maintaining their steady pace. The background remains consistent, with the white picket fence, lampposts, and colorful autumn trees providing a constant visual element. No new objects appear, and the focus stays on the horses' movement through the tranquil environment. By the final frame, the horses have moved further along the path, with the camera capturing their continued steady advance towards the gate in the distance. The damp ground and the vibrant autumn colors remain prominent, reinforcing the serene and picturesque setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_12604783_1920_1080_50fps.jpg"
+}

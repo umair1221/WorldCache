@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_070",
+  "prompt": "The video captures a robotic arm setup in an indoor environment, likely a laboratory or workshop, with a concrete floor in the background. On a white table, there are two containers: a purple one on the left holding a green object and a pink object, and a blue one on the right containing a yellow object and a green object. Two robotic arms, equipped with black mechanical structures, are positioned above these containers. The left robotic arm, seen from a slightly elevated perspective, picks up the pink object from the purple container and transfers it to the blue container. Simultaneously, the right robotic arm, viewed from a similar angle, collects the green object from the blue container and places it into the same blue container. The scene concludes with the blue container holding three objects and the purple container holding only one object. The setting includes a glimpse of a staircase and a wooden door frame in the background, adding context to the indoor workspace.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_070.jpg"
+}

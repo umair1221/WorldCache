@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_4761738-uhd_4096_2160_25fps",
+  "prompt": "A cinematic boxing match unfolds in a dimly lit gym, where two muscular boxers face off in a ring. The boxer on the left, adorned with intricate tattoos on his arms and chest, wears a black helmet with a visor and blue Everlast gloves. He stands in a defensive stance, his body angled towards his opponent, with his tattooed arms raised to block incoming punches. The boxer on the right, also shirtless and wearing a black helmet and black Everlast gloves, mirrors this stance but appears more aggressive, his arms raised higher and his body leaning forward slightly. As the sequence progresses, the boxer on the left initiates a series of punches, his arm moving from a defensive position to a more extended, attacking stance. The boxer on the right counters by raising his arms to protect himself, then shifts his stance to block and return the punches. The lighting remains focused on the boxers, highlighting their movements and the intensity of their sparring session. By the final frame, the boxer on the left continues his offensive move, his arm fully extended towards his opponent, while the boxer on the right maintains his defensive posture, his arms still raised high. The background features various gym equipment and posters on the walls, adding to the gritty atmosphere of the scene."
+}

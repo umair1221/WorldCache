@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_050",
+  "prompt": "The video begins with a static shot of a tall, clear glass vessel placed on a wooden surface against a plain off-white wall. Inside the glass, there is a blue liquid with a green band marking the water level at the bottom. A small piece of crumpled white paper is suspended above the glass by a blue rubber band, positioned near the top rim of the glass. The camera remains steady as the paper is released into the glass, causing it to sink slowly towards the bottom. As the paper descends, it creates ripples in the blue liquid, and eventually, it settles on the surface of the liquid. The final frame captures the crumpled paper surrounded by the blue liquid at the surface, with the green band still visible at the water level. The scene is minimalistic, focusing on the interaction between the paper and the liquid within the glass."
+}

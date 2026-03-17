@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_141",
+  "prompt": "The video opens with a robotic unit standing on the floor, featuring two arms dressed in gray and black clothing, with additional black clothing near its base. The unit is mounted on a wheeled base and positioned on a light-colored carpeted floor against white-painted walls. In front of the robotic unit lies a dark-colored rectangular object, flanked by two similar dark-colored objects on either side. A large, rectangular, white piece of equipment is mounted on the wall, connected by wires to a power outlet. To the left, another white piece of equipment is partially visible on the wall, and a wheel-shaped mechanical component similar to the central robotic unit is also present on the floor.  As the video progresses, the robotic unit extends its right arm and grasps a rod connected to a black wire, which is attached to the white piece of equipment mounted on the wall. The robotic arm pulls the rod, detaching it from the equipment. The video concludes with the robotic arm holding the rod closer to its body, maintaining the same room setup throughout."
+}

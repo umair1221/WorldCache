@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_495a2486-d039-46f9-86fd-4fdf8ec4ce24",
+  "prompt": "The video begins with a view from inside a car, looking out through the windshield onto a two-lane road. The road is bordered by dense greenery, including tall trees and bushes, which line both sides. Utility poles with overhead wires stretch across the scene, adding to the urban feel. On the left side of the road, a gas station with a green canopy and a green sign is visible, along with a small building nearby. Construction barrels are clearly visible on the right. A few cars are seen further down the road, traveling in the same direction. The sky is overcast, suggesting an early morning or late afternoon setting. As the video progresses, the ego vehicle changes to the adjacent rightmost lane, passing by stationary vehicles and navigating the gentle curve to the right before entering the gore area. The scene remains calm and orderly throughout, with no significant changes in the objects' actions. By the final frame, the car has moved further along the road, with a small building with a flat roof visible on the left and a few construction barrels visible on the right, maintaining the tranquil atmosphere established at the beginning. A medium shot from a slightly elevated perspective captures the serene road and its surroundings.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_495a2486-d039-46f9-86fd-4fdf8ec4ce24.jpg"
+}

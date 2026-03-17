@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_131",
+  "prompt": "A dynamic video captures a woman jogging along a paved riverside path, bordered by a blue metal railing. The path is composed of reddish-brown bricks laid out in a herringbone pattern. Across the river, a cityscape unfolds, featuring a mix of modern high-rise buildings, including one with a distinctive curved glass facade and another with a sleek, cylindrical design. The sky above is clear and bright, indicating a sunny day. The woman is dressed in athletic attire, including a patterned tank top, pink shorts, and running shoes, and she carries a red device, likely a fitness tracker or phone holder, on her wrist. As she jogs, the camera pans to follow her movement, capturing her from different angles as she passes by the railing and the city skyline. The scene remains vibrant and dynamic throughout, highlighting her continuous motion against the backdrop of the urban landscape.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_131.jpg"
+}

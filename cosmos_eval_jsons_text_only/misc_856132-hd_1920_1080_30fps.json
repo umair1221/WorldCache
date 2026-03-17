@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_856132-hd_1920_1080_30fps",
+  "prompt": "A surfer clad in a black wetsuit skillfully rides a wave in a river-like setting, characterized by its powerful, churning greenish water. The surfer stands confidently on a white surfboard with red accents, maintaining balance as they navigate the turbulent waters. The surfer's arms are extended outward, aiding in stability as they maneuver through the frothy, white-capped waves. The scene captures the intensity of the current, with the water swirling around the board, emphasizing the dynamic and challenging nature of the activity. The surfer's posture shifts subtly throughout the sequence, showcasing their adaptability and control as they ride the wave. A medium shot from a slightly elevated perspective, capturing the surfer's movements against the churning water."
+}

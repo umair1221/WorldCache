@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_d9dab3fb-9b1e-4627-83c3-533fca9dcc92",
+  "prompt": "The video opens with a heavy, rainy nighttime scene viewed from inside a vehicle moving at varying speeds, looking out onto a wet, reflective street. The environment is dimly lit, with only the headlights of approaching cars and streetlights breaking the darkness. The ego vehicle stops due to turning at a T-intersection. The road is slick with rain, creating a glossy surface that mirrors the lights. A leafless tree stands prominently in the center-right of the frame, its branches stark against the gray sky. To the left, several houses are partially visible with a person walking near them, while on the right, a larger, more modern structure with illuminated windows can be seen with the camera at the same angle. Parked cars line both sides of the street, and the overall atmosphere is quiet and somber. As the video progresses, a car approaches from a distance, its headlights becoming more prominent as it gets closer. This car then passes out of view, and the scene remains largely unchanged, maintaining the same wet, reflective road and dimly lit surroundings until the final frame, which captures the same tranquil, rainy street at night.  A medium shot from inside a vehicle, capturing the wet, reflective street and the dimly lit surroundings."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_140",
+  "prompt": "The video opens with a first-person perspective of robotic arms on wheels, viewed from above, as they approach a wooden table. The setting is indoors, with a large window in the background revealing an outdoor landscape with some structures. On the table, a tray holds various items, including a small container, a red object, and what appears to be a roll of tape or similar material. To the left of the tray, a box filled with assorted tools or objects is visible, and to the right, a bright yellow jacket is draped over the edge of the table. A black lamp with an adjustable arm is positioned near the center of the table.  The robotic arms on wheels are positioned on the table, suggesting they are engaged in a precise task. In front of the robotic system, a small square object is placed. The right robotic arm moves to grip this small object, carefully lifts it, and places it into a tray on the table. After completing this action, the robotic arm returns to its initial resting position. The interaction showcases the dexterity and control of the robotic arm in handling small items. Shadows of the robotic arms and objects are cast on the table surface, and the robotic arms remain visible throughout the video. The scene remains consistent across all frames, with no significant changes in the arrangement of objects or the environment."
+}

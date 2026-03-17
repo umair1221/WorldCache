@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_099",
+  "prompt": "A medium shot of a man in a tan jacket and black shirt, wearing gloves, pushing a pallet jack loaded with two large silver kegs through an industrial brewery or warehouse. The man appears focused, moving steadily along a concrete floor that is slightly wet and clean. To the left, stacks of cardboard boxes, some wrapped in plastic, indicate storage of supplies. On the right, several large stainless steel reflective tanks, characteristic of a brewery setup, are visible, equipped with various pipes and valves. The lighting is even and bright, highlighting the reflections on the metallic surfaces and the wooden texture of the pallet. As the camera slowly pans backward, it reveals more of the industrial surroundings, including additional tanks and equipment. The final frame captures the man still standing behind the kegs, the camera having completed its pan to show the broader industrial context."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_155",
+  "prompt": "A dynamic indoor soccer training facility with a large, white, dome-shaped ceiling and green turf serves as the backdrop for an agility drill. Yellow cones are arranged in a pattern across the field, creating a path for players to navigate. Two players, both wearing white jerseys with red and blue accents and blue shorts, are engaged in the drill. One player, positioned in the foreground, is actively moving around the cones, showcasing swift and precise footwork. His movements are fluid and controlled, highlighting his agility and skill. The second player, located further back on the left side of the frame, appears to be recovering from a maneuver, adding a sense of realism to the training session. The background includes blue benches and two doors, contributing to the structured environment. As the video progresses, the player in the foreground continues to demonstrate quick reflexes and precision, while the player in the dark uniform remains focused and engaged in the drill. The scene captures the intensity and dedication of the training session, emphasizing the players' commitment to improving their skills."
+}

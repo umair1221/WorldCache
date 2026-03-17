@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_123",
+  "prompt": "The video opens with a serene winter scene set on a frozen lake, surrounded by snow-covered trees under a pale blue sky. A man dressed in a red beanie, black jacket, scarf, and gloves stands on the ice, his body angled forward as if preparing to skate or balance. The background features a mix of evergreen and birch trees, their branches heavy with snow, creating a picturesque winter setting. The man appears poised and ready for action.  As the video progresses, a woman enters the frame from the left side, wearing a beige coat, blue jeans, white boots, and a blue beanie. She approaches the man, extending her arm towards him, seemingly to assist or guide him. The man, initially standing still, begins to move slightly, maintaining his balance. The woman then extends her leg behind her, lifting it high into the air, and leans back, her body forming an elegant arc. The man catches her, holding her close as she continues to balance on one leg, her arms wrapped around his neck. This interaction showcases a moment of playful support and coordination between the two individuals amidst the tranquil winter backdrop.  In the final frame, the man and woman are seen embracing closely, the woman's legs still elevated, demonstrating a sense of trust and connection. The serene winter landscape remains unchanged, with the snow-covered trees and pale blue sky providing a peaceful and picturesque setting for their interaction."
+}

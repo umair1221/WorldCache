@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_179",
+  "prompt": "The video opens with a man standing on a grassy soccer field under a clear blue sky. He is dressed in a red long-sleeve shirt, striped shorts, and black sports shoes. The man is standing next to a soccer ball, which is placed on the ground. The background features a chain-link fence enclosing the field, beyond which trees and a residential area are visible. A prominent mast light pole stands on the right side of the man, while several vehicles can be seen driving past in the distance. As the video progresses, the man begins to gently roll the ball towards himself with the help of his right foot and starts to practice small kick-ups. The soccer ball keeps moving as the man continues to juggle the ball with his feet with small kicks. Whenever the ball moves a little further away, he again uses his left foot to roll it back in his direction. The man continues to perform his drills and kickups in the last frame, switching between both feet. The camera remains focused on the man, capturing his movements against the backdrop of the field, fence, trees, houses, streetlight, and passing vehicles. The scene captures a moment of focused practice on the soccer field."
+}

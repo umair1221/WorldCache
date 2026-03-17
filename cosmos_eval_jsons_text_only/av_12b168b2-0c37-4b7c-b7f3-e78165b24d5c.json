@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_12b168b2-0c37-4b7c-b7f3-e78165b24d5c",
+  "prompt": "The video opens with a view from inside a vehicle, positioned at an intersection in a suburban setting. The scene is framed by a wide, paved road bordered by tall evergreen trees and a mix of residential and commercial buildings. Traffic cones line both sides of the road, guiding the vehicle's path. On the left, a white building with a flat roof and some greenery, including a tree with a thick trunk, is visible. On the right, a construction area marked \"TrueBeck Construction\" in white is enclosed by a temporary blue and green fence, partially obscuring a modern glass building. The sky is clear and blue, indicating a sunny day. The dashboard of the car reflects the surroundings, adding depth to the scene. As the vehicle begins to move forward, it navigates through the intersection, passing under a traffic light. Several stationary vehicles can be seen on both sides of the road. The traffic cones remain in place, ensuring safe passage. The final frame captures the vehicle continuing its journey down the road, with the sun casting long shadows across the pavement."
+}

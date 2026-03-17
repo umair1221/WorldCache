@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_023",
+  "prompt": "A miniature kitchen setup designed for children's play is captured in this video. The scene features a white speckled countertop with a gray sink basin containing a toy corn cob and a toy knife. To the left, there is a toy stove with two black burners, and various toy vegetables, including a green cabbage, an orange carrot, and a purple onion, are arranged around it. A silver pot with a lid sits to the right of the sink, accompanied by a blue bowl on a green plate. A white plastic jug is placed on the counter next to the pot. The background includes a wooden wall and a metallic faucet above the sink. A robotic arm enters the frame from the top left, moving downward and interacting with the pot on the top right, lifting the lid from the pot slightly before placing it to the side of the pot on the countertop. The scene remains unchanged except for the lid of the pot being moved, with all other objects in their original positions, maintaining the initial scene."
+}

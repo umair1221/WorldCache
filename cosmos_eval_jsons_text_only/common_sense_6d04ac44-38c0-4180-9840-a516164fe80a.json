@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_6d04ac44-38c0-4180-9840-a516164fe80a",
+  "prompt": "A man in a dark-colored suit, white shirt, black socks, and black shoes hangs precariously from the side of an aircraft during takeoff. The camera tracks his motion, capturing a wide shot from a high angle, filming a side view of him on the soaring aircraft and the blurred motion of the runway below. He grips onto a series of large circular holes on the side of a gray-colored plane, with some holes open and others closed. Two black ropes extend from the top of the side door to behind him, and another rope reaches from the left, connecting to an open hole. The man's feet are initially on the wing, but as the plane ascends, they slide off, and he struggles to maintain his grip. His face shows strain, with furrowed brows and an open mouth revealing his teeth due to the strong wind forces. His jacket billows in the wind as he attempts to adjust his footing by lifting his right leg once and his left leg twice. He eventually loses his foothold, and his legs and feet hang down as he clings to the side of the plane. The background shifts slightly, revealing patches of green grass beside the tarmac on the right. The scene takes place outdoors during the daytime in natural lighting, softly highlighting the man and surroundings."
+}

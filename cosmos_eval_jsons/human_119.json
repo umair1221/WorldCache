@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_119",
+  "prompt": "A woman stands outdoors near a modern architectural structure, possibly a bridge or overpass, with a concrete wall to her left that features graffiti. She is dressed in a sleeveless black dress and wears a watch on her left wrist. Her long dark hair flows freely as she begins to move gracefully, her arms extended and hands gesturing expressively. The background reveals a scenic view of a hilly landscape dotted with greenery and a few buildings, suggesting a coastal or riverside setting. The sky is clear and bright, indicating a sunny day. As the sequence progresses, the woman continues her dance, transitioning through various poses and movements. She extends her arms outward, bringing them back in a rhythmic fashion, and sways her body slightly as she shifts her weight from side to side. Her dance is fluid and expressive, maintaining a dynamic posture throughout the sequence. The background remains consistent, showcasing the same serene landscape and urban elements, while the focus stays on her graceful movements. In the final frame, the woman is seen from behind, her long dark hair flowing as she continues her dance. She raises her arms above her head, then brings them down and extends them outward again, maintaining the fluidity and expressiveness of her movements. The scene concludes with her standing near the edge of the structure, with the scenic backdrop of the hilly landscape and clear sky still visible.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_119.jpg"
+}

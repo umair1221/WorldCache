@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_015",
+  "prompt": "The video begins with a close-up shot of a robotic arm positioned in front of a silver cabinet door with a handle and a small window. The robotic arm is composed of dark metallic segments, and the cabinet has a light-colored wooden trim around its edges. The floor beneath is a light beige color. The robotic arm starts by moving downward, gripping the cabinet door firmly. It then exerts pressure, causing the door to slowly open outward. The robotic arm then moves to the position behind the door and pushes it fully open, revealing the interior of the cabinet, which contains a red frying pan and a blue plate on the shelf below. The scene concludes with the cabinet door fully open, showcasing the contents inside. The camera remains steady throughout, focusing on the robotic arm's precise movements and the gradual opening of the cabinet door.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_015.jpg"
+}

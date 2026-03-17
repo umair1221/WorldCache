@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_8740b595-939f-4e60-a2a0-fb9df396ba66",
+  "prompt": "The video captures an aerial view of a train journeying across a long, elevated bridge spanning a calm body of water. The train, consisting of several connected passenger carriages painted in white with a blue wavy design on the lower half and dark windows, travels steadily along the bridge. Its blue and red front adds a vibrant contrast against the muted backdrop. The bridge is supported by sturdy concrete pillars, each equipped with metal railings, a small platform, and a singular black sensor. The vertical support structures along the tracks are evenly spaced.  In the background, a second bridge is visible, currently occupied by two white vans, with a road rather than tracks. Two boats can be seen on the water, their trails fading into the distance as the camera pans left. The scene is set under a vast, slightly overcast sky that casts a warm, hazy light over everything. In the far distance, a cityscape with white buildings stands out against the darker landmass, barely visible through the haze. The camera maintains a high-angle, long shot throughout, panning right to follow the train's movement. The lighting is diffused, with sunlight streaming in from behind the camera to the left, casting subtle shadows on the water and bridge supports.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_8740b595-939f-4e60-a2a0-fb9df396ba66.jpg"
+}

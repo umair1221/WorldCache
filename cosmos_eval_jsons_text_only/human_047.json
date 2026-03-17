@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_047",
+  "prompt": "A medium shot captures a man in a kitchen setting, holding a ripe yellow banana. He is dressed in a white t-shirt with a graphic design and stands against a backdrop of dark brown wooden cabinets with silver handles. The countertop features a stainless steel kettle and an electric pressure cooker. The man is actively engaging with the banana, turning it slightly in his hands while speaking, likely explaining its characteristics or usage. The lighting highlights the warm tones of the kitchen and the vibrant yellow of the banana. The man maintains a steady position, focusing on the banana as the central element of the scene. The final frame shows the man continuing to hold the banana, gesturing with one hand while still looking at it, indicating an ongoing discussion or demonstration."
+}

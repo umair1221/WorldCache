@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_089",
+  "prompt": "A dynamic basketball game unfolds during the NCAA East 2nd Round of the March Madness tournament, featuring a player in a white Duke jersey attempting a shot near the basket. The scene is set in a large indoor arena filled with enthusiastic spectators, with the Duke logo prominently displayed at center court and the words \"THE ROAD TO THE FINAL\" painted on the floor. The scoreboard indicates it's the first quarter with 19:40 remaining, and both teams have yet to score. Players from UNC, wearing dark blue jerseys, are strategically positioned around the court, with one player in a dark blue jersey from UNC leaping to block the shot. The ball is mid-air, and the player in white aims for the basket. Other players from both teams are ready to react, showcasing intense competition and strategic positioning. The camera captures the action from a side angle, emphasizing the movement and intensity of the game. The scoreboard updates to show 19:38 remaining in the first quarter, and the game continues with dynamic movement and strategic positioning.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_089.jpg"
+}

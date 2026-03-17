@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_adc4f0ac-5a6d-4142-a914-41f032dc8672",
+  "prompt": "A point-of-view shot from inside a vehicle captures the scene of an urban intersection under bright sunlight. The vehicle is positioned at an intersection bordered by orange construction barriers on the left and white barriers on the right. The road ahead is marked with \"STOP\" painted on the asphalt, and a cycle symbol with forward arrows points towards the camera. The background features a multi-story building with large windows, showcasing a mix of architectural styles. A tree with lush green foliage is situated near the center-left of the frame, partially obscuring the view of the construction site. Further back, additional buildings and palm trees are visible under a clear blue sky, indicating a sunny day. As the vehicle moves forward, the \"STOP\" marking on the road becomes more prominent. The surrounding environment, including the construction barriers, the multi-story building, and the tree, remains static throughout the sequence. By the final frame, the cycle mark on the ground has passed by, and the scene remains unchanged, with the vehicle coming to a stop."
+}

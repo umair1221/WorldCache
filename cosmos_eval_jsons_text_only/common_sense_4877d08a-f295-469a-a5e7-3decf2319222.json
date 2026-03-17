@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_4877d08a-f295-469a-a5e7-3decf2319222",
+  "prompt": "A man is walking through a scenic, snowy mountain landscape, talking into the camera. The clip captures a dynamic, handheld close-up shot from eye level, showcasing the man's movements as he progresses. He is wearing a gray, reflective helmet with a navy blue inner surface, a blue cloth covering his head and neck, and yellow reflective sunglasses. His outfit includes a red jacket with gray lining and the visible sky-blue straps of a backpack. A pointy and sharp metal object is peeking out of his back on his right side. As he walks, he continues to speak to the camera, and the reflection of his movement is visible on his sunglasses. The setting is outdoors, with cool-toned, dim natural lighting. The background features a clear, bright blue sky, a rocky mountainous landscape covered with snow, and green, tall pine trees scattered across. The trees stand on a snowy surface with a mixture of brown surfaces and grass. The camera follows the man's movement, capturing the serene yet adventurous atmosphere of the scene."
+}

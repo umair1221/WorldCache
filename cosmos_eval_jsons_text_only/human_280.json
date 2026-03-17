@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_280",
+  "prompt": "The video opens in a well-lit indoor fencing gymnasium, characterized by its high ceilings, exposed beams, and large windows that allow ample natural light to stream in. The space is equipped with various fencing apparatus, including racks holding swords and other gear, and a few benches are visible near the back. The walls are painted a neutral gray, and the floor appears to be a polished concrete or similar material. In the foreground, two individuals dressed in white fencing uniforms, complete with protective vests, are seen smiling and engaging in conversation. One has her hair tied back with a red hair tie, while the other has her hair down. As the video progresses, a third person, also in a fencing uniform, enters the frame from the right side, joining the two others. They all engage in a warm embrace, with arms around each other's shoulders. The setting remains consistent throughout, with no significant change to the environment or additional objects entering the scene. A medium shot captures the interaction between the three individuals, highlighting their camaraderie and the supportive atmosphere of the gym."
+}

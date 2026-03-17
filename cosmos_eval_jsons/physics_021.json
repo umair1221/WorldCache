@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_021",
+  "prompt": "A Newton's cradle video showcasing the principle of conservation of momentum. The cradle, with its sleek black base and polished silver pendulums, is positioned centrally on a wooden table against a plain white wall. To the left, a blue-handled grabber tool lies partially visible on the table. The video begins with the cradle at rest. As the sequence progresses, the grabber tool enters the frame from the left, holding one of the metallic balls. The tool releases the ball, which swings forward and collides with the adjacent ball, initiating a chain reaction. Each ball in the cradle moves sequentially, demonstrating the transfer of energy and momentum. The video captures this dynamic motion in a static shot, emphasizing the fluidity and precision of the pendulum's movements.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_021.jpg"
+}

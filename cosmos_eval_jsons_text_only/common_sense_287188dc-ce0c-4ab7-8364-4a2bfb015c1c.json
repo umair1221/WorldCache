@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_287188dc-ce0c-4ab7-8364-4a2bfb015c1c",
+  "prompt": "A dynamic, first-person perspective video captures the experience of driving a convertible sports car through a bustling urban intersection during sunset. The camera, positioned inside the vehicle, provides a view of the road ahead, showcasing the car's sleek black interior with leather seats featuring a light-colored logo and stitching. The car's glossy exterior reflects the vibrant cityscape and the warm hues of the setting sun. As the vehicle navigates a left turn, the camera captures the motion of the car's center brake light and the shiny surface of the vehicle. Outside, a green arrow on the traffic light indicates a left turn is permitted, while the red lights behind the car signal caution. Various vehicles, including white cars and a white bus, are seen on the road, with the bus's left indicator blinking. The multi-lane road is bordered by a barrier on the right, beyond which other cars travel in the opposite direction. On the left, a light gray hill with dark brown bushes adds depth to the scene. In the distance, a city skyline with tall buildings stands under the soft glow of the sunset, creating a picturesque backdrop. The video is shot in a realistic, documentary style, emphasizing the natural movement and vibrant urban environment."
+}

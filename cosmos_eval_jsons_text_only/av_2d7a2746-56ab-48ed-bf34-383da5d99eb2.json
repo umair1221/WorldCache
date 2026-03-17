@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_2d7a2746-56ab-48ed-bf34-383da5d99eb2",
+  "prompt": "The video opens with a stationary point-of-view shot from inside a car, situated at an intersection in a residential neighborhood of San Francisco, known for its iconic Victorian-style houses adorned with pastel hues such as pink, blue, and beige. The architecture is highlighted by intricate details and bay windows. The street is bustling with parked cars, and a few vehicles are seen driving by. A pedestrian is captured mid-stride, crossing in front of the ego vehicle and walking steadily throughout the video. As she moves, a white SUV drives past her, heading away from the camera. Simultaneously, a white car accelerates from the left side of the frame, moving towards the right. A vibrant, advertisement-covered bus is also seen traversing the street from the right side, adding dynamic motion to the scene. The sky is clear and brightly lit, casting sunlight from the left, emphasizing the sunny day. The urban setting remains consistent, with no significant changes in the environment or weather conditions throughout the video."
+}

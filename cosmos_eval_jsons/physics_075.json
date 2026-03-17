@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_075",
+  "prompt": "A serene and picturesque landscape video opens with a tranquil lake nestled between majestic mountains. The lake's surface is calm and mirror-like, reflecting the vibrant colors of the sky and the surrounding peaks. The mountains on the left side of the frame are bathed in warm sunlight, highlighting their rugged texture and the patches of snow clinging to their higher elevations. The right side of the scene showcases a dense forest of evergreen trees, adding depth and contrast to the composition. The sky above is a brilliant blue, dotted with fluffy white clouds that cast soft shadows over the landscape. The overall atmosphere is peaceful and inviting, evoking a sense of natural beauty and tranquility. The camera remains stationary throughout the sequence, allowing viewers to fully absorb the details and the serene ambiance of the setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_075.jpg"
+}

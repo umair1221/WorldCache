@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_9699390-uhd_3840_2160_30fps",
+  "prompt": "The video opens with an aerial shot of Bryce Canyon, showcasing the stunning landscape dominated by its iconic hoodoos\u2014tall, narrow spires of red-orange sandstone. The scene is illuminated by bright sunlight, accentuating the intricate textures and varying shades of the rock formations. In the background, a dense forest stretches across the horizon, providing a lush contrast to the arid canyon. A meandering road winds through the valley below, curving gently and disappearing into the distance. The sky above is a clear, vibrant blue, enhancing the overall vividness of the scene. Throughout the video, the camera remains steady, allowing viewers to fully appreciate the tranquil beauty of this natural wonder. By the final frame, the scene remains unchanged, continuing to highlight the majestic hoodoos, the winding road, and the serene forest backdrop under the same clear blue sky."
+}

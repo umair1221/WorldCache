@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_074",
+  "prompt": "The video begins with a close-up shot of an industrial embroidery machine in operation. The machine is set against a neutral background, focusing attention on its components. A green plastic hoop holds a piece of beige fabric taut, with the text \"ONE APPAREL CORP ESTD X 2001\" already partially embroidered onto it. Multiple metallic needles, arranged in a linear pattern around the hoop, are shown in action. One of those needles is actively stitching white thread into the fabric. The needle moves up and down, puncturing the material and pulling the thread through to form the letters. The rhythmic motion of the machine continues throughout the sequence, with the needle consistently working to complete the embroidery. By the final frame, the machine has nearly finished stitching the text \"ONE\", with only minor portions remaining to be completed. The camera remains steady, capturing the intricate details of the machine's operation and the precision of the embroidery process.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_074.jpg"
+}

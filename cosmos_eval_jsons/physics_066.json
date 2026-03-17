@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_066",
+  "prompt": "A static shot captures two tall red candles placed in brass candle holders on a wooden table against a plain white wall. The candle on the left burns steadily, casting a warm glow, while the one on the right remains unlit. The scene is minimalistic, focusing on the contrast between the illuminated and unlit candles. The camera remains stationary, emphasizing the serene and contemplative atmosphere created by the flickering flame and the stillness of the unlit candle.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_066.jpg"
+}

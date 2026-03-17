@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_018",
+  "prompt": "A serene beach scene unfolds as two older couples stroll along the shoreline. In the foreground, an older man with gray hair and a beard, wearing a striped shirt and jeans, walks arm-in-arm with a woman in a dark blue cardigan over a light-colored top and beige pants. Their backs are to the camera as they gaze out at the ocean, with gentle waves rolling onto the sandy beach. In the background, another older couple, with the woman sporting long, flowing hair in an earth-toned dress with a denim jacket draped over her shoulders, and the man in a denim shirt and shorts, walks towards the camera from the left side of the frame. The woman adjusts her hair with one hand while the man walks alongside her. The couple in the foreground continues to walk away from the camera, maintaining their embrace and gazing out at the ocean. The waves gently roll onto the shore, creating a tranquil and peaceful atmosphere. A medium shot captures the couple from behind, emphasizing their connection and the serene beach setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_018.jpg"
+}

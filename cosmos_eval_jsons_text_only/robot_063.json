@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_063",
+  "prompt": "The video opens with a view from inside a well-lit grocery store, focusing on a shopping cart positioned in front of a neatly arranged shelf. The shelf is stocked with various snack items, including prominent boxes of Franzzi cookies, a box labeled \"3 Layer,\" and other packaged goods like chips and candy bars. Two robotic arms hover over the shopping cart. As the video progresses, the right robotic arm carefully picks up a box of 3 Layers and places it into the cart. The cart remains stationary throughout, and the arrangement of items on the shelf stays unchanged, except for the addition of the 3 Layers box. The final frame captures the same static scene, with the cart still in place and the shelf filled with an assortment of snacks."
+}

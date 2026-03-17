@@ -243,42 +243,6 @@ class CommonSetupArguments(pydantic.BaseModel):
     """When running batch inference, keep going if an error occurs. If set to False, the batch will stop on the first error."""
     profile: bool = False
     """Run profiler and save report to output directory."""
-    # DiCache Arguments
-    dicache_enabled: bool = False
-    """Enable DiCache optimization."""
-    dicache_num_steps: int = 40
-    """Number of steps for DiCache."""
-    dicache_rel_l1_thresh: float = 0.08
-    """Relative L1 threshold for DiCache."""
-    dicache_ret_ratio: float = 0.2
-    """Retention ratio for DiCache."""
-    dicache_probe_depth: int = 2
-    """Probe depth for DiCache."""
-    
-    # FasterCache Arguments
-    fastercache_enabled: bool = False
-    fastercache_start_step: int = 1
-    fastercache_model_interval: int = 2
-    fastercache_block_interval: int = 3
-    
-    # EasyCache Arguments
-    easycache_enabled: bool = False
-    """Enable EasyCache optimization."""
-    easycache_num_steps: int = 35
-    """Number of steps for EasyCache."""
-    easycache_thresh: float = 0.05
-    """Accumulated error threshold tau. Higher = faster but lower quality. (0.05~1.5x, 0.1~2.0x, 0.2~3.0x)"""
-    easycache_ret_steps: int = 5
-    """Number of initial warm-up diffusion steps to always compute fully."""
-    
-    # TeaCache Arguments
-    teacache_enabled: bool = False
-    """Enable TeaCache optimization."""
-    teacache_num_steps: int = 35
-    """Number of steps for TeaCache."""
-    teacache_thresh: float = 0.3
-    """Accumulated rescaled L1 threshold. Higher = faster. (0.1~1.3x, 0.2~1.8x, 0.3~2.1x)"""
-    
     # WorldCache Arguments
     worldcache_enabled: bool = False
     """Enable WorldCache optimization."""
@@ -291,49 +255,23 @@ class CommonSetupArguments(pydantic.BaseModel):
     worldcache_probe_depth: int = 2
     """Probe depth for WorldCache."""
     worldcache_motion_sensitivity: float = 5.0
-    """Motion sensitivity (alpha) for Causal-DiCache. Higher = more sensitive to motion (less skipping)."""
+    """Motion sensitivity (alpha) for Content-Aware Feature Caching. Higher = more sensitive to motion (less skipping)."""
     worldcache_flow_enabled: bool = False
-    """Enable Flow-Warped Feature Caching. Warps cached features using optical flow."""
+    """Enable Optical Flow-based Feature Alignment (OFA). Warps cached features using optical flow."""
     worldcache_flow_scale: float = 0.5
     """Downsample factor for optical flow calculation. 0.5 means 2x downsample (4x faster)."""
-    worldcache_hf_enabled: bool = False
-    """Enable Spectral-Adaptive Caching. Monitor high-frequency drift using Laplacian filter."""
-    worldcache_hf_thresh: float = 0.01
-    """Threshold for high-frequency drift. If exceeded, skip is aborted."""
     worldcache_saliency_enabled: bool = False
-    """Enable Saliency-Guided Thresholding. Weight drift based on spatial variance."""
+    """Enable Saliency-Weighted Drift (SWD). Weight drift based on spatial variance."""
     worldcache_saliency_weight: float = 5.0
     """Weight factor (beta) for saliency drift. drift = mean(abs(delta) * (1 + beta * saliency))."""
     worldcache_osi_enabled: bool = False
     """Enable Online System Identification (OSI). Computes optimal gamma using least-squares."""
     worldcache_dynamic_decay: bool = False
-    """Enable Dynamic Threshold Decay. Relaxes threshold in later steps."""
-    worldcache_aduc_enabled: bool = False
-    """Enable Adaptive Unconditional Caching (AdUC)."""
-    worldcache_aduc_start: float = 0.5
-    """Start ratio for AdUC (e.g., 0.5 means start after 50% of steps)."""
-    worldcache_parallel_cfg: bool = False
-    """Enable parallel CFG (batch size 2). Batches conditional and unconditional passes into a single forward call for better GPU utilization."""
-    
-    # Timestep-Aware Block Skipping (TABS)
-    timestep_skip_enabled: bool = False
-    """Enable Timestep-Aware Block Skipping optimization."""
-    timestep_skip_early_ratio: float = 0.2
-    """Ratio of late blocks to skip during early timesteps (first 30% of steps)."""
-    timestep_skip_late_ratio: float = 0.2
-    """Ratio of early blocks to skip during late timesteps (last 30% of steps)."""
+    """Enable Adaptive Threshold Scheduling (ATS). Relaxes threshold in later steps."""
     
     # Generic Optimizations
     use_torch_compile: bool = False
     """Enable torch.compile for the diffusion model."""
-    
-    # Progressive Denoising — Velocity-Based Early Exit
-    early_exit_enabled: bool = False
-    """Enable velocity-based early exit. Stops denoising when velocity norm drops below threshold."""
-    early_exit_min_ratio: float = 0.4
-    """Minimum fraction of steps to always complete before allowing early exit (0.0–1.0)."""
-    early_exit_threshold: float = 0.02
-    """Velocity L2-norm threshold (per-element). Below this, denoising is considered converged."""
 
 
 

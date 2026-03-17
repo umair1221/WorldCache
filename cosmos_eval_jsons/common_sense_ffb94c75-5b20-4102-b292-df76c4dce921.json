@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_ffb94c75-5b20-4102-b292-df76c4dce921",
+  "prompt": "A man is climbing up a challenging rocky terrain, navigating a steep incline composed of jagged rocks and patches of moss and lichen. He is wearing a black jacket with a blue hood, gray trousers, black shoes, and a cap that is predominantly pink, white, and blue in color with a red symbol on the front. A pink thread hangs from near the left side of his neck. The climber is equipped with a large, light gray-colored backpack fitted tightly on his shoulders and fastened to his body. It has blue-colored straps, a rolled sleeping mat/bag attached at the bottom, a green item with its ends visible at the top, and a blue cup hanging from the left side. Two cameras are attached to the strap of the backpack near his chest, one on each side, and a water bottle is attached at the middle. A slim white bag hangs near his stomach. As he bends, two gloves fixed to the backpack on the backside become visible. The man steadily advances up the uneven rocky path, sometimes using both his hands to grab onto nearby rocks while carefully pulling himself upward with cautious steps. The long shot captured from a high angle shows the man meticulously planting his feet before taking any step forward. The camera initially zooms out and then moves randomly, capturing the natural and dimly lit setting. Raindrops can be seen falling down, indicating cloudy weather.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_ffb94c75-5b20-4102-b292-df76c4dce921.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_accident_2_4",
+  "prompt": "The video opens with a wide-angle shot from inside a vehicle, capturing an intersection under a clear blue sky. The scene is bustling with traffic; several cars and SUVs are present, some moving slowly while others are stationary. Overhead, traffic lights hang above the roads, and utility lines crisscross the sky. On the left side of the intersection, a white building stands out, possibly a commercial establishment, while on the right, a red building with a distinctive architectural feature is visible. Trees line the sidewalks, adding greenery to the urban landscape. As the video progresses, a black SUV drives from right to the center of the intersection, where it collides with a black sedan approaching from the opposite direction. Both vehicles stop, and the front end of the black sedan is clearly shown to be heavily damaged."
+}

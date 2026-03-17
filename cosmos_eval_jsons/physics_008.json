@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_008",
+  "prompt": "A close-up shot captures a grabber arm holding a bright orange tennis ball above a piece of white cardstock propped up on a rotating platform. The platform is positioned on a wooden table, with a plain white wall serving as the backdrop. The grabber arm slowly lowers the tennis ball, positioning it directly above the cardstock. As the grabber lowers the ball behind the cardstock, it disappears from view. The cardstock, meanwhile, rotates along with the platform, leaning back as it spins. By the final frame, the cardstock has rotated significantly, leaning back while continuing to spin, with the tennis ball remaining stationary on the table behind it. The scene is set against a minimalist background, emphasizing the dynamic interaction between the moving cardstock and the stationary tennis ball.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_008.jpg"
+}

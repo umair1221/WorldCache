@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_122",
+  "prompt": "The video opens with a scene of four children standing outdoors in the rain, dressed in brightly colored raincoats: yellow, dark blue, green, and black. They appear to be in a grassy area, possibly a backyard or park, with a red building faintly visible in the background. The rain is heavy, with water droplets visibly falling and splashing against their coats and the ground. Initially, the children are facing away from the camera, seemingly looking at something in the distance. As the video progresses, they turn towards each other, holding hands and smiling, indicating a shift from a moment of observation to one of interaction and joy. The children's expressions and body language suggest they are sharing a playful and happy moment amidst the rain. The children jump around in a circle as they hold each other's hands. By the final frame, the children are fully engaged in each other's company, their faces lit up with smiles, and their hands firmly clasped, embodying a sense of camaraderie and shared enjoyment in the midst of the rainy weather."
+}

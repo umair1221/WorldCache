@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_136",
+  "prompt": "The video opens with a top-down view of a workspace, likely a workshop or a DIY area, characterized by an OSB (oriented strand board) wall. On the table, there is a rectangular gray tray and some objects that are yellow and red in color. On the floor is a white sheet with some brand name over it. The robotic arms are positioned over the table, with the right arm in black and the left arm in green sleeves. The left arm is holding the table with the end effector, while the right arm is gripping a cylindrical object also with the end effector. The right arm moves the cylindrical object toward the tray, indicating its intention to place it inside. By the final frame, the right arm has moved closer to the tray, signaling the start of the action. Then, it places the object in the tray and returns to its initial position.  A top-down shot captures the robotic arms' precise movements as they handle the cylindrical object, emphasizing the controlled and deliberate nature of the task. The workspace is organized, with tools and materials neatly arranged, suggesting a professional and methodical approach to the project. The OSB wall provides a neutral backdrop, allowing the focus to remain on the robotic arms and their interaction with the objects."
+}

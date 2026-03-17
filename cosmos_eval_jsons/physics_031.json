@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_031",
+  "prompt": "A minimalist video begins with a static shot of two white pillows with black piping placed side by side on a wooden surface against a plain white wall. Above the pillows, a black kettlebell labeled \"30 LB\" hangs from the ceiling, and to its right, a bright green piece of paper is also suspended. The scene is minimalistic, focusing on the interaction between the kettlebell, paper, and pillows. As the video progresses, the kettlebell and green paper are slowly lowered towards the pillows. The kettlebell lands on one pillow, causing it to compress slightly, while the green paper lands on the other pillow, remaining relatively flat. The video concludes with the kettlebell resting on the compressed pillow and the green paper lying flat on the second pillow, illustrating the effects of force and material deformation.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_031.jpg"
+}

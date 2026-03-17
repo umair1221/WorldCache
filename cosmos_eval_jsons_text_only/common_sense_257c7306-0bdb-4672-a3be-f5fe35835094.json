@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_257c7306-0bdb-4672-a3be-f5fe35835094",
+  "prompt": "A vlog-style scene captures a man enjoying a meal outdoors under a white awning. Seated on a white plastic chair against a white cinderblock wall, he holds a small wooden utensil in his right hand, bringing a brown gourd-shaped bowl to his lips. The bowl is nestled within a white and green woven outer bowl. Dressed in a black T-shirt with a spoon logo and white text, he sips the contents with evident enjoyment, his facial expressions conveying satisfaction and delight. The camera remains mostly stationary, offering a frontal view of the man and the surrounding environment. The white awning, with black bars and slats, provides shade from the bright daylight, which casts natural light and shadow across the scene. A few other patrons are seated nearby, including a person in dark pants and a white striped button-up shirt facing away from the camera. Beyond the awning, a street lined with trees and a few cars, including a white and a grey vehicle, stretches into the distance. The overall atmosphere is casual and inviting, highlighting the man's culinary experience and the relaxed outdoor setting."
+}

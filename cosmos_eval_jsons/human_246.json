@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_246",
+  "prompt": "A serene winter scene unfolds in a snowy forest, where two individuals, a man and a woman, are leisurely walking together with a white husky dog. The man, donning a gray beanie, a brown jacket over a red plaid shirt, blue jeans, and black boots, holds the dog's leash. The woman, wearing a light gray beanie, a beige coat over a peach-colored top, blue jeans, and tan shoes, also has a light gray scarf. The husky, with its striking blue eyes and black detailing along the head and tail, trots between them, its leash held by the woman. Snowflakes gently descend from the sky, enhancing the tranquil ambiance. Tall, slender trees with snow-laden branches frame the background, creating a picturesque winter landscape. As the video progresses, the couple continues their stroll, with the woman occasionally glancing at the man, who looks to his left. The dog remains attentive, its leash held loosely by her hand, while the soft snowfall continues to add to the serene atmosphere. The scene remains consistent throughout, capturing the essence of a peaceful winter walk in the woods.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_246.jpg"
+}

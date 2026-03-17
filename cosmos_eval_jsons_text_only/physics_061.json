@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_061",
+  "prompt": "A static shot captures a tennis ball, attached to a magnet via a string, hanging in front of a mirror placed on a wooden surface against a plain gray wall. The ball is initially suspended at a moderate height above the floor. As the video progresses, the string slowly lowers the ball, creating an illusion of a second ball due to the mirror's reflection. The ball continues to descend until it nearly touches the floor, maintaining the illusion of two balls. The scene remains unchanged, focusing on the interaction between the ball, the magnet, the string, the mirror, and the wooden surface. A close-up shot from a slightly elevated perspective."
+}

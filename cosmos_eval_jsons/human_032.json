@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_032",
+  "prompt": "The video opens with a scene set in an indoor tennis court named \"Sport Palace,\" as indicated by the large cursive text on the wall. The court has a reddish-brown clay surface marked with white lines for boundaries. A player dressed in a white shirt and black shorts stands near the net, holding a tennis racket, while another player in red attire is positioned further back on the opposite side of the net. The ceiling features a high, arched structure with visible beams and supports, allowing some natural light to filter through, creating a bright and open atmosphere.  As the sequence progresses, the player in the foreground, wearing a white shirt and black shorts, is seen preparing to hit the ball. Initially, he holds his racket with both hands, focusing intently on the approaching tennis ball. He then shifts his weight slightly forward, bringing the racket into a ready position for a forehand swing. The ball is in mid-air, heading towards him, and he executes the swing, making contact with the ball. His body follows through with the motion, completing the stroke. The opponent, dressed in red, remains stationary, observing the play. By the final frame, the player in the foreground has completed his swing, and the ball is seen flying across the net towards the opponent. The opponent, positioned near the net, is ready to return the shot. The scene captures the dynamic movement and focus of the players during the tennis match, emphasizing the intensity and precision of the sport.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_032.jpg"
+}

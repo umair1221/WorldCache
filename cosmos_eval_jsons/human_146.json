@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_146",
+  "prompt": "A man in a well-lit gym, actively engaged in a boxing workout, is positioned in front of a large, black punching bag labeled \"FIGHTBRO\" in bold white letters on one side and a white logo on another side. The gym features a clean, modern design with white walls and a metal rack mounted on one side, holding various pieces of equipment like kettlebells and weight racks. The man, dressed in a black t-shirt and black boxing gloves with a white logo at the base, is seen delivering a series of powerful elbow strikes to the bag. He strikes first with his right elbow and then with his left, each hit causing the punching bag to swing slightly away from him. His movements are precise and controlled, demonstrating his focus and intensity. As the sequence progresses, the man continues his rhythmic strikes, maintaining a steady pace and showing no signs of fatigue. The gym environment remains consistent, with the same equipment and background elements visible throughout the frames. The camera remains stationary throughout the video. By the final frame, the man is still actively engaged in his workout, delivering a final series of punches that emphasize his dedication and physical prowess.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_146.jpg"
+}

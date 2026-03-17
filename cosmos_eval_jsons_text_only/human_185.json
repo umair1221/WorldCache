@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_185",
+  "prompt": "A young boy is captured mid-action on a sunny outdoor tennis court, enclosed by a green chain-link fence. Dressed in a yellow and white striped shirt, navy blue shorts, and black sneakers with yellow detailing, he holds a blue tennis racket in his right hand. Positioned near the end of the court, he is about to hit a tennis ball that is just bouncing off. The vibrant green court surface contrasts with the blurred background of other courts and trees behind a tall compound. As the sequence progresses, the boy swings the racket with force, following through the motion. After the swing, he hops around slowly, watching the ball's flight. The final frame captures him curiously tracing the ball's path and his racket down, waiting for the opponent's play."
+}

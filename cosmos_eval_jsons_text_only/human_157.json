@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_157",
+  "prompt": "A medium shot captures a soccer field with bright green artificial turf. A white soccer ball with black patterns is positioned centrally in the foreground, drawing immediate attention. Behind it, a large white soccer goal net spans the width of the frame, creating a stark contrast against the muted tones of the surrounding walls. In front of the net, a goalkeeper dressed in a pink jersey, black shorts, pink socks, and pink cleats stands ready. Initially, the goalkeeper's hands are positioned near his abdomen, but they soon rise above his head, likely signaling a defensive stance or preparation for a penalty kick. The scene remains static, with no significant changes in the positioning or actions of the goalkeeper or the ball, maintaining a focused and anticipatory atmosphere throughout the sequence."
+}

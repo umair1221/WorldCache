@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_195",
+  "prompt": "A bright, modern kitchen with white brick walls and a large window allows ample natural light to flood the space. A wooden dining table stands at the center, surrounded by two white chairs partially occluded by the table. On one side of the table, a woman with curly hair, dressed in a light blue outfit, holds a red ping pong paddle, preparing for a game. Opposite her, a man with short hair, wearing a white shirt, also holds a ping pong paddle, ready to play. The kitchen features white cabinets, a sink with a rose gold faucet, and various items like jars and bowls neatly arranged on shelves. A neon sign reading \"TOGETHER\" is prominently displayed on the wall behind them, adding a touch of warmth and positivity to the scene. As the sequence progresses, the woman lifts her left leg in the air and swings the paddle, hitting the ping pong ball across the table towards the man. The man watches attentively and then prepares to return the serve. The ball is seen in mid-air, indicating an active exchange between the two players. The setting remains consistent throughout, with the focus on their interaction and the playful activity of ping pong. The final frame captures the man leaning forward, ready to receive the ball, while the woman continues to hold her paddle, poised for the next move."
+}

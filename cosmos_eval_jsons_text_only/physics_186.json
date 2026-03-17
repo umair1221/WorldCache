@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_186",
+  "prompt": "A close-up view of a golden, translucent honeycomb-like substance, likely honeycomb or a similar gelatinous material, set against a stark black background. The honeycomb's intricate, honeycomb-like structure is highlighted by the lighting, which emphasizes its glossy, reflective quality. A thin stream of honey is seen dripping from the top left corner, cascading down onto the honeycomb's surface. The honey appears thick and viscous, clinging to itself as it flows, creating small droplets and ripples upon contact with the textured surface below. The honey's movement is slow and deliberate, showcasing the fluidity and translucency of the material as it interacts with the honeycomb. The camera remains steady throughout, focusing on the interaction between the dripping honey and the honeycomb, capturing the mesmerizing beauty and complexity of the scene. As the video progresses, the honey continues to drip and spread across the honeycomb, creating dynamic patterns and textures. The honeycomb's intricate structure and the glossy, reflective quality of the material remain prominently displayed, maintaining the mesmerizing and delicate nature of the interaction until the end of the video."
+}

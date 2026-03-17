@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_164",
+  "prompt": "A serene autumnal scene unfolds as a small waterfall cascades over dark, moss-covered rocks. The water flows smoothly, creating a gentle stream that splashes against the rocks, some of which are partially encased in ice. Vibrant red and orange leaves are scattered around the base of the waterfall, indicating the fall season. The leaves appear wet, possibly from the misty spray of the waterfall. The overall atmosphere is peaceful and natural, with no visible animals or human characters present. The camera remains stationary throughout the sequence, focusing on the waterfall and its immediate surroundings, allowing viewers to fully absorb the tranquil beauty of the scene. As the video progresses, the ice on the rocks gradually begins to melt due to the warmth of the surrounding environment, revealing more of the dark, textured rocks beneath. The water continues to flow steadily, maintaining its gentle rhythm, while the vibrant autumn leaves remain scattered around the base, adding a touch of color to the serene landscape. By the end of the video, the ice has significantly reduced, exposing more of the moss-covered rocks, and the overall scene retains its peaceful and natural ambiance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_164.jpg"
+}

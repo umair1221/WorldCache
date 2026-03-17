@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_284",
+  "prompt": "The video opens with a swimmer in an indoor pool, viewed from behind. The swimmer, wearing a black swim cap and goggles, is positioned in the middle of a lane, surrounded by clear blue water. The pool features multiple lanes marked by parallel floating lane dividers, which are visible in the background. The swimmer's body is partially submerged, and they appear to be in the midst of a stroke, with their arms to their sides. As the swimmer progresses forward, they transition into a butterfly stroke, bringing their head out of the water before their arms move forward in a coordinated motion, creating more pronounced splashes as they enter the water. The swimmer's head remains submerged for a brief moment before resurfacing, indicating the completion of the stroke cycle. The final frame captures the swimmer continuing their butterfly stroke, with their body partially submerged and the water around them rippling from their movements. The camera tracks the swimmer, providing a dynamic view of the swimmer's fluid motion and the splash effects created by their strokes."
+}

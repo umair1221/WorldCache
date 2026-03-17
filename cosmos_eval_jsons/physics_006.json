@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_006",
+  "prompt": "A close-up shot captures a wooden table against a plain light blue wall, emphasizing the simplicity and clarity of the scene. On the table, three wooden blocks—red, yellow, and blue—are arranged in an \"L\" shape. The red block forms the base, supporting the yellow block horizontally. The blue block is balanced on top of the yellow one, held in place by a pair of orange and black grabber tools. As the grabber tools release the blue block, it falls, causing the entire structure to collapse. The blue block lands first, followed by the yellow block, both coming to rest on the table. The final scene shows the scattered blocks, with the grabber tools hovering above them, ready for another attempt.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_006.jpg"
+}

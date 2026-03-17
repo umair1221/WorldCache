@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_094",
+  "prompt": "The video opens with a view of a clean, industrial-style workspace featuring a white table at the center. On the left side of the table, a blue plastic crate holds several clipboards, each with documents attached. A clipboard with a printed grid-like document is placed centrally on the table, while a red rectangular object, possibly a small box or device, rests to the right of it. Two robotic arms, black with metallic components, extend from the bottom corners of the frame, positioned symmetrically around the table. The robotic arm on the right side of the frame begins to move, extending its claw-like hand towards the red rectangular object, picking up an object most likely to be a seal. As the video progresses, the arm presses the seal against the paper on the clipboard, which imprints a red stamp on it. The scene concludes with the arm placing the seal back on the red box and moving back towards its initial position.  A medium shot captures the robotic arms' precise movements, emphasizing their mechanical precision and the clean, organized environment of the workspace. The background reveals a spacious, well-lit area with a polished floor and scattered office chairs, adding context to the setting. The video maintains a steady focus on the interaction between the robotic arms and the objects on the table, highlighting the integration of technology in a professional setting."
+}

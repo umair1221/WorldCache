@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_065",
+  "prompt": "A high-definition video capturing the precise and intense process of plasma cutting in an industrial workshop. The scene centers on a plasma cutter head, a cylindrical device with a nozzle emitting a bright, concentrated flame, positioned above a flat sheet of metal. Sparks fly outward as the cutter cuts through the metal, creating a vivid display of heat and precision. The metal surface shows signs of previous cuts, with molten debris and charred edges visible along the cut lines. The surrounding area includes parts of the machine's structure, such as a metallic frame and a black base supporting the cutting table. As the video progresses, the plasma cutter continues its operation, maintaining a steady position above the metal, cutting it in a straight line. The flame and sparks persist, emphasizing the ongoing cutting process. The molten debris and charred edges accumulate further along the cut line, demonstrating the progression of the cut. The video maintains a consistent industrial setting, with the machine's structure and the cutting table remaining unchanged throughout the sequence. By the final frame, the plasma cutter is still engaged in the cutting process, with the flame and sparks continuing to illuminate the scene. The metal sheet shows significant progress in the cut, with more molten debris and charred edges accumulated along the line.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_065.jpg"
+}

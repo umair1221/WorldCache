@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_151",
+  "prompt": "The video opens with a figure skater in an indoor ice rink, dressed in a sleek black outfit, gracefully gliding across the ice. The rink is enclosed by a high, arched ceiling with wooden beams and rows of evenly spaced lights that illuminate the space. The walls are a muted gray, and the ice surface is smooth and partially reflective. The skater begins by extending her arms for balance as she moves, then transitions into a series of elegant movements, where she raises her right leg parallel to the icy surface while the other leg remains straight, maintaining perfect balance on the single skate. Her body rotates fluidly, showcasing her skill and control over the ice. The scene concludes with the skater still in mid-lift, demonstrating poise and precision.  A medium shot captures the skater from a slightly elevated perspective, emphasizing her fluid movements and the serene environment of the rink. The camera follows her graceful glide, highlighting the contrast between her dark attire and the bright, reflective ice beneath her. The background, with its high ceiling and evenly spaced lights, adds depth to the scene, creating a sense of spaciousness and focus on the skater's performance."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_041",
+  "prompt": "In a dimly lit, dystopian setting, a wall of old-style monitors displays static or distorted images, bathed in a mix of red and purple lighting. Two individuals stand facing each other, one clad in a black, leather-like suit with a mechanical arm extending from their shoulder, and the other in a greenish-gray suit with a similar robotic arm. The robotic arms initially positioned apart begin to move closer, fingers curling and aligning as if preparing for a handshake. The monitors in the background remain static, adding to the high-tech ambiance. By the final frame, the robotic hands touch, symbolizing a moment of connection amidst the futuristic, eerie environment.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_041.jpg"
+}

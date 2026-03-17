@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_055",
+  "prompt": "The video opens with a close-up shot of a conveyor belt in a modern food processing facility. The conveyor belt is blue and moves steadily, carrying several small, white, dome-shaped meringues or similar confectionery items. These meringues are neatly aligned in a row, suggesting an automated production line. In the background, industrial machinery with metallic surfaces and blue cables is visible, indicating a high-tech environment. A gloved hand, likely belonging to a worker, enters the frame from the left side, carefully picks up a meringue from the conveyor belt. The hand then retracts, allowing the meringue to move forward. This action repeats as the hand picks up more meringues, maintaining the orderly flow of the production line. The scene concludes with the meringues continuing their journey down the conveyor belt, demonstrating the seamless integration of human and machine in the manufacturing process.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_055.jpg"
+}

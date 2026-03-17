@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_020",
+  "prompt": "The video opens in a spacious indoor basketball court within a gymnasium. The court is marked with standard basketball lines on a polished wooden floor, and a basketball hoop is prominently positioned on the right side of the frame. The gym features large windows allowing natural light to illuminate the space, and the ceiling is equipped with recessed lighting. The walls are painted white, adorned with various notices and signs. A person wearing a white shirt and dark shorts is seen standing near the center of the court, holding a basketball. They take a few steps forward, preparing to shoot. The individual lifts the ball above their head, extends their arm, and releases the ball towards the hoop. The ball is seen in mid-air, heading towards the basket. The person watches the ball's trajectory, anticipating its outcome. The final frame captures the ball in motion, heading towards the hoop, while the individual remains focused on the shot.  A medium shot of a person shooting a basketball in a gymnasium.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_020.jpg"
+}

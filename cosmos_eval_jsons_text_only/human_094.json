@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_094",
+  "prompt": "The video captures a dynamic basketball game set in a large indoor arena, likely during a professional or international tournament, as indicated by the prominent \"FIBA\" branding on the court. The scene is bustling with activity, featuring two teams, one in white jerseys and the other in red, competing intensely. The scoreboard shows the USA leading Russia 17-13 with 4:08 remaining in the game. The court is well-lit, showcasing the polished wooden surface with various markings and logos, including the FIBA emblem at the center. Spectators fill the stands, creating a vibrant backdrop of anticipation and excitement. Advertisements for \"Turkcell\" run along the perimeter of the court, adding to the commercial atmosphere.  As the game unfolds, a player in a red jersey dribbles the ball, attempting to navigate through the defense of a player in a white jersey. The player in white makes a strategic move, passing the ball to a teammate who then drives towards the basket. The opposing team's defense shifts to intercept the play, with players from both sides converging near the basket. The action intensifies as the ball is passed back and forth between players, highlighting the fast-paced nature of the game. The crowd remains engaged, cheering and reacting to the unfolding play, contributing to the electric atmosphere of the arena."
+}

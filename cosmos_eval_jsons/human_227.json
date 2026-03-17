@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_227",
+  "prompt": "In a modern kitchen with light-colored wooden cabinets and a subtle wood grain backsplash, a woman in a loose-fitting blue dress with small white patterns is seen grating orange pieces, likely vegetables, from a metal pan with a knife. She stands at the counter, focused on the task, sliding the grated vegetable into a medium-sized yellow bowl. The stainless steel range hood above the stove, where a gas burner is visible on the right, frames the scene. To the left, a wooden cutting board rests on the counter behind the sink, and to the right, a rack holds various kitchen utensils, including a bottle opener and powder containers. A decorative vase with yellow flowers adds a pop of color to the otherwise neutral-toned kitchen. The woman's curly hair frames her face as she continues her task, maintaining a steady and calm atmosphere throughout the sequence.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_227.jpg"
+}

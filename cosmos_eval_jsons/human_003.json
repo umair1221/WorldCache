@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_003",
+  "prompt": "A cyclist rides down a quiet, tree-lined residential street, bathed in soft sunlight filtering through the leaves. The cyclist, wearing a bright yellow shirt, white pants, and a black helmet, pedals steadily along the paved road. The street is lined with parked cars on both sides, and low-rise buildings, possibly apartment complexes or townhouses, stand in the background. The cyclist's shadow stretches long on the road, adding depth to the tranquil scene. As the cyclist moves forward, a parked silver car slowly appears from the right, passing by without any interaction. The cyclist continues riding, maintaining a consistent pace, with the street remaining largely unchanged. The final frame captures the cyclist further down the street, the silver car having passed by, and the cyclist still riding away, the yellow shirt fluttering slightly in the breeze.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_003.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_214",
+  "prompt": "The video opens with a scene of an artist painting a mural on a yellow wall, part of a structure with a white decorative fence on either side. A motorbike is parked on the left, partially visible in front of the wall. The artist, dressed in a white t-shirt and black pants with yellow stripes, stands on the ground, leaning slightly forward as they work on the painting. A wooden table set up on a small platform holds various painting supplies, including three paint cans, brushes, and a palette. The mural features a gradient sky transitioning from orange near the horizon to purple and blue tones higher up, with dark, shadowy shapes resembling mountains or cliffs silhouetted against the colorful backdrop. The artist moves their arm smoothly, dipping the brush into a can of paint and extending it towards the wall to add more details to the landscape. The camera captures the artist's focused movements, gradually extending the painted area across the wall.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_214.jpg"
+}

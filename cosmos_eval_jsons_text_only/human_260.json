@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_260",
+  "prompt": "The video opens with a serene beach scene, where clear turquoise waters stretch out towards a pristine white sand shore. A person is paddle boarding in the foreground, wearing a life jacket and holding a paddle, moving slowly across the water. The paddleboard is positioned centrally in the frame, with the individual facing slightly towards the camera. In the background, lush greenery, including palm trees and dense foliage, lines the beach. Further back, a cluster of thatched-roof huts is visible with several people surrounding the huts, some standing and others sitting, enjoying the tranquil environment. The sky above is mostly clear with a few scattered clouds, indicating a sunny day. As the video progresses, the paddle boarder continues their slow journey across the turquoise waters. The individual's posture remains consistent with the paddle. The surrounding environment remains unchanged, with the lush greenery, the thatched-roof huts, and the scattered individuals on the beach providing a constant backdrop. By the end of the video, the scene remains largely the same, with the paddle boarder continuing their gentle movement across the blue waters. The lush greenery, the thatched-roof huts, and the people on the beach maintain their positions, creating a peaceful and idyllic setting."
+}

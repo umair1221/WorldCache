@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_005",
+  "prompt": "The video opens with a close-up view of a meticulously arranged kitchen-like setup featuring a wooden countertop against a dark tiled backsplash. Various objects are neatly placed on the counter, including a piece of sushi, a red pepper, a salt shaker, a red bowl, and a white rectangular switch adorned with a small label. To the right, a white sink with a red lip and a plastic bag containing a white substance are visible. A robotic arm enters the frame from the top left, moving downward and positioning itself above the white rectangular switch, changing its state. The scene captures the precision and detail of the setup, emphasizing the interaction between the robotic arm and the switch."
+}

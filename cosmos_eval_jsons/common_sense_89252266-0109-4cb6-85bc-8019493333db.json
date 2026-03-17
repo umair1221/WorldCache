@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_89252266-0109-4cb6-85bc-8019493333db",
+  "prompt": "The video captures an expansive aerial view of a picturesque coastal town, showcasing a serene and organized beachfront. Two crescent-shaped beaches are enclosed by light breakwaters, creating distinct areas for relaxation and activities. The beach on the right is bustling with several boats, suggesting recreational water sports, while the left beach is lively with people enjoying the clear blue waters. The camera maintains a wide shot at eye level, smoothly tracking left throughout the sequence.  As the video begins, a motorboat enters the frame from the bottom-left corner, gliding across the calm sea, leaving a trail of white foam in its wake. The gentle waves continue to move towards the coastline, adding a soothing rhythm to the scene. The bright daylight illuminates the entire area, casting a warm glow over the sandy beaches and the turquoise waters. The town below is neatly arranged, with rows of houses and green fields stretching outwards. A long road cuts through the middle of the town, with vehicles traveling along it, adding a sense of life and activity. The backdrop features rolling hills and lush greenery, with distant mountains and some smoke rising from the far left side, enhancing the tranquil yet vibrant atmosphere of this coastal paradise.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/common_sense_89252266-0109-4cb6-85bc-8019493333db.jpg"
+}

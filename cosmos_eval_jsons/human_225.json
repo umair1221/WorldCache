@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_225",
+  "prompt": "A bright, airy yoga studio with large windows allowing natural light to flood the space, creating a serene and inviting atmosphere. The studio has a modern design with clean lines, minimal decor, and a polished wooden floor. In the background, a few pieces of exercise equipment are neatly arranged. Five women are spaced out across the studio floor, facing forward but not standing in a straight line. The instructor, positioned centrally, wears a pink sports bra and black leggings, while the other participants wear white tops and black leggings. The instructor begins in a standing position, with her arms resting at her sides, then transitions into a yoga pose raising her arms overhead. She maintains a balanced stance with both feet firmly planted on the ground as the sequence begins. The participants follow her lead, mirroring her movements. By the end of the sequence, all five individuals are holding a tree pose with arms raised overhead, displaying focus and group coordination. A medium shot captures the instructor and participants in a dynamic and synchronized yoga session.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_225.jpg"
+}

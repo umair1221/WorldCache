@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_014",
+  "prompt": "The video showcases a packaging factory, specifically focusing on a conveyor belt system designed to handle and sort tomatoes. Set within a large, well-lit industrial space characterized by white walls and a clean, polished floor, the scene captures the continuous movement of tomatoes along a black conveyor belt running vertically across the frame. To the right, a yellow safety railing ensures worker safety. A control panel with buttons and switches is visible, indicating active operation. A person dressed in a red shirt is seen near the control panel, actively engaging with the equipment. Workers are visibly interacting with the machine, ensuring the smooth operation of the conveyor system. The environment is orderly, with no significant changes in the arrangement of objects throughout the sequence. The video emphasizes the efficiency and precision of the automated process. A medium shot from a slightly elevated perspective."
+}

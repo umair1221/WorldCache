@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_005",
+  "prompt": "The video opens with a static shot of a wooden table against a plain off-white wall. On the table, two rows of alternating black and white dominoes are neatly arranged, separated by a small gap. To the right, a black circular object, likely a speaker or a similar device, rests on the table. Attached to this object is a wooden stick with a green circular piece at its end, positioned near the edge of the table. The stick remains stationary initially but soon begins to rotate clockwise. As it reaches the first domino in the first row, it strikes the domino, causing it to fall. This action triggers a chain reaction, with the dominoes in the right row toppling sequentially, creating a domino effect across the table. By the final frame, all the dominoes in the right row have fallen, leaving the table in a scattered arrangement.  A close-up shot captures the initial moment when the stick strikes the first domino, emphasizing the dynamic motion and the subsequent collapse of the dominoes. The camera then shifts to a slightly elevated angle, following the dominoes' fall and capturing the entire sequence of the chain reaction. The background remains consistent, with the wooden table and the off-white wall providing a neutral setting that highlights the action."
+}

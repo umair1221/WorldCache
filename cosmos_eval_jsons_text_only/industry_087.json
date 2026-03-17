@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_087",
+  "prompt": "A modern, minimalist living space is captured in a series of frames showcasing a sleek black robotic vacuum cleaner on a light wooden floor. The scene is set against a rustic wooden console table adorned with a small potted plant with lush green foliage, a woven basket, and a geometric metal sculpture resembling an abstract star. The walls are painted a neutral beige color, adding warmth to the room. The robotic vacuum cleaner moves methodically across the floor, positioned near the edge of the console table. The camera maintains a steady, low-angle shot, emphasizing the clean lines and simplicity of the space. The overall ambiance is serene and inviting, highlighting the efficiency of the robotic vacuum in maintaining the tidy environment."
+}

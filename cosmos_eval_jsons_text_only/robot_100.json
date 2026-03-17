@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_100",
+  "prompt": "The video opens with a scene set indoors, likely in a spacious office or conference area, evidenced by the carpeted floor and visible furniture such as tables and chairs in the background. The main focus is on a red tray placed on a cart, which holds several cans, likely of soda, arranged in a row. Two robots are present in the scene\u2014one is fully visible, dressed in a white and black outfit resembling a futuristic design, while only the arms of the second robot can be seen extending into the frame. Both robots are equipped with gloves. As the video progresses, both robots initially pick up one can each, then proceed to pick up another can using their other gloved hands. The action is deliberate and focused, suggesting a demonstration or showcasing of the cans. By the final frame, the robot continues to hold the cans prominently, while the other cans remain on the tray, maintaining their initial arrangement.  A medium shot captures the robots' interaction with the cans, emphasizing their coordinated movements and the futuristic design of their outfits. The background remains slightly blurred, drawing attention to the robots and the tray. The lighting is even, highlighting the metallic sheen of the cans and the robots' gloves."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_217",
+  "prompt": "The video opens with a man seated at a dining table in a bright, modern kitchen. He is dressed in a light beige cardigan over a white shirt and has a neatly groomed beard. The man is smiling as he receives a bowl of fresh salad from someone off-camera to his left. The table is set with a plate of salad, a glass of orange juice, and some additional vegetables like cherry tomatoes and olives. The kitchen behind him features gray cabinets with silver handles, a white countertop with a few utensils and containers, and various kitchen utensils hanging on the wall. A white vase with green plants, along with a camera, sits on the counter behind him. The man then begins to interact with the salad, using a fork in his right hand to put some salad from the bowl onto the plate in front of him. The camera shifts slightly throughout the video, capturing this action, focusing on his hands and the bowl, while the background remains static. The final frame shows the man continuing to put the salad from the bowl onto the plate, with another person with a beard partially visible on the left side of the frame. A medium shot captures the man's interaction with the salad, emphasizing his hands and the bowl, with a slight pan to include the second person."
+}

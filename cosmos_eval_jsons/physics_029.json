@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_029",
+  "prompt": "A static shot captures a small, bright yellow rubber duck positioned centrally on a light brown wooden table. The table's surface is smooth and displays subtle wood grain patterns, indicating a natural finish. The rubber duck, with its characteristic orange beak and feet, is slightly tilted to one side, adding a playful touch to the scene. The background is a plain white wall, which contrasts sharply with the warm tones of the table and the vibrant yellow of the duck, making both elements stand out prominently. The video maintains this stationary setup throughout, emphasizing the absence of any action or new objects entering the frame.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_029.jpg"
+}

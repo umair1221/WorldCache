@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_027b0cab-4b66-4100-83f3-e4150296d9de",
+  "prompt": "The video opens with a wide-angle shot captured from inside a vehicle at an intersection during late afternoon, as indicated by the long shadows and the position of the sun. The dashboard reflects the road ahead, with multiple traffic lights visible overhead, one of which is green for the direction the camera faces. Several cars are present, including a sedan directly ahead and others waiting at the stoplight. To the left, a \"No U-turn\" sign is visible. The surroundings feature trees lining the roadsides and some commercial buildings in the background, suggesting a suburban area. Power lines crisscross above the intersection, adding to the urban landscape. As the video progresses, the ego vehicle begins turning left, and the left-turn arrow light changes from green to yellow. The camera captures the 'Scott' street sign hanging from a traffic signal pole as the vehicle completes the turn. Lane merging markers become visible on the road ahead as the vehicle continues through the intersection. The scene shifts slightly, revealing more vehicles on the left side of the ego vehicle as it passes through the area."
+}

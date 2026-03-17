@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_226",
+  "prompt": "The video captures a high-tech industrial setting, likely a pharmaceutical manufacturing facility, emphasizing its pristine and organized environment. The primary focus is on a sophisticated robotic arm, predominantly white and green, mounted on a metallic framework. This robotic arm is actively engaged in a precise task, moving methodically over a conveyor belt that carries small white objects. The robotic arm picks up white objects, extends its mechanical arm downward, places the white objects on the conveyor belt, and then retracts back up, repeating this pick-and-place cycle of movement. Two individuals wearing blue protective suits are visible on the right side of the frame, observing or operating the machinery, indicating human oversight of the automation processes. The walls and ceiling are clad in smooth surfaces, with some lights mounted on the ceiling. The overall atmosphere is one of advanced technology and meticulous precision. A medium shot from a slightly elevated perspective."
+}

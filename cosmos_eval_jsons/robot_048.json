@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_048",
+  "prompt": "The video begins with a close-up shot of a wooden cutting board placed on a metallic surface, likely part of a kitchen appliance. The cutting board has a light brown hue with visible wood grain patterns. On the left side of the board, there is a stainless steel pot on a blue cloth. To the right, a red-handled metal ice cream scoop lies on the board. Above the cutting board, a black robotic arm is positioned, seemingly in the process of moving or interacting with an object. The background features a textured wall with a mix of gray and white tones, suggesting a modern kitchen setting.  As the video progresses, the robotic arm descends towards the small stainless steel pot placed on the blue cloth. It attempts to grasp the pot for the first time, but the gripper fails to secure it properly. The robotic arm then adjusts its position, changing the grip on the pot. It successfully lifts the pot, tilting it slightly before lifting it completely off the board. The pot is then moved away from its initial position and placed at the right part of the cutting board. The video captures the intricate movements of the robotic arm, highlighting its precision and adaptability in handling the pot.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_048.jpg"
+}

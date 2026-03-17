@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_1542008-hd_1920_1080_30fps",
+  "prompt": "A serene sky scene captured during either sunrise or sunset, characterized by a beautiful gradient of colors. The sky transitions from a deep blue at the top to a warm, golden yellow near the horizon, where the sun is partially visible, casting a radiant glow. Wispy, thin clouds are scattered throughout, varying in shape and size, from delicate streaks to larger, more rounded formations. The clouds move very slowly, creating a gentle, almost ethereal motion. The overall atmosphere is calm and tranquil, with the sun remaining stationary and the sky's gradient colors remaining consistent. The clouds continue to shift subtly, altering their shapes and positions, but these changes are gradual and not immediately noticeable. The final frame captures the same tranquil scene, with the sky maintaining its serene state and the clouds continuing their slow, subtle movements."
+}

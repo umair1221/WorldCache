@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_017",
+  "prompt": "The video captures a scene set within a well-lit industrial textile factory. The central figure is a woman working diligently at looms, wearing a light blue short-sleeved lab coat over a longline pink and purple patterned shirt paired with blue pants and a light blue hairnet. She is also equipped with an orange earpiece. Standing beside a large industrial textile machine, she monitors the fabric processing system, which includes a prominent cylindrical roller and various moving parts. The woman, with her left hand on the fabric and right hand on the edge of the machine, appears focused and attentive. Her gaze shifts to her right, suggesting she might be checking something off-camera. The background showcases additional textile machinery and another worker in blue, emphasizing the busy yet organized nature of the factory. The number 123 is clearly visible in bold black font on another machine behind her. The environment is brightly lit with fluorescent lights, creating a clean and professional atmosphere. Throughout the video, the woman maintains her focus, ensuring the seamless operation of the textile production process."
+}

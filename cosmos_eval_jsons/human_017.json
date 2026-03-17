@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_017",
+  "prompt": "A lively nighttime street scene unfolds, likely in an urban area decorated for the holidays. The street is illuminated by streetlights and adorned with festive blue and white lights strung across the buildings. A diverse group of pedestrians walks along the sidewalk, some in pairs and others alone, dressed in a mix of casual and slightly more formal winter attire. A man in a black jacket and jeans stands prominently in the foreground, holding a purple object, possibly a phone case or small bag, and appears to be looking around. Behind him, a woman with blonde hair in a black jacket and jeans walks beside another person in a dark outfit. Further down the street, a man in a yellow hoodie and black pants is seen walking briskly, while others stroll leisurely, some carrying shopping bags. The background features a large building with intricate architectural details, partially obscured by the festive decorations. The overall atmosphere is bustling yet relaxed, indicative of a typical evening in a busy city center during the holiday season. As the video progresses, the same scene continues with minimal changes in the positions of the pedestrians, maintaining the same festive and dynamic environment throughout the frames. A medium shot captures the lively street activity from a slightly elevated perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_017.jpg"
+}

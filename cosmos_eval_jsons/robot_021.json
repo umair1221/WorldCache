@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_021",
+  "prompt": "The video opens with a view of a makeshift kitchen setup where a cardboard box is placed over a gas stove, simulating a cooking area. Inside the box, there are various colorful plastic kitchen items, including a blue bowl, a silver pot, and an orange carrot-shaped object on a green plate. The stove beneath the box has four burners. The surrounding area includes a wooden cabinet and a sink, indicating a compact kitchen environment. As the video progresses, a robotic arm equipped with a gripper enters the frame from the top right corner. The arm descends towards the cardboard box, carefully positioning itself above the orange carrot-shaped object. With precise movements, the robotic arm lifts the carrot-shaped object from the green plate, placing it on the other side of the stove. The camera follows the robotic arm's movements closely, capturing the detailed interaction between the mechanical arm and the plastic kitchen items. The background remains consistent, showcasing the wooden cabinet and the sink, emphasizing the compact nature of the kitchen setup.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_021.jpg"
+}

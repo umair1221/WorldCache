@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_013",
+  "prompt": "A dynamic video captures a person riding a red bicycle on a wide, light-colored paved area, likely a city plaza or pedestrian walkway. The rider, dressed in dark pants and black shoes, pedals steadily, casting a prominent shadow on the ground, indicating bright sunlight. The background showcases modern architecture with large columns and glass facades, suggesting an urban setting. Parked cars and some greenery, including bushes and trees, are visible further back, adding to the cityscape ambiance. As the video progresses, the person continues to ride the bicycle at a steady pace, with their legs pedaling smoothly. The shadow of the cyclist and the bicycle stretches across the pavement, elongating slightly as they move forward. The background remains consistent, showing parked cars and urban elements like buildings and greenery, which remain static throughout the sequence. By the final frame, the person is still riding the bicycle, maintaining the same steady pace, with the shadow continuing to stretch across the pavement.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_013.jpg"
+}

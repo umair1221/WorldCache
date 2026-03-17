@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_012",
+  "prompt": "A static shot captures a wooden table surface, where a simple structure resembling a gate is placed. This gate consists of two vertical blocks in red and yellow, forming the legs, and a horizontal blue block serving as the top bar. Above this structure, a pink rectangular block is suspended in mid-air, positioned vertically above the blue top bar of the gate. The background is a plain, light gray wall, creating a neutral backdrop that emphasizes the vibrant colors of the blocks and the smooth texture of the wooden table. As the video progresses, the pink block is gradually lowered towards the gate. It comes into contact with the blue top bar and eventually rests on it, completing its descent. The final frame shows the pink block securely placed on the blue top bar of the gate, with the rest of the structure remaining stationary."
+}

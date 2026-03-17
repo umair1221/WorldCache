@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_046",
+  "prompt": "A close-up shot captures a clear glass of water on a wooden table against a plain white wall backdrop. A lit matchstick is held above the glass, with the flame clearly visible at the tip. The camera remains static as the match is slowly lowered into the water. Initially, the flame remains steady, but it gradually diminishes in size and intensity due to the absorption of heat by the water. By the final frame, the flame has extinguished, leaving only the matchstick submerged in the water, which now appears slightly darker where the heat was absorbed."
+}

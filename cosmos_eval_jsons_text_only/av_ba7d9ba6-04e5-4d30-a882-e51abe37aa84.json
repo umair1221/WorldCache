@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_ba7d9ba6-04e5-4d30-a882-e51abe37aa84",
+  "prompt": "The video opens with a wide-angle shot of a suburban parking lot on a sunny day, captured from the perspective of someone sitting inside a vehicle. The scene is framed with the hood and windshield wipers visible at the bottom of the frame. Several parked cars are scattered across the lot, including a white sedan on the left, a red pickup truck on the right, and others in various colors. The background features multiple houses with different roof styles, surrounded by large, leafy trees that cast shadows over parts of the parking area. A person dressed in light-colored clothing is seen walking across the parking lot from the left side towards the center-right of the frame, moving steadily and purposefully. The sky above is clear and blue, indicating a bright and calm day. As the video progresses, the ego vehicle waits for the pedestrian to cross the road. The person continues their walk, gradually moving further into the frame until they reach the right side. The overall scene remains largely unchanged, with the parked cars and trees remaining stationary, and the person's movement being the primary dynamic element."
+}

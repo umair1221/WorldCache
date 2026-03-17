@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_041",
+  "prompt": "A static shot captures a glass beverage dispenser filled with a bright red liquid, situated on a woven basket atop a wooden table. The dispenser, with its ribbed design, is equipped with a spout from which the liquid is being poured into a clear glass placed directly below. The liquid flows steadily, creating ripples and bubbles as it fills the glass. The scene remains unchanged, emphasizing the continuous pouring action until the glass is nearly half-full. The background is minimal, focusing solely on the dispenser and the glass on the wooden surface.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_041.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_107",
+  "prompt": "A soccer player stands on a grassy field, facing a soccer ball placed just in front of him. He is dressed in athletic attire, including a dark gray shirt, black shorts, and white cleats. The player takes a few steps back, preparing to strike the ball with a powerful kick. The ball soars through the air, heading towards the goal. In the final frame, the player is seen from behind, watching the ball's flight, his body slightly turned as he anticipates its landing. The scene is set against a backdrop of lush green foliage and a standard soccer goal with a red net and white posts, situated within a fenced area. The video captures the dynamic motion of the kick, emphasizing the player's focused stance and the trajectory of the ball.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_107.jpg"
+}

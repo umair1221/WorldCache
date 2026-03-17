@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_204",
+  "prompt": "The video opens with a vibrant street food scene under a red canopy. A man in a red shirt and blue apron is actively grilling skewers of meat over an open flame, his hands deftly turning the skewers to ensure even cooking. Steam rises from the grill, indicating the heat and the freshness of the food. Another vendor, dressed in a beige shirt and gray apron, walks out from the right side of the camera view. In the background, several parked vehicles, including vans and motorcycles, are visible, along with a few pedestrians walking by. The setting appears to be a busy outdoor market or street fair, with the smoke from the grills adding to the lively atmosphere. As the video progresses, the man in the red shirt continues his task, methodically rotating the skewers and adding more skewers to the grill. A young child in a yellow outfit appears in the background, moving closer to the food stalls, possibly intrigued by the sights and smells. The scene remains dynamic yet orderly, with the vendors focused on their work and the environment bustling with activity. By the final frame, the man in the red shirt is still diligently grilling, his movements steady and purposeful. The second vendor is out of the frame, and the young child in the yellow outfit is now more prominently positioned near the food stalls. The overall scene retains its lively and bustling nature, with the vendors and the surrounding environment contributing to the vibrant street food experience.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_204.jpg"
+}

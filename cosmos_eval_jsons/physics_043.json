@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_043",
+  "prompt": "A close-up shot captures the steady flow of bright red liquid being poured from a dispenser into a clear glass, which sits on a dark baking tray. The tray is placed on a wooden table, with a woven basket in the background adding a rustic touch. The liquid fills the glass until it reaches the brim, and some spills over the edges, creating a small puddle on the tray. The pouring continues, leaving the tray with a small pool of red liquid around the base of the glass. The scene is well-lit, emphasizing the vibrant color of the liquid and the texture of the wooden table.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/physics_043.jpg"
+}

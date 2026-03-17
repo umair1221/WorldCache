@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_065",
+  "prompt": "A medium shot captures a man near a swimming pool, dressed in a light blue sleeveless shirt, ripped jeans, and a cap, standing on a concrete patio beside a modern house with large glass doors reflecting trees and parts of the surroundings. The man bends slightly forward, holding a small white object in his hand, and then throws it into the air with a playful gesture. As he steps back, he continues to toss the object, maintaining a dynamic and energetic motion. The white object flies through the air, and the man's body language suggests he is enjoying the moment, possibly preparing for another throw or reacting to the trajectory of the object. The scene captures a lively and fun outdoor activity, with the man's playful demeanor adding to the overall cheerful atmosphere.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_065.jpg"
+}

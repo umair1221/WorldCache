@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_084",
+  "prompt": "A live NBA game between the Los Angeles Lakers and the New Orleans Pelicans unfolds in a packed arena filled with enthusiastic fans. The court prominently displays the \"NEW ORLEANS\" logo, signifying the home team's identity. The scoreboard indicates the Lakers leading 19-8 in the first quarter with 5:32 remaining. Players in yellow jerseys (Lakers) and purple jerseys (Pelicans) are actively engaged in play. A Lakers player in a yellow jersey dribbles the ball while being closely guarded by a Pelican in a purple jersey. The player in yellow passes the ball to a teammate, who then attempts to drive towards the basket but faces defensive pressure from multiple Pelicans. The ball is quickly passed around the perimeter as the Lakers try to find an opening for a shot. The sequence captures the dynamic movement and strategic passing typical of a basketball game, with the focus shifting between offensive and defensive maneuvers. By the final frame, the Lakers player continues to dribble the ball, preparing for another pass or shot attempt, while the Pelicans remain in defensive stance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_084.jpg"
+}

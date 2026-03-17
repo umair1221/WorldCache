@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_220",
+  "prompt": "The video opens in a professional kitchen, where two individuals are actively engaged in food preparation. Overhead, two small pendant lights and two large pendant lights illuminate the space. The kitchen is equipped with essential tools such as a microwave, refrigerator, and a range hood. The counter is neatly arranged with various cooking items and ingredients, including bowls, bottles of oil, plates, and a tray of prepared food items. A whiteboard with handwritten notes is propped up against the back wall on the left side of the frame.  A man wearing a black shirt and a backwards cap stands near the stove, attentively stirring or checking the contents of a pot with his right hand. Another individual, dressed in a dark outfit, bends over a bowl, possibly mixing or preparing ingredients. The camera slowly pans right, capturing the dynamic movements of both individuals as they work. The man with the backwards cap continues to add something to the food over the stove, while the individual on the right appears to be chopping something on a cutting board. The scene is bustling with activity, highlighting the collaborative effort in the kitchen."
+}

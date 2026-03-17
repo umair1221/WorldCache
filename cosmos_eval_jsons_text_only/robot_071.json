@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_071",
+  "prompt": "In a modern, industrial setting, two robotic arms are positioned on a clean white table. On the left, a dark teal bowl contains three spherical objects: one pink, one green, and one red. To the right of the bowl, a red bottle with a cartoon face design and a red cap sits atop a beige, dome-shaped object. The background reveals a gray floor and metallic fixtures, suggesting a workshop environment. The robotic arm on the right approaches the red-capped bottle, extending its gripper towards it. Gradually, the gripper closes around the bottle, lifting it slightly off the surface. The other robotic arm remains stationary. By the final frame, the robotic arm has successfully lifted the red-capped bottle, holding it securely in its gripper and transferring it to the left robotic arm. The scene concludes with the bottle being placed into the teal bowl, while the other objects remain in their original positions. The video captures the precise and controlled motion of the robotic arms in a clean, industrial setting."
+}

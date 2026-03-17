@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_265",
+  "prompt": "A dynamic boxing training session unfolds against a dark backdrop dotted with small green light spots. In the foreground, a man with long, brown, dreadlocked hair, clad in a black shirt, holds a black Everlast training mitt with red gloves underneath. The mitt, clearly marked with the brand name in white, is poised to receive punches. Opposite him, a girl in a black shirt and pink boxing gloves practices her punches. She adjusts her stance by ducking and delivering two punches towards the man's right mitt. She repeats these actions once more and concludes with a final punch aimed at the same mitt. Throughout the sequence, she uses only her right hand, keeping her left arm tucked in front of her, with her gloved left hand covering her mouth for most of the scene. The man remains stationary, focused on receiving the punches. The scene maintains a consistent setting, with the background remaining unchanged. The camera begins with a slight tilt up at the start before settling into a static position, capturing the intensity and precision of the training session.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_265.jpg"
+}

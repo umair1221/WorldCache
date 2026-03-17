@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_102",
+  "prompt": "The video opens with an overhead shot of a sawmill or lumber processing facility, showcasing a conveyor belt running horizontally across the center of the frame, supported by metal beams. A log is being transported from the right to the left side of the frame, highlighting the automated workflow. Below the conveyor belt, a metal rack holds several logs, some of which have already been cut and stacked neatly. To the right, additional logs are piled up, indicating ongoing operations in the yard. The environment suggests a functional workspace dedicated to wood processing. As the video progresses, the log on the conveyor belt continues its journey towards the left side of the frame. Once it reaches the end, a mechanical system lifts a new log from the rack below and places it onto the conveyor belt. This freshly loaded log then begins moving in the same direction as the previous one. The scene emphasizes the continuous and efficient operation of the sawmill, capturing the seamless transition between the loading and transportation of logs.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_102.jpg"
+}

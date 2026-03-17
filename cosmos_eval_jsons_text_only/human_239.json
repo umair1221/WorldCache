@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_239",
+  "prompt": "The video opens in a well-lit gym, featuring a woman dressed in a black sports bra and black shorts, standing in the center of the room. She holds a jump rope in both hands, preparing to start her workout. The gym is equipped with six red punching bags hanging from the ceiling, each one swinging around the room. One punching bag is hanging horizontally. Two wooden ladders lean against the wall, one of which is partially obscured by the woman. A window on the right side of the room allows natural light to stream in, illuminating the space. A small cardboard box sits on the floor next to one of the hanging punching bags and below the window. Behind the box, there appears to be a heating unit with small white buttons. The woman begins her jump rope routine, swinging the rope rhythmically between her hands and stepping through it with fluid motion. Her posture remains upright and focused throughout the sequence, indicating a steady pace and concentration on her exercise. The background elements, including the hanging punching bags and the wooden ladders, remain static, emphasizing the woman's active engagement in her workout. By the final frame, she continues her jump rope exercise, maintaining her rhythm and focus, with the same gym environment and equipment remaining unchanged."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_168",
+  "prompt": "A serene winter scene unfolds on a frozen lake, surrounded by a line of bare trees under a bright, clear sky that casts a warm glow over the pristine white snow. A person dressed in a brown coat with white fur trim, blue jeans, and black ice skates is gracefully gliding across the ice. They wear a white knit hat, adding to the cozy, wintry attire. The individual appears to be enjoying the activity, moving with ease and confidence. In the background, a car is parked behind bushes, and faint tracks in the snow suggest previous activity of skating on the snow. As the video progresses, the camera captures the person continuing their graceful movement across the ice, leaving behind a trail of disturbed snow. The sunlight enhances the texture of the snow, creating a dynamic interplay of light and shadow. Other people can be seen further away, adding a sense of scale and activity to the tranquil environment. The final frame shows the person still skating, maintaining their steady pace in the peaceful surroundings."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_1456996-hd_1920_1080_30fps",
+  "prompt": "A serene underwater scene unfolds, showcasing a sea turtle resting on a vibrant coral reef. The turtle's shell is intricately patterned with dark spots outlined in white, and its flippers are gently spread out. Several small fish, including one with yellow fins, swim around the turtle, cleaning its shell. The coral reef beneath the turtle is a mix of reddish-brown and gray tones, with some areas resembling sponge-like formations. The water is crystal clear, providing a detailed view of the turtle and the surrounding marine life. As the video progresses, the turtle remains mostly stationary, with subtle movements of its flippers and head. The cleaning fish continue their activity, occasionally pausing near the turtle's head and flippers before resuming their cleaning motions. The overall scene remains tranquil, highlighting the peaceful coexistence between the turtle and the smaller fish in this underwater habitat. By the final frame, the turtle continues to rest on the coral reef, with the cleaning fish still actively engaged in their task. The turtle's shell and the coral reef remain unchanged, maintaining the calm and undisturbed nature of the underwater environment. A medium shot captures the turtle and the surrounding marine life from a slightly elevated perspective.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_1456996-hd_1920_1080_30fps.jpg"
+}

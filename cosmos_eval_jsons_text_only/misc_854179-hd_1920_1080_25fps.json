@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_854179-hd_1920_1080_25fps",
+  "prompt": "A medium shot captures a playful moment in a grassy backyard where two dogs are interacting. The larger dog, predominantly black with white markings on its face and chest, stands upright while gently nipping at the smaller dog's neck. The smaller dog, with a mix of black, brown, and white fur, lies on its back, rolling slightly but mostly remaining stationary. The background features a blue inflatable pool with a colorful design, surrounded by dense green bushes and trees. A house with light-colored walls and windows is partially visible behind the foliage. The larger dog continues to interact with the smaller dog, maintaining its gentle nipping behavior. The smaller dog shifts positions slightly, rolling onto its side and then back onto its back again, while the larger dog remains attentive. The scene concludes with both dogs still engaged in their playful interaction, the larger dog standing over the smaller one, which is now lying on its back, with the same background elements remaining constant throughout."
+}

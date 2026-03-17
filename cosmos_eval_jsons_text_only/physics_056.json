@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "physics_056",
+  "prompt": "The video opens with a static shot of a simple indoor setting, featuring a wooden table against a plain white wall. On the left side of the frame, a black rotating platform holds a tennis ball adorned with a smiley face. The ball is positioned upright, facing forward. To the right, a reflection of the tennis ball rests on a similar black platform in the mirror, reflecting the side of the ball without the smiley face. A black cable runs across the table, connecting the rotating mechanisms. As the video progresses, the tennis ball on the left platform begins to rotate clockwise at a slow pace. The rotation causes the ball to gradually reveal the side without the smiley face, which is then mirrored by the ball in the reflection, creating the illusion of two identical tennis balls. The rotation continues smoothly, maintaining this optical illusion until the end of the video.  A medium shot captures the entire setup, emphasizing the contrast between the smiling and non-smiling sides of the tennis ball. The camera remains steady throughout, focusing on the subtle movement and the interplay of light and shadow on the wooden surface and the white wall. The overall scene is minimalistic, drawing attention to the clever visual trick created by the rotating platforms and the reflective surface."
+}

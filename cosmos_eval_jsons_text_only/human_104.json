@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_104",
+  "prompt": "A serene winter scene unfolds in a forested area, where a well-groomed ski slope stretches through the trees. The snow is pristine and reflects the bright sunlight, creating a crisp, white landscape. A skier dressed in blue attire glides down the hill, their red skis cutting through the snow. The skier maintains a steady pace, their body leaning slightly forward as they navigate the slope. The forest on either side of the slope is dense with tall, dark green coniferous trees, casting long shadows on the snow. In the background, a few other skiers can be spotted further up the slope, adding a sense of scale and activity to the scene. The sky above is clear and bright, indicating a sunny day. The camera follows the skier from behind, capturing their smooth motion and the surrounding environment. As the skier approaches a slight curve in the slope, they prepare for a turn, while the sunlight continues to illuminate the scene, highlighting the texture of the snow and the shadows cast by the trees."
+}

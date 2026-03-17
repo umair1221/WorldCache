@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_101",
+  "prompt": "The video opens in a dimly lit basement or garage, characterized by exposed wooden beams on the ceiling and concrete walls. The space is cluttered with various items, including a clock on the wall, shelves holding miscellaneous objects, and a large wooden cabinet. A blue ping pong table is positioned centrally, with two players actively participating—one wearing a dark shirt and shorts, and the other in a light-colored shirt and pants. A third person, dressed in a white shirt and shorts, stands near the table, ready to switch into the game. In the background, a yellow inflatable object resembling a fish is visible against the wall, adding a playful element to the otherwise utilitarian space. The lighting is artificial, likely from a fluorescent tube fixture above, casting a warm glow over the scene.  As the video progresses, the two players at the ping pong table engage in a lively match. The player in the light-colored shirt serves the ball, which is then returned by the player in the dark shirt. The game continues with both players actively moving around the table, hitting the ball back and forth. The observer sits on a chair placed near the table, watching the game unfold. The scene remains consistent with the same background elements, but the dynamic movement of the players adds energy to the otherwise static environment. By the final frame, the players continue their spirited game, with the observer seated and attentively watching the match.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_101.jpg"
+}

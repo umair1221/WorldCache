@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_261",
+  "prompt": "The video opens with a view of the Royal Opera House's exterior, specifically focusing on the entrance area within a covered arcade adorned with arched ceilings and white columns. The Royal Opera House sign, featuring the coat of arms and the words \"ROYAL OPERA HOUSE\" in bold red letters, is prominently displayed above the entrance. The scene is bustling with people, some walking towards the entrance while others exit, all dressed in winter clothing, indicating a cold day. The individuals vary in age and attire, with some carrying bags and others engaged in conversation. The environment is lively yet orderly. As the video progresses, the same scene continues to unfold with minimal changes, maintaining the same level of activity and the consistent presence of the Royal Opera House signage. The final frame shows the same busy arcade and entrance, with people still moving in and out of the building, preserving the dynamic yet steady pace established from the beginning.  A medium shot of a bustling arcade with people entering and exiting the Royal Opera House."
+}

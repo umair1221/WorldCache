@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_003",
+  "prompt": "A medium shot captures a section of a modern industrial facility, focusing on a curved conveyor belt system composed of white rollers and metallic frames. The conveyor system curves gently to the right, showcasing its efficiency in material handling. In the background, various blue and red items are visible on the left side of the frame. A person is seen rolling a white object, slightly taller than themselves, on the left side. The conveyor belt, which is stationary, moves a yellow crate from the center background towards the camera. Yellow items move consistently along the conveyor belt on the right side. The environment is brightly lit, emphasizing the clean and organized nature of the facility.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_003.jpg"
+}

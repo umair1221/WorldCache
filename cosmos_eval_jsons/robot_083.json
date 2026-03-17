@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_083",
+  "prompt": "A robotic arm, equipped with a black and silver mechanism and a green light indicator, is engaged in cleaning a pristine white table within a modern, minimalistic indoor setting, likely a kitchen or dining area. The robotic arm, moving methodically across the table, ensures thorough cleaning with a purple cloth. The table is adorned with a small decorative white container holding a succulent plant with a red polka-dotted ribbon. A black trash bin, partly filled with discarded items, is positioned to the left of the table. The background includes a partially visible white object. The robotic arm's steady cleaning motion is captured from various angles, emphasizing its precision and efficiency. The scene remains consistent throughout the video, focusing on the robotic arm's meticulous cleaning process until the final frame, where the arm continues its steady motion before removing itself from the table.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_083.jpg"
+}

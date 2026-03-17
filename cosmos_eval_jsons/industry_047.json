@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_047",
+  "prompt": "A close-up of a robotic arm equipped with a cutting tool in an industrial setting, actively welding and cutting a large cylindrical metal pipe. The scene is set within a factory or manufacturing environment, characterized by heavy machinery and structural elements in the background. The cylindrical object, likely made of steel, exhibits a dark metallic finish with visible grooves and markings. The cutting tool moves steadily along the surface of the cylinder, emitting a bright orange glow as it cuts through the material, indicating the application of high heat for the cutting process. The robotic arm maintains a consistent position and motion, focusing on the precise cutting task without any noticeable changes in the environment or introduction of new objects. The final frame mirrors the initial setup, emphasizing the ongoing and meticulous nature of the industrial process.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_047.jpg"
+}

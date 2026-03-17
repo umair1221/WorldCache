@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_109",
+  "prompt": "A high-angle shot captures a construction site where a drilling machine is actively engaged in drilling into the ground. The scene is set outdoors, likely in a construction zone, with visible dirt and construction materials around. The drilling machine, equipped with a large spiral drill bit, is positioned over a pile of freshly poured concrete. A worker, dressed in protective gear including a red hard hat and gloves, stands nearby, holding a shovel and observing the operation. The machine's drill bit is rotating and the concrete is falling off while spiraling. The worker is visibly interacting with something off-screen at the end of the video. The overall scene depicts a methodical construction process, with the drilling machine and the worker performing their respective tasks in a coordinated manner.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_109.jpg"
+}

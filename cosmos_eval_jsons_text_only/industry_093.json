@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_093",
+  "prompt": "A close-up shot captures a person using a white sewing machine to cut white fabric. The individual's hand, adorned with black nail polish and rings, guides the cutter with precision. The other hand rests on the fabric for stability. The sewing machine is positioned at an angle, slicing through the material smoothly. The background is softly blurred, indicating an indoor setting, possibly a workshop or sewing room, with warm, diffused lighting that highlights the cutting action. As the video progresses, the fabric cutter continues its motion, creating a clean, straight cut across the fabric. The scene concludes with the sewing machine nearing the end of its path, having made a precise and straight cut through the material."
+}

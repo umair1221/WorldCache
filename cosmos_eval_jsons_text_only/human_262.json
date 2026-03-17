@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_262",
+  "prompt": "The video opens with a wide shot of a grand staircase leading upwards, adorned with an ornate metal railing featuring intricate decorative patterns. The staircase is constructed of light-colored stone or concrete, set against an overcast sky. A person wearing a bright green jacket with a hood is seen running up the stairs, their hair tied back in a ponytail, engaged in physical activity. As the camera pans to the right, two more individuals join the run; one wears a peach-colored, striped jacket, while the other is in a blue jacket. All three are dressed in athletic attire. They run up the staircase together, and as they near the top, they engage in a high-five gesture, celebrating their achievement. The final frame captures this moment of camaraderie and mutual encouragement, with the three runners standing on the stairs, smiling and clapping, showcasing a sense of teamwork and shared accomplishment."
+}

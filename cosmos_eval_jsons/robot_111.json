@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_111",
+  "prompt": "The video begins with a static shot of a modern living room corner, capturing a light gray sofa adorned with two green and two white pillows against a neutral white wall. To the left, a small round white side table holds a box and a clear glass container with decorative stones or shells. A white pouf with a small plant adds a touch of greenery beside the sofa. On the right, a tall floor lamp with a white shade casts a soft glow. The muted gray carpet complements the room’s neutral color scheme. A partially visible framed picture hangs on the far wall, and recessed lighting is installed in the ceiling, with one fixture above the sofa. As the camera slowly pans from right to left, it reveals more of the living room, including a small potted plant on the floor near the sofa and a dark-colored speaker or piece of furniture on the left side. The sofa remains stationary throughout, while the camera movement provides a broader view of the space, ending with a wider perspective of the room.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_111.jpg"
+}

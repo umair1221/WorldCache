@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_3125907-uhd_3840_2160_25fps",
+  "prompt": "A close-up of a runner's legs as they jog along a wet beach during what appears to be either sunrise or sunset, with soft, diffused light and a golden hue reflecting off the sand. The runner is dressed in athletic attire, including a blue long-sleeve shirt, black shorts with yellow accents, and black running shoes. The beach is reflective, mirroring the runner's movements and the ocean waves in the background. The ocean itself is calm, with gentle waves lapping at the shore, and the sky is filled with a mix of clouds, some illuminated by the warm light of the sun, creating a serene and peaceful atmosphere. As the video progresses, the camera pans upward, revealing more of the runner's upper body and face, showing a focused expression as they continue their run. The runner's arms swing rhythmically, and their pace remains consistent. The scene concludes with the runner still in motion, the ocean waves continuing to crash softly behind them, and the sky remaining a beautiful blend of soft colors, emphasizing the tranquil and invigorating environment of the beach."
+}

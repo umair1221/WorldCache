@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_213",
+  "prompt": "A medium shot captures a group of five individuals engaged in a lively conversation around a rustic wooden dining table in a well-lit room with large windows and exposed brick walls. The table is adorned with a bowl of salad, a bottle of orange juice, a loaf of bread, and a vase filled with purple flowers. The central figure, a man with dreadlocks and glasses, holds a glass of brown liquid and speaks animatedly, gesturing with his hand. To his left, another individual with curly brown hair listens intently, while to his right, two others\u2014one with red hair and another with a shaved head and glasses\u2014participate in the discussion. The scene is bathed in natural light streaming through the windows, creating a warm and inviting atmosphere. The camera remains steady, focusing on the dynamic interaction among the group."
+}

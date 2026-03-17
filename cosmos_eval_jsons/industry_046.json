@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_046",
+  "prompt": "A high-definition video captures the intricate operation of a CNC plasma cutter in a modern industrial setting. The focus is on a large, flat steel plate positioned on a blue platform, serving as the work surface. The plate is marked with several pre-drilled holes and a partially cut-out shape, indicating the machine's ongoing precision cutting process. The cutting head, equipped with a nozzle emitting a bright light, moves steadily across the steel, creating a clean, defined cut. The machine itself is complex, with visible cables and control panels that underscore its advanced functionality. The background is minimalistic, with neutral tones that emphasize the machinery and its operation. Throughout the video, the cutting head maintains a consistent pace and direction, ensuring accuracy in the cutting process. By the final frame, the cutting head has moved further along the sheet, continuing to cut out the desired shape while the rest of the machine remains stationary, highlighting the seamless integration of technology in manufacturing processes.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_046.jpg"
+}

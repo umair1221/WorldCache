@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_016",
+  "prompt": "The video opens with a scene of three cyclists riding along a paved road bordered by a dense forest. The road is marked with a white line down the center, suggesting a shared lane for cyclists and possibly other vehicles. The cyclists are dressed in cycling attire, including helmets and long-sleeved jerseys, indicating cooler weather. The cyclist in the foreground wears a black jacket and helmet, the second cyclist sports a red and black jacket with a white helmet, and the third cyclist, partially visible, is clad in an orange vest over a black base layer and a black helmet. Their bikes are sleek road models with thin tires, designed for speed and efficiency. The forest backdrop consists of tall, slender trees with a mix of brown and green foliage, suggesting late autumn or early spring. The lighting indicates an overcast day, with diffused sunlight filtering through the canopy. As the video progresses, the cyclists maintain their steady pace, leaning slightly into the motion as they pedal forward. The forest remains a constant, with the trees standing tall and stationary in the background, creating a serene yet dynamic scene of outdoor activity. The road stretches ahead, curving gently to the right, and the cyclists continue their journey along this scenic route.  A medium shot captures the cyclists in motion, emphasizing their coordinated movements and the natural setting."
+}

@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_041",
+  "prompt": "A close-up of a single shallot with light brown skin and subtle yellow streaks, placed on a wooden cutting board. The shallot's papery texture suggests its freshness. The background is softly blurred, revealing hints of other vegetables like carrots and possibly garlic, indicating a kitchen setting. A hand holding a large knife appears, positioning itself above the shallot. The knife starts slicing through the shallot from the root end, cutting it in half and then continuing to divide it further. The hand adjusts the position of the shallot as needed for precise cuts. By the final frame, the shallot is visibly cut into smaller pieces, with some slices already removed from the main body, indicating the ongoing process of chopping."
+}

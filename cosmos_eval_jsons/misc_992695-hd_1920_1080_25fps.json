@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "misc_992695-hd_1920_1080_25fps",
+  "prompt": "A dynamic padel match unfolds on a green artificial turf court enclosed by a high green net. The court is surrounded by a fence, with trees and buildings visible in the background, indicating an outdoor recreational area. Two players are engaged in the game: one on the left side of the court, wearing a gray hoodie and blue shorts, and the other on the right side, dressed in a blue shirt and black shorts. The player on the left is seen preparing to hit the ball, moving slightly forward with their racket raised, while the player on the right stands near the net, ready to return the shot. The ball is in motion, traveling from the left player towards the right. As the sequence progresses, the left player swings their racket to strike the ball, which is captured mid-air heading back across the net. The right player remains stationary, anticipating the incoming ball. The final frame shows the left player completing their swing, with the ball having just been hit and the right player poised to react. The scene is set under clear skies, with sunlight casting shadows on the court, enhancing the vibrant colors of the players' attire and the lush green surroundings.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/misc_992695-hd_1920_1080_25fps.jpg"
+}

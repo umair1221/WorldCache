@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_143",
+  "prompt": "The video opens with a first-person perspective of a robotic unit navigating through a spacious industrial warehouse. The glossy concrete floor reflects the overhead lights, creating a bright and clean environment. At the center of the frame is a prominent metal conveyor belt supported by green frames, with a cardboard box resting on it. In the foreground, a robotic unit, equipped with a black base and wheels, is visible. Its arms are clad in gray-and-black clothing, and it holds a small box in its right arm. The conveyor belt remains stationary throughout the sequence.  To the left, stacks of pallets loaded with materials are neatly arranged, while further back, a red forklift and other industrial tools are visible. On the right side of the frame, the conveyor belt extends, with another cardboard box placed on it. As the video progresses, the robotic unit moves forward on its wheels, slightly swaying left and right, and approaches the box on the conveyor belt. The robotic unit continues its movement, gradually bringing the small box in its right arm closer to the edge of the conveyor belt. The scene concludes with the box nearly touching the conveyor belt, showcasing the precision and control of the robotic unit within the industrial setting.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_143.jpg"
+}

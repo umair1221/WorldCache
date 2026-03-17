@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "common_sense_a9d91b4b-22e5-420e-b6de-e1d4e7f254f3",
+  "prompt": "A playful border collie with a black, gray, and white fluffy merle coat, brown eyes, and a black and light pink nose is captured mid-stride in a vibrant green field. The dog runs energetically towards the camera, its mouth open in excitement, and its front legs lifted off the ground. The backdrop consists of several dark green evergreen trees, creating a natural and serene setting. The grass beneath the dog is lush and well-maintained, adding to the lively atmosphere. The camera starts with a low-angle shot, panning slightly to the right to center the dog as it approaches. As the dog moves quickly, it becomes slightly blurred, emphasizing its speed. The camera movement is dynamic, with some random motion that adds to the sense of action. The foreground initially appears blurry but gradually comes into focus as the dog gets closer, while the background remains softly out of focus. Warm sunlight filters through the trees, casting a gentle glow over the scene. The dog\u2019s running path slightly curves towards the right side of the frame as it nears the camera. The video concludes with the camera panning slightly right, capturing the dog\u2019s joyful and energetic movement against the picturesque backdrop."
+}

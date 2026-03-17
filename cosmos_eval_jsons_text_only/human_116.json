@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_116",
+  "prompt": "A wide shot captures a spacious, dimly lit indoor area that resembles a large warehouse or industrial hall. The floor is a smooth, polished concrete surface, reflecting some light from the large windows at the far end of the room. These windows are framed by metal beams and offer a view of an overcast sky outside. The walls are a mix of concrete and sections of green paneling, adding to the utilitarian atmosphere. A person wearing a light-colored jacket and dark pants is seen skating slowly across the floor, moving towards the camera. The skater's posture suggests they are in control and comfortable on their rollerblades. The background includes various industrial elements such as metal ladders, a red fire extinguisher mounted on the wall, and some stacked wooden pallets. As the video progresses, the skater continues to move forward, maintaining a steady pace. Their arms swing naturally as they glide smoothly across the concrete floor. The skater's position shifts slightly, indicating a relaxed and confident movement. The background remains static, with no significant changes in the environment or the appearance of the objects within it. The lighting and shadows remain consistent, emphasizing the skater's solitary journey through the vast, empty space."
+}

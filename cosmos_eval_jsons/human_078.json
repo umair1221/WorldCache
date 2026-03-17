@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_078",
+  "prompt": "A man stands on a concrete driveway in front of a suburban house, equipped with a backpack-mounted leaf blower. He is dressed in a red cap, a yellow safety vest, and beige pants, working diligently to clear debris from the driveway. The house features light-colored siding, a white garage door with a small window, and a front porch adorned with a wreath on the door. The lawn is a neatly trimmed green grass, and a small tree with sparse leaves is visible near the garage. The driveway shows signs of wear with some discoloration and scattered debris. The man moves the leaf blower back and forth, directing it towards the driveway to clear the debris. The camera follows his movements, capturing the transformation of the driveway from cluttered to clean. By the end of the sequence, the driveway appears significantly clearer, with most of the debris pushed towards the edges and onto the grass. The man continues his task, ensuring thorough coverage of the area.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_078.jpg"
+}

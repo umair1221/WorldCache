@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_141",
+  "prompt": "A climber ascends a steep rock face, equipped with a white helmet featuring green accents, a gray t-shirt, and light-colored climbing pants secured with a colorful harness that holds various climbing gear. The climber's left hand firmly grips a hold on the rock, while their right hand reaches up to find another grip higher on the wall. A red rope is attached to the harness, hanging down the side of the cliff, indicating the use of a belay system. The rock face is rugged and textured, with a mix of light and dark brown tones, suggesting a natural outdoor setting under bright daylight. As the climber progresses, they shift their weight and adjust their grip, moving their right hand to secure a new hold while their left hand continues its upward reach. The climber's body leans forward, demonstrating the effort required to maintain balance and momentum. The red rope remains taut, suggesting the climber is being belayed by someone below. The climber's movements are deliberate and focused, showcasing the precision needed in rock climbing. By the final frame, the climber has moved slightly higher on the rock face, with their right hand now positioned on a different grip, and their left hand reaching further up. The overall scene depicts an intense and challenging climb, highlighting the climber's skill and determination. A dynamic medium shot captures the climber's upward movement, emphasizing the physical exertion and technical skill involved in the climb.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_141.jpg"
+}

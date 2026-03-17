@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_058",
+  "prompt": "The video opens with a close-up shot of a grocery store wooden shelf and a metallic shopping cart below it. The shelf displays boxes of Danisa cookies, the first box being cranberry flavored with red and white packaging, alongside other flavors. Adjacent to these are various products, including a rectangular box and a red package that seems to contain crackers or a similar snack. Below the shelf, a shopping cart is partially visible, empty. Two identical robotic arms are mounted on a metal structure above the cart. The right robotic arm moves towards the shelf, picks up a single rectangular box, and places it in the shopping cart. The scene concludes with the robotic arm still in motion, poised over the cart, indicating ongoing automation or inventory management activity. The background includes additional shelves stocked with various products, creating a busy retail environment. The video captures the precision and efficiency of automated systems in managing inventory within a grocery store setting."
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_092",
+  "prompt": "A high-angle, dynamic shot captures a robotic arm meticulously washing a white cup with a green base in a modern kitchen sink. The scene is set against a backdrop of pristine white tiled walls with black grout lines, creating a clean and organized atmosphere. On the left side of the sink, a pink bottle of dish soap stands upright, while an orange basket on the right holds a plastic spoon. The stainless steel sink reflects the overhead lights, adding a sleek touch to the setting. The robotic arm, equipped with a black and silver cleaning tool, moves deliberately, rotating the cup to ensure thorough cleaning. The arm's movements are precise and controlled, highlighting the efficiency of the automated process. By the final frame, the robotic arm is poised to pour out the residue from the cup, marking the completion of the cleaning task.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_092.jpg"
+}

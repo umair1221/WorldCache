@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_209",
+  "prompt": "A vibrant dance performance unfolds within a traditional African-style building, characterized by its thatched roof and walls adorned with geometric patterns. Five dancers, each wearing a brightly colored jumpsuit and helmet, execute a synchronized routine with precision and energy. The second dancer from the left stands out in a shirtless state, wearing red pants and a red helmet, while the others mirror his movements with three in blue jumpsuits and helmets, and one in a pink jumpsuit and helmet. In the background, four individuals on a raised platform observe the performance, enhancing the cultural ambiance. Natural light streams through an open doorway at the back, illuminating the dancers' vivid costumes against the earthy tones of the interior. As the sequence progresses, a person in white attire walks past the dancers, introducing a subtle change to the scene. The dancers continue their energetic and coordinated movements, showcasing a lively and culturally rich performance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_209.jpg"
+}

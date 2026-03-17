@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "industry_019",
+  "prompt": "A close-up shot captures a CNC milling machine in operation, focusing on a rectangular aluminum block secured on a worktable. The machine's spindle, equipped with a precise cutting tool, is positioned directly above the block, actively machining a cutout in the middle of the block. Metal shavings and chips accumulate within the recessed area, indicating the ongoing cutting process. The worktable is covered with a dark, textured surface, and the environment suggests an industrial setting. The cutting tool moves steadily, maintaining a consistent depth and precision in the machining process, as metal shavings continue to pile up in the recessed area. The camera remains fixed, emphasizing the intricate details of the cutting action and the accumulation of shavings.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/industry_019.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "robot_113",
+  "prompt": "A close-up view captures a white robotic arm with black and silver components, holding a green cloth. The robotic hand is positioned near a coral-colored wall. Natural light streams in through a window with solid curtains, illuminating the scene. To the left, a black metal coat rack with multiple hooks is visible. The robotic arm begins by lifting the green cloth upward, moving it closer to the coat rack. It then carefully positions the cloth over one of the hooks, ensuring it is securely hung. By the final frame, the green cloth hangs neatly on the coat rack, with the robotic arm still in position, having completed the task.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/robot_113.jpg"
+}

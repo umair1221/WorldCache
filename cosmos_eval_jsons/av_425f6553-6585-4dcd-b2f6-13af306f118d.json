@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "av_425f6553-6585-4dcd-b2f6-13af306f118d",
+  "prompt": "The video begins with a view from inside a car, positioned at an intersection in a suburban neighborhood. The dashboard camera captures a two-lane road marked with yellow center lines. On the right side of the road, a white sedan is parked along the curb. Pedestrians are walking with dogs off the roadway, to the right of the ego vehicle. The surroundings are lush with green trees and well-maintained lawns, indicating a peaceful residential area. The sky above is partly cloudy, suggesting a bright but slightly overcast day. As the video progresses, the car begins to move forward at a consistent pace through the intersection. The white sedan initially parked on the right side of the road starts to move out of the frame. The \"25\" mph speed limit sign is visible on the right side of the road. Pedestrians walking with the dogs off the roadway appear on the sidewalk as the car continues its journey. The car drives past the \"25\" mph speed limit sign and continues along the road, passing by more houses and trees, maintaining a steady pace. By the final frame, the car has moved further down the road, with the surroundings still featuring greenery and residential buildings, though the specific details of the environment become less distinct due to the distance.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/av_425f6553-6585-4dcd-b2f6-13af306f118d.jpg"
+}

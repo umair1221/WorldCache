@@ -1,0 +1,10 @@
+{
+  "inference_type": "text2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_218",
+  "prompt": "The video opens in a bright, modern kitchen with white and gray cabinetry and a gas stove. A woman, dressed in a light gray sweater, stands near the stove, leaning slightly forward as she reaches to open the oven door. The kitchen is neatly organized, with a kettle placed on the stove, and a hanging rack above the counter holding cups and a bucket. A potted plant adds a touch of greenery to the counter. On the dining table in the foreground, there are plates of food, including roasted potatoes and other dishes, along with glasses of orange juice. A man sits at a table to the right of the frame, turns his head to his left, then smiles and gestures with his hand, possibly engaging in conversation with the person on the left or reacting to something the woman has said or done.  As the video progresses, the woman successfully opens the oven door and carefully pulls out a tray of roasted vegetables. She is wearing oven mitts and maintains a steady grip on the handle, ensuring the tray is safely removed from the oven. The man continues to smile and gesture, appearing engaged and happy. The kitchen remains unchanged, maintaining its tidy and inviting appearance throughout the sequence. In the final frame, the woman is still holding the tray of roasted vegetables, having just taken it out of the oven. The man continues to smile and gesture, and the dining table remains set with plates of food and glasses of orange juice."
+}

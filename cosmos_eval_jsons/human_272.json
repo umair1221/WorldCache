@@ -1,0 +1,11 @@
+{
+  "inference_type": "image2world",
+  "seed": 0,
+  "guidance": 7,
+  "num_output_frames": 93,
+  "resolution": "432,768",
+  "negative_prompt": "The video captures a series of frames showing ugly scenes, static with no motion, motion blur, over-saturation, shaky footage, low resolution, grainy texture, pixelated images, poorly lit areas, underexposed and overexposed scenes, poor color balance, washed out colors, choppy sequences, jerky movements, low frame rate, artifacting, color banding, unnatural transitions, outdated special effects, fake elements, unconvincing visuals, poorly edited content, jump cuts, visual noise, and flickering. Overall, the video is of poor quality.",
+  "name": "human_272",
+  "prompt": "A baseball player stands in a batting stance on a sunny day at an outdoor baseball field, ready to swing. Dressed in a red jersey, white pants, and a red helmet, he grips a wooden bat held high and steady. The background features a chain-link fence separating the field from the empty bleachers, which are filled with yellow and orange seats. A tree is visible on the right side of the frame, and the sky above is clear and blue. As the video progresses, the player remains in his stance, holding the bat steady. The ball approaches from the left side of the frame, and the player swings the bat with precision, making contact with the ball. After the swing, he follows through, watching the trajectory of the ball with his eyes, and then lets go of the bat, completing his swing. The background remains unchanged, with the empty bleachers and tree still visible, maintaining the focus on the player's actions. In the final frame, the player has completed his swing and no longer holds the bat. The scene is sunny with a clear blue sky and green trees.",
+  "input_path": "/share_2/users/umair_nawaz/World-Models/Datasets/PAI-Bench/condition_image/human_272.jpg"
+}
