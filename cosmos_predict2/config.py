@@ -248,7 +248,7 @@ class CommonSetupArguments(pydantic.BaseModel):
     """Enable WorldCache optimization."""
     worldcache_num_steps: int = 35
     """Number of steps for WorldCache."""
-    worldcache_rel_l1_thresh: float = 0.08
+    worldcache_rel_l1_thresh: float = 0.06
     """Relative L1 threshold for WorldCache."""
     worldcache_ret_ratio: float = 0.2
     """Retention ratio for WorldCache."""
