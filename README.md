@@ -28,7 +28,7 @@
 </p>
 
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
       <td><video src="assets/videos/robot_154.mp4" autoplay loop muted playsinline width="420"></video></td>
       <td><video src="assets/videos/av_5da7e548-93f4-4a9f-b59d-418051e7c859.mp4" autoplay loop muted playsinline width="420"></video></td>
@@ -95,16 +95,20 @@ Across two major architectures (**Cosmos** and **WAN**), WorldCache consistently
 | Model | Method | Domain Avg | Quality Avg | Overall | Latency (s) | Speedup |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Cosmos 2B** | Baseline | 0.767 | 0.728 | 0.748 | 58.34 | 1.00× |
+| | DiCache | 0.759 | 0.727 | 0.743 | 40.82 | 1.43× |
 | | WorldCache | 0.763 | 0.727 | 0.745 | **26.78** | **2.18×** |
 | **Cosmos 14B** | Baseline | 0.792 | 0.746 | 0.769 | 216.25 | 1.00× |
+| | DiCache | 0.792 | 0.745 | 0.768 | 148.36 | 1.45× |
 | | WorldCache | 0.795 | 0.746 | 0.771 | **114.76** | **1.90×** |
 
 **Table 2: PAI-Bench Image-to-World (I2W) Results**
 | Model | Method | Domain Avg | Quality Avg | Overall | Latency (s) | Speedup |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Cosmos 2B** | Baseline | 0.845 | 0.761 | 0.803 | 57.04 | 1.00× |
+| | DiCache | 0.835 | 0.752 | 0.794 | 39.68 | 1.46× |
 | | WorldCache | 0.840 | 0.756 | 0.798 | **25.96** | **2.30×** |
 | **Cosmos 14B** | Baseline | 0.860 | 0.769 | 0.814 | 210.07 | 1.00× |
+| | DiCache | 0.855 | 0.767 | 0.811 | 146.04 | 1.44× |
 | | WorldCache | 0.859 | 0.768 | 0.813 | **112.24** | **1.87×** |
 
 ### 2. Architecture Transfer: WAN2.1
@@ -114,8 +118,10 @@ WorldCache is backbone-agnostic. On the latest **WAN2.1** architecture, it achie
 | Backbone | Method | Overall | Latency (s) | Speedup |
 | :--- | :--- | :---: | :---: | :---: |
 | **T2W 1.3B** | Baseline | 0.7727 | 120.04 | 1.00× |
+| | DiCache | 0.7703 | 61.57 | 1.96× |
 | | WorldCache | **0.7721** | **50.84** | **2.36×** |
 | **I2W 14B** | Baseline | 0.7384| 475.60 | 1.00× |
+| | DiCache | 0.7311 | 291.91 | 1.53× |
 | | WorldCache | **0.7388** | **206.73** | **2.31×** |
 
 ### 3. EgoDex-Eval: Robotics Performance
@@ -125,8 +131,10 @@ In egocentric robotics tasks requiring high spatial precision, WorldCache mainta
 | Model | Method | PSNR | SSIM | LPIPS | Latency (s) | Speedup |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **WAN2.1-14B** | Baseline | 13.30 | 0.503 | 0.459 | 391.90 | 1.00× |
+| | DiCache | 12.95 | 0.491 | 0.461 | 208.60 | 1.88× |
 | | WorldCache | **13.19** | **0.498** | **0.460** | **171.60** | **2.30×** |
 | **Cosmos-2.5-2B**| Baseline | 12.87 | 0.455 | 0.518 | 70.01 | 1.00× |
+| | DiCache | 12.63 | 0.445 | 0.531 | 51.97 | 1.34× |
 | | WorldCache | **12.82** | **0.466** | **0.518** | **43.24** | **1.62×** |
 
 ---
@@ -135,12 +143,11 @@ In egocentric robotics tasks requiring high spatial precision, WorldCache mainta
 
 WorldCache scales effectively with the denoising step budget. For longer generation trajectories (more steps), the efficiency gains increase as the underlying motion manifold stabilizes.
 
-| Steps | Baseline Latency (s) | WorldCache Latency (s) | Speedup |
-| :--- | :---: | :---: | :---: |
-| 35 | 57.0 | **25.0** | **2.3×** |
-| 70 | 99.1 | **34.2** | **2.9×** |
-| 100 | 141.0 | **45.5** | **3.1×** |
-| 140 | 199.1 | **66.0** | **3.0×** |
+<p align="center">
+  <img src="assets/figures/budget_scaling.png" width="800" alt="Denoising Step Budget Scaling" />
+  <br>
+  <em>Efficiency scaling: WorldCache achieves up to 3.1× speedup as denoising steps increase, while maintaining superior quality over DiCache.</em>
+</p>
 
 ---
 
@@ -156,12 +163,12 @@ WorldCache maintains flawless temporal coherence across diverse domains, from ur
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/figures/qualitative_1.png" width="500" alt="Cosmos-2B Crossing"><br><em>Cosmos-2B crossing scene: Preserves pedestrian identity and background consistency.</em></td>
-      <td><img src="assets/figures/qualitative_2.png" width="500" alt="Cosmos-14B Kitchen"><br><em>Cosmos-14B kitchen interaction: Stable hand and carried object tracking.</em></td>
+      <td><img src="assets/figures/qualitative_1.jpg" width="500" alt="Cosmos-2B Crossing"><br><em>Cosmos-2B crossing scene: Preserves pedestrian identity and background consistency.</em></td>
+      <td><img src="assets/figures/qualitative_2.jpg" width="500" alt="Cosmos-14B Kitchen"><br><em>Cosmos-14B kitchen interaction: Stable hand and carried object tracking.</em></td>
     </tr>
     <tr>
-      <td><img src="assets/figures/qualitative_3.png" width="500" alt="Dynamic Scene"><br><em>Dynamic scene: Balanced performance in high-velocity regions.</em></td>
-      <td><img src="assets/figures/qualitative_4.png" width="500" alt="Temporal Consistency"><br><em>Consistency: Zero "ghosting" artifacts at 2.5×+ speedup.</em></td>
+      <td><img src="assets/figures/qualitative_3.jpg" width="500" alt="Dynamic Scene"><br><em>Dynamic scene: Balanced performance in high-velocity regions.</em></td>
+      <td><img src="assets/figures/qualitative_4.jpg" width="500" alt="Temporal Consistency"><br><em>Consistency: Zero "ghosting" artifacts at 2.5×+ speedup.</em></td>
     </tr>
   </table>
 </div>
@@ -229,6 +236,19 @@ CUDA_VISIBLE_DEVICES=0 python examples/inference.py \
 | `--worldcache_ret_ratio` | `0.2` | Warm-up phase duration. |
 | `--worldcache_probe_depth` | `2` | Number of probe transformer blocks. |
 
+---
+
+### WorldCache Parameters
+
+| Parameter | Default | Description |
+|---|---|---|
+| `--worldcache_motion_sensitivity` | `5.0` | Motion sensitivity (α). Higher = more responsive to motion (less skipping in dynamic scenes). |
+| `--worldcache_flow_enabled` | `False` | Enable Optical Flow-based Feature Alignment (OFA). |
+| `--worldcache_flow_scale` | `0.5` | Optical flow downscale factor. `2.0` = full resolution; `0.5` = 2× downsampled (faster). |
+| `--worldcache_saliency_enabled` | `False` | Enable Saliency-Weighted Drift (SWD). |
+| `--worldcache_saliency_weight` | `5.0` | Saliency weight (β). Controls how much salient regions influence the caching decision. |
+| `--worldcache_osi_enabled` | `False` | Enable Online System Identification (OSI) for optimal gamma computation. |
+| `--worldcache_dynamic_decay` | `False` | Enable Adaptive Threshold Scheduling (ATS). Relaxes threshold in later steps. |
 ---
 
 ## 🙏 Acknowledgements
