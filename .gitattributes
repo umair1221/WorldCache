@@ -2,6 +2,7 @@
 tests/data/** linguist-generated=true gitlab-generated
 
 assets/** filter=lfs diff=lfs merge=lfs -text
+assets/videos/*.gif -filter -merge -diff
 
 # Video files
 *.mp4 filter=lfs diff=lfs merge=lfs -text
