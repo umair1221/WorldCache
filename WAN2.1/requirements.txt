@@ -1,0 +1,8 @@
+easydict
+diffusers
+ftfy
+dashscope
+matplotlib
+imageio
+accelerate
+# flash-attn --no-build-isolation
