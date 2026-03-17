@@ -185,34 +185,22 @@ WorldCache maintains flawless temporal coherence across diverse domains, from ur
 
 ---
 
-## 🛠️ Installation & Quick Start
+## ⚙️ Installation & Setup
 
-### 1. Setup Environment
+For detailed system requirements, environment setup (Virtual Env/Docker), and checkpoint downloading instructions, please refer to our:
+
+👉 **[Detailed Setup Guide](docs/setup.md)**
+
+### Quick Summary
 ```bash
-# Clone the repository
-git clone https://github.com/umair1221/WorldCache.git
-cd WorldCache
-
-# Create a virtual environment (using uv)
-uv venv --python 3.10
+# Install with uv
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv sync --extra=cu128
 source .venv/bin/activate
 
-# Install dependencies
-uv pip install -e .
-
-# Set PYTHONPATH
-export PYTHONPATH="./:$PYTHONPATH"
+# Basic WorldCache inference
+python examples/inference.py --model 2B/post-trained --worldcache_enabled [options]
 ```
-
-### Model Checkpoints
-
-WorldCache supports three leading video world foundation models. Follow the official instructions to download the weights:
-
-- **[NVIDIA Cosmos-Predict 2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)** (2B & 14B)
-- **[WAN2.1](https://github.com/Wan-Video/Wan2.1)** (1.3B & 14B)
-- **[DreamDojo](https://github.com/NVIDIA/DreamDojo)** (2B)
-
-Place the model weights in the `checkpoints/` directory as specified in each model's configuration.
 
 ---
 
