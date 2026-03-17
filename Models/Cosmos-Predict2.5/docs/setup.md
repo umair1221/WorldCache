@@ -59,11 +59,23 @@ uv sync --extra=cu128
 source .venv/bin/activate
 ```
 
-Or, install the package into the active environment (e.g. conda):
+### Hybrid Workflow (Conda + UV)
 
-```shell
+For users who prefer managing environments with **Conda** while leveraging the speed of **UV** for dependency management:
+
+1. Create and activate your environment:
+```bash
+conda create -n worldcache python=3.10 -y
+conda activate worldcache
+```
+
+2. Install the package and dependencies using UV into the active environment:
+```bash
 uv sync --extra=cu128 --active --inexact
 ```
+
+> [!TIP]
+> This is often the most reliable way to maintain system-wide CUDA dependencies while keeping a localized, fast-syncing project environment.
 
 CUDA Variants:
 

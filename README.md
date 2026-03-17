@@ -191,15 +191,18 @@ For detailed system requirements, environment setup (Virtual Env/Docker), and ch
 
 👉 **[Detailed Setup Guide](Models/Cosmos-Predict2.5/docs/setup.md)**
 
-### Quick Summary
+### Quick Summary (Conda + UV)
 ```bash
-# Install with uv
+# 1. Create and activate conda environment
+conda create -n worldcache python=3.10 -y
+conda activate worldcache
+
+# 2. Sync dependencies with UV
 curl -LsSf https://astral.sh/uv/install.sh | sh
 cd Models/Cosmos-Predict2.5/
-uv sync --extra=cu128
-source .venv/bin/activate
+uv sync --extra=cu128 --active --inexact
 
-# Basic WorldCache inference (from root)
+# 3. Basic inference (from root)
 python Models/Cosmos-Predict2.5/examples/inference.py --model 2B/post-trained --worldcache_enabled [options]
 ```
 
@@ -214,7 +217,7 @@ To generate high-quality video with WorldCache acceleration:
 CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
   -i Models/Cosmos-Predict2.5/path/to/prompt.json \
   -o outputs/worldcache_output \
-  --inference-type=text2world
+  --inference-type=text2world \
   --model 2B/post-trained \
   --disable-guardrails \
   --worldcache_enabled \
@@ -230,7 +233,7 @@ CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
 CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
   -i Models/Cosmos-Predict2.5/path/to/prompt.json \
   -o outputs/worldcache_output \
-  --inference-type=image2world
+  --inference-type=image2world \
   --model 2B/post-trained \
   --disable-guardrails \
   --worldcache_enabled \
