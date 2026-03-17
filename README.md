@@ -22,7 +22,14 @@
 </p>
 
 <p align="center">
-  #### [Umair Nawaz](https://scholar.google.com/citations?user=w7N4wSYAAAAJ&hl=en), [Ahmed Heakl](https://scholar.google.com/citations?user=JcWO9OUAAAAJ&hl=en), [Ufaq Khan](https://scholar.google.com/citations?user=7gHFVw4AAAAJ&hl=en), [Abdelrahman Shaker](https://amshaker.github.io/), [Salman Khan](https://salman-h-khan.github.io/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home)
+  <b>
+    <a href="https://scholar.google.com/citations?user=w7N4wSYAAAAJ&hl=en">Umair Nawaz</a>, 
+    <a href="https://scholar.google.com/citations?user=JcWO9OUAAAAJ&hl=en">Ahmed Heakl</a>, 
+    <a href="https://scholar.google.com/citations?user=7gHFVw4AAAAJ&hl=en">Ufaq Khan</a>, 
+    <a href="https://amshaker.github.io/">Abdelrahman Shaker</a>, 
+    <a href="https://salman-h-khan.github.io/">Salman Khan</a>, 
+    <a href="https://sites.google.com/view/fahadkhans/home">Fahad Shahbaz Khan</a>
+  </b>
 </p>
 
 
