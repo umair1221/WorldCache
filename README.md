@@ -52,7 +52,7 @@
 
 Video World Models (VWMs) increasingly rely on large-scale diffusion transformers to simulate complex spatial dynamics. However, the high computational cost of autoregressive generation remains a significant bottleneck. **WorldCache** overcomes this by identifying temporal and spatial redundancies in the denoising process. 
 
-Unlike naive caching which causes "motion drift," WorldCache uses a suite of content-aware modules—**Causal Feature Caching (CFC)**, **Saliency-Weighted Drift (SWD)**, **Optimal Feature Approximation (OFA)**, and **Adaptive Threshold Scheduling (ATS)**—to predict skipped computation rather than blindly copying it. Our method is training-free and generalizes across leading architectures like **NVIDIA Cosmos** and **WAN2.1**.
+Unlike naive caching which causes "motion drift," WorldCache uses a suite of content-aware modules like **Causal Feature Caching (CFC)**, **Saliency-Weighted Drift (SWD)**, **Optimal Feature Approximation (OFA)**, and **Adaptive Threshold Scheduling (ATS)** to predict skipped computation rather than blindly copying it. Our method is training-free and generalizes across leading architectures like **NVIDIA Cosmos**, **WAN2.1**, and **DreamDojo**.
 
 ---
 
@@ -82,6 +82,84 @@ WorldCache treats caching like a localized prediction. It controls the pace with
 - **Motion-Adaptive Thresholds:** Uses $\alpha$-scaled motion signals to prevent "ghosting" artifacts in high-dynamics scenes.
 - **Saliency Mapping:** Weights L1 drift by spatial saliency (channel-wise variance) to preserve fine details.
 
+---
+
+
+## ⚙️ Installation & Setup
+
+For detailed system requirements, environment setup (Virtual Env/Docker), and checkpoint downloading instructions, please refer to our:
+
+👉 **[Detailed Setup Guide](Models/Cosmos-Predict2.5/docs/setup.md)**
+
+### Quick Summary (Conda + UV)
+```bash
+# 1. Create and activate conda environment
+conda create -n worldcache python=3.10 -y
+conda activate worldcache
+
+# 2. Sync dependencies with UV
+curl -LsSf https://astral.sh/uv/install.sh | sh
+cd Models/Cosmos-Predict2.5/
+uv sync --extra=cu128 --active --inexact
+
+# 3. Basic inference (from root)
+python Models/Cosmos-Predict2.5/examples/inference.py --model 2B/post-trained --worldcache_enabled [options]
+```
+
+---
+
+## 🚀 Quick Start
+
+To generate high-quality video with WorldCache acceleration:
+
+```bash
+# From the root of the repository
+# Text2World
+CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
+  -i Models/Cosmos-Predict2.5/path/to/prompt.json \
+  -o outputs/worldcache_output \
+  --inference-type=text2world \
+  --model 2B/post-trained \
+  --disable-guardrails \
+  --worldcache_enabled \
+  --worldcache_motion_sensitivity 2.0 \
+  --worldcache_flow_enabled \
+  --worldcache_flow_scale 2.0 \
+  --worldcache_osi_enabled \
+  --worldcache_saliency_enabled \
+  --worldcache_saliency_weight 1.0 \
+  --worldcache_dynamic_decay
+
+# Image2World
+CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
+  -i Models/Cosmos-Predict2.5/path/to/prompt.json \
+  -o outputs/worldcache_output \
+  --inference-type=image2world \
+  --model 2B/post-trained \
+  --disable-guardrails \
+  --worldcache_enabled \
+  --worldcache_motion_sensitivity 2.0 \
+  --worldcache_flow_enabled \
+  --worldcache_flow_scale 2.0 \
+  --worldcache_osi_enabled \
+  --worldcache_saliency_enabled \
+  --worldcache_saliency_weight 1.0 \
+  --worldcache_dynamic_decay
+```
+
+---
+
+## ⚙️ WorldCache Parameters
+
+| Parameter | Default | Description |
+|---|---|---|
+| `--worldcache_motion_sensitivity` | `5.0` | Motion sensitivity (α). Higher = more responsive to motion (less skipping in dynamic scenes). |
+| `--worldcache_flow_enabled` | `False` | Enable Optical Flow-based Feature Alignment (OFA). |
+| `--worldcache_flow_scale` | `0.5` | Optical flow downscale factor. `2.0` = full resolution; `0.5` = 2× downsampled (faster). |
+| `--worldcache_saliency_enabled` | `False` | Enable Saliency-Weighted Drift (SWD). |
+| `--worldcache_saliency_weight` | `5.0` | Saliency weight (β). Controls how much salient regions influence the caching decision. |
+| `--worldcache_osi_enabled` | `False` | Enable Online System Identification (OSI) for optimal gamma computation. |
+| `--worldcache_dynamic_decay` | `False` | Enable Adaptive Threshold Scheduling (ATS). Relaxes threshold in later steps. |
 ---
 
 ## 📊 Quantitative Results
@@ -185,82 +263,6 @@ WorldCache maintains flawless temporal coherence across diverse domains, from ur
 
 ---
 
-## ⚙️ Installation & Setup
-
-For detailed system requirements, environment setup (Virtual Env/Docker), and checkpoint downloading instructions, please refer to our:
-
-👉 **[Detailed Setup Guide](Models/Cosmos-Predict2.5/docs/setup.md)**
-
-### Quick Summary (Conda + UV)
-```bash
-# 1. Create and activate conda environment
-conda create -n worldcache python=3.10 -y
-conda activate worldcache
-
-# 2. Sync dependencies with UV
-curl -LsSf https://astral.sh/uv/install.sh | sh
-cd Models/Cosmos-Predict2.5/
-uv sync --extra=cu128 --active --inexact
-
-# 3. Basic inference (from root)
-python Models/Cosmos-Predict2.5/examples/inference.py --model 2B/post-trained --worldcache_enabled [options]
-```
-
----
-
-## 🚀 Quick Start
-
-To generate high-quality video with WorldCache acceleration:
-
-```bash
-# From the root of the repository
-# Text2World
-CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
-  -i Models/Cosmos-Predict2.5/path/to/prompt.json \
-  -o outputs/worldcache_output \
-  --inference-type=text2world \
-  --model 2B/post-trained \
-  --disable-guardrails \
-  --worldcache_enabled \
-  --worldcache_motion_sensitivity 2.0 \
-  --worldcache_flow_enabled \
-  --worldcache_flow_scale 2.0 \
-  --worldcache_osi_enabled \
-  --worldcache_saliency_enabled \
-  --worldcache_saliency_weight 1.0 \
-  --worldcache_dynamic_decay
-
-# Image2World
-CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
-  -i Models/Cosmos-Predict2.5/path/to/prompt.json \
-  -o outputs/worldcache_output \
-  --inference-type=image2world \
-  --model 2B/post-trained \
-  --disable-guardrails \
-  --worldcache_enabled \
-  --worldcache_motion_sensitivity 2.0 \
-  --worldcache_flow_enabled \
-  --worldcache_flow_scale 2.0 \
-  --worldcache_osi_enabled \
-  --worldcache_saliency_enabled \
-  --worldcache_saliency_weight 1.0 \
-  --worldcache_dynamic_decay
-```
-
----
-
-## ⚙️ WorldCache Parameters
-
-| Parameter | Default | Description |
-|---|---|---|
-| `--worldcache_motion_sensitivity` | `5.0` | Motion sensitivity (α). Higher = more responsive to motion (less skipping in dynamic scenes). |
-| `--worldcache_flow_enabled` | `False` | Enable Optical Flow-based Feature Alignment (OFA). |
-| `--worldcache_flow_scale` | `0.5` | Optical flow downscale factor. `2.0` = full resolution; `0.5` = 2× downsampled (faster). |
-| `--worldcache_saliency_enabled` | `False` | Enable Saliency-Weighted Drift (SWD). |
-| `--worldcache_saliency_weight` | `5.0` | Saliency weight (β). Controls how much salient regions influence the caching decision. |
-| `--worldcache_osi_enabled` | `False` | Enable Online System Identification (OSI) for optimal gamma computation. |
-| `--worldcache_dynamic_decay` | `False` | Enable Adaptive Threshold Scheduling (ATS). Relaxes threshold in later steps. |
----
 
 ## 🙏 Acknowledgements
 
