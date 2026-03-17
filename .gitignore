@@ -202,6 +202,12 @@ cython_debug/
 /results/
 /tmp/
 
+**/models/
+**/checkpoints/
+*.pth
+*.zip
+*.tar
+
 !assets/**/*.png
 !assets/**/*.jpg
 !assets/**/*.mp4
