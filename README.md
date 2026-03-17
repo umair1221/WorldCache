@@ -206,7 +206,13 @@ export PYTHONPATH="./:$PYTHONPATH"
 
 ### Model Checkpoints
 
-WorldCache uses the pre-trained checkpoints from [NVIDIA Cosmos-Predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5). Follow the official instructions to download the model weights (2B or 14B variants) and place them in the `checkpoints/` directory.
+WorldCache supports three leading video world foundation models. Follow the official instructions to download the weights:
+
+- **[NVIDIA Cosmos-Predict 2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)** (2B & 14B)
+- **[WAN2.1](https://github.com/Wan-Video/Wan2.1)** (1.3B & 14B)
+- **[DreamDojo](https://github.com/NVIDIA/DreamDojo)** (2B)
+
+Place the model weights in the `checkpoints/` directory as specified in each model's configuration.
 
 ---
 
@@ -265,7 +271,9 @@ CUDA_VISIBLE_DEVICES=0 python examples/inference.py \
 
 We acknowledge the following works that inspired this project:
 
-- **[Cosmos-Predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)** — NVIDIA's world foundation model platform.
+- **[Cosmos-Predict 2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)** — NVIDIA's world foundation model platform.
+- **[WAN2.1](https://github.com/Wan-Video/Wan2.1)** — Open suite of video foundation models.
+- **[DreamDojo](https://github.com/NVIDIA/DreamDojo)** — Generalist robot world model from the NVIDIA GEAR Team.
 - **[DiCache](https://github.com/Bujiazi/DiCache)** — Bu et al., "DiCache: Let Diffusion Model Determine Its Own Cache," *ICLR 2026*.
 
 ---
