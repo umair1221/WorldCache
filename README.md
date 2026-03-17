@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="center">
   <img src="Models/Cosmos-Predict2.5/assets/logo.svg" width="40" style="vertical-align: middle;"> WorldCache: Content-Aware Caching for Accelerated Video World Models
 </h1>
 
