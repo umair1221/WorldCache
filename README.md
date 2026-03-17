@@ -1,54 +1,101 @@
 <p align="center">
+  <img src="assets/logo.png" width="120" alt="WorldCache Logo">
   <h1 align="center">🌍 WorldCache: Content-Aware Caching for Accelerated Video World Models</h1>
 </p>
 
 <p align="center">
-  <a href="#-overview">Overview</a> •
-  <a href="#-key-features">Key Features</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-worldcache-parameters">Parameters</a> •
-  <a href="#-method-overview">Method</a> •
-  <a href="#-results">Results</a> •
-  <a href="#-acknowledgements">Acknowledgements</a>
+  <a href="https://arxiv.org/abs/" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2503.XXXXX-b31b1b.svg" alt="arXiv">
+  </a>
+  <a href="https://umair1221.github.io/WorldCache/" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Website-blue.svg" alt="Project Website">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache--2.0-green.svg" alt="License">
+  </a>
+</p>
+
+<p align="center">
+  <strong>WorldCache</strong> is a <strong>training-free, plug-and-play</strong> inference acceleration framework for diffusion-based video world models. It achieves up to <strong>3.0× speedup</strong> while strictly maintaining temporal coherence and visual fidelity.
+</p>
+
+<p align="center">
+  <img src="assets/figures/teaser.png" width="1000" alt="WorldCache Teaser">
 </p>
 
 ---
 
-## 📖 Overview
+## 📖 Abstract
 
-**WorldCache** is a **training-free, plug-and-play** inference acceleration framework for diffusion-based video world models. It significantly reduces end-to-end latency by intelligently caching and reusing intermediate computations during the denoising process, without sacrificing generation quality.
+Video World Models (VWMs) increasingly rely on large-scale diffusion transformers to simulate complex spatial dynamics. However, the high computational cost of autoregressive generation remains a significant bottleneck. **WorldCache** overcomes this by identifying temporal and spatial redundancies in the denoising process. 
 
-Built on top of [NVIDIA Cosmos-Predict2](https://github.com/NVIDIA/Cosmos-Predict2), WorldCache introduces a suite of content-aware caching strategies that adapt to the dynamic nature of video generation — from motion intensity to spectral content — achieving up to **3× speedup** over the baseline while maintaining high visual fidelity.
-
-> **Key Insight:** Not all denoising steps require full forward passes through the diffusion transformer. WorldCache identifies redundant computations via lightweight probing and replaces them with cached approximations, guided by motion, saliency, and spectral signals.
+Unlike naive caching which causes "motion drift," WorldCache uses a suite of content-aware modules—**Causal Feature Caching (CFC)**, **Saliency-Weighted Drift (SWD)**, **Optimal Feature Approximation (OFA)**, and **Adaptive Threshold Scheduling (ATS)**—to predict skipped computation rather than blindly copying it. Our method is training-free and generalizes across leading architectures like **NVIDIA Cosmos** and **WAN2.1**.
 
 ---
 
-## ✨ Key Features
+## ✨ Key Components
 
-| Feature | Description |
-|---|---|
-| **🔌 Training-Free** | No fine-tuning or retraining required. Applied entirely at inference time. |
-| **🎯 Content-Aware Caching (CFC)** | Adaptive threshold that responds to motion intensity — computes more in dynamic scenes, caches aggressively in static ones. |
-| **🌊 Flow-Warped Feature Caching (OFA)** | Uses GPU-native optical flow to warp cached features, aligning them with scene motion for higher-quality approximations. |
-| **🔬 Saliency-Weighted Drift (SWD)** | Prioritizes perceptually important regions (edges, textures) when deciding whether to reuse cached features. |
-| **🧠 Online System Identification (OSI)** | Computes optimal interpolation coefficients via least-squares fitting for more accurate feature extrapolation. |
-| **📈 Adaptive Threshold Scheduling (ATS)** | Dynamically relaxes caching thresholds in later denoising steps where features converge naturally. |
-| **⚡ Torch Compile Support** | Compatible with `torch.compile` for additional kernel-level speedups. |
+WorldCache is driven by four key technical ideologies:
+
+| Module | Icon | Description |
+| :--- | :---: | :--- |
+| **Causal Feature Caching (CFC)** | ⚡ | Dynamically scales caching tolerance based on early layer motion velocity. |
+| **Saliency-Weighted Drift (SWD)** | 🎯 | Penalizes caching errors in perceptually critical high-frequency regions. |
+| **Optimal Feature Approx. (OFA)** | 🌊 | Interpolates skipped cache states using trajectory matching and optical flow. |
+| **Adaptive Threshold Scheduling (ATS)** | 📈 | Exponentially relaxes caching constraints in later denoising stages. |
 
 ---
 
-## 🛠️ Installation
+## 🔬 Method Overview
 
-### Prerequisites
+WorldCache treats caching like a localized prediction. It controls the pace with causal tracking while interpolating the next state.
 
-- Python 3.10+
-- CUDA 12.x compatible GPU (tested on NVIDIA A100 80GB, H100)
-- [uv](https://github.com/astral-sh/uv) package manager (recommended)
+<p align="center">
+  <img src="assets/figures/pipeline.png" width="900" alt="WorldCache Pipeline">
+</p>
 
-### Setup
+### Technical Highlights
+- **Drift Probing:** Uses the first $K$ blocks of the transformer as a lightweight proxy for global drift.
+- **Motion-Adaptive Thresholds:** Uses $\alpha$-scaled motion signals to prevent "ghosting" artifacts in high-dynamics scenes.
+- **Saliency Mapping:** Weights L1 drift by spatial saliency (channel-wise variance) to preserve fine details.
 
+---
+
+## 📊 Technical Rigor & Generalization
+
+WorldCache is evaluated across a broad spectrum of models and benchmarks to ensure robust performance.
+
+### Evaluation Setup
+- **World Types:** Image2World, Text2World
+- **Backbone Models:** 
+  - **NVIDIA Cosmos-Predict 2.5** (2B, 14B)
+  - **WAN2.1** (1.3B, 14B)
+- **Benchmarks:** 
+  - **PAI-Eval:** Physical Reasoning Benchmark
+  - **EgoDex-Eval:** Robotic Egocentric Evaluation
+
+### Speed-Quality Frontier
+| Model | Speedup | Temporal Consistency | Quality Retention |
+| :--- | :---: | :---: | :---: |
+| Cosmos 2B | **2.30×** | 99.1% | 100% |
+| WAN2.1 1.3B | **2.36×** | 98.4% | 99.5% |
+| Cosmos 14B | **3.05×** | 97.2% | 99.2% |
+
+---
+
+## 🖼️ Qualitative Results
+
+WorldCache maintains flawless temporal coherence even at high acceleration ratios.
+
+<p align="center">
+  <img src="assets/figures/qualitative.png" width="1000" alt="Qualitative Results">
+</p>
+
+---
+
+## 🛠️ Installation & Quick Start
+
+### 1. Setup Environment
 ```bash
 # Clone the repository
 git clone https://github.com/umair1221/WorldCache.git
@@ -139,28 +186,18 @@ For **Image-to-World** or **Video-to-World** generation, set `inference_type` to
 | `--worldcache_rel_l1_thresh` | `0.08` | Base relative L1 drift threshold. Lower = higher quality, less caching. |
 | `--worldcache_ret_ratio` | `0.2` | Fraction of initial steps to always compute fully (warm-up phase). |
 | `--worldcache_probe_depth` | `2` | Number of initial transformer blocks used as a lightweight probe. |
-| `--worldcache_motion_sensitivity` | `5.0` | Motion sensitivity (α). Higher = more responsive to motion (less skipping in dynamic scenes). |
 
 ### Content-Aware Modules
 
 | Parameter | Default | Description |
 |---|---|---|
+| `--worldcache_motion_sensitivity` | `5.0` | Motion sensitivity (α). Higher = more responsive to motion (less skipping in dynamic scenes). |
 | `--worldcache_flow_enabled` | `False` | Enable Optical Flow-based Feature Alignment (OFA). |
 | `--worldcache_flow_scale` | `0.5` | Optical flow downscale factor. `2.0` = full resolution; `0.5` = 2× downsampled (faster). |
 | `--worldcache_saliency_enabled` | `False` | Enable Saliency-Weighted Drift (SWD). |
 | `--worldcache_saliency_weight` | `5.0` | Saliency weight (β). Controls how much salient regions influence the caching decision. |
 | `--worldcache_osi_enabled` | `False` | Enable Online System Identification (OSI) for optimal gamma computation. |
 | `--worldcache_dynamic_decay` | `False` | Enable Adaptive Threshold Scheduling (ATS). Relaxes threshold in later steps. |
-
-### Advanced Parameters
-
-| Parameter | Default | Description |
-|---|---|---|
-| `--worldcache_hf_enabled` | `False` | Enable Spectral-Adaptive Caching (high-frequency drift monitoring). |
-| `--worldcache_hf_thresh` | `0.01` | Threshold for high-frequency drift. Exceeding this aborts caching. |
-| `--worldcache_aduc_enabled` | `False` | Enable Adaptive Unconditional Caching (skip unconditional CFG pass in later steps). |
-| `--worldcache_aduc_start` | `0.5` | Step ratio after which AdUC activates (e.g., 0.5 = after 50% of denoising). |
-| `--use_torch_compile` | `False` | Enable `torch.compile` for additional kernel-level optimizations. |
 
 ### Recommended Configurations
 
@@ -293,11 +330,11 @@ We acknowledge the following works that informed and inspired this project:
 If you find this work useful, please consider citing:
 
 ```bibtex
-@misc{worldcache2026,
+@article{nawaz2026worldcache,
   title={WorldCache: Content-Aware Caching for Accelerated Video World Models},
-  author={},
-  year={2026},
-  note={Built on NVIDIA Cosmos-Predict2}
+  author={Nawaz, Umair and Heakl, Ahmed and Khan, Ufaq and Shaker, Abdelrahman and Khan, Salman and Khan, Fahad Shahbaz},
+  journal={arXiv preprint arXiv:2503.XXXXX},
+  year={2026}
 }
 ```
 

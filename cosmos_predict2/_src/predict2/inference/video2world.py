@@ -374,8 +374,6 @@ class Video2WorldInference:
             model: Video2WorldModelRectifiedFlow = model
 
         # Enable context parallel on the model if using context parallelism
-
-        # Enable context parallel on the model if using context parallelism
         if self.context_parallel_size > 1:
             model.net.enable_context_parallel(self.process_group)
 

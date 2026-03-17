@@ -268,12 +268,8 @@ class CommonSetupArguments(pydantic.BaseModel):
     """Enable Online System Identification (OSI). Computes optimal gamma using least-squares."""
     worldcache_dynamic_decay: bool = False
     """Enable Adaptive Threshold Scheduling (ATS). Relaxes threshold in later steps."""
-    
-    # Generic Optimizations
-    use_torch_compile: bool = False
+    use_torch_compile: bool = True
     """Enable torch.compile for the diffusion model."""
-
-
 
     @cached_property
     def enable_guardrails(self) -> bool:

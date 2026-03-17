@@ -17,10 +17,6 @@ except ImportError:
     cv2 = None
     np = None
 
-
-
-
-
 def estimate_optical_flow(prev_img_tensor, curr_img_tensor, scale_factor=0.5):
     """
     Estimates optical flow using PyTorch-native Lucas-Kanade (GPU).
@@ -328,7 +324,7 @@ def worldcache_mini_train_dit_forward(
              
              self.accumulated_rel_l1_distance[current_idx] += delta_y # update error accumulator
              
-             # --- Saliency-Guided Thresholding (Novelty 4) ---
+             # --- Saliency-Guided Thresholding ---
              # Weight the drift based on saliency
              if getattr(self, 'worldcache_saliency_enabled', False):
                  # Compute Saliency of the PREVIOUS internal state (which we are comparing against)
@@ -339,7 +335,7 @@ def worldcache_mini_train_dit_forward(
                  # Recompute element-wise delta: (test_x - prev).abs()
                  # First standardizing shapes
                  diff = (test_x - self.previous_internal_states[current_idx]).abs()
-                 # Reduce to (B, 1, H, W) by mean/sum over T/D?
+                 # Reduce to (B, 1, H, W) by mean/sum over T/D
                  # Let's align with saliency map dimensions (H, W).
                  diff_map = rearrange(diff, 'b t h w d -> b (t d) h w').mean(dim=1, keepdim=True)
                  
@@ -357,14 +353,12 @@ def worldcache_mini_train_dit_forward(
                  denom = self.previous_internal_states[current_idx].abs().mean() + 1e-6
                  weighted_rel_drift = weighted_drift / denom
                  
-                 # Update drift with weighted version (replace or add?)
+                 # Update drift with weighted version
                  # Replacing makes sense: we are refining the error metric.
-                 # But we already added delta_y to accumulated.
-                 # Let's OVERWRITE the accumulation for this step if enabled (assuming prompt reset)
+                 # OVERWRITE the accumulation for this step if enabled (assuming prompt reset)
                  # OR just subtract old and add new.
                  # Simpler: Calculate weighted drift INSTEAD of plain delta_y if enabled.
                  
-                 # Retcon:
                  self.accumulated_rel_l1_distance[current_idx] -= delta_y 
                  self.accumulated_rel_l1_distance[current_idx] += weighted_rel_drift
                  
@@ -374,17 +368,8 @@ def worldcache_mini_train_dit_forward(
 
              # --- Causal-DiCache (Motion-Adaptive Thresholding) ---
              # Calculate input velocity (drift of x_t vs x_{t-1})
-             # We use previous_input which is x_{t-1} (from the same buffer index? No, we need T-1 vs T)
-             # Wait, self.previous_input[current_idx] holds the input for this specific buffer index (ping-pong).
-             # It effectively holds x_{t-2} if we alternate? 
-             # No, let's look at how previous_input is updated. 
-             # self.previous_input[current_idx] = ori_x (at end of step).
-             # So for step t (index 0), previous_input[0] holds input from step t-2 (index 0).
-             # But delta_x (line 136) is calculated as (x - previous_input[current_idx]).
-             # This delta_x IS the drift!
-             
              # delta_x is roughly the velocity of the latent features over the interval.
-             # Note: logic at 136: delta_x = (x - prev).abs().mean() / prev.abs().mean()
+             # delta_x = (x - prev).abs().mean() / prev.abs().mean()
              # This is "normalized velocity".
              
              input_velocity = delta_x
@@ -398,18 +383,12 @@ def worldcache_mini_train_dit_forward(
              if getattr(self, 'worldcache_dynamic_decay', False):
                  num_steps = getattr(self, 'worldcache_num_steps', 35)
                  
-                 # Using a quadratic fit that exactly hits (35,4), (70,5), (140,8)
-                 # and effectively approximates (100,6.12)
+                 # Using a quadratic fit
                  u = num_steps / 35.0
                  base_mult = (u**2) / 6.0 + (u / 2.0) + (10.0 / 3.0)
-                 
                  step_ratio = self.cnt / num_steps
                  decay_factor = 1.0 + base_mult * step_ratio
                  dynamic_thresh *= decay_factor
-
-
-
-             
 
              log.info(f"[WorldCache] Step {self.cnt}: Drift {self.accumulated_rel_l1_distance[current_idx]:.4f} / Thresh {dynamic_thresh:.4f} (Base {self.worldcache_rel_l1_thresh}, Vel {input_velocity:.4f}, Alpha {alpha})")
              if self.accumulated_rel_l1_distance[current_idx] < dynamic_thresh: # skip this step
@@ -420,7 +399,7 @@ def worldcache_mini_train_dit_forward(
              else:
                  self.resume_flag[current_idx] = True
                  self.accumulated_rel_l1_distance[current_idx] = 0
-                 # FIX: Update history with the fresh probe output!
+                 # Update history with the fresh probe output!
                  self.previous_internal_states[current_idx] = test_x.clone()
         else:
              # Fallback if history missing (first step or issue)
@@ -429,7 +408,7 @@ def worldcache_mini_train_dit_forward(
     # --- Execution Branching ---
     if skip_forward:
         # CACHE HIT: Approximate the rest of the network using cached residual + Gamma interpolation
-        ori_x_clone = x_B_T_H_W_D.clone() # Needed? ori_x is already a tensor ref, but we don't modify it in place until addition
+        ori_x_clone = x_B_T_H_W_D.clone() # ori_x is already a tensor ref, but we don't modify it in place until addition
         
         # Gamma Interpolation
         if len(self.residual_window[current_idx]) >= 2:
@@ -444,35 +423,10 @@ def worldcache_mini_train_dit_forward(
                 # Calculate delta_curr (Probe_{t} - Probe_{t-1}) ~ current_residual_indicator?
                 # current_residual_indicator = test_x - x == Probe_t - (Probe_{t-1})?
                 # current_residual_indicator is effectively (Probe_t - Input_t) 
-                # Input_t approx Probe_{t-1} + Residual_{t-1}.
-                # So current_residual_indicator is the NEW residual component.
-                
-                # Wait, we need the update vector in the PROBE space.
-                # Delta P_{t} = Probe_t - Probe_{t-1}.
-                # x_B_T_H_W_D at this point is Input_t.
-                # test_x is Probe_t.
-                # self.previous_internal_states[current_idx] is Probe_{t-1}.
-                
-                # So Delta P_t = test_x - self.previous_internal_states[current_idx].
-                
-                # And Delta P_{t-1} = Probe_{t-1} - Probe_{t-2}.
-                # This is exactly what (window[-1] - window[-2]) captures?
-                # self.probe_residual_window stores residual indicators? 
-                
-                # In WAN: probe_residual_window stores (Probe - Input).
-                # That's not the state itself.
-                
-                # Let's use the residuals as proxies for dynamics (as WAN does).
-                # The "Indicator" is the local residual trend.
-                
-                # Delta Residual_t = current_residual_indicator - window[-2]? No.
-                # WAN Formula: (CurrentResid - PrevPrevResid) / (PrevResid - PrevPrevResid).
-                # This assumes linear growth of residual.
                 
                 # OSI Logic: 
                 # We want to match the DIRECTION of feature evolution.
-                # Let's stick to the Window logic for consistency with the cache structure.
-                # Target: Minimize || (CurrResid - PrevPrevResid) - gamma * (PrevResid - PrevPrevResid) ||^2
+                # Minimize || (CurrResid - PrevPrevResid) - gamma * (PrevResid - PrevPrevResid) ||^2
                 
                 delta_target = current_residual_indicator - self.probe_residual_window[current_idx][-2]
                 delta_source = self.probe_residual_window[current_idx][-1] - self.probe_residual_window[current_idx][-2]
@@ -506,9 +460,9 @@ def worldcache_mini_train_dit_forward(
         # --- Flow-Warped Scaling ---
         if getattr(self, 'worldcache_flow_enabled', False) and self.previous_input[current_idx] is not None:
              # Warp the internal state to align with current motion
-             # Feature: x_B_T_H_W_D -> need to rearrange to (B, D, H, W) for image-based flow? 
-             # Or (B, T*D, H, W)?
-             # Let's treat T*D as channels for warping.
+             # Feature: x_B_T_H_W_D -> rearrange to (B, D, H, W) for image-based flow
+             # Or (B, T*D, H, W)
+             # Treat T*D as channels for warping.
              
              # 1. Estimate Flow on Inputs (x vs prev_x)
              # x_B_T_H_W_D -> (B, T*D, H, W)
@@ -526,51 +480,9 @@ def worldcache_mini_train_dit_forward(
              
              # 3. Use Warped State as Base
              # Diff = WarpedState - PrevState
-             # x = x + Diff? No.
-             # x_new = WarpedState + Correction?
              # Standard Cache: x = x + Residual
              # Flow Cache: x = WarpedState + Residual
-             
-             # Replace linear approximation with Warped approximation
-             # We just calculated x_B_T_H_W_D above using residual.
-             # Now we correct the base:
-             # x_B_T_H_W_D = WarpedState + Residual (instead of PrevState + Residual)
-             
-             # But let's look at line 184: x = x + residual
-             # AND line 186 writes test_x to history.
-             
-             # Wait, x_B_T_H_W_D (input to this block) is NOT the internal state we skip.
-             # We skip the BLOCKS. The output of blocks is the internal state.
-             # x_B_T_H_W_D is the INPUT to the blocks.
-             
-             # The residual logic in DiCache is:
-             # output = input + cached_residual
-             # This assumes input ~ prev_input.
-             
-             # If input has moved, we should ideally warp the input too? 
-             # No, input is given.
-             
-             # Let's rethink: 
-             # Output = Model(Input)
-             # CachedResidual = PrevOutput - PrevInput
-             # ApproxOutput = Input + CachedResidual
-             
-             # With Warp:
-             # We assume features move.
-             # PrevOutput(p) corresponds to Output(p+v).
-             # So Output(p+v) approx Warped(PrevOutput(p))
-             
-             # So ApproxOutput = Warped(PrevOutput)
-             # But we typically express this as residual to be safe.
-             # Warped(PrevOutput) = Warped(PrevInput + PrevResidual) = Warped(PrevInput) + Warped(PrevResidual).
-             
-             # So ApproxOutput = Warped(PrevInput) + Warped(PrevResidual).
-             # But we have CurrentInput.
-             # CurrentInput ~ Warped(PrevInput).
-             
-             # So ApproxOutput ~ CurrentInput + Warped(PrevResidual).
-             
-             # Implementation: Ensure we add WARPED residual instead of raw residual.
+             # Ensure we add WARPED residual instead of raw residual.
              
              if flow is not None:
                  # Warp the residual cache
@@ -594,31 +506,17 @@ def worldcache_mini_train_dit_forward(
             unpass_blocks = self.blocks
             
         # Run remaining blocks
-        # Need to adjust index if reusing test_x? 
-        # Yes, enumerate from correct index if needed for logging/intermediate (omitted here for simplicity unless requested)
         for i, block in enumerate(unpass_blocks):
              x_B_T_H_W_D = block(x_B_T_H_W_D, **block_kwargs)
              
              # If we are in the "full run" mode (not resume), we need to capture the probe state 
              # at the correct layer for history.
-             # Only if we started from scratch (not resume).
-             # WAN logic: 
-             # if ind == self.probe_depth - 1:
-             #    if self.cnt >= int(self.num_steps * self.ret_ratio):
-             #         self.previous_internal_states[self.cnt%2] = test_x # directly use test_x
-             #    else:
-             #         self.previous_internal_states[self.cnt%2] = x # count for internal states
-             
-             # The index 'i' here is relative to unpass_blocks.
-             # If resume=True, we started after probe_depth. So we are past the probe point.
-             # If resume=False, we started at 0.
-             
              real_layer_idx = i if not self.resume_flag[current_idx] else i + self.probe_depth
              
              if real_layer_idx == self.probe_depth - 1:
                  # We are at the probe output
                  if self.cnt >= int(self.worldcache_num_steps * self.worldcache_ret_ratio):
-                      # If we are in retention phase but chose to run full (resume=False or just didn't skip?)
+                      # If we are in retention phase but chose to run full (resume=False or just didn't skip)
                       # If resume=True, we skip this check because we started AFTER probe.
                       # If resume=False (before retention phase), we capture x.
                       pass
