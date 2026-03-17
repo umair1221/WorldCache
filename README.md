@@ -198,6 +198,16 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv sync --extra=cu128
 source .venv/bin/activate
 
+### Model Checkpoints
+
+WorldCache supports three leading video world foundation models. Follow the official instructions to download the weights:
+
+- **[NVIDIA Cosmos-Predict 2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)** (2B & 14B)
+- **[WAN2.1](https://github.com/Wan-Video/Wan2.1)** (1.3B & 14B)
+- **[DreamDojo](https://github.com/NVIDIA/DreamDojo)** (2B)
+
+Place the model weights in the `checkpoints/` directory as specified in each model's configuration.
+
 # Basic WorldCache inference
 python examples/inference.py --model 2B/post-trained --worldcache_enabled [options]
 ```
@@ -219,13 +229,10 @@ CUDA_VISIBLE_DEVICES=0 python examples/inference.py \
   --worldcache_motion_sensitivity 2 \
   --worldcache_flow_enabled \
   --worldcache_flow_scale 2.0 \
-  --worldcache_rel_l1_thresh 0.08 \
-  --worldcache_ret_ratio 0.2 \
   --worldcache_saliency_enabled \
   --worldcache_saliency_weight 1.0 \
   --worldcache_dynamic_decay \
   --worldcache_probe_depth 3 \
-  --use_torch_compile
 ```
 
 ---
