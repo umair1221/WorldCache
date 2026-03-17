@@ -213,7 +213,8 @@ python Models/Cosmos-Predict2.5/examples/inference.py --model 2B/post-trained --
 To generate high-quality video with WorldCache acceleration:
 
 ```bash
-# From the root of the repository - Text2World
+# From the root of the repository
+# Text2World
 CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
   -i Models/Cosmos-Predict2.5/path/to/prompt.json \
   -o outputs/worldcache_output \
@@ -229,7 +230,7 @@ CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
   --worldcache_saliency_weight 1.0 \
   --worldcache_dynamic_decay
 
-# From the root of the repository - Image2World
+# Image2World
 CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
   -i Models/Cosmos-Predict2.5/path/to/prompt.json \
   -o outputs/worldcache_output \
