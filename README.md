@@ -21,7 +21,9 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-#### [Umair Nawaz](https://scholar.google.com/citations?user=w7N4wSYAAAAJ&hl=en), [Ahmed Heakl](https://scholar.google.com/citations?user=JcWO9OUAAAAJ&hl=en), [Ufaq Khan](https://scholar.google.com/citations?user=7gHFVw4AAAAJ&hl=en), [Abdelrahman Shaker](https://amshaker.github.io/), [Salman Khan](https://salman-h-khan.github.io/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home)
+<p align="center">
+  #### [Umair Nawaz](https://scholar.google.com/citations?user=w7N4wSYAAAAJ&hl=en), [Ahmed Heakl](https://scholar.google.com/citations?user=JcWO9OUAAAAJ&hl=en), [Ufaq Khan](https://scholar.google.com/citations?user=7gHFVw4AAAAJ&hl=en), [Abdelrahman Shaker](https://amshaker.github.io/), [Salman Khan](https://salman-h-khan.github.io/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home)
+</p>
 
 
 <p align="center">
