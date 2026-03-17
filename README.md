@@ -30,12 +30,12 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td><video src="https://github.com/umair1221/WorldCache/raw/main/assets/videos/robot_154.mp4" autoplay loop muted playsinline width="420"></video></td>
-      <td><video src="https://github.com/umair1221/WorldCache/raw/main/assets/videos/av_5da7e548-93f4-4a9f-b59d-418051e7c859.mp4" autoplay loop muted playsinline width="420"></video></td>
+      <td><img src="https://github.com/umair1221/WorldCache/raw/main/assets/videos/robot_154.gif" width="420" alt="Robot 154"></td>
+      <td><img src="https://github.com/umair1221/WorldCache/raw/main/assets/videos/av_5da7e548-93f4-4a9f-b59d-418051e7c859.gif" width="420" alt="AV Scene"></td>
     </tr>
     <tr>
-      <td><video src="https://github.com/umair1221/WorldCache/raw/main/assets/videos/misc_13390461_1920_1080_30fps.mp4" autoplay loop muted playsinline width="420"></video></td>
-      <td><video src="https://github.com/umair1221/WorldCache/raw/main/assets/videos/robot_034.mp4" autoplay loop muted playsinline width="420"></video></td>
+      <td><img src="https://github.com/umair1221/WorldCache/raw/main/assets/videos/misc_13390461_1920_1080_30fps.gif" width="420" alt="Misc Scene"></td>
+      <td><img src="https://github.com/umair1221/WorldCache/raw/main/assets/videos/robot_034.gif" width="420" alt="Robot 034"></td>
     </tr>
   </table>
 </div>
@@ -196,7 +196,7 @@ export PYTHONPATH="./:$PYTHONPATH"
 
 ### Model Checkpoints
 
-WorldCache uses the pre-trained checkpoints from [NVIDIA Cosmos-Predict2](https://github.com/NVIDIA/Cosmos-Predict2). Follow the official instructions to download the model weights (2B or 14B variants) and place them in the `checkpoints/` directory.
+WorldCache uses the pre-trained checkpoints from [NVIDIA Cosmos-Predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5). Follow the official instructions to download the model weights (2B or 14B variants) and place them in the `checkpoints/` directory.
 
 ---
 
@@ -255,8 +255,8 @@ CUDA_VISIBLE_DEVICES=0 python examples/inference.py \
 
 We acknowledge the following works that informed and inspired this project:
 
-- **[Cosmos-Predict2](https://github.com/NVIDIA/Cosmos-Predict2)** — NVIDIA's world foundation model platform.
-- **[DiCache](https://arxiv.org/abs/2407.02705)** — Ma et al., "Learning to Cache: Accelerating Diffusion Transformer with Layer Caching," *NeurIPS 2024*.
+- **[Cosmos-Predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)** — NVIDIA's world foundation model platform.
+- **[DiCache](https://github.com/Bujiazi/DiCache)** — Ma et al., "Learning to Cache: Accelerating Diffusion Transformer with Layer Caching," *NeurIPS 2024*.
 - **[TeaCache](https://arxiv.org/abs/2411.19150)** — Liu et al., "TeaCache: Timestep-Aware Cache for Accelerating Diffusion Model," *2024*.
 
 ---
