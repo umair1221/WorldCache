@@ -210,34 +210,42 @@ python Models/Cosmos-Predict2.5/examples/inference.py --model 2B/post-trained --
 To generate high-quality video with WorldCache acceleration:
 
 ```bash
-# From the root of the repository
+# From the root of the repository - Text2World
 CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
   -i Models/Cosmos-Predict2.5/path/to/prompt.json \
   -o outputs/worldcache_output \
+  --inference-type=text2world
   --model 2B/post-trained \
   --disable-guardrails \
   --worldcache_enabled \
   --worldcache_motion_sensitivity 2.0 \
-  --worldcache_rel_l1_thresh 0.08 \
-  --worldcache_dynamic_decay \
-  --use_torch_compile
+  --worldcache_flow_enabled \
+  --worldcache_flow_scale 2.0 \
+  --worldcache_osi_enabled \
+  --worldcache_saliency_enabled \
+  --worldcache_saliency_weight 1.0 \
+  --worldcache_dynamic_decay
+
+# From the root of the repository - Image2World
+CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
+  -i Models/Cosmos-Predict2.5/path/to/prompt.json \
+  -o outputs/worldcache_output \
+  --inference-type=image2world
+  --model 2B/post-trained \
+  --disable-guardrails \
+  --worldcache_enabled \
+  --worldcache_motion_sensitivity 2.0 \
+  --worldcache_flow_enabled \
+  --worldcache_flow_scale 2.0 \
+  --worldcache_osi_enabled \
+  --worldcache_saliency_enabled \
+  --worldcache_saliency_weight 1.0 \
+  --worldcache_dynamic_decay
 ```
 
 ---
 
 ## ⚙️ WorldCache Parameters
-
-### Core Parameters
-| Parameter | Default | Description |
-| :--- | :--- | :--- |
-| `--worldcache_enabled` | `False` | Enable WorldCache acceleration. |
-| `--worldcache_rel_l1_thresh` | `0.08` | Base relative L1 drift threshold. |
-| `--worldcache_ret_ratio` | `0.2` | Warm-up phase duration. |
-| `--worldcache_probe_depth` | `2` | Number of probe transformer blocks. |
-
----
-
-### WorldCache Parameters
 
 | Parameter | Default | Description |
 |---|---|---|
