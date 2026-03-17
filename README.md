@@ -10,8 +10,11 @@
   <a href="https://umair1221.github.io/World-Cache/" target="_blank">
     <img src="https://img.shields.io/badge/Project-Website-blue.svg" alt="Project Website">
   </a>
-  <a href="LICENSE">
+  <a href="https://github.com/umair1221/WorldCache/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache--2.0-green.svg" alt="License">
+  </a>
+  <a href="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
   </a>
 </p>
 
@@ -52,7 +55,10 @@
 
 Video World Models (VWMs) increasingly rely on large-scale diffusion transformers to simulate complex spatial dynamics. However, the high computational cost of autoregressive generation remains a significant bottleneck. **WorldCache** overcomes this by identifying temporal and spatial redundancies in the denoising process. 
 
-Unlike naive caching which causes "motion drift," WorldCache uses a suite of content-aware modules like **Causal Feature Caching (CFC)**, **Saliency-Weighted Drift (SWD)**, **Optimal Feature Approximation (OFA)**, and **Adaptive Threshold Scheduling (ATS)** to predict skipped computation rather than blindly copying it. Our method is training-free and generalizes across leading architectures like **NVIDIA Cosmos**, **WAN2.1**, and **DreamDojo**.
+> [!TIP]
+> **WorldCache** is backbone-agnostic and training-free. It can be integrated into existing diffusion pipelines with just a few lines of code.
+
+Unlike naive caching which causes "motion drift," WorldCache uses a suite of content-aware modules like **Causal Feature Caching (CFC)**, **Saliency-Weighted Drift (SWD)**, **Optimal Feature Approximation (OFA)**, and **Adaptive Threshold Scheduling (ATS)** to predict skipped computation rather than blindly copying it. Our method generalizes across leading architectures like **NVIDIA Cosmos**, **WAN2.1**, and **DreamDojo**.
 
 ---
 
@@ -77,13 +83,12 @@ WorldCache treats caching like a localized prediction. It controls the pace with
   <img src="Models/Cosmos-Predict2.5/assets/figures/pipeline.png" width="900" alt="WorldCache Pipeline">
 </p>
 
-### Technical Highlights
+### 🛠️ Technical Highlights
 - **Drift Probing:** Uses the first $K$ blocks of the transformer as a lightweight proxy for global drift.
 - **Motion-Adaptive Thresholds:** Uses $\alpha$-scaled motion signals to prevent "ghosting" artifacts in high-dynamics scenes.
 - **Saliency Mapping:** Weights L1 drift by spatial saliency (channel-wise variance) to preserve fine details.
 
 ---
-
 
 ## ⚙️ Installation & Setup
 
@@ -91,7 +96,7 @@ For detailed system requirements, environment setup (Virtual Env/Docker), and ch
 
 👉 **[Detailed Setup Guide](Models/Cosmos-Predict2.5/docs/setup.md)**
 
-### Quick Summary (Conda + UV)
+### ⚡ Quick Summary (Conda + UV)
 ```bash
 # 1. Create and activate conda environment
 conda create -n worldcache python=3.10 -y
@@ -113,8 +118,7 @@ python Models/Cosmos-Predict2.5/examples/inference.py --model 2B/post-trained --
 To generate high-quality video with WorldCache acceleration:
 
 ```bash
-# From the root of the repository
-# Text2World
+# From the root of the repository - Text2World
 CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
   -i Models/Cosmos-Predict2.5/path/to/prompt.json \
   -o outputs/worldcache_output \
@@ -130,7 +134,7 @@ CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
   --worldcache_saliency_weight 1.0 \
   --worldcache_dynamic_decay
 
-# Image2World
+# From the root of the repository - Image2World
 CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
   -i Models/Cosmos-Predict2.5/path/to/prompt.json \
   -o outputs/worldcache_output \
@@ -149,24 +153,11 @@ CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
 
 ---
 
-## ⚙️ WorldCache Parameters
-
-| Parameter | Default | Description |
-|---|---|---|
-| `--worldcache_motion_sensitivity` | `5.0` | Motion sensitivity (α). Higher = more responsive to motion (less skipping in dynamic scenes). |
-| `--worldcache_flow_enabled` | `False` | Enable Optical Flow-based Feature Alignment (OFA). |
-| `--worldcache_flow_scale` | `0.5` | Optical flow downscale factor. `2.0` = full resolution; `0.5` = 2× downsampled (faster). |
-| `--worldcache_saliency_enabled` | `False` | Enable Saliency-Weighted Drift (SWD). |
-| `--worldcache_saliency_weight` | `5.0` | Saliency weight (β). Controls how much salient regions influence the caching decision. |
-| `--worldcache_osi_enabled` | `False` | Enable Online System Identification (OSI) for optimal gamma computation. |
-| `--worldcache_dynamic_decay` | `False` | Enable Adaptive Threshold Scheduling (ATS). Relaxes threshold in later steps. |
----
-
 ## 📊 Quantitative Results
 
 WorldCache establishes a new state-of-the-art for training-free diffusion acceleration, maintaining near-baseline quality while significantly reducing latency.
 
-### Model & Benchmark Coverage
+### 🌐 Model & Benchmark Coverage
 | Model Family | Scales | Architecture | PAI-Bench | EgoDex-Eval |
 | :--- | :--- | :---: | :---: | :---: |
 | **Cosmos-Predict 2.5** | 2B, 14B | DiT | ✅ | ✅ |
@@ -181,20 +172,20 @@ Across two major architectures (**Cosmos** and **WAN**), WorldCache consistently
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Cosmos 2B** | Baseline | 0.767 | 0.728 | 0.748 | 58.34 | 1.00× |
 | | DiCache | 0.759 | 0.727 | 0.743 | 40.82 | 1.43× |
-| | WorldCache | 0.763 | 0.727 | 0.745 | **26.78** | **2.18×** |
+| | **WorldCache** | **0.763** | **0.727** | **0.745** | **26.78** | **2.18×** |
 | **Cosmos 14B** | Baseline | 0.792 | 0.746 | 0.769 | 216.25 | 1.00× |
 | | DiCache | 0.792 | 0.745 | 0.768 | 148.36 | 1.45× |
-| | WorldCache | 0.795 | 0.746 | 0.771 | **114.76** | **1.90×** |
+| | **WorldCache** | **0.795** | **0.746** | **0.771** | **114.76** | **1.90×** |
 
 **Table 2: PAI-Bench Image-to-World (I2W) Results**
 | Model | Method | Domain Avg | Quality Avg | Overall | Latency (s) | Speedup |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Cosmos 2B** | Baseline | 0.845 | 0.761 | 0.803 | 57.04 | 1.00× |
 | | DiCache | 0.835 | 0.752 | 0.794 | 39.68 | 1.46× |
-| | WorldCache | 0.840 | 0.756 | 0.798 | **25.96** | **2.30×** |
+| | **WorldCache** | **0.840** | **0.756** | **0.798** | **25.96** | **2.30×** |
 | **Cosmos 14B** | Baseline | 0.860 | 0.769 | 0.814 | 210.07 | 1.00× |
 | | DiCache | 0.855 | 0.767 | 0.811 | 146.04 | 1.44× |
-| | WorldCache | 0.859 | 0.768 | 0.813 | **112.24** | **1.87×** |
+| | **WorldCache** | **0.859** | **0.768** | **0.813** | **112.24** | **1.87×** |
 
 ### 2. Architecture Transfer: WAN2.1
 WorldCache is backbone-agnostic. On the latest **WAN2.1** architecture, it achieves superior speed-quality tradeoffs compared to DiCache.
@@ -204,10 +195,10 @@ WorldCache is backbone-agnostic. On the latest **WAN2.1** architecture, it achie
 | :--- | :--- | :---: | :---: | :---: |
 | **T2W 1.3B** | Baseline | 0.7727 | 120.04 | 1.00× |
 | | DiCache | 0.7703 | 61.57 | 1.96× |
-| | WorldCache | **0.7721** | **50.84** | **2.36×** |
+| | **WorldCache** | **0.7721** | **50.84** | **2.36×** |
 | **I2W 14B** | Baseline | 0.7384| 475.60 | 1.00× |
 | | DiCache | 0.7311 | 291.91 | 1.53× |
-| | WorldCache | **0.7388** | **206.73** | **2.31×** |
+| | **WorldCache** | **0.7388** | **206.73** | **2.31×** |
 
 ### 3. EgoDex-Eval: Robotics Performance
 In egocentric robotics tasks requiring high spatial precision, WorldCache maintains frame-level fidelity (PSNR/SSIM) while enabling real-time-friendly inference.
@@ -217,13 +208,13 @@ In egocentric robotics tasks requiring high spatial precision, WorldCache mainta
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **WAN2.1-14B** | Baseline | 13.30 | 0.503 | 0.459 | 391.90 | 1.00× |
 | | DiCache | 12.95 | 0.491 | 0.461 | 208.60 | 1.88× |
-| | WorldCache | **13.19** | **0.498** | **0.460** | **171.60** | **2.30×** |
+| | **WorldCache** | **13.19** | **0.498** | **0.460** | **171.60** | **2.30×** |
 | **Cosmos-2.5-2B**| Baseline | 12.87 | 0.455 | 0.518 | 70.01 | 1.00× |
 | | DiCache | 12.63 | 0.445 | 0.531 | 51.97 | 1.34× |
-| | WorldCache | **12.82** | **0.466** | **0.518** | **43.24** | **1.62×** |
+| | **WorldCache** | **12.82** | **0.466** | **0.518** | **43.24** | **1.62×** |
 | **DreamDojo-2B** | Baseline | 23.63 | 0.775 | 0.226 | 19.73 | 1.00× |
 | | DiCache | 20.41 | 0.734 | 0.252 | 12.46 | 1.58× |
-| | WorldCache | **23.69** | **0.737** | **0.251** | **10.36** | **1.90×** |
+| | **WorldCache** | **23.69** | **0.737** | **0.251** | **10.36** | **1.90×** |
 
 ---
 
@@ -263,7 +254,6 @@ WorldCache maintains flawless temporal coherence across diverse domains, from ur
 
 ---
 
-
 ## 🙏 Acknowledgements
 
 We acknowledge the following works that inspired this project:
@@ -271,7 +261,7 @@ We acknowledge the following works that inspired this project:
 - **[Cosmos-Predict 2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)** — NVIDIA's world foundation model platform.
 - **[WAN2.1](https://github.com/Wan-Video/Wan2.1)** — Open suite of video foundation models.
 - **[DreamDojo](https://github.com/NVIDIA/DreamDojo)** — Generalist robot world model from the NVIDIA GEAR Team.
-- **[DiCache](https://github.com/Bujiazi/DiCache)** — DiCache: Let Diffusion Model Determine Its Own Cache, *ICLR 2026*.
+- **[DiCache](https://github.com/Bujiazi/DiCache)** — *DiCache: Let Diffusion Model Determine Its Own Cache*, ICLR 2026.
 
 ---
 
