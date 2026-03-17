@@ -157,12 +157,16 @@ CUDA_VISIBLE_DEVICES=0 python Models/Cosmos-Predict2.5/examples/inference.py \
 
 WorldCache establishes a new state-of-the-art for training-free diffusion acceleration, maintaining near-baseline quality while significantly reducing latency.
 
+---
+
 ### 🌐 Model & Benchmark Coverage
 | Model Family | Scales | Architecture | PAI-Bench | EgoDex-Eval |
 | :--- | :--- | :---: | :---: | :---: |
 | **Cosmos-Predict 2.5** | 2B, 14B | DiT | ✅ | ✅ |
 | **WAN2.1** | 1.3B, 14B | DiT | ✅ | ✅ |
 | **DreamDojo** | 2B | DiT | — | ✅ |
+
+---
 
 ### 1. PAI-Bench: Physical Reasoning Benchmarks
 Across two major architectures (**Cosmos** and **WAN**), WorldCache consistently delivers >2× speedup with <1% drop in overall physical reasoning scores.
@@ -187,6 +191,7 @@ Across two major architectures (**Cosmos** and **WAN**), WorldCache consistently
 | | DiCache | 0.855 | 0.767 | 0.811 | 146.04 | 1.44× |
 | | **WorldCache** | **0.859** | **0.768** | **0.813** | **112.24** | **1.87×** |
 
+---
 ### 2. Architecture Transfer: WAN2.1
 WorldCache is backbone-agnostic. On the latest **WAN2.1** architecture, it achieves superior speed-quality tradeoffs compared to DiCache.
 
@@ -200,6 +205,7 @@ WorldCache is backbone-agnostic. On the latest **WAN2.1** architecture, it achie
 | | DiCache | 0.7311 | 291.91 | 1.53× |
 | | **WorldCache** | **0.7388** | **206.73** | **2.31×** |
 
+---
 ### 3. EgoDex-Eval: Robotics Performance
 In egocentric robotics tasks requiring high spatial precision, WorldCache maintains frame-level fidelity (PSNR/SSIM) while enabling real-time-friendly inference.
 
