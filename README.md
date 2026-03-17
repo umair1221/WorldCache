@@ -269,7 +269,7 @@ We acknowledge the following works that inspired this project:
 - **[Cosmos-Predict 2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)** — NVIDIA's world foundation model platform.
 - **[WAN2.1](https://github.com/Wan-Video/Wan2.1)** — Open suite of video foundation models.
 - **[DreamDojo](https://github.com/NVIDIA/DreamDojo)** — Generalist robot world model from the NVIDIA GEAR Team.
-- **[DiCache](https://github.com/Bujiazi/DiCache)** — Bu et al., "DiCache: Let Diffusion Model Determine Its Own Cache," *ICLR 2026*.
+- **[DiCache](https://github.com/Bujiazi/DiCache)** — DiCache: Let Diffusion Model Determine Its Own Cache, *ICLR 2026*.
 
 ---
 
