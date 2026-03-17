@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="Models/Cosmos-Predict2.5/assets/logo.png" width="80" style="vertical-align: middle;"> 🌍 WorldCache: Content-Aware Caching for Accelerated Video World Models
+<h1 align="left">
+  <img src="Models/Cosmos-Predict2.5/assets/logo.svg" width="40" style="vertical-align: middle;"> 🌍 WorldCache: Content-Aware Caching for Accelerated Video World Models
 </h1>
+
 
 <p align="center">
   <a href="https://arxiv.org/abs/" target="_blank">
