@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="Models/Cosmos-Predict2.5/assets/logo.svg" width="40" style="vertical-align: middle;"> 🌍 WorldCache: Content-Aware Caching for Accelerated Video World Models
+  <img src="Models/Cosmos-Predict2.5/assets/logo.svg" width="40" style="vertical-align: middle;"> WorldCache: Content-Aware Caching for Accelerated Video World Models
 </h1>
 
 
