@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="WorldCache Logo">
+  <img src="Models/Cosmos-Predict2.5/assets/logo.png" width="120" alt="WorldCache Logo">
   <h1 align="center">🌍 WorldCache: Content-Aware Caching for Accelerated Video World Models</h1>
 </p>
 
@@ -30,12 +30,12 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td><img src="assets/videos/robot_154.gif" width="420" alt="Robot 154"></td>
-      <td><img src="assets/videos/av_5da7e548-93f4-4a9f-b59d-418051e7c859.gif" width="420" alt="AV Scene"></td>
+      <td><img src="https://github.com/umair1221/WorldCache/raw/main/Models/Cosmos-Predict2.5/assets/videos/robot_154.gif" width="420" alt="Robot 154"></td>
+      <td><img src="https://github.com/umair1221/WorldCache/raw/main/Models/Cosmos-Predict2.5/assets/videos/av_5da7e548-93f4-4a9f-b59d-418051e7c859.gif" width="420" alt="AV Scene"></td>
     </tr>
     <tr>
-      <td><img src="assets/videos/misc_13390461_1920_1080_30fps.gif" width="420" alt="Misc Scene"></td>
-      <td><img src="assets/videos/robot_034.gif" width="420" alt="Robot 034"></td>
+      <td><img src="https://github.com/umair1221/WorldCache/raw/main/Models/Cosmos-Predict2.5/assets/videos/misc_13390461_1920_1080_30fps.gif" width="420" alt="Misc Scene"></td>
+      <td><img src="https://github.com/umair1221/WorldCache/raw/main/Models/Cosmos-Predict2.5/assets/videos/robot_034.gif" width="420" alt="Robot 034"></td>
     </tr>
   </table>
 </div>
@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="assets/figures/teaser.png" alt="WorldCache Teaser" />
+  <img src="Models/Cosmos-Predict2.5/assets/figures/teaser.png" alt="WorldCache Teaser" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ WorldCache is driven by four key technical ideologies:
 WorldCache treats caching like a localized prediction. It controls the pace with causal tracking while interpolating the next state.
 
 <p align="center">
-  <img src="assets/figures/pipeline.png" width="900" alt="WorldCache Pipeline">
+  <img src="Models/Cosmos-Predict2.5/assets/figures/pipeline.png" width="900" alt="WorldCache Pipeline">
 </p>
 
 ### Technical Highlights
@@ -154,7 +154,7 @@ In egocentric robotics tasks requiring high spatial precision, WorldCache mainta
 WorldCache scales effectively with the denoising step budget. For longer generation trajectories (more steps), the efficiency gains increase as the underlying motion manifold stabilizes.
 
 <p align="center">
-  <img src="assets/figures/budget_scaling.png" width="800" alt="Denoising Step Budget Scaling" />
+  <img src="Models/Cosmos-Predict2.5/assets/figures/budget_scaling.png" width="800" alt="Denoising Step Budget Scaling" />
   <br>
   <em>Efficiency scaling: WorldCache achieves up to 3.1× speedup as denoising steps increase, while maintaining superior quality over DiCache.</em>
 </p>
@@ -166,19 +166,19 @@ WorldCache scales effectively with the denoising step budget. For longer generat
 WorldCache maintains flawless temporal coherence across diverse domains, from urban traffic to precision robotics.
 
 <p align="center">
-  <img src="assets/figures/qualitative.png" width="1000" alt="Main Qualitative Comparison">
+  <img src="Models/Cosmos-Predict2.5/assets/figures/qualitative.png" width="1000" alt="Main Qualitative Comparison">
   <em>Main comparison: WorldCache stays closer to baseline rollout in dynamic and interaction-heavy regions.</em>
 </p>
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/figures/qualitative_1.jpg" width="500" alt="Cosmos-2B Crossing"><br><em>Cosmos-2B crossing scene: Preserves pedestrian identity and background consistency.</em></td>
-      <td><img src="assets/figures/qualitative_2.jpg" width="500" alt="Cosmos-14B Kitchen"><br><em>Cosmos-14B kitchen interaction: Stable hand and carried object tracking.</em></td>
+      <td><img src="Models/Cosmos-Predict2.5/assets/figures/qualitative_1.jpg" width="500" alt="Cosmos-2B Crossing"><br><em>Cosmos-2B crossing scene: Preserves pedestrian identity and background consistency.</em></td>
+      <td><img src="Models/Cosmos-Predict2.5/assets/figures/qualitative_2.jpg" width="500" alt="Cosmos-14B Kitchen"><br><em>Cosmos-14B kitchen interaction: Stable hand and carried object tracking.</em></td>
     </tr>
     <tr>
-      <td><img src="assets/figures/qualitative_3.jpg" width="500" alt="Dynamic Scene"><br><em>Dynamic scene: Balanced performance in high-velocity regions.</em></td>
-      <td><img src="assets/figures/qualitative_4.jpg" width="500" alt="Temporal Consistency"><br><em>Consistency: Zero "ghosting" artifacts at 2.5×+ speedup.</em></td>
+      <td><img src="Models/Cosmos-Predict2.5/assets/figures/qualitative_3.jpg" width="500" alt="Dynamic Scene"><br><em>Dynamic scene: Balanced performance in high-velocity regions.</em></td>
+      <td><img src="Models/Cosmos-Predict2.5/assets/figures/qualitative_4.jpg" width="500" alt="Temporal Consistency"><br><em>Consistency: Zero "ghosting" artifacts at 2.5×+ speedup.</em></td>
     </tr>
   </table>
 </div>
@@ -189,7 +189,7 @@ WorldCache maintains flawless temporal coherence across diverse domains, from ur
 
 For detailed system requirements, environment setup (Virtual Env/Docker), and checkpoint downloading instructions, please refer to our:
 
-👉 **[Detailed Setup Guide](docs/setup.md)**
+👉 **[Detailed Setup Guide](Models/Cosmos-Predict2.5/docs/setup.md)**
 
 ### Quick Summary
 ```bash
