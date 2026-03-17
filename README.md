@@ -88,6 +88,13 @@ WorldCache treats caching like a localized prediction. It controls the pace with
 
 WorldCache establishes a new state-of-the-art for training-free diffusion acceleration, maintaining near-baseline quality while significantly reducing latency.
 
+### Model & Benchmark Coverage
+| Model Family | Scales | Architecture | PAI-Bench | EgoDex-Eval |
+| :--- | :--- | :---: | :---: | :---: |
+| **Cosmos-Predict 2.5** | 2B, 14B | DiT | ✅ | ✅ |
+| **WAN2.1** | 1.3B, 14B | DiT | ✅ | ✅ |
+| **DreamDojo** | 2B | DiT | — | ✅ |
+
 ### 1. PAI-Bench: Physical Reasoning Benchmarks
 Across two major architectures (**Cosmos** and **WAN**), WorldCache consistently delivers >2× speedup with <1% drop in overall physical reasoning scores.
 
@@ -136,6 +143,9 @@ In egocentric robotics tasks requiring high spatial precision, WorldCache mainta
 | **Cosmos-2.5-2B**| Baseline | 12.87 | 0.455 | 0.518 | 70.01 | 1.00× |
 | | DiCache | 12.63 | 0.445 | 0.531 | 51.97 | 1.34× |
 | | WorldCache | **12.82** | **0.466** | **0.518** | **43.24** | **1.62×** |
+| **DreamDojo-2B** | Baseline | 23.63 | 0.775 | 0.226 | 19.73 | 1.00× |
+| | DiCache | 20.41 | 0.734 | 0.252 | 12.46 | 1.58× |
+| | WorldCache | **23.69** | **0.737** | **0.251** | **10.36** | **1.90×** |
 
 ---
 
@@ -253,11 +263,10 @@ CUDA_VISIBLE_DEVICES=0 python examples/inference.py \
 
 ## 🙏 Acknowledgements
 
-We acknowledge the following works that informed and inspired this project:
+We acknowledge the following works that inspired this project:
 
 - **[Cosmos-Predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)** — NVIDIA's world foundation model platform.
-- **[DiCache](https://github.com/Bujiazi/DiCache)** — Ma et al., "Learning to Cache: Accelerating Diffusion Transformer with Layer Caching," *NeurIPS 2024*.
-- **[TeaCache](https://arxiv.org/abs/2411.19150)** — Liu et al., "TeaCache: Timestep-Aware Cache for Accelerating Diffusion Model," *2024*.
+- **[DiCache](https://github.com/Bujiazi/DiCache)** — Bu et al., "DiCache: Let Diffusion Model Determine Its Own Cache," *ICLR 2026*.
 
 ---
 
