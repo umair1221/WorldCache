@@ -1,3 +1,10 @@
+## Quick Start Guide for WAN2.1 Inference & Evaluation
+
+Install the proper `torch` and `transformers` versions, then install the requirements in `requirements.txt`:
+```bash
+pip install -r requirements.txt
+```
+
 
 ## PAI-Bench Text2Video Inference & Evaluation
 
