@@ -24,7 +24,7 @@
 <p align="center">
   <b>
     <a href="https://scholar.google.com/citations?user=w7N4wSYAAAAJ&hl=en">Umair Nawaz</a>, 
-    <a href="https://scholar.google.com/citations?user=JcWO9OUAAAAJ&hl=en">Ahmed Heakl</a>, 
+    <a href="https://ahmedheakl.github.io/">Ahmed Heakl</a>, 
     <a href="https://scholar.google.com/citations?user=7gHFVw4AAAAJ&hl=en">Ufaq Khan</a>, 
     <a href="https://amshaker.github.io/">Abdelrahman Shaker</a>, 
     <a href="https://salman-h-khan.github.io/">Salman Khan</a>, 
@@ -68,7 +68,7 @@
 
 ## 📖 Abstract
 
-Video World Models (VWMs) increasingly rely on large-scale diffusion transformers to simulate complex spatial dynamics. However, the high computational cost of autoregressive generation remains a significant bottleneck. **WorldCache** overcomes this by identifying temporal and spatial redundancies in the denoising process. 
+Video World Models increasingly rely on large-scale diffusion transformers to simulate complex spatial dynamics. However, the high computational cost of autoregressive generation remains a significant bottleneck. **WorldCache** overcomes this by identifying temporal and spatial redundancies in the denoising process. 
 
 > [!TIP]
 > **WorldCache** is backbone-agnostic and training-free. It can be integrated into existing diffusion pipelines with just a few lines of code.
