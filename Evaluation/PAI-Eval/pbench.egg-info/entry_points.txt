@@ -1,3 +1,0 @@
-[console_scripts]
-evaluate = evaluate:main
-run_vqa_eval = run_vqa_eval:main
