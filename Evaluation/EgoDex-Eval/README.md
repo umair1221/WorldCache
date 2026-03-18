@@ -10,10 +10,7 @@
 - [Dataset](#dataset)
 - [Usage](#usage)
   - [1. Prepare Your Result Videos](#1-prepare-your-result-videos)
-  - [2. Run Video Quality Evaluation](#2-run-video-quality-evaluation)
-  - [3. Run VLM Judge Evaluation](#3-run-vlm-judge-evaluation)
-- [Acknowledgments](#acknowledgments)
-- [Citation](#citation)
+  - [2. Run Score Computation](#2-run-score-computation)
 
 ## Dataset
 
