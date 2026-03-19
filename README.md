@@ -42,7 +42,7 @@
 ## 🎬 Qualitative Preview
 
 <p align="center">
-  <strong>High-fidelity video generation on Cosmos-Predict 2.5 (14B) with 2.3x - 3.0x speedup.</strong>
+  <strong>High-fidelity video generation on Cosmos-Predict 2.5 (14B) with upto 3.0x speedup.</strong>
 </p>
 
 <div align="center">
