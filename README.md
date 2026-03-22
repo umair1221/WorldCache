@@ -184,58 +184,67 @@ WorldCache establishes a new state-of-the-art for training-free diffusion accele
 ---
 
 ### 1. PAI-Bench: Physical Reasoning Benchmarks
+
 Across two major architectures (**Cosmos** and **WAN**), WorldCache consistently delivers >2× speedup with <1% drop in overall physical reasoning scores.
 
 **Table 1: PAI-Bench Text-to-World (T2W) Results**
-| Model | Method | Domain Avg | Quality Avg | Overall | Latency (s) | Speedup |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Cosmos 2B** | Baseline | 0.767 | 0.728 | 0.748 | 58.34 | 1.00× |
-| | DiCache | 0.759 | 0.727 | 0.743 | 40.82 | 1.43× |
-| | **WorldCache** | **0.763** | **0.727** | **0.745** | **26.78** | **2.18×** |
-| **Cosmos 14B** | Baseline | 0.792 | 0.746 | 0.769 | 216.25 | 1.00× |
-| | DiCache | 0.792 | 0.745 | 0.768 | 148.36 | 1.45× |
-| | **WorldCache** | **0.795** | **0.746** | **0.771** | **114.76** | **1.90×** |
+
+| Model          | Method         | Domain Avg | Quality Avg |  Overall  | Latency (s) |  Speedup  |
+| :------------- | :------------- | :--------: | :---------: | :-------: | :---------: | :-------: |
+| **Cosmos 2B**  | Baseline       |    0.767   |    0.728    |   0.748   |    58.34    |   1.00×   |
+|                | DiCache        |    0.759   |    0.727    |   0.743   |    40.82    |   1.43×   |
+|                | **WorldCache** |  **0.763** |  **0.727**  | **0.745** |  **26.78**  | **2.18×** |
+| **Cosmos 14B** | Baseline       |    0.792   |    0.746    |   0.769   |    216.25   |   1.00×   |
+|                | DiCache        |    0.792   |    0.745    |   0.768   |    148.36   |   1.45×   |
+|                | **WorldCache** |  **0.795** |  **0.746**  | **0.771** |  **114.76** | **1.90×** |
 
 **Table 2: PAI-Bench Image-to-World (I2W) Results**
-| Model | Method | Domain Avg | Quality Avg | Overall | Latency (s) | Speedup |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Cosmos 2B** | Baseline | 0.845 | 0.761 | 0.803 | 57.04 | 1.00× |
-| | DiCache | 0.835 | 0.752 | 0.794 | 39.68 | 1.46× |
-| | **WorldCache** | **0.840** | **0.756** | **0.798** | **25.96** | **2.30×** |
-| **Cosmos 14B** | Baseline | 0.860 | 0.769 | 0.814 | 210.07 | 1.00× |
-| | DiCache | 0.855 | 0.767 | 0.811 | 146.04 | 1.44× |
-| | **WorldCache** | **0.859** | **0.768** | **0.813** | **112.24** | **1.87×** |
+
+| Model          | Method         | Domain Avg | Quality Avg |  Overall  | Latency (s) |  Speedup  |
+| :------------- | :------------- | :--------: | :---------: | :-------: | :---------: | :-------: |
+| **Cosmos 2B**  | Baseline       |    0.845   |    0.761    |   0.803   |    55.04    |   1.00×   |
+|                | DiCache        |    0.835   |    0.752    |   0.794   |    39.68    |   1.40×   |
+|                | **WorldCache** |  **0.840** |  **0.756**  | **0.798** |  **24.48**  | **2.30×** |
+| **Cosmos 14B** | Baseline       |    0.860   |    0.769    |   0.814   |    210.07   |   1.00×   |
+|                | DiCache        |    0.855   |    0.767    |   0.811   |    146.04   |   1.40×   |
+|                | **WorldCache** |  **0.859** |  **0.768**  | **0.813** |  **99.25**  | **2.18×** |
 
 ---
+
 ### 2. Architecture Transfer: WAN2.1
+
 WorldCache is backbone-agnostic. On the latest **WAN2.1** architecture, it achieves superior speed-quality tradeoffs compared to DiCache.
 
 **Table 3: WAN2.1 Transfer Results**
-| Backbone | Method | Overall | Latency (s) | Speedup |
-| :--- | :--- | :---: | :---: | :---: |
-| **T2W 1.3B** | Baseline | 0.7727 | 120.04 | 1.00× |
-| | DiCache | 0.7703 | 61.57 | 1.96× |
-| | **WorldCache** | **0.7721** | **50.84** | **2.36×** |
-| **I2W 14B** | Baseline | 0.7384| 475.60 | 1.00× |
-| | DiCache | 0.7311 | 291.91 | 1.53× |
-| | **WorldCache** | **0.7388** | **206.73** | **2.31×** |
+
+| Backbone     | Method         |   Overall  | Latency (s) |  Speedup  |
+| :----------- | :------------- | :--------: | :---------: | :-------: |
+| **T2W 1.3B** | Baseline       |   0.7727   |    120.04   |   1.00×   |
+|              | DiCache        |   0.7703   |    61.57    |   1.96×   |
+|              | **WorldCache** | **0.7721** |  **50.84**  | **2.36×** |
+| **I2W 14B**  | Baseline       |   0.7384   |    475.60   |   1.00×   |
+|              | DiCache        |   0.7311   |    291.91   |   1.53×   |
+|              | **WorldCache** | **0.7388** |  **206.73** | **2.31×** |
 
 ---
+
 ### 3. EgoDex-Eval: Robotics Performance
+
 In egocentric robotics tasks requiring high spatial precision, WorldCache maintains frame-level fidelity (PSNR/SSIM) while enabling real-time-friendly inference.
 
 **Table 4: EgoDex-Eval (Robotics Evaluation)**
-| Model | Method | PSNR | SSIM | LPIPS | Latency (s) | Speedup |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **WAN2.1-14B** | Baseline | 13.30 | 0.503 | 0.459 | 391.90 | 1.00× |
-| | DiCache | 12.95 | 0.491 | 0.461 | 208.60 | 1.88× |
-| | **WorldCache** | **13.19** | **0.498** | **0.460** | **171.60** | **2.30×** |
-| **Cosmos-2.5-2B**| Baseline | 12.87 | 0.455 | 0.518 | 70.01 | 1.00× |
-| | DiCache | 12.63 | 0.445 | 0.531 | 51.97 | 1.34× |
-| | **WorldCache** | **12.82** | **0.466** | **0.518** | **43.24** | **1.62×** |
-| **DreamDojo-2B** | Baseline | 23.63 | 0.775 | 0.226 | 19.73 | 1.00× |
-| | DiCache | 20.41 | 0.734 | 0.252 | 12.46 | 1.58× |
-| | **WorldCache** | **23.69** | **0.737** | **0.251** | **10.36** | **1.90×** |
+
+| Model             | Method         |    PSNR   |    SSIM   |   LPIPS   | Latency (s) |  Speedup  |
+| :---------------- | :------------- | :-------: | :-------: | :-------: | :---------: | :-------: |
+| **WAN2.1-14B**    | Baseline       |   13.30   |   0.503   |   0.459   |    391.90   |   1.00×   |
+|                   | DiCache        |   12.95   |   0.491   |   0.461   |    208.60   |   1.88×   |
+|                   | **WorldCache** | **13.19** | **0.498** | **0.460** |  **171.60** | **2.30×** |
+| **Cosmos-2.5-2B** | Baseline       |   12.87   |   0.455   |   0.518   |    70.01    |   1.00×   |
+|                   | DiCache        |   12.63   |   0.445   |   0.531   |    51.97    |   1.34×   |
+|                   | **WorldCache** | **12.82** | **0.466** | **0.518** |  **43.24**  | **1.62×** |
+| **DreamDojo-2B**  | Baseline       |   23.63   |   0.775   |   0.226   |    19.73    |   1.00×   |
+|                   | DiCache        |   20.41   |   0.734   |   0.252   |    12.46    |   1.58×   |
+|                   | **WorldCache** | **23.69** | **0.737** | **0.251** |  **10.36**  | **1.90×** |
 
 ---
 
