@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://arxiv.org/abs/" target="_blank">
+  <a href="https://arxiv.org/abs/2603.22286/" target="_blank">
     <img src="https://img.shields.io/badge/arXiv-2603.22286-b31b1b.svg" alt="arXiv">
   </a>
   <a href="https://umair1221.github.io/World-Cache/" target="_blank">
