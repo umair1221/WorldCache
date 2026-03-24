@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/" target="_blank">
-    <img src="https://img.shields.io/badge/arXiv-2503.XXXXX-b31b1b.svg" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2603.22286-b31b1b.svg" alt="arXiv">
   </a>
   <a href="https://umair1221.github.io/World-Cache/" target="_blank">
     <img src="https://img.shields.io/badge/Project-Website-blue.svg" alt="Project Website">
@@ -301,7 +301,7 @@ We acknowledge the following works that inspired this project:
 @inproceedings{nawaz2026worldcache,
   title     = {WorldCache: Content-Aware Caching for Accelerated Video World Models},
   author    = {Umair Nawaz and Ahmed Heakl and Ufaq Khan and Abdelrahman Shaker and Salman Khan and Fahad Shahbaz Khan},
-  journal   = {arXiv preprint arXiv:2603.XXXXX},
+  journal   = {arXiv preprint arXiv:2603.22286},
   year      = {2026}
 }
 ```
