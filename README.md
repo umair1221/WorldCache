@@ -4,14 +4,10 @@
 
 
 <p align="center">
-<<<<<<< Updated upstream
-  <a href="https://arxiv.org/abs/2603.22286/" target="_blank">
-=======
   <a href="https://eccv.ecva.net/" target="_blank">
     <img src="https://img.shields.io/badge/Accepted-ECCV%202026-f97316.svg" alt="Accepted at ECCV 2026">
   </a>
   <a href="https://arxiv.org/abs/2603.22286" target="_blank">
->>>>>>> Stashed changes
     <img src="https://img.shields.io/badge/arXiv-2603.22286-b31b1b.svg" alt="arXiv">
   </a>
   <a href="https://umair1221.github.io/World-Cache/" target="_blank">
@@ -310,12 +306,6 @@ We acknowledge the following works that inspired this project:
 
 ```bibtex
 @inproceedings{nawaz2026worldcache,
-<<<<<<< Updated upstream
-  title     = {WorldCache: Content-Aware Caching for Accelerated Video World Models},
-  author    = {Umair Nawaz and Ahmed Heakl and Ufaq Khan and Abdelrahman Shaker and Salman Khan and Fahad Shahbaz Khan},
-  journal   = {arXiv preprint arXiv:2603.22286},
-  year      = {2026}
-=======
   title         = {WorldCache: Content-Aware Caching for Accelerated Video World Models},
   author        = {Umair Nawaz and Ahmed Heakl and Ufaq Khan and Abdelrahman Shaker and Salman Khan and Fahad Shahbaz Khan},
   booktitle     = {European Conference on Computer Vision (ECCV)},
@@ -324,7 +314,6 @@ We acknowledge the following works that inspired this project:
   primaryClass  = {cs.CV},
   note          = {Accepted},
   year          = {2026}
->>>>>>> Stashed changes
 }
 ```
 
