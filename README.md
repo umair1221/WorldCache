@@ -4,7 +4,14 @@
 
 
 <p align="center">
+<<<<<<< Updated upstream
   <a href="https://arxiv.org/abs/2603.22286/" target="_blank">
+=======
+  <a href="https://eccv.ecva.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Accepted-ECCV%202026-f97316.svg" alt="Accepted at ECCV 2026">
+  </a>
+  <a href="https://arxiv.org/abs/2603.22286" target="_blank">
+>>>>>>> Stashed changes
     <img src="https://img.shields.io/badge/arXiv-2603.22286-b31b1b.svg" alt="arXiv">
   </a>
   <a href="https://umair1221.github.io/World-Cache/" target="_blank">
@@ -16,6 +23,10 @@
   <a href="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
   </a>
+</p>
+
+<p align="center">
+  <strong>Accepted at ECCV 2026</strong> · European Conference on Computer Vision
 </p>
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
@@ -299,10 +310,21 @@ We acknowledge the following works that inspired this project:
 
 ```bibtex
 @inproceedings{nawaz2026worldcache,
+<<<<<<< Updated upstream
   title     = {WorldCache: Content-Aware Caching for Accelerated Video World Models},
   author    = {Umair Nawaz and Ahmed Heakl and Ufaq Khan and Abdelrahman Shaker and Salman Khan and Fahad Shahbaz Khan},
   journal   = {arXiv preprint arXiv:2603.22286},
   year      = {2026}
+=======
+  title         = {WorldCache: Content-Aware Caching for Accelerated Video World Models},
+  author        = {Umair Nawaz and Ahmed Heakl and Ufaq Khan and Abdelrahman Shaker and Salman Khan and Fahad Shahbaz Khan},
+  booktitle     = {European Conference on Computer Vision (ECCV)},
+  eprint        = {2603.22286},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  note          = {Accepted},
+  year          = {2026}
+>>>>>>> Stashed changes
 }
 ```
 
